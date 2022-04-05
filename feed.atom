@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T02:38:23.609Z</id>
+    <id>urn:2022-04-05T02:22:15.610Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-04T02:38:23.609Z</updated>
+    <updated>2022-04-05T02:22:15.610Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do you want an edit button?]]></title>
+        <id>https://twitter.com/elonmusk/status/1511143607385874434</id>
+        <link href="https://twitter.com/elonmusk/status/1511143607385874434"/>
+        <updated>2022-04-05T00:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Do you want an edit button?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @hausman_k @GoogleAI Staggeringly unfunny]]></title>
+        <id>https://twitter.com/elonmusk/status/1511096779315593219</id>
+        <link href="https://twitter.com/elonmusk/status/1511096779315593219"/>
+        <updated>2022-04-04T21:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @hausman_k @GoogleAI Staggeringly unfunny]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog First I’ve learned of this. Will be patched shortly.]]></title>
+        <id>https://twitter.com/elonmusk/status/1511095930816278540</id>
+        <link href="https://twitter.com/elonmusk/status/1511095930816278540"/>
+        <updated>2022-04-04T21:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog First I’ve learned of this. Will be patched shortly.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jonas2man @slashdot Yes!]]></title>
+        <id>https://twitter.com/elonmusk/status/1511095486953967620</id>
+        <link href="https://twitter.com/elonmusk/status/1511095486953967620"/>
+        <updated>2022-04-04T21:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @jonas2man @slashdot Yes!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @slashdot Spain should build a massive solar array. Could power all of Europe.]]></title>
+        <id>https://twitter.com/elonmusk/status/1511034301621620739</id>
+        <link href="https://twitter.com/elonmusk/status/1511034301621620739"/>
+        <updated>2022-04-04T17:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @slashdot Spain should build a massive solar array. Could power all of Europe.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh hi lol]]></title>
+        <id>https://twitter.com/elonmusk/status/1511011921495011328</id>
+        <link href="https://twitter.com/elonmusk/status/1511011921495011328"/>
+        <updated>2022-04-04T16:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Oh hi lol]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berlin rocks]]></title>
         <id>https://twitter.com/elonmusk/status/1510711332366131209</id>
@@ -142,66 +202,6 @@ So let us expand the scope & scale of consciousness so that we may aspire to und
         <link href="https://twitter.com/elonmusk/status/1510485792296210434"/>
         <updated>2022-04-03T05:14:11.000Z</updated>
         <summary type="html"><![CDATA[Re @pmarca I am increasingly convinced that corporate ESG is the Devil Incarnate]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @engineers_feed He never had even one kid 😞]]></title>
-        <id>https://twitter.com/elonmusk/status/1510485165021319174</id>
-        <link href="https://twitter.com/elonmusk/status/1510485165021319174"/>
-        <updated>2022-04-03T05:11:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @engineers_feed He never had even one kid 😞]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @lexfridman Seriously. One of them might been Einstein!]]></title>
-        <id>https://twitter.com/elonmusk/status/1510484436525195265</id>
-        <link href="https://twitter.com/elonmusk/status/1510484436525195265"/>
-        <updated>2022-04-03T05:08:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @lexfridman Seriously. One of them might been Einstein!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @GailAlfarATX @SpaceX @latestinspace @4thFromOurStar @cnunezimages @jessica_kirsh @JoeTegtmeyer @redditSpacePorn @Tesla @OwenSparks_ Констан...]]></title>
-        <id>https://twitter.com/elonmusk/status/1510483952515100679</id>
-        <link href="https://twitter.com/elonmusk/status/1510483952515100679"/>
-        <updated>2022-04-03T05:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Re @GailAlfarATX @SpaceX @latestinspace @4thFromOurStar @cnunezimages @jessica_kirsh @JoeTegtmeyer @redditSpacePorn @Tesla @OwenSparks_ Константи́н Циолко́вский]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/elonmusk/status/1510482294309535745</id>
-        <link href="https://twitter.com/elonmusk/status/1510482294309535745"/>
-        <updated>2022-04-03T05:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://www.scientificamerican.com/article/the-pandemic-caused-a-baby-bust-not-a-boom/?amp=true]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re I’m talking about not having kids in the first place. That’s the problem.]]></title>
-        <id>https://twitter.com/elonmusk/status/1510481875160158208</id>
-        <link href="https://twitter.com/elonmusk/status/1510481875160158208"/>
-        <updated>2022-04-03T04:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Re I’m talking about not having kids in the first place. That’s the problem.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re But we should]]></title>
-        <id>https://twitter.com/elonmusk/status/1510480256905404418</id>
-        <link href="https://twitter.com/elonmusk/status/1510480256905404418"/>
-        <updated>2022-04-03T04:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Re But we should]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
