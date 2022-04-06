@@ -1,207 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-05T02:22:15.610Z</id>
+    <id>urn:2022-04-06T02:24:03.322Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-05T02:22:15.610Z</updated>
+    <updated>2022-04-06T02:24:03.322Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Do you want an edit button?]]></title>
-        <id>https://twitter.com/elonmusk/status/1511143607385874434</id>
-        <link href="https://twitter.com/elonmusk/status/1511143607385874434"/>
-        <updated>2022-04-05T00:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Do you want an edit button?]]></summary>
+        <title type="html"><![CDATA[Re @pmarca @skepticaliblog Yikes]]></title>
+        <id>https://twitter.com/elonmusk/status/1511455000391729155</id>
+        <link href="https://twitter.com/elonmusk/status/1511455000391729155"/>
+        <updated>2022-04-05T21:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @pmarca @skepticaliblog Yikes]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @hausman_k @GoogleAI Staggeringly unfunny]]></title>
-        <id>https://twitter.com/elonmusk/status/1511096779315593219</id>
-        <link href="https://twitter.com/elonmusk/status/1511096779315593219"/>
-        <updated>2022-04-04T21:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @hausman_k @GoogleAI Staggeringly unfunny]]></summary>
+        <title type="html"><![CDATA[Re @pmarca WaPo always good for a laugh 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1511418378057142275</id>
+        <link href="https://twitter.com/elonmusk/status/1511418378057142275"/>
+        <updated>2022-04-05T18:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @pmarca WaPo always good for a laugh 🤣🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog First I’ve learned of this. Will be patched shortly.]]></title>
-        <id>https://twitter.com/elonmusk/status/1511095930816278540</id>
-        <link href="https://twitter.com/elonmusk/status/1511095930816278540"/>
-        <updated>2022-04-04T21:38:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog First I’ve learned of this. Will be patched shortly.]]></summary>
+        <title type="html"><![CDATA[Re @jack Thanks Jack!]]></title>
+        <id>https://twitter.com/elonmusk/status/1511416821789995011</id>
+        <link href="https://twitter.com/elonmusk/status/1511416821789995011"/>
+        <updated>2022-04-05T18:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @jack Thanks Jack!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @jonas2man @slashdot Yes!]]></title>
-        <id>https://twitter.com/elonmusk/status/1511095486953967620</id>
-        <link href="https://twitter.com/elonmusk/status/1511095486953967620"/>
-        <updated>2022-04-04T21:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @jonas2man @slashdot Yes!]]></summary>
+        <title type="html"><![CDATA[Re @paraga Looking forward to working with Parag & Twitter board to make significant improvements to Twitter in coming months!]]></title>
+        <id>https://twitter.com/elonmusk/status/1511322655609303043</id>
+        <link href="https://twitter.com/elonmusk/status/1511322655609303043"/>
+        <updated>2022-04-05T12:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @paraga Looking forward to working with Parag & Twitter board to make significant improvements to Twitter in coming months!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @slashdot Spain should build a massive solar array. Could power all of Europe.]]></title>
-        <id>https://twitter.com/elonmusk/status/1511034301621620739</id>
-        <link href="https://twitter.com/elonmusk/status/1511034301621620739"/>
-        <updated>2022-04-04T17:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @slashdot Spain should build a massive solar array. Could power all of Europe.]]></summary>
+        <title type="html"><![CDATA[Re @PPathole @Erdayastronaut Yeah, single most annoying problem on twitter imo]]></title>
+        <id>https://twitter.com/elonmusk/status/1511230314902953984</id>
+        <link href="https://twitter.com/elonmusk/status/1511230314902953984"/>
+        <updated>2022-04-05T06:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole @Erdayastronaut Yeah, single most annoying problem on twitter imo]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oh hi lol]]></title>
-        <id>https://twitter.com/elonmusk/status/1511011921495011328</id>
-        <link href="https://twitter.com/elonmusk/status/1511011921495011328"/>
-        <updated>2022-04-04T16:04:49.000Z</updated>
-        <summary type="html"><![CDATA[Oh hi lol]]></summary>
+        <title type="html"><![CDATA[Re @Erdayastronaut That sounds reasonable]]></title>
+        <id>https://twitter.com/elonmusk/status/1511216790218895361</id>
+        <link href="https://twitter.com/elonmusk/status/1511216790218895361"/>
+        <updated>2022-04-05T05:38:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @Erdayastronaut That sounds reasonable]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Berlin rocks]]></title>
-        <id>https://twitter.com/elonmusk/status/1510711332366131209</id>
-        <link href="https://twitter.com/elonmusk/status/1510711332366131209"/>
-        <updated>2022-04-03T20:10:23.000Z</updated>
-        <summary type="html"><![CDATA[Berlin rocks]]></summary>
+        <title type="html"><![CDATA[Re @boztank @Liz_Wheeler Facebook gives me the willies]]></title>
+        <id>https://twitter.com/elonmusk/status/1511206240667455489</id>
+        <link href="https://twitter.com/elonmusk/status/1511206240667455489"/>
+        <updated>2022-04-05T04:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @boztank @Liz_Wheeler Facebook gives me the willies]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut @Tesla Raptor pump power is over 100MW per engine & 33 engines, means over 3GW. Not even remotely possible for electric motors & ba...]]></title>
-        <id>https://twitter.com/elonmusk/status/1510694443476729865</id>
-        <link href="https://twitter.com/elonmusk/status/1510694443476729865"/>
-        <updated>2022-04-03T19:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut @Tesla Raptor pump power is over 100MW per engine & 33 engines, means over 3GW. Not even remotely possible for electric motors & batteries to compete.]]></summary>
+        <title type="html"><![CDATA[Re @OstynHyss @stevenmarkryan That is harder than a boss battle in DS3!]]></title>
+        <id>https://twitter.com/elonmusk/status/1511193789737672707</id>
+        <link href="https://twitter.com/elonmusk/status/1511193789737672707"/>
+        <updated>2022-04-05T04:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @OstynHyss @stevenmarkryan That is harder than a boss battle in DS3!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @GerberKawasaki We aim for 30% GM or ~10% profitability, all costs included]]></title>
-        <id>https://twitter.com/elonmusk/status/1510691354623590410</id>
-        <link href="https://twitter.com/elonmusk/status/1510691354623590410"/>
-        <updated>2022-04-03T18:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @GerberKawasaki We aim for 30% GM or ~10% profitability, all costs included]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PopMech Good summary]]></title>
-        <id>https://twitter.com/elonmusk/status/1510554220977664007</id>
-        <link href="https://twitter.com/elonmusk/status/1510554220977664007"/>
-        <updated>2022-04-03T09:46:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @PopMech Good summary]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1510546313276014594</id>
-        <link href="https://twitter.com/elonmusk/status/1510546313276014594"/>
-        <updated>2022-04-03T09:14:40.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JuicyCreativ3 George Lucas once told me that the only reason Star Wars got made is because the old studio heads died]]></title>
-        <id>https://twitter.com/elonmusk/status/1510516501236883459</id>
-        <link href="https://twitter.com/elonmusk/status/1510516501236883459"/>
-        <updated>2022-04-03T07:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @JuicyCreativ3 George Lucas once told me that the only reason Star Wars got made is because the old studio heads died]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JuicyCreativ3 Old people don’t change their minds, with rare exception, they just die. Without death, there would not be change.]]></title>
-        <id>https://twitter.com/elonmusk/status/1510516207362924544</id>
-        <link href="https://twitter.com/elonmusk/status/1510516207362924544"/>
-        <updated>2022-04-03T07:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @JuicyCreativ3 Old people don’t change their minds, with rare exception, they just die. Without death, there would not be change.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I am inspired by curiosity. That is what drives me. So let us expand the scope & scale of consciousness so that we may aspire to understand the Univer...]]></title>
-        <id>https://twitter.com/elonmusk/status/1510510978286428163</id>
-        <link href="https://twitter.com/elonmusk/status/1510510978286428163"/>
-        <updated>2022-04-03T06:54:15.000Z</updated>
-        <summary type="html"><![CDATA[I am inspired by curiosity. 
-That is what drives me. 
-So let us expand the scope & scale of consciousness so that we may aspire to understand the Universe.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog There will come a time in the future where people will be surprised that we let practically anyone drive a 2 ton death machine anywh...]]></title>
-        <id>https://twitter.com/elonmusk/status/1510503001689137155</id>
-        <link href="https://twitter.com/elonmusk/status/1510503001689137155"/>
-        <updated>2022-04-03T06:22:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog There will come a time in the future where people will be surprised that we let practically anyone drive a 2 ton death machine anywhere they want]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Peace. Peace? I hate the word. Those who do care about peace (myself aspirationally included) don’t need to hear it. And those who don’t care abo...]]></title>
-        <id>https://twitter.com/elonmusk/status/1510502229219938306</id>
-        <link href="https://twitter.com/elonmusk/status/1510502229219938306"/>
-        <updated>2022-04-03T06:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Re Peace. Peace?  I hate the word. Those who do care about peace (myself aspirationally included) don’t need to hear it. And those who don’t care about peace? Well …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/elonmusk/status/1510493628979888130</id>
-        <link href="https://twitter.com/elonmusk/status/1510493628979888130"/>
-        <updated>2022-04-03T05:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://m.youtube.com/watch?v=SEzskNtFnIY]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Kristennetten @PPathole @engineers_feed I look kinda dumb in that pic haha]]></title>
-        <id>https://twitter.com/elonmusk/status/1510492114009960456</id>
-        <link href="https://twitter.com/elonmusk/status/1510492114009960456"/>
-        <updated>2022-04-03T05:39:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @Kristennetten @PPathole @engineers_feed I look kinda dumb in that pic haha]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PPathole @engineers_feed And Shakespeare had no surviving descendants]]></title>
-        <id>https://twitter.com/elonmusk/status/1510487451248349186</id>
-        <link href="https://twitter.com/elonmusk/status/1510487451248349186"/>
-        <updated>2022-04-03T05:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole @engineers_feed And Shakespeare had no surviving descendants]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @pmarca I am increasingly convinced that corporate ESG is the Devil Incarnate]]></title>
-        <id>https://twitter.com/elonmusk/status/1510485792296210434</id>
-        <link href="https://twitter.com/elonmusk/status/1510485792296210434"/>
-        <updated>2022-04-03T05:14:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @pmarca I am increasingly convinced that corporate ESG is the Devil Incarnate]]></summary>
+        <title type="html"><![CDATA[Re @stevenmarkryan I mean, if the people vote overwhelmingly for something, it is at least *a* data point!]]></title>
+        <id>https://twitter.com/elonmusk/status/1511192616662093830</id>
+        <link href="https://twitter.com/elonmusk/status/1511192616662093830"/>
+        <updated>2022-04-05T04:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @stevenmarkryan I mean, if the people vote overwhelmingly for something, it is at least *a* data point!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
