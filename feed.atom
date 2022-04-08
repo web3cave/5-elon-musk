@@ -1,10 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T02:21:56.719Z</id>
+    <id>urn:2022-04-08T02:36:00.259Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-07T02:21:56.719Z</updated>
+    <updated>2022-04-08T02:36:00.259Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Erdayastronaut @netflix @NASA @SpaceX @JimBridenstine @AstroBehnken @Astro_Doug @Gwynne_Shotwell Cool!]]></title>
+        <id>https://twitter.com/elonmusk/status/1512177237738536960</id>
+        <link href="https://twitter.com/elonmusk/status/1512177237738536960"/>
+        <updated>2022-04-07T21:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @Erdayastronaut @netflix @NASA @SpaceX @JimBridenstine @AstroBehnken @Astro_Doug @Gwynne_Shotwell Cool!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1511982702819520512</id>
+        <link href="https://twitter.com/elonmusk/status/1511982702819520512"/>
+        <updated>2022-04-07T08:22:22.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1511982141965586434</id>
+        <link href="https://twitter.com/elonmusk/status/1511982141965586434"/>
+        <updated>2022-04-07T08:20:08.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DBurkland @Tesla @gg4175 @TeslaChillMode @TeslaOwnersEBay @teslaownersSV @BLKMDL3 @MFrunker The door won’t be super strict]]></title>
+        <id>https://twitter.com/elonmusk/status/1511978315372019714</id>
+        <link href="https://twitter.com/elonmusk/status/1511978315372019714"/>
+        <updated>2022-04-07T08:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @DBurkland @Tesla @gg4175 @TeslaChillMode @TeslaOwnersEBay @teslaownersSV @BLKMDL3 @MFrunker The door won’t be super strict]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/elonmusk/status/1511951232117604354</id>
+        <link href="https://twitter.com/elonmusk/status/1511951232117604354"/>
+        <updated>2022-04-07T06:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Re]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Preparing …]]></title>
+        <id>https://twitter.com/elonmusk/status/1511950918366814211</id>
+        <link href="https://twitter.com/elonmusk/status/1511950918366814211"/>
+        <updated>2022-04-07T06:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Re Preparing …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1511950430539902976</id>
+        <link href="https://twitter.com/elonmusk/status/1511950430539902976"/>
+        <updated>2022-04-07T06:14:07.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re I will give a talk around 9]]></title>
+        <id>https://twitter.com/elonmusk/status/1511940411685801984</id>
+        <link href="https://twitter.com/elonmusk/status/1511940411685801984"/>
+        <updated>2022-04-07T05:34:19.000Z</updated>
+        <summary type="html"><![CDATA[Re I will give a talk around 9]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🇺🇸🇺🇸 Gigafactory Texas 🇺🇸🇺🇸 Grand opening party tomorrow! Doors open at 4, festivities at 8]]></title>
+        <id>https://twitter.com/elonmusk/status/1511939175934742531</id>
+        <link href="https://twitter.com/elonmusk/status/1511939175934742531"/>
+        <updated>2022-04-07T05:29:24.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇸🇺🇸 Gigafactory Texas 🇺🇸🇺🇸
+Grand opening party tomorrow!
+Doors open at 4, festivities at 8]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @remedygames Great games]]></title>
         <id>https://twitter.com/elonmusk/status/1511821793933373448</id>
@@ -68,11 +157,12 @@ The entire United States can be powered by a small corner of Texas.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT @SpaceX: Falcon 9 and Dragon vertical at 39A; targeting Friday, April 8 for launch of Ax-1 →]]></title>
-        <id>https://twitter.com/elonmusk/status/1511562956588343298</id>
-        <link href="https://twitter.com/elonmusk/status/1511562956588343298"/>
-        <updated>2022-04-06T04:34:26.000Z</updated>
-        <summary type="html"><![CDATA[RT @SpaceX: Falcon 9 and Dragon vertical at 39A; targeting Friday, April 8 for launch of Ax-1 → https://www.spacex.com/launches/ax-1/]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9 and Dragon vertical at 39A; targeting Friday, April 8 for launch of Ax-1 →]]></title>
+        <id>https://twitter.com/SpaceX/status/1511545494463344640</id>
+        <link href="https://twitter.com/SpaceX/status/1511545494463344640"/>
+        <updated>2022-04-06T03:25:03.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Falcon 9 and Dragon vertical at 39A; targeting Friday, April 8 for launch of Ax-1 → https://www.spacex.com/launches/ax-1/]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
@@ -108,91 +198,14 @@ The entire United States can be powered by a small corner of Texas.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @paraga Looking forward to working with Parag & Twitter board to make significant improvements to Twitter in coming months!]]></title>
-        <id>https://twitter.com/elonmusk/status/1511322655609303043</id>
-        <link href="https://twitter.com/elonmusk/status/1511322655609303043"/>
-        <updated>2022-04-05T12:39:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @paraga Looking forward to working with Parag & Twitter board to make significant improvements to Twitter in coming months!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PPathole @Erdayastronaut Yeah, single most annoying problem on twitter imo]]></title>
-        <id>https://twitter.com/elonmusk/status/1511230314902953984</id>
-        <link href="https://twitter.com/elonmusk/status/1511230314902953984"/>
-        <updated>2022-04-05T06:32:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole @Erdayastronaut Yeah, single most annoying problem on twitter imo]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut That sounds reasonable]]></title>
-        <id>https://twitter.com/elonmusk/status/1511216790218895361</id>
-        <link href="https://twitter.com/elonmusk/status/1511216790218895361"/>
-        <updated>2022-04-05T05:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut That sounds reasonable]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @boztank @Liz_Wheeler Facebook gives me the willies]]></title>
-        <id>https://twitter.com/elonmusk/status/1511206240667455489</id>
-        <link href="https://twitter.com/elonmusk/status/1511206240667455489"/>
-        <updated>2022-04-05T04:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @boztank @Liz_Wheeler Facebook gives me the willies]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @OstynHyss @stevenmarkryan That is harder than a boss battle in DS3!]]></title>
-        <id>https://twitter.com/elonmusk/status/1511193789737672707</id>
-        <link href="https://twitter.com/elonmusk/status/1511193789737672707"/>
-        <updated>2022-04-05T04:07:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @OstynHyss @stevenmarkryan That is harder than a boss battle in DS3!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stevenmarkryan I mean, if the people vote overwhelmingly for something, it is at least *a* data point!]]></title>
-        <id>https://twitter.com/elonmusk/status/1511192616662093830</id>
-        <link href="https://twitter.com/elonmusk/status/1511192616662093830"/>
-        <updated>2022-04-05T04:02:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @stevenmarkryan I mean, if the people vote overwhelmingly for something, it is at least *a* data point!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you want an edit button?]]></title>
-        <id>https://twitter.com/elonmusk/status/1511143607385874434</id>
-        <link href="https://twitter.com/elonmusk/status/1511143607385874434"/>
-        <updated>2022-04-05T00:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Do you want an edit button?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @hausman_k @GoogleAI Staggeringly unfunny]]></title>
-        <id>https://twitter.com/elonmusk/status/1511096779315593219</id>
-        <link href="https://twitter.com/elonmusk/status/1511096779315593219"/>
-        <updated>2022-04-04T21:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @hausman_k @GoogleAI Staggeringly unfunny]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog First I’ve learned of this. Will be patched shortly.]]></title>
-        <id>https://twitter.com/elonmusk/status/1511095930816278540</id>
-        <link href="https://twitter.com/elonmusk/status/1511095930816278540"/>
-        <updated>2022-04-04T21:38:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog First I’ve learned of this. Will be patched shortly.]]></summary>
+        <title type="html"><![CDATA[RT NetflixFilm: Re RETURN TO SPACE (On Netflix April 7) Elon Musk and SpaceX engineers embark on a historic mission to return NASA astronauts to the I...]]></title>
+        <id>https://twitter.com/NetflixFilm/status/1509893628134633489</id>
+        <link href="https://twitter.com/NetflixFilm/status/1509893628134633489"/>
+        <updated>2022-04-01T14:01:08.000Z</updated>
+        <summary type="html"><![CDATA[RT NetflixFilm
+Re RETURN TO SPACE
+(On Netflix April 7)
+Elon Musk and SpaceX engineers embark on a historic mission to return NASA astronauts to the International Space Station and revolutionize space travel.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
