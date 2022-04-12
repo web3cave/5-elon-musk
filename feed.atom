@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-11T02:42:26.889Z</id>
+    <id>urn:2022-04-12T02:30:32.253Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-11T02:42:26.889Z</updated>
+    <updated>2022-04-12T02:30:32.253Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re But it’s not very useful. I turned it off. Also, there is this annoying “Reader” bar that now shows up below every tweet.]]></title>
-        <id>https://twitter.com/elonmusk/status/1513298756229206020</id>
-        <link href="https://twitter.com/elonmusk/status/1513298756229206020"/>
-        <updated>2022-04-10T23:31:53.000Z</updated>
-        <summary type="html"><![CDATA[Re But it’s not very useful. I turned it off. Also, there is this annoying “Reader” bar that now shows up below every tweet.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @fintechgtm @lessin The only people who pass the but-for test for creating what people know as Tesla are JB & me. Wish I’d never met Eberhard. He ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1513296796180627457</id>
-        <link href="https://twitter.com/elonmusk/status/1513296796180627457"/>
-        <updated>2022-04-10T23:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @fintechgtm @lessin The only people who pass the but-for test for creating what people know as Tesla are JB & me. Wish I’d never met Eberhard. He is pure poison.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @JeffBezos Great idea]]></title>
         <id>https://twitter.com/elonmusk/status/1513288055146225671</id>
@@ -41,25 +21,6 @@
         <link href="https://twitter.com/elonmusk/status/1513283265318191106"/>
         <updated>2022-04-10T22:30:20.000Z</updated>
         <summary type="html"><![CDATA[Re @BLKMDL3 Coming soon]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Explains everything]]></title>
-        <id>https://twitter.com/elonmusk/status/1513244851516559367</id>
-        <link href="https://twitter.com/elonmusk/status/1513244851516559367"/>
-        <updated>2022-04-10T19:57:41.000Z</updated>
-        <summary type="html"><![CDATA[Re Explains everything]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1513244730720616448</id>
-        <link href="https://twitter.com/elonmusk/status/1513244730720616448"/>
-        <updated>2022-04-10T19:57:13.000Z</updated>
         <author>
             <name>Elon Musk</name>
         </author>
@@ -95,31 +56,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Delete the w in twitter?]]></title>
-        <id>https://twitter.com/elonmusk/status/1513045405029711878</id>
-        <link href="https://twitter.com/elonmusk/status/1513045405029711878"/>
-        <updated>2022-04-10T06:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Delete the w in twitter?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @sweatystartup Exactly]]></title>
         <id>https://twitter.com/elonmusk/status/1512974273606045702</id>
         <link href="https://twitter.com/elonmusk/status/1512974273606045702"/>
         <updated>2022-04-10T02:02:31.000Z</updated>
         <summary type="html"><![CDATA[Re @sweatystartup Exactly]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convert Twitter SF HQ to homeless shelter since no one shows up anyway]]></title>
-        <id>https://twitter.com/elonmusk/status/1512966135423066116</id>
-        <link href="https://twitter.com/elonmusk/status/1512966135423066116"/>
-        <updated>2022-04-10T01:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Convert Twitter SF HQ to homeless shelter since no one shows up anyway]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
@@ -135,31 +76,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re And no ads. The power of corporations to dictate policy is greatly enhanced if Twitter depends on advertising money to survive.]]></title>
-        <id>https://twitter.com/elonmusk/status/1512962115270754306</id>
-        <link href="https://twitter.com/elonmusk/status/1512962115270754306"/>
-        <updated>2022-04-10T01:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Re And no ads. The power of corporations to dictate policy is greatly enhanced if Twitter depends on advertising money to survive.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @PPathole It should go away or scammers will game the system by signing up only for a few months]]></title>
         <id>https://twitter.com/elonmusk/status/1512958155508043782</id>
         <link href="https://twitter.com/elonmusk/status/1512958155508043782"/>
         <updated>2022-04-10T00:58:28.000Z</updated>
         <summary type="html"><![CDATA[Re @PPathole It should go away or scammers will game the system by signing up only for a few months]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re But should be different from “public figure” or “official account” checkmark]]></title>
-        <id>https://twitter.com/elonmusk/status/1512957577092608004</id>
-        <link href="https://twitter.com/elonmusk/status/1512957577092608004"/>
-        <updated>2022-04-10T00:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Re But should be different from “public figure” or “official account” checkmark]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
@@ -185,21 +106,101 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Blue already has a modifiable 20 second time to edit tweet feature]]></title>
-        <id>https://twitter.com/elonmusk/status/1512949511928352775</id>
-        <link href="https://twitter.com/elonmusk/status/1512949511928352775"/>
-        <updated>2022-04-10T00:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Re Blue already has a modifiable 20 second time to edit tweet feature]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @BLKMDL3 Exactly. It would massively expand the verified pool & make bot armies too expensive to maintain.]]></title>
         <id>https://twitter.com/elonmusk/status/1512949011510140936</id>
         <link href="https://twitter.com/elonmusk/status/1512949011510140936"/>
         <updated>2022-04-10T00:22:08.000Z</updated>
         <summary type="html"><![CDATA[Re @BLKMDL3 Exactly. It would massively expand the verified pool & make bot armies too expensive to maintain.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @michaeljburry You will get it back, even though you shorted Tesla, you bastard 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1512945536969678851</id>
+        <link href="https://twitter.com/elonmusk/status/1512945536969678851"/>
+        <updated>2022-04-10T00:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @michaeljburry You will get it back, even though you shorted Tesla, you bastard 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Weather is fake. I seen Truman Show!]]></title>
+        <id>https://twitter.com/elonmusk/status/1512944276983975936</id>
+        <link href="https://twitter.com/elonmusk/status/1512944276983975936"/>
+        <updated>2022-04-10T00:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Re Weather is fake. I seen Truman Show!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV The resemblance is uncanny]]></title>
+        <id>https://twitter.com/elonmusk/status/1512912532633235456</id>
+        <link href="https://twitter.com/elonmusk/status/1512912532633235456"/>
+        <updated>2022-04-09T21:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV The resemblance is uncanny]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @LPofMN As the saying goes, when the government first prints money, everyone feels like a winner, but in the end no one does]]></title>
+        <id>https://twitter.com/elonmusk/status/1512900245507776515</id>
+        <link href="https://twitter.com/elonmusk/status/1512900245507776515"/>
+        <updated>2022-04-09T21:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @LPofMN As the saying goes, when the government first prints money, everyone feels like a winner, but in the end no one does]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @siddarthpaim Fake news purveyors would have hysterics, but a ratings system would improve quality of news greatly]]></title>
+        <id>https://twitter.com/elonmusk/status/1512895884719267844</id>
+        <link href="https://twitter.com/elonmusk/status/1512895884719267844"/>
+        <updated>2022-04-09T20:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @siddarthpaim Fake news purveyors would have hysterics, but a ratings system would improve quality of news greatly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @universal_sci All of Earth is a tiny dust mote compared to the Sun]]></title>
+        <id>https://twitter.com/elonmusk/status/1512895152288935946</id>
+        <link href="https://twitter.com/elonmusk/status/1512895152288935946"/>
+        <updated>2022-04-09T20:48:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @universal_sci All of Earth is a tiny dust mote compared to the Sun]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @UKSAguy @RubinReport Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1512892870272991236</id>
+        <link href="https://twitter.com/elonmusk/status/1512892870272991236"/>
+        <updated>2022-04-09T20:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @UKSAguy @RubinReport Yes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JohnnaCrider1 .@Beeple is 🔥🔥]]></title>
+        <id>https://twitter.com/elonmusk/status/1512887644128260109</id>
+        <link href="https://twitter.com/elonmusk/status/1512887644128260109"/>
+        <updated>2022-04-09T20:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @JohnnaCrider1 .@Beeple is 🔥🔥]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[69.420% of statistics are false]]></title>
+        <id>https://twitter.com/elonmusk/status/1512886651940491270</id>
+        <link href="https://twitter.com/elonmusk/status/1512886651940491270"/>
+        <updated>2022-04-09T20:14:20.000Z</updated>
+        <summary type="html"><![CDATA[69.420% of statistics are false]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
