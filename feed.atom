@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-17T02:25:57.446Z</id>
+    <id>urn:2022-04-18T02:49:49.040Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-17T02:25:57.446Z</updated>
+    <updated>2022-04-18T02:49:49.040Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @pmarca @SallyMayweather 😜]]></title>
+        <id>https://twitter.com/elonmusk/status/1515801552392527872</id>
+        <link href="https://twitter.com/elonmusk/status/1515801552392527872"/>
+        <updated>2022-04-17T21:17:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @pmarca @SallyMayweather 😜]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Easter!]]></title>
+        <id>https://twitter.com/elonmusk/status/1515799688296943636</id>
+        <link href="https://twitter.com/elonmusk/status/1515799688296943636"/>
+        <updated>2022-04-17T21:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Happy Easter!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smooth landing video]]></title>
+        <id>https://twitter.com/elonmusk/status/1515728751912534016</id>
+        <link href="https://twitter.com/elonmusk/status/1515728751912534016"/>
+        <updated>2022-04-17T16:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Smooth landing video]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Based on feedback received, we will drop mobile connector price to $200 & make it easy to order with car. Note, mobile connector is ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1515577134437347329</id>
+        <link href="https://twitter.com/elonmusk/status/1515577134437347329"/>
+        <updated>2022-04-17T06:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Based on feedback received, we will drop mobile connector price to $200 & make it easy to order with car. 
+Note, mobile connector is not needed if you have a Tesla wall connector or to use Superchargers.
+Recommend installing Tesla wall connector well before car arrives.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @WSBChairman In fairness to the Twitter board, this might be more of a concern about other potential bidders vs just me]]></title>
         <id>https://twitter.com/elonmusk/status/1515440119074930694</id>
@@ -151,46 +193,6 @@
         <link href="https://twitter.com/elonmusk/status/1515060055388864522"/>
         <updated>2022-04-15T20:10:40.000Z</updated>
         <summary type="html"><![CDATA[Re @ICannot_Enough 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks for the support!]]></title>
-        <id>https://twitter.com/elonmusk/status/1515059837448691715</id>
-        <link href="https://twitter.com/elonmusk/status/1515059837448691715"/>
-        <updated>2022-04-15T20:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Thanks for the support!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤔]]></title>
-        <id>https://twitter.com/elonmusk/status/1514726980909948928</id>
-        <link href="https://twitter.com/elonmusk/status/1514726980909948928"/>
-        <updated>2022-04-14T22:07:09.000Z</updated>
-        <summary type="html"><![CDATA[🤔]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k @vladtenev Exactly, block size & time should keep pace with the rest of the Internet]]></title>
-        <id>https://twitter.com/elonmusk/status/1514725812544712708</id>
-        <link href="https://twitter.com/elonmusk/status/1514725812544712708"/>
-        <updated>2022-04-14T22:02:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k @vladtenev Exactly, block size & time should keep pace with the rest of the Internet]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k As I was saying …]]></title>
-        <id>https://twitter.com/elonmusk/status/1514723388396392452</id>
-        <link href="https://twitter.com/elonmusk/status/1514723388396392452"/>
-        <updated>2022-04-14T21:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k As I was saying …]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
