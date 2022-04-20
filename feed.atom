@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T02:54:41.499Z</id>
+    <id>urn:2022-04-20T03:03:03.964Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-19T02:54:41.499Z</updated>
+    <updated>2022-04-20T03:03:03.964Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A social media platform’s policies are good if the most extreme 10% on left and right are equally unhappy]]></title>
+        <id>https://twitter.com/elonmusk/status/1516483038242385928</id>
+        <link href="https://twitter.com/elonmusk/status/1516483038242385928"/>
+        <updated>2022-04-19T18:25:05.000Z</updated>
+        <summary type="html"><![CDATA[A social media platform’s policies are good if the most extreme 10% on left and right are equally unhappy]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pmarca Extremely concerning. Who is pushing this censorship/deplatforming? Very shadowy.]]></title>
+        <id>https://twitter.com/elonmusk/status/1516470730136952833</id>
+        <link href="https://twitter.com/elonmusk/status/1516470730136952833"/>
+        <updated>2022-04-19T17:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @pmarca Extremely concerning. Who is pushing this censorship/deplatforming? Very shadowy.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @pmarca 🤣]]></title>
         <id>https://twitter.com/elonmusk/status/1516168605934698498</id>
@@ -171,28 +191,6 @@
         <link href="https://twitter.com/elonmusk/status/1515799688296943636"/>
         <updated>2022-04-17T21:09:42.000Z</updated>
         <summary type="html"><![CDATA[Happy Easter!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smooth landing video]]></title>
-        <id>https://twitter.com/elonmusk/status/1515728751912534016</id>
-        <link href="https://twitter.com/elonmusk/status/1515728751912534016"/>
-        <updated>2022-04-17T16:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Smooth landing video]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog Based on feedback received, we will drop mobile connector price to $200 & make it easy to order with car. Note, mobile connector is ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1515577134437347329</id>
-        <link href="https://twitter.com/elonmusk/status/1515577134437347329"/>
-        <updated>2022-04-17T06:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog Based on feedback received, we will drop mobile connector price to $200 & make it easy to order with car. 
-Note, mobile connector is not needed if you have a Tesla wall connector or to use Superchargers.
-Recommend installing Tesla wall connector well before car arrives.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
