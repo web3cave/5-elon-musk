@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T03:05:43.368Z</id>
+    <id>urn:2022-04-23T02:27:08.974Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-22T03:05:43.368Z</updated>
+    <updated>2022-04-23T02:27:08.974Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @engineers_feed I will verify you. The current process for verification is like if Kafka had a Magic 8-Ball!]]></title>
+        <id>https://twitter.com/elonmusk/status/1517653363969740801</id>
+        <link href="https://twitter.com/elonmusk/status/1517653363969740801"/>
+        <updated>2022-04-22T23:55:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @engineers_feed I will verify you. 
+The current process for verification is like if Kafka had a Magic 8-Ball!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole I wish we did. Would be better for making life multiplanetary.]]></title>
+        <id>https://twitter.com/elonmusk/status/1517650638393561094</id>
+        <link href="https://twitter.com/elonmusk/status/1517650638393561094"/>
+        <updated>2022-04-22T23:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole I wish we did. Would be better for making life multiplanetary.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re What is best in life?]]></title>
+        <id>https://twitter.com/elonmusk/status/1517650251926192128</id>
+        <link href="https://twitter.com/elonmusk/status/1517650251926192128"/>
+        <updated>2022-04-22T23:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Re What is best in life?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Barbarians are at the Gate]]></title>
+        <id>https://twitter.com/elonmusk/status/1517649402449510401</id>
+        <link href="https://twitter.com/elonmusk/status/1517649402449510401"/>
+        <updated>2022-04-22T23:39:48.000Z</updated>
+        <summary type="html"><![CDATA[The Barbarians are at the Gate]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV @SpaceX The real tragedy is that tie I’m wearing!]]></title>
+        <id>https://twitter.com/elonmusk/status/1517648751002886149</id>
+        <link href="https://twitter.com/elonmusk/status/1517648751002886149"/>
+        <updated>2022-04-22T23:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @SpaceX The real tragedy is that tie I’m wearing!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog That number should probably be on my gravestone at this point]]></title>
+        <id>https://twitter.com/elonmusk/status/1517647730159628288</id>
+        <link href="https://twitter.com/elonmusk/status/1517647730159628288"/>
+        <updated>2022-04-22T23:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog That number should probably be on my gravestone at this point]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1517419427528118273</id>
+        <link href="https://twitter.com/elonmusk/status/1517419427528118273"/>
+        <updated>2022-04-22T08:25:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole Yes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @28delayslater 🤣💯]]></title>
         <id>https://twitter.com/elonmusk/status/1517244364703027201</id>
@@ -119,88 +190,6 @@
         <link href="https://twitter.com/elonmusk/status/1517212509882695680"/>
         <updated>2022-04-21T18:43:45.000Z</updated>
         <summary type="html"><![CDATA[Re @SamTwits My true moral error was creating Tesla & SpaceX at same time, while avoiding general mgmt chores at Tesla (focusing only on product & engineering). Tried to have my cake & eat it too, which failed.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SamTwits Agreed. I wish JB & I had just moved forward to commercialize the Tzero without adding other partners. In the end, that’s what happened ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1517210882073321472</id>
-        <link href="https://twitter.com/elonmusk/status/1517210882073321472"/>
-        <updated>2022-04-21T18:37:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @SamTwits Agreed. I wish JB & I had just moved forward to commercialize the Tzero without adding other partners. In the end, that’s what happened anyway.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @fermatslibrary Resistance is futile]]></title>
-        <id>https://twitter.com/elonmusk/status/1517208246762852354</id>
-        <link href="https://twitter.com/elonmusk/status/1517208246762852354"/>
-        <updated>2022-04-21T18:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @fermatslibrary Resistance is futile]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog The esthetics of the new rendering will improve]]></title>
-        <id>https://twitter.com/elonmusk/status/1517206816391938050</id>
-        <link href="https://twitter.com/elonmusk/status/1517206816391938050"/>
-        <updated>2022-04-21T18:21:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog The esthetics of the new rendering will improve]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TPostMillennial SNL is so rarely funny these day (sigh)]]></title>
-        <id>https://twitter.com/elonmusk/status/1517206343446315008</id>
-        <link href="https://twitter.com/elonmusk/status/1517206343446315008"/>
-        <updated>2022-04-21T18:19:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @TPostMillennial SNL is so rarely funny these day (sigh) https://babylonbee.com/news/report-political-lecture-show-saturday-night-live-will-shift-to-comedy-next-season]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut Making rocket reuse normal is the goal]]></title>
-        <id>https://twitter.com/elonmusk/status/1517205565793050625</id>
-        <link href="https://twitter.com/elonmusk/status/1517205565793050625"/>
-        <updated>2022-04-21T18:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut Making rocket reuse normal is the goal]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon 9’s first stage has landed on the Just Read the Instructions droneship, completing this booster’s 12th launch and landing]]></title>
-        <id>https://twitter.com/SpaceX/status/1517201888495607810</id>
-        <link href="https://twitter.com/SpaceX/status/1517201888495607810"/>
-        <updated>2022-04-21T18:01:33.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Falcon 9’s first stage has landed on the Just Read the Instructions droneship, completing this booster’s 12th launch and landing]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Watch Falcon 9 launch 53 Starlink satellites to orbit →]]></title>
-        <id>https://twitter.com/SpaceX/status/1517197510778884097</id>
-        <link href="https://twitter.com/SpaceX/status/1517197510778884097"/>
-        <updated>2022-04-21T17:44:09.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Watch Falcon 9 launch 53 Starlink satellites to orbit → http://spacex.com/launches/sl4-14/ https://twitter.com/i/broadcasts/1LyGBoreADoJN]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k Always look on the bright side of life]]></title>
-        <id>https://twitter.com/elonmusk/status/1517177549553553414</id>
-        <link href="https://twitter.com/elonmusk/status/1517177549553553414"/>
-        <updated>2022-04-21T16:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k Always look on the bright side of life]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
