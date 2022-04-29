@@ -6,6 +6,176 @@
       "siteUrl": "https://twitter.com/elonmusk",
       "articles": [
         {
+          "id": "https://twitter.com/elonmusk/status/1519783048228843521",
+          "author": "Elon Musk",
+          "description": "Re “Real magic is only a sip away.”\n(Actual slogan of Coca-Cola!!) 🤣🤣",
+          "link": "https://twitter.com/elonmusk/status/1519783048228843521",
+          "publishedOn": "2022-04-28T20:58:09.000Z",
+          "wordCount": 196,
+          "title": "Re “Real magic is only a sip away.” (Actual slogan of Coca-Cola!!) 🤣🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519781958578016256",
+          "author": "Elon Musk",
+          "description": ".@CocaCola Oh hi lol",
+          "link": "https://twitter.com/elonmusk/status/1519781958578016256",
+          "publishedOn": "2022-04-28T20:53:49.000Z",
+          "wordCount": 196,
+          "title": ".@CocaCola Oh hi lol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519778991359635457",
+          "author": "Elon Musk",
+          "description": "Re @BillyM2k Same",
+          "link": "https://twitter.com/elonmusk/status/1519778991359635457",
+          "publishedOn": "2022-04-28T20:42:02.000Z",
+          "wordCount": 196,
+          "title": "Re @BillyM2k Same",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519735033950470144",
+          "author": "Elon Musk",
+          "description": "",
+          "link": "https://twitter.com/elonmusk/status/1519735033950470144",
+          "publishedOn": "2022-04-28T17:47:22.000Z",
+          "wordCount": 196,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519732212861706240",
+          "author": "Elon Musk",
+          "description": "Re @walterkirn Freedom of speech means freedom of speech",
+          "link": "https://twitter.com/elonmusk/status/1519732212861706240",
+          "publishedOn": "2022-04-28T17:36:09.000Z",
+          "wordCount": 196,
+          "title": "Re @walterkirn Freedom of speech means freedom of speech",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519717964215468032",
+          "author": "Elon Musk",
+          "description": "Re @scrowder Discomforting",
+          "link": "https://twitter.com/elonmusk/status/1519717964215468032",
+          "publishedOn": "2022-04-28T16:39:32.000Z",
+          "wordCount": 196,
+          "title": "Re @scrowder Discomforting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519620358189555713",
+          "author": "Elon Musk",
+          "description": "Re @DavidSacks @willcain Accurate interview",
+          "link": "https://twitter.com/elonmusk/status/1519620358189555713",
+          "publishedOn": "2022-04-28T10:11:41.000Z",
+          "wordCount": 196,
+          "title": "Re @DavidSacks @willcain Accurate interview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519609974942486528",
+          "author": "Elon Musk",
+          "description": "Re @The_Kyle_Mann 🤣🤣",
+          "link": "https://twitter.com/elonmusk/status/1519609974942486528",
+          "publishedOn": "2022-04-28T09:30:25.000Z",
+          "wordCount": 196,
+          "title": "Re @The_Kyle_Mann 🤣🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519577969282400256",
+          "author": "Elon Musk",
+          "description": "Re @WatcherGuru FCC FTW!",
+          "link": "https://twitter.com/elonmusk/status/1519577969282400256",
+          "publishedOn": "2022-04-28T07:23:14.000Z",
+          "wordCount": 196,
+          "title": "Re @WatcherGuru FCC FTW!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519541001630752768",
+          "author": "Elon Musk",
+          "description": "Re @BBCScienceNews",
+          "link": "https://twitter.com/elonmusk/status/1519541001630752768",
+          "publishedOn": "2022-04-28T04:56:21.000Z",
+          "wordCount": 196,
+          "title": "Re @BBCScienceNews",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519538963882680320",
+          "author": "Elon Musk",
+          "description": "Re @pmarca Sounds like satire",
+          "link": "https://twitter.com/elonmusk/status/1519538963882680320",
+          "publishedOn": "2022-04-28T04:48:15.000Z",
+          "wordCount": 196,
+          "title": "Re @pmarca Sounds like satire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519506013069754371",
+          "author": "Elon Musk",
+          "description": "Re @DrRamblings @BillyM2k Great show!",
+          "link": "https://twitter.com/elonmusk/status/1519506013069754371",
+          "publishedOn": "2022-04-28T02:37:19.000Z",
+          "wordCount": 196,
+          "title": "Re @DrRamblings @BillyM2k Great show!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519505697104449538",
+          "author": "Elon Musk",
+          "description": "Re @dogeofficialceo Trumpet is legit a way better name",
+          "link": "https://twitter.com/elonmusk/status/1519505697104449538",
+          "publishedOn": "2022-04-28T02:36:03.000Z",
+          "wordCount": 196,
+          "title": "Re @dogeofficialceo Trumpet is legit a way better name",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/SpaceX/status/1519500388738682880",
+          "author": "Elon Musk",
+          "description": "RT SpaceX\nVideo of Dragon’s Draco thrusters moving the spacecraft closer to the @Space_Station",
+          "link": "https://twitter.com/SpaceX/status/1519500388738682880",
+          "publishedOn": "2022-04-28T02:14:58.000Z",
+          "wordCount": 196,
+          "title": "RT SpaceX: Video of Dragon’s Draco thrusters moving the spacecraft closer to the @Space_Station",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519495982723084290",
+          "author": "Elon Musk",
+          "description": "Listen, I can’t do miracles ok",
+          "link": "https://twitter.com/elonmusk/status/1519495982723084290",
+          "publishedOn": "2022-04-28T01:57:27.000Z",
+          "wordCount": 196,
+          "title": "Listen, I can’t do miracles ok",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519495072802390016",
+          "author": "Elon Musk",
+          "description": "Let’s make Twitter maximum fun!",
+          "link": "https://twitter.com/elonmusk/status/1519495072802390016",
+          "publishedOn": "2022-04-28T01:53:50.000Z",
+          "wordCount": 196,
+          "title": "Let’s make Twitter maximum fun!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1519494019855884288",
+          "author": "Elon Musk",
+          "description": "Re @PPathole Kicks Red Bull’s ass!",
+          "link": "https://twitter.com/elonmusk/status/1519494019855884288",
+          "publishedOn": "2022-04-28T01:49:39.000Z",
+          "wordCount": 196,
+          "title": "Re @PPathole Kicks Red Bull’s ass!",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/elonmusk/status/1519484469387878400",
           "author": "Elon Musk",
           "description": "Re @BillyM2k Some sci-fi that actually features sci-fi would be great",
@@ -23,186 +193,6 @@
           "publishedOn": "2022-04-28T00:56:58.000Z",
           "wordCount": 196,
           "title": "Next I’m buying Coca-Cola to put the cocaine back in",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519469891455234048",
-          "author": "Elon Musk",
-          "description": "Twitter DMs should have end to end encryption like Signal, so no one can spy on or hack your messages",
-          "link": "https://twitter.com/elonmusk/status/1519469891455234048",
-          "publishedOn": "2022-04-28T00:13:47.000Z",
-          "wordCount": 196,
-          "title": "Twitter DMs should have end to end encryption like Signal, so no one can spy on or hack your messages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519464646054494210",
-          "author": "Elon Musk",
-          "description": "Re @IndyArts 🤣💫",
-          "link": "https://twitter.com/elonmusk/status/1519464646054494210",
-          "publishedOn": "2022-04-27T23:52:56.000Z",
-          "wordCount": 196,
-          "title": "Re @IndyArts 🤣💫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SpaceX/status/1519461793604661248",
-          "author": "Elon Musk",
-          "description": "RT SpaceX\nDocking confirmed!",
-          "link": "https://twitter.com/SpaceX/status/1519461793604661248",
-          "publishedOn": "2022-04-27T23:41:36.000Z",
-          "wordCount": 196,
-          "title": "RT SpaceX: Docking confirmed!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519441841116041219",
-          "author": "Elon Musk",
-          "description": "Re @benshapiro Attacks are coming thick and fast, primarily from the left, which is no surprise, however I should be clear that the right will probably be a little unhappy too.\nMy goal is to maximize area under the curve of total human happiness, which means the ~80% of people in the middle.",
-          "link": "https://twitter.com/elonmusk/status/1519441841116041219",
-          "publishedOn": "2022-04-27T22:22:19.000Z",
-          "wordCount": 196,
-          "title": "Re @benshapiro Attacks are coming thick and fast, primarily from the left, which is no surprise, however I should be clear that the right will probabl...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519440087477628929",
-          "author": "Elon Musk",
-          "description": "Re @BLKMDL3 @boringcompany Vegas Boring Co tunnel",
-          "link": "https://twitter.com/elonmusk/status/1519440087477628929",
-          "publishedOn": "2022-04-27T22:15:21.000Z",
-          "wordCount": 196,
-          "title": "Re @BLKMDL3 @boringcompany Vegas Boring Co tunnel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519427628138217473",
-          "author": "Elon Musk",
-          "description": "Re @dickc What are talking about? I’m just saying Twitter needs to be politically neutral.",
-          "link": "https://twitter.com/elonmusk/status/1519427628138217473",
-          "publishedOn": "2022-04-27T21:25:50.000Z",
-          "wordCount": 196,
-          "title": "Re @dickc What are talking about? I’m just saying Twitter needs to be politically neutral.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519415674111672325",
-          "author": "Elon Musk",
-          "description": "For Twitter to deserve public trust, it must be politically neutral, which effectively means upsetting the far right and the far left equally",
-          "link": "https://twitter.com/elonmusk/status/1519415674111672325",
-          "publishedOn": "2022-04-27T20:38:20.000Z",
-          "wordCount": 196,
-          "title": "For Twitter to deserve public trust, it must be politically neutral, which effectively means upsetting the far right and the far left equally",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519409148215111681",
-          "author": "Elon Musk",
-          "description": "Re @robbysoave @esaagar The Washington Post targets me relentlessly! \nTheir insults could be higher quality, but some are not bad. I gave them 3 stars on Yelp.",
-          "link": "https://twitter.com/elonmusk/status/1519409148215111681",
-          "publishedOn": "2022-04-27T20:12:24.000Z",
-          "wordCount": 196,
-          "title": "Re @robbysoave @esaagar The Washington Post targets me relentlessly! Their insults could be higher quality, but some are not bad. I gave them 3 stars ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519387127078920192",
-          "author": "Elon Musk",
-          "description": "Re @Erdayastronaut @RubinReport @nytimes @Forbes @SocialBlade Almost every media outlet on Earth wrote about me acquiring Twitter, causing a massive influx of new users",
-          "link": "https://twitter.com/elonmusk/status/1519387127078920192",
-          "publishedOn": "2022-04-27T18:44:54.000Z",
-          "wordCount": 196,
-          "title": "Re @Erdayastronaut @RubinReport @nytimes @Forbes @SocialBlade Almost every media outlet on Earth wrote about me acquiring Twitter, causing a massive i...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519378158008651778",
-          "author": "Elon Musk",
-          "description": "Re @RubinReport @nytimes @Forbes Yeah, I noticed that too. Pretty weird.",
-          "link": "https://twitter.com/elonmusk/status/1519378158008651778",
-          "publishedOn": "2022-04-27T18:09:16.000Z",
-          "wordCount": 196,
-          "title": "Re @RubinReport @nytimes @Forbes Yeah, I noticed that too. Pretty weird.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519377424437243904",
-          "author": "Elon Musk",
-          "description": "",
-          "link": "https://twitter.com/elonmusk/status/1519377424437243904",
-          "publishedOn": "2022-04-27T18:06:21.000Z",
-          "wordCount": 196,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519367926708588545",
-          "author": "Elon Musk",
-          "description": "Re Should be called Trumpet instead!",
-          "link": "https://twitter.com/elonmusk/status/1519367926708588545",
-          "publishedOn": "2022-04-27T17:28:36.000Z",
-          "wordCount": 196,
-          "title": "Re Should be called Trumpet instead!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519363666377908225",
-          "author": "Elon Musk",
-          "description": "Re Truth Social (terrible name) exists because Twitter censored free speech",
-          "link": "https://twitter.com/elonmusk/status/1519363666377908225",
-          "publishedOn": "2022-04-27T17:11:41.000Z",
-          "wordCount": 196,
-          "title": "Re Truth Social (terrible name) exists because Twitter censored free speech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519360578409701378",
-          "author": "Elon Musk",
-          "description": "Re @Kleanisklean 🤣🤣",
-          "link": "https://twitter.com/elonmusk/status/1519360578409701378",
-          "publishedOn": "2022-04-27T16:59:24.000Z",
-          "wordCount": 196,
-          "title": "Re @Kleanisklean 🤣🤣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SpaceX/status/1519226826706497537",
-          "author": "Elon Musk",
-          "description": "RT SpaceX\nCrew-4 on orbit",
-          "link": "https://twitter.com/SpaceX/status/1519226826706497537",
-          "publishedOn": "2022-04-27T08:07:56.000Z",
-          "wordCount": 196,
-          "title": "RT SpaceX: Crew-4 on orbit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519187992862248960",
-          "author": "Elon Musk",
-          "description": "Re @daelmor 🤣",
-          "link": "https://twitter.com/elonmusk/status/1519187992862248960",
-          "publishedOn": "2022-04-27T05:33:37.000Z",
-          "wordCount": 196,
-          "title": "Re @daelmor 🤣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1519179787163652099",
-          "author": "Elon Musk",
-          "description": "Truth Social is currently beating Twitter & TikTok on the Apple Store",
-          "link": "https://twitter.com/elonmusk/status/1519179787163652099",
-          "publishedOn": "2022-04-27T05:01:00.000Z",
-          "wordCount": 196,
-          "title": "Truth Social is currently beating Twitter & TikTok on the Apple Store",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SpaceX/status/1519178465559252992",
-          "author": "Elon Musk",
-          "description": "RT SpaceX\nAstronauts arrive at Launch Complex 39A ahead of flight",
-          "link": "https://twitter.com/SpaceX/status/1519178465559252992",
-          "publishedOn": "2022-04-27T04:55:45.000Z",
-          "wordCount": 196,
-          "title": "RT SpaceX: Astronauts arrive at Launch Complex 39A ahead of flight",
           "imageUrl": null
         }
       ]
