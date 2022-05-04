@@ -1,26 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T02:56:37.428Z</id>
+    <id>urn:2022-05-04T02:56:59.442Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-03T02:56:37.428Z</updated>
+    <updated>2022-05-04T02:56:59.442Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @voguemagazine @elon @Dior How do you do?]]></title>
-        <id>https://twitter.com/elonmusk/status/1521270854788829184</id>
-        <link href="https://twitter.com/elonmusk/status/1521270854788829184"/>
-        <updated>2022-05-02T23:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @voguemagazine @elon @Dior How do you do?]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1521649128752615426</id>
+        <link href="https://twitter.com/elonmusk/status/1521649128752615426"/>
+        <updated>2022-05-04T00:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @RationalEtienne @tomselliott @mehdirhasan Hey, why are they already writing my suicide story!?]]></title>
-        <id>https://twitter.com/elonmusk/status/1521214834355970048</id>
-        <link href="https://twitter.com/elonmusk/status/1521214834355970048"/>
-        <updated>2022-05-02T19:47:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @RationalEtienne @tomselliott @mehdirhasan Hey, why are they already writing my suicide story!?]]></summary>
+        <title type="html"><![CDATA[Re Twitter will always be free for casual users, but maybe a slight cost for commercial/government users]]></title>
+        <id>https://twitter.com/elonmusk/status/1521630589710872576</id>
+        <link href="https://twitter.com/elonmusk/status/1521630589710872576"/>
+        <updated>2022-05-03T23:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Re Twitter will always be free for casual users, but maybe a slight cost for commercial/government users]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @waitbutwhy Accurate]]></title>
+        <id>https://twitter.com/elonmusk/status/1521615998914232320</id>
+        <link href="https://twitter.com/elonmusk/status/1521615998914232320"/>
+        <updated>2022-05-03T22:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @waitbutwhy Accurate]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DogecoinNorway @OpenSociety @georgesoros @malloch_brown 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1521610914981564417</id>
+        <link href="https://twitter.com/elonmusk/status/1521610914981564417"/>
+        <updated>2022-05-03T22:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @DogecoinNorway @OpenSociety @georgesoros @malloch_brown 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @OpenSociety @georgesoros @malloch_brown Here’s hoping🤞]]></title>
+        <id>https://twitter.com/elonmusk/status/1521610165652365313</id>
+        <link href="https://twitter.com/elonmusk/status/1521610165652365313"/>
+        <updated>2022-05-03T21:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @OpenSociety @georgesoros @malloch_brown Here’s hoping🤞]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @OpenSociety @georgesoros @malloch_brown George, please slide into my DMs!]]></title>
+        <id>https://twitter.com/elonmusk/status/1521609357326053376</id>
+        <link href="https://twitter.com/elonmusk/status/1521609357326053376"/>
+        <updated>2022-05-03T21:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @OpenSociety @georgesoros @malloch_brown George, please slide into my DMs!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PrabChats I will call him and ask]]></title>
+        <id>https://twitter.com/elonmusk/status/1521605949521203200</id>
+        <link href="https://twitter.com/elonmusk/status/1521605949521203200"/>
+        <updated>2022-05-03T21:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @PrabChats I will call him and ask]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
