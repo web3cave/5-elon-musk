@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T02:47:18.424Z</id>
+    <id>urn:2022-05-06T02:37:12.059Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-05T02:47:18.424Z</updated>
+    <updated>2022-05-06T02:37:12.059Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Dragon separation confirmed! The spacecraft will now execute four departure burns to move away from the @space_station. Dragon will reenter...]]></title>
+        <id>https://twitter.com/SpaceX/status/1522083920992370688</id>
+        <link href="https://twitter.com/SpaceX/status/1522083920992370688"/>
+        <updated>2022-05-05T05:21:00.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Dragon separation confirmed! The spacecraft will now execute four departure burns to move away from the @space_station. Dragon will reenter the Earth's atmosphere and splashdown in ~23.5 hours]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @bevedoni If that’s true, it would make me very happy!]]></title>
         <id>https://twitter.com/elonmusk/status/1521998567757426688</id>
@@ -182,26 +193,6 @@ Also, if there are very few actual active investors, their decisions can greatly
         <link href="https://twitter.com/elonmusk/status/1521574200183566338"/>
         <updated>2022-05-03T19:35:33.000Z</updated>
         <summary type="html"><![CDATA[Re Sunlight is the best disinfectant]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who funds these organizations that want to control your access to information? Let’s investigate …]]></title>
-        <id>https://twitter.com/elonmusk/status/1521574041814978562</id>
-        <link href="https://twitter.com/elonmusk/status/1521574041814978562"/>
-        <updated>2022-05-03T19:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Who funds these organizations that want to control your access to information? Let’s investigate … https://www.cnn.com/2022/05/03/tech/twitter-letter-content-policies/index.html?utm_term=link&utm_source=twCNN&utm_content=2022-05-03T19%3A15%3A05&utm_medium=social]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PPathole @daelmor Yeah, we paid for rent by turning the house into a nightclub & charging $5]]></title>
-        <id>https://twitter.com/elonmusk/status/1521556795965071361</id>
-        <link href="https://twitter.com/elonmusk/status/1521556795965071361"/>
-        <updated>2022-05-03T18:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole @daelmor Yeah, we paid for rent by turning the house into a nightclub & charging $5]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
