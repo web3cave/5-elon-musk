@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T03:10:43.473Z</id>
+    <id>urn:2022-05-14T03:22:58.608Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-13T03:10:43.473Z</updated>
+    <updated>2022-05-14T03:22:58.608Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k The axiomatic error was that housing prices only go up. I don’t support predatory lending, but many of those lenders were severely wound...]]></title>
+        <id>https://twitter.com/elonmusk/status/1525276295021486080</id>
+        <link href="https://twitter.com/elonmusk/status/1525276295021486080"/>
+        <updated>2022-05-14T00:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k The axiomatic error was that housing prices only go up. I don’t support predatory lending, but many of those lenders were severely wounded or didn’t survive. 
+They dug their own graves – a lesson we should all take to heart, including me.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Liftoff!]]></title>
+        <id>https://twitter.com/SpaceX/status/1525236601063739392</id>
+        <link href="https://twitter.com/SpaceX/status/1525236601063739392"/>
+        <updated>2022-05-13T22:08:37.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Liftoff!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Still committed to acquisition]]></title>
+        <id>https://twitter.com/elonmusk/status/1525080945274998785</id>
+        <link href="https://twitter.com/elonmusk/status/1525080945274998785"/>
+        <updated>2022-05-13T11:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Re Still committed to acquisition]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter deal temporarily on hold pending details supporting calculation that spam/fake accounts do indeed represent less than 5% of users]]></title>
+        <id>https://twitter.com/elonmusk/status/1525049369552048129</id>
+        <link href="https://twitter.com/elonmusk/status/1525049369552048129"/>
+        <updated>2022-05-13T09:44:38.000Z</updated>
+        <summary type="html"><![CDATA[Twitter deal temporarily on hold pending details supporting calculation that spam/fake accounts do indeed represent less than 5% of users https://www.reuters.com/technology/twitter-estimates-spam-fake-accounts-represent-less-than-5-users-filing-2022-05-02/]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The straw war is emblematic of larger social issues]]></title>
+        <id>https://twitter.com/elonmusk/status/1525029640808476673</id>
+        <link href="https://twitter.com/elonmusk/status/1525029640808476673"/>
+        <updated>2022-05-13T08:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Re The straw war is emblematic of larger social issues]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Gfilche @Tesla It still needs more work imo, but we can probably widen the beta a little next month]]></title>
+        <id>https://twitter.com/elonmusk/status/1525029340815056897</id>
+        <link href="https://twitter.com/elonmusk/status/1525029340815056897"/>
+        <updated>2022-05-13T08:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @Gfilche @Tesla It still needs more work imo, but we can probably widen the beta a little next month]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pmarca This is messed up]]></title>
+        <id>https://twitter.com/elonmusk/status/1524971392688459778</id>
+        <link href="https://twitter.com/elonmusk/status/1524971392688459778"/>
+        <updated>2022-05-13T04:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @pmarca This is messed up]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JeffTutorials Seriously?]]></title>
+        <id>https://twitter.com/elonmusk/status/1524947763129028608</id>
+        <link href="https://twitter.com/elonmusk/status/1524947763129028608"/>
+        <updated>2022-05-13T03:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @JeffTutorials Seriously?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re How did it even start?]]></title>
         <id>https://twitter.com/elonmusk/status/1524930630990974976</id>
@@ -76,18 +158,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Updated Starlink availability by region]]></title>
-        <id>https://twitter.com/elonmusk/status/1524911860037963776</id>
-        <link href="https://twitter.com/elonmusk/status/1524911860037963776"/>
-        <updated>2022-05-13T00:38:13.000Z</updated>
-        <summary type="html"><![CDATA[Updated Starlink availability by region
-SpaceX: Starlink is now available in 32 countries around the world. People ordering from areas marked “available” will have their Starlink shipped immediately →
- http://starlink.com/map]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @BillyM2k If Twitter can tell the difference between real and fake users, why does it allow these in our comments?]]></title>
         <id>https://twitter.com/elonmusk/status/1524909413462573058</id>
         <link href="https://twitter.com/elonmusk/status/1524909413462573058"/>
@@ -113,96 +183,6 @@ SpaceX: Starlink is now available in 32 countries around the world. People ord
         <link href="https://twitter.com/elonmusk/status/1524890882700455937"/>
         <updated>2022-05-12T23:14:52.000Z</updated>
         <summary type="html"><![CDATA[Re @PPathole @BillyM2k Didn’t occur to founders of USA that people would live so long, so they put in age minimums (for wisdom), but not age maximums (for … 😴)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k And also younger than 8000 years old!]]></title>
-        <id>https://twitter.com/elonmusk/status/1524888787624550418</id>
-        <link href="https://twitter.com/elonmusk/status/1524888787624550418"/>
-        <updated>2022-05-12T23:06:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k And also younger than 8000 years old!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TimRunsHisMouth 🤣🤣 💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1524886675234643996</id>
-        <link href="https://twitter.com/elonmusk/status/1524886675234643996"/>
-        <updated>2022-05-12T22:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @TimRunsHisMouth 🤣🤣 💯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden’s mistake is that he thinks he was elected to transform the country, but actually everyone just wanted less drama]]></title>
-        <id>https://twitter.com/elonmusk/status/1524883482836623373</id>
-        <link href="https://twitter.com/elonmusk/status/1524883482836623373"/>
-        <updated>2022-05-12T22:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Biden’s mistake is that he thinks he was elected to transform the country, but actually everyone just wanted less drama]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Even though I think a less divisive candidate would be better in 2024, I still think Trump should be restored to Twitter]]></title>
-        <id>https://twitter.com/elonmusk/status/1524881263470993435</id>
-        <link href="https://twitter.com/elonmusk/status/1524881263470993435"/>
-        <updated>2022-05-12T22:36:38.000Z</updated>
-        <summary type="html"><![CDATA[Even though I think a less divisive candidate would be better in 2024, I still think Trump should be restored to Twitter]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Diss Information]]></title>
-        <id>https://twitter.com/elonmusk/status/1524877470343766017</id>
-        <link href="https://twitter.com/elonmusk/status/1524877470343766017"/>
-        <updated>2022-05-12T22:21:34.000Z</updated>
-        <summary type="html"><![CDATA[Don’t Diss Information]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @mazemoore Disconcerting …]]></title>
-        <id>https://twitter.com/elonmusk/status/1524869557185351680</id>
-        <link href="https://twitter.com/elonmusk/status/1524869557185351680"/>
-        <updated>2022-05-12T21:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Re @mazemoore Disconcerting …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k It has potential as a currency]]></title>
-        <id>https://twitter.com/elonmusk/status/1524859641821380626</id>
-        <link href="https://twitter.com/elonmusk/status/1524859641821380626"/>
-        <updated>2022-05-12T21:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k It has potential as a currency]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @slashdot Overzealous DMCA is a plague on humanity]]></title>
-        <id>https://twitter.com/elonmusk/status/1524846562974875655</id>
-        <link href="https://twitter.com/elonmusk/status/1524846562974875655"/>
-        <updated>2022-05-12T20:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @slashdot Overzealous DMCA is a plague on humanity]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @slashdot Current copyright law in general goes absurdly far beyond protecting the original creator]]></title>
-        <id>https://twitter.com/elonmusk/status/1524846115870363675</id>
-        <link href="https://twitter.com/elonmusk/status/1524846115870363675"/>
-        <updated>2022-05-12T20:16:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @slashdot Current copyright law in general goes absurdly far beyond protecting the original creator]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
