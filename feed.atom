@@ -1,16 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T02:55:32.842Z</id>
+    <id>urn:2022-05-18T02:48:13.164Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-17T02:55:32.842Z</updated>
+    <updated>2022-05-18T02:48:13.164Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @intelligent_eat Yes, the purpose of AI Day is to convince great AI/software/chip talent to join Tesla]]></title>
+        <id>https://twitter.com/elonmusk/status/1526686487202254848</id>
+        <link href="https://twitter.com/elonmusk/status/1526686487202254848"/>
+        <updated>2022-05-17T22:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @intelligent_eat Yes, the purpose of AI Day is to convince great AI/software/chip talent to join Tesla]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla AI Day #2 on Aug 19. So many cool updates!]]></title>
+        <id>https://twitter.com/elonmusk/status/1526685434910212102</id>
+        <link href="https://twitter.com/elonmusk/status/1526685434910212102"/>
+        <updated>2022-05-17T22:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Tesla AI Day #2 on Aug 19. So many cool updates!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @bennyjohnson Is this legit?]]></title>
+        <id>https://twitter.com/elonmusk/status/1526636363906437120</id>
+        <link href="https://twitter.com/elonmusk/status/1526636363906437120"/>
+        <updated>2022-05-17T18:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @bennyjohnson Is this legit?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EvaFoxU Hello @SECGov, anyone home?]]></title>
+        <id>https://twitter.com/elonmusk/status/1526602003362750466</id>
+        <link href="https://twitter.com/elonmusk/status/1526602003362750466"/>
+        <updated>2022-05-17T16:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU Hello @SECGov, anyone home?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter claims that >95% of daily active users are real, unique humans. Does anyone have that experience?]]></title>
+        <id>https://twitter.com/elonmusk/status/1526598807722549248</id>
+        <link href="https://twitter.com/elonmusk/status/1526598807722549248"/>
+        <updated>2022-05-17T16:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Twitter claims that >95% of daily active users are real, unique humans. Does anyone have that experience?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_doge The audience laughter says it all]]></title>
+        <id>https://twitter.com/elonmusk/status/1526597232107081728</id>
+        <link href="https://twitter.com/elonmusk/status/1526597232107081728"/>
+        <updated>2022-05-17T16:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge The audience laughter says it all]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @johnrich Absolutely]]></title>
+        <id>https://twitter.com/elonmusk/status/1526581793893277697</id>
+        <link href="https://twitter.com/elonmusk/status/1526581793893277697"/>
+        <updated>2022-05-17T15:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @johnrich Absolutely]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole @Teslarati Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1526469394775216128</id>
+        <link href="https://twitter.com/elonmusk/status/1526469394775216128"/>
+        <updated>2022-05-17T07:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole @Teslarati Exactly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @occupymars42069 @paraga Interesting]]></title>
+        <id>https://twitter.com/elonmusk/status/1526466638303969280</id>
+        <link href="https://twitter.com/elonmusk/status/1526466638303969280"/>
+        <updated>2022-05-17T07:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @occupymars42069 @paraga Interesting]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Andst7 @paraga Seems like Twitter should welcome external validation if their claims are true]]></title>
+        <id>https://twitter.com/elonmusk/status/1526466413824720896</id>
+        <link href="https://twitter.com/elonmusk/status/1526466413824720896"/>
+        <updated>2022-05-17T07:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @Andst7 @paraga Seems like Twitter should welcome external validation if their claims are true]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslarati 20% fake/spam accounts, while 4 times what Twitter claims, could be *much* higher. My offer was based on Twitter’s SEC filings being ac...]]></title>
+        <id>https://twitter.com/elonmusk/status/1526465624326782976</id>
+        <link href="https://twitter.com/elonmusk/status/1526465624326782976"/>
+        <updated>2022-05-17T07:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslarati 20% fake/spam accounts, while 4 times what Twitter claims, could be *much* higher.
+My offer was based on Twitter’s SEC filings being accurate.
+Yesterday, Twitter’s CEO publicly refused to show proof of <5%.
+This deal cannot move forward until he does.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @paul_griffiths This transcription isn’t precise, but gets the gist of it]]></title>
+        <id>https://twitter.com/elonmusk/status/1526456556539322368</id>
+        <link href="https://twitter.com/elonmusk/status/1526456556539322368"/>
+        <updated>2022-05-17T06:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @paul_griffiths This transcription isn’t precise, but gets the gist of it]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @BillyM2k 🤣]]></title>
         <id>https://twitter.com/elonmusk/status/1526348250290216969</id>
         <link href="https://twitter.com/elonmusk/status/1526348250290216969"/>
         <updated>2022-05-16T23:45:55.000Z</updated>
         <summary type="html"><![CDATA[Re @BillyM2k 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @jarokrolewski 💯]]></title>
+        <id>https://twitter.com/elonmusk/status/1526347774983393282</id>
+        <link href="https://twitter.com/elonmusk/status/1526347774983393282"/>
+        <updated>2022-05-16T23:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @jarokrolewski 💯]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jarokrolewski Just a scratch really]]></title>
+        <id>https://twitter.com/elonmusk/status/1526343269709402113</id>
+        <link href="https://twitter.com/elonmusk/status/1526343269709402113"/>
+        <updated>2022-05-16T23:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @jarokrolewski Just a scratch really]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @slashdot !]]></title>
+        <id>https://twitter.com/elonmusk/status/1526324906832568325</id>
+        <link href="https://twitter.com/elonmusk/status/1526324906832568325"/>
+        <updated>2022-05-16T22:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @slashdot !]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @S0meW0rri3s @BillyM2k @paraga @Dilbert_Daily 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1526298156501241857</id>
+        <link href="https://twitter.com/elonmusk/status/1526298156501241857"/>
+        <updated>2022-05-16T20:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @S0meW0rri3s @BillyM2k @paraga @Dilbert_Daily 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Andst7 @paraga 👍]]></title>
+        <id>https://twitter.com/elonmusk/status/1526263356088274944</id>
+        <link href="https://twitter.com/elonmusk/status/1526263356088274944"/>
+        <updated>2022-05-16T18:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @Andst7 @paraga 👍]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @paraga So how do advertisers know what they’re getting for their money? This is fundamental to the financial health of Twitter.]]></title>
+        <id>https://twitter.com/elonmusk/status/1526250477456965634</id>
+        <link href="https://twitter.com/elonmusk/status/1526250477456965634"/>
+        <updated>2022-05-16T17:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @paraga So how do advertisers know what they’re getting for their money? This is fundamental to the financial health of Twitter.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
