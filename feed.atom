@@ -1,221 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-21T02:14:24.034Z</id>
+    <id>urn:2022-05-22T02:41:44.326Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-21T02:14:24.034Z</updated>
+    <updated>2022-05-22T02:41:44.326Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @d2dev_ @Andst7 @Twitter They will]]></title>
-        <id>https://twitter.com/elonmusk/status/1527782895070367744</id>
-        <link href="https://twitter.com/elonmusk/status/1527782895070367744"/>
-        <updated>2022-05-20T22:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @d2dev_ @Andst7 @Twitter They will]]></summary>
+        <title type="html"><![CDATA[Re @DBurkland Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1528160425749057538</id>
+        <link href="https://twitter.com/elonmusk/status/1528160425749057538"/>
+        <updated>2022-05-21T23:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @DBurkland Yeah]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Important, if you want to reduce bots/spam in your twitter feed]]></title>
-        <id>https://twitter.com/elonmusk/status/1527782555398840321</id>
-        <link href="https://twitter.com/elonmusk/status/1527782555398840321"/>
-        <updated>2022-05-20T22:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Important, if you want to reduce bots/spam in your twitter feed
-Andrea Stroppa: /6 Now they are using it against Elon @elonmusk but users and researchers can help to keep the platform safer. Sharing is knowledge. I show you how you can defend yourself. 
-Go to settings and privacy > notifications > advanced filters >]]></summary>
+        <title type="html"><![CDATA[Re @teslaownersSV @micarrdc Should be proportionate to electricity prices. Is this not the case?]]></title>
+        <id>https://twitter.com/elonmusk/status/1528159063212580864</id>
+        <link href="https://twitter.com/elonmusk/status/1528159063212580864"/>
+        <updated>2022-05-21T23:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @micarrdc Should be proportionate to electricity prices. Is this not the case?]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accurate]]></title>
-        <id>https://twitter.com/elonmusk/status/1527781808875642881</id>
-        <link href="https://twitter.com/elonmusk/status/1527781808875642881"/>
-        <updated>2022-05-20T22:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Accurate
-Mike Schroepfer: Nobody can predict what is going to happen over the next 12 months but we haven't had a real bad tech downturn since 2000 (2008 terrible for lots of other folks but nbd for tech) let me tell you what starting a company in 2000 was like..
- https://twitter.com/refsrc/status/1527238287471292417]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1528158783746101248</id>
+        <link href="https://twitter.com/elonmusk/status/1528158783746101248"/>
+        <updated>2022-05-21T23:40:20.000Z</updated>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Andst7 Interesting, go on …]]></title>
-        <id>https://twitter.com/elonmusk/status/1527779155122835462</id>
-        <link href="https://twitter.com/elonmusk/status/1527779155122835462"/>
-        <updated>2022-05-20T22:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @Andst7 Interesting, go on …]]></summary>
+        <title type="html"><![CDATA[Re @micarrdc It’s accurate to say that incentives were an accelerant to EV adoption, but we started Tesla when there were no incentives & gasoline wa...]]></title>
+        <id>https://twitter.com/elonmusk/status/1528158344585674753</id>
+        <link href="https://twitter.com/elonmusk/status/1528158344585674753"/>
+        <updated>2022-05-21T23:38:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @micarrdc It’s accurate to say that incentives were an accelerant to EV adoption, but we started Tesla when there were no incentives & gasoline was $2/gallon even in California.
+Tesla currently has a tax credit *disadvantage*, because the $7500 tax credit stopped applying to us years ago.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @moekid @Chad_Hurley An homage to Catherine the Greatest]]></title>
-        <id>https://twitter.com/elonmusk/status/1527778010044186626</id>
-        <link href="https://twitter.com/elonmusk/status/1527778010044186626"/>
-        <updated>2022-05-20T22:27:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @moekid @Chad_Hurley An homage to Catherine the Greatest]]></summary>
+        <title type="html"><![CDATA[Re @micarrdc It is accurate to say that incentives were an accelerant to EV adoption, but we started Tesla when there were no incentives & gasoline wa...]]></title>
+        <id>https://twitter.com/elonmusk/status/1528124417716457474</id>
+        <link href="https://twitter.com/elonmusk/status/1528124417716457474"/>
+        <updated>2022-05-21T21:23:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @micarrdc It is accurate to say that incentives were an accelerant to EV adoption, but we started Tesla when there were no incentives & gasoline was $2/gallon in California.
+Tesla currently has a tax credit *disadvantage*, because the $7500 tax credit stopped applying to us years ago.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @brucefenton Yes]]></title>
-        <id>https://twitter.com/elonmusk/status/1527775456912900096</id>
-        <link href="https://twitter.com/elonmusk/status/1527775456912900096"/>
-        <updated>2022-05-20T22:17:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @brucefenton Yes]]></summary>
+        <title type="html"><![CDATA[Re @YLutolf @Clark408 @PPathole Glad to hear that!]]></title>
+        <id>https://twitter.com/elonmusk/status/1528120250155208704</id>
+        <link href="https://twitter.com/elonmusk/status/1528120250155208704"/>
+        <updated>2022-05-21T21:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @YLutolf @Clark408 @PPathole Glad to hear that!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Looking for hardcore streetfighters, not white-shoe lawyers like Perkins or Cooley who thrive on corruption. There will be blood.]]></title>
-        <id>https://twitter.com/elonmusk/status/1527774704018280448</id>
-        <link href="https://twitter.com/elonmusk/status/1527774704018280448"/>
-        <updated>2022-05-20T22:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Re Looking for hardcore streetfighters, not white-shoe lawyers like Perkins or Cooley who thrive on corruption. 
-There will be blood.]]></summary>
+        <title type="html"><![CDATA[Re @Chad_Hurley]]></title>
+        <id>https://twitter.com/elonmusk/status/1528113832534614016</id>
+        <link href="https://twitter.com/elonmusk/status/1528113832534614016"/>
+        <updated>2022-05-21T20:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @Chad_Hurley]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @schrep Good thread]]></title>
-        <id>https://twitter.com/elonmusk/status/1527766072925069313</id>
-        <link href="https://twitter.com/elonmusk/status/1527766072925069313"/>
-        <updated>2022-05-20T21:39:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @schrep Good thread]]></summary>
+        <title type="html"><![CDATA[Re @SmanVd @Chad_Hurley Oddly calming]]></title>
+        <id>https://twitter.com/elonmusk/status/1528063651856400388</id>
+        <link href="https://twitter.com/elonmusk/status/1528063651856400388"/>
+        <updated>2022-05-21T17:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @SmanVd @Chad_Hurley Oddly calming]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @schrep I ‘member]]></title>
-        <id>https://twitter.com/elonmusk/status/1527765602978480133</id>
-        <link href="https://twitter.com/elonmusk/status/1527765602978480133"/>
-        <updated>2022-05-20T21:37:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @schrep I ‘member]]></summary>
+        <title type="html"><![CDATA[Re @NASA @Space_Station @BoeingSpace Congratulations!]]></title>
+        <id>https://twitter.com/elonmusk/status/1528037541772926979</id>
+        <link href="https://twitter.com/elonmusk/status/1528037541772926979"/>
+        <updated>2022-05-21T15:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @NASA @Space_Station @BoeingSpace Congratulations!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TeslaGong @Chad_Hurley Tesla FSD is the best real world AI]]></title>
-        <id>https://twitter.com/elonmusk/status/1527759407777566720</id>
-        <link href="https://twitter.com/elonmusk/status/1527759407777566720"/>
-        <updated>2022-05-20T21:13:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @TeslaGong @Chad_Hurley Tesla FSD is the best real world AI]]></summary>
+        <title type="html"><![CDATA[Re @stillgray @teslaownersSV @WholeMarsBlog Absolutely]]></title>
+        <id>https://twitter.com/elonmusk/status/1528025397807521793</id>
+        <link href="https://twitter.com/elonmusk/status/1528025397807521793"/>
+        <updated>2022-05-21T14:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @stillgray @teslaownersSV @WholeMarsBlog Absolutely]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Please include links to cases you have tried]]></title>
-        <id>https://twitter.com/elonmusk/status/1527758961772007424</id>
-        <link href="https://twitter.com/elonmusk/status/1527758961772007424"/>
-        <updated>2022-05-20T21:11:35.000Z</updated>
-        <summary type="html"><![CDATA[Re Please include links to cases you have tried]]></summary>
+        <title type="html"><![CDATA[Re @teslaownersSV @WholeMarsBlog No, they still refuse to explain how they calculate that 5% of daily users are fake/spam! Very suspicious.]]></title>
+        <id>https://twitter.com/elonmusk/status/1528022458133004289</id>
+        <link href="https://twitter.com/elonmusk/status/1528022458133004289"/>
+        <updated>2022-05-21T14:38:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @WholeMarsBlog No, they still refuse to explain how they calculate that 5% of daily users are fake/spam! Very suspicious.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Chad_Hurley 🤣🤣 Hi Chad, long time no see! Fine, if you touch my wiener, you can have a horse.]]></title>
-        <id>https://twitter.com/elonmusk/status/1527757119239380993</id>
-        <link href="https://twitter.com/elonmusk/status/1527757119239380993"/>
-        <updated>2022-05-20T21:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @Chad_Hurley 🤣🤣
-Hi Chad, long time no see!
-Fine, if you touch my wiener, you can have a horse.]]></summary>
+        <title type="html"><![CDATA[Re @WholeMarsBlog I’m worried that Twitter has a disincentive to reduce spam, as it reduces perceived daily users]]></title>
+        <id>https://twitter.com/elonmusk/status/1528020660911493132</id>
+        <link href="https://twitter.com/elonmusk/status/1528020660911493132"/>
+        <updated>2022-05-21T14:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog I’m worried that Twitter has a disincentive to reduce spam, as it reduces perceived daily users]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re My commitment: - We will never seek victory in a just case against us, even if we will probably win. - We will never surrender/settle an unjust cas...]]></title>
-        <id>https://twitter.com/elonmusk/status/1527749734668050433</id>
-        <link href="https://twitter.com/elonmusk/status/1527749734668050433"/>
-        <updated>2022-05-20T20:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Re My commitment:
-- We will never seek victory in a just case against us, even if we will probably win. 
-- We will never surrender/settle an unjust case against us, even if we will probably lose.]]></summary>
+        <title type="html"><![CDATA[Re @ProfMJCleveland @ABCWorldNews @telsa Why is @abcnews ignoring this story?]]></title>
+        <id>https://twitter.com/elonmusk/status/1527927884324683777</id>
+        <link href="https://twitter.com/elonmusk/status/1527927884324683777"/>
+        <updated>2022-05-21T08:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @ProfMJCleveland @ABCWorldNews @telsa Why is @abcnews ignoring this story?]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla is building a hardcore litigation department where we directly initiate & execute lawsuits. The team will report directly to me. Please send 3 t...]]></title>
-        <id>https://twitter.com/elonmusk/status/1527748229470646272</id>
-        <link href="https://twitter.com/elonmusk/status/1527748229470646272"/>
-        <updated>2022-05-20T20:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Tesla is building a hardcore litigation department where we directly initiate & execute lawsuits. The team will report directly to me. 
-Please send 3 to 5 bullet points describing evidence of exceptional ability.
-justice@tesla.com]]></summary>
+        <title type="html"><![CDATA[Re @JanJekielek @Shem_Infinite @EpochTimes @themarketswork @JasperFakkert Confusing-gate, more like it! Bottom line: A prominent lawyer working for th...]]></title>
+        <id>https://twitter.com/elonmusk/status/1527920663981342721</id>
+        <link href="https://twitter.com/elonmusk/status/1527920663981342721"/>
+        <updated>2022-05-21T07:54:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @JanJekielek @Shem_Infinite @EpochTimes @themarketswork @JasperFakkert Confusing-gate, more like it!
+Bottom line: A prominent lawyer working for the Clinton campaign fabricated Russia-Trump collusion using a retired MI6 spy & some actual Russians. This is not ok!
+There may have been actual Russian interference, but still the above is not cool.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @bpcostello @truth_tesla @veespike @HillaryClinton @Twitter !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1527742530925764608</id>
-        <link href="https://twitter.com/elonmusk/status/1527742530925764608"/>
-        <updated>2022-05-20T20:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @bpcostello @truth_tesla @veespike @HillaryClinton @Twitter !!]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k He can be a little negative at times tbh]]></title>
+        <id>https://twitter.com/elonmusk/status/1527917039322636289</id>
+        <link href="https://twitter.com/elonmusk/status/1527917039322636289"/>
+        <updated>2022-05-21T07:39:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k He can be a little negative at times tbh]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @truth_tesla @veespike @HillaryClinton @Twitter Whether other senior campaign managers were aware or not is a separate question. What is *not* in q...]]></title>
-        <id>https://twitter.com/elonmusk/status/1527741709467131905</id>
-        <link href="https://twitter.com/elonmusk/status/1527741709467131905"/>
-        <updated>2022-05-20T20:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @truth_tesla @veespike @HillaryClinton @Twitter Whether other senior campaign managers were aware or not is a separate question.
-What is *not* in question is that Sussmann charged the Clinton Campaign for his Russia hoax meeting with the FBI.
-Source document: https://www.justice.gov/sco/press-release/file/1433511/download]]></summary>
+        <title type="html"><![CDATA[Re @Chad_Hurley Words to live by]]></title>
+        <id>https://twitter.com/elonmusk/status/1527916093616050177</id>
+        <link href="https://twitter.com/elonmusk/status/1527916093616050177"/>
+        <updated>2022-05-21T07:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @Chad_Hurley Words to live by]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Shem_Infinite I only heard about it last month and was blown away]]></title>
-        <id>https://twitter.com/elonmusk/status/1527736730178158597</id>
-        <link href="https://twitter.com/elonmusk/status/1527736730178158597"/>
-        <updated>2022-05-20T19:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @Shem_Infinite I only heard about it last month and was blown away]]></summary>
+        <title type="html"><![CDATA[Re @JaneidyEve @TheCryptoDaddi @Block0nex @Jim_Jordan True, owning Twitter probably won’t increase my life expectancy haha]]></title>
+        <id>https://twitter.com/elonmusk/status/1527910643843706880</id>
+        <link href="https://twitter.com/elonmusk/status/1527910643843706880"/>
+        <updated>2022-05-21T07:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @JaneidyEve @TheCryptoDaddi @Block0nex @Jim_Jordan True, owning Twitter probably won’t increase my life expectancy haha]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sus man]]></title>
-        <id>https://twitter.com/elonmusk/status/1527733001584623618</id>
-        <link href="https://twitter.com/elonmusk/status/1527733001584623618"/>
-        <updated>2022-05-20T19:28:26.000Z</updated>
-        <summary type="html"><![CDATA[Sus man]]></summary>
+        <title type="html"><![CDATA[Re @PPathole @jonfavs Correct]]></title>
+        <id>https://twitter.com/elonmusk/status/1527857943340847105</id>
+        <link href="https://twitter.com/elonmusk/status/1527857943340847105"/>
+        <updated>2022-05-21T03:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole @jonfavs Correct]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TheCryptoDaddi @Block0nex @Jim_Jordan I am indeed out for blood]]></title>
-        <id>https://twitter.com/elonmusk/status/1527732563569168385</id>
-        <link href="https://twitter.com/elonmusk/status/1527732563569168385"/>
-        <updated>2022-05-20T19:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheCryptoDaddi @Block0nex @Jim_Jordan I am indeed out for blood]]></summary>
+        <title type="html"><![CDATA[Re @JohnnaCrider1 @jonfavs Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1527845820451758080</id>
+        <link href="https://twitter.com/elonmusk/status/1527845820451758080"/>
+        <updated>2022-05-21T02:56:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @JohnnaCrider1 @jonfavs Exactly]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @truth_tesla @veespike @HillaryClinton @Twitter ?? Sussmann himself admitted billing Clinton Campaign to pay for him to present Russia hoax to FBI!...]]></title>
-        <id>https://twitter.com/elonmusk/status/1527732218138972161</id>
-        <link href="https://twitter.com/elonmusk/status/1527732218138972161"/>
-        <updated>2022-05-20T19:25:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @truth_tesla @veespike @HillaryClinton @Twitter ??
-Sussmann himself admitted billing Clinton Campaign to pay for him to present Russia hoax to FBI! This is not even questioned by the defense.
-Btw, I donated to & voted for Hillary, so am doubly pissed off about those funds being used for lying. https://www.bloomberg.com/news/articles/2015-07-16/elon-musk-helps-california-rank-no-1-for-hillary-clinton-fundraising]]></summary>
+        <title type="html"><![CDATA[RT Jair M. Bolsonaro: -Conversei há pouco com @elonmusk , que visita o Brasil a convite do Ministro @fabiofaria . Entre outros assuntos, tratamos de ...]]></title>
+        <id>https://twitter.com/jairbolsonaro/status/1527673136065429504</id>
+        <link href="https://twitter.com/jairbolsonaro/status/1527673136065429504"/>
+        <updated>2022-05-20T15:30:33.000Z</updated>
+        <summary type="html"><![CDATA[RT Jair M. Bolsonaro
+-Conversei há pouco com @elonmusk , que visita o Brasil a convite do Ministro @fabiofaria . Entre outros assuntos, tratamos de conectividade, investimentos, inovação e o uso da tecnologia como reforço na proteção de nossa Amazônia e na realização do potencial econômico do Brasil.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
