@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T03:12:33.668Z</id>
+    <id>urn:2022-06-03T02:45:52.508Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-02T03:12:33.668Z</updated>
+    <updated>2022-06-03T02:45:52.508Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @EvaFoxU Tesla AI Day #2 will be epic]]></title>
+        <id>https://twitter.com/elonmusk/status/1532527411484626944</id>
+        <link href="https://twitter.com/elonmusk/status/1532527411484626944"/>
+        <updated>2022-06-03T00:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU Tesla AI Day #2 will be epic]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then]]></title>
+        <id>https://twitter.com/elonmusk/status/1532525711763841043</id>
+        <link href="https://twitter.com/elonmusk/status/1532525711763841043"/>
+        <updated>2022-06-03T00:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WatchersTank @NASASpaceflight @SpaceX Cryogenic proof test passed]]></title>
+        <id>https://twitter.com/elonmusk/status/1532510690665283584</id>
+        <link href="https://twitter.com/elonmusk/status/1532510690665283584"/>
+        <updated>2022-06-02T23:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @WatchersTank @NASASpaceflight @SpaceX Cryogenic proof test passed]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @abledoc @scottfarkas @Tesla @JoeJustice Everyone eats same food, uses same restrooms, etc – no executive chef or other ivory tower stuff. There s...]]></title>
+        <id>https://twitter.com/elonmusk/status/1532403096680288256</id>
+        <link href="https://twitter.com/elonmusk/status/1532403096680288256"/>
+        <updated>2022-06-02T16:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @abledoc @scottfarkas @Tesla @JoeJustice Everyone eats same food, uses same restrooms, etc – no executive chef or other ivory tower stuff. 
+There shouldn’t be this workers vs management two-class system. Everyone is a worker.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jamesdouma @RadarMoron @JeffTutorials @karpathy Transformers are replacing C heuristics for post-processing of the vision NN’s “giant bag of poi...]]></title>
+        <id>https://twitter.com/elonmusk/status/1532274289893904384</id>
+        <link href="https://twitter.com/elonmusk/status/1532274289893904384"/>
+        <updated>2022-06-02T08:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @jamesdouma @RadarMoron @JeffTutorials @karpathy Transformers are replacing C heuristics for post-processing of the vision NN’s “giant bag of points”.
+[Side note: I hate the bloated mess that is modern C++, but love simple C, as you know what it will compile to in terms of actual CPU operations.]]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ExplainThisBob 😉]]></title>
+        <id>https://twitter.com/elonmusk/status/1532268658340265984</id>
+        <link href="https://twitter.com/elonmusk/status/1532268658340265984"/>
+        <updated>2022-06-02T07:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @ExplainThisBob 😉]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @scottfarkas The above set of tweets illustrate why recessions serve a vital economic cleansing function]]></title>
+        <id>https://twitter.com/elonmusk/status/1532267941512761346</id>
+        <link href="https://twitter.com/elonmusk/status/1532267941512761346"/>
+        <updated>2022-06-02T07:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @scottfarkas The above set of tweets illustrate why recessions serve a vital economic cleansing function]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @spideycyp_155 @eringriffith I never wanted to be CEO – just wanted to work on product/technology. Bill Harris sounded like he would be a great CE...]]></title>
+        <id>https://twitter.com/elonmusk/status/1532265043391291392</id>
+        <link href="https://twitter.com/elonmusk/status/1532265043391291392"/>
+        <updated>2022-06-02T07:37:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @spideycyp_155 @eringriffith I never wanted to be CEO – just wanted to work on product/technology. Bill Harris sounded like he would be a great CEO, given his Intuit experience, but he was not.
+Running companies hurts my heart, but I don’t see any other way to bring technology & design to fruition.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @OrbitHigher @JeffTutorials Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1532239862438535168</id>
+        <link href="https://twitter.com/elonmusk/status/1532239862438535168"/>
+        <updated>2022-06-02T05:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @OrbitHigher @JeffTutorials Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @eringriffith Similar thing happened to X/PayPal in March 2000]]></title>
+        <id>https://twitter.com/elonmusk/status/1532237563582357504</id>
+        <link href="https://twitter.com/elonmusk/status/1532237563582357504"/>
+        <updated>2022-06-02T05:47:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @eringriffith Similar thing happened to X/PayPal in March 2000]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JeffTutorials We’re using more GPTs, as they now run natively on Tesla TRIP chip vs needing to round trip to iGPU]]></title>
+        <id>https://twitter.com/elonmusk/status/1532195571519430656</id>
+        <link href="https://twitter.com/elonmusk/status/1532195571519430656"/>
+        <updated>2022-06-02T03:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @JeffTutorials We’re using more GPTs, as they now run natively on Tesla TRIP chip vs needing to round trip to iGPU]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @justwidle2 @Tesla As I said in 2018 …]]></title>
         <id>https://twitter.com/elonmusk/status/1532060134197047296</id>
@@ -81,86 +194,6 @@ Thrust, liftoff mass, length & payload will grow over time.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DBurkland @WholeMarsBlog Yes, unless we encounter unexpected issues. 10.12.2 seems solid so far, but, as always, please be extremely vigilant.]]></title>
-        <id>https://twitter.com/elonmusk/status/1531879174394331136</id>
-        <link href="https://twitter.com/elonmusk/status/1531879174394331136"/>
-        <updated>2022-06-01T06:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @DBurkland @WholeMarsBlog Yes, unless we encounter unexpected issues. 10.12.2 seems solid so far, but, as always, please be extremely vigilant.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DebugPrivilege 👍]]></title>
-        <id>https://twitter.com/elonmusk/status/1531877252643921920</id>
-        <link href="https://twitter.com/elonmusk/status/1531877252643921920"/>
-        <updated>2022-06-01T05:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @DebugPrivilege 👍]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog They should pretend to work somewhere else]]></title>
-        <id>https://twitter.com/elonmusk/status/1531867103854317568</id>
-        <link href="https://twitter.com/elonmusk/status/1531867103854317568"/>
-        <updated>2022-06-01T05:15:52.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog They should pretend to work somewhere else]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog I have yet to see an ESG list that *isn’t* fraudulent]]></title>
-        <id>https://twitter.com/elonmusk/status/1531857087994765316</id>
-        <link href="https://twitter.com/elonmusk/status/1531857087994765316"/>
-        <updated>2022-06-01T04:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog I have yet to see an ESG list that *isn’t* fraudulent]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut Just one at a time at first]]></title>
-        <id>https://twitter.com/elonmusk/status/1531818107471335425</id>
-        <link href="https://twitter.com/elonmusk/status/1531818107471335425"/>
-        <updated>2022-06-01T02:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut Just one at a time at first]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut Only a few weeks away. All Raptor 2 engines needed for first orbital flight are complete & being installed.]]></title>
-        <id>https://twitter.com/elonmusk/status/1531790327677435904</id>
-        <link href="https://twitter.com/elonmusk/status/1531790327677435904"/>
-        <updated>2022-06-01T00:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut Only a few weeks away. All Raptor 2 engines needed for first orbital flight are complete & being installed.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut Good interview]]></title>
-        <id>https://twitter.com/elonmusk/status/1531759476616974337</id>
-        <link href="https://twitter.com/elonmusk/status/1531759476616974337"/>
-        <updated>2022-05-31T22:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut Good interview]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @octonion 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1531757243489738754</id>
-        <link href="https://twitter.com/elonmusk/status/1531757243489738754"/>
-        <updated>2022-05-31T21:59:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @octonion 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT SpaceX: Two years ago yesterday, SpaceX launched its first human spaceflight to the @space_station]]></title>
         <id>https://twitter.com/SpaceX/status/1531735685933465600</id>
         <link href="https://twitter.com/SpaceX/status/1531735685933465600"/>
@@ -170,38 +203,6 @@ Two years ago yesterday, SpaceX launched its first human spaceflight to the @spa
 National Air and Space Museum: Two years ago today, astronauts Bob Behnken and Doug Hurley launched to the ISS on board Crew Dragon "Endeavour," NASA’s first human spaceflight from American soil since the Space Shuttle retired: 
 📷 : NASA/Bill Ingalls
  https://youtu.be/adrSnRJLikk]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 years since SpaceX’s first mission to @Space_Station]]></title>
-        <id>https://twitter.com/elonmusk/status/1531733235625074688</id>
-        <link href="https://twitter.com/elonmusk/status/1531733235625074688"/>
-        <updated>2022-05-31T20:23:56.000Z</updated>
-        <summary type="html"><![CDATA[10 years since SpaceX’s first mission to @Space_Station
-SpaceX: Today marks the 10th anniversary of completion of the COTS Demo Flight 2 (COTS 2) – Dragon’s first mission to and from the @Space_Station]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt Cybertruck body]]></title>
-        <id>https://twitter.com/elonmusk/status/1531730381187301378</id>
-        <link href="https://twitter.com/elonmusk/status/1531730381187301378"/>
-        <updated>2022-05-31T20:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt Cybertruck body]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k @PinballReed @crikey_news @ummjackson @cameronwilson You’re humble bro. Billy’s sense of humor & irreverence is a big part of why peopl...]]></title>
-        <id>https://twitter.com/elonmusk/status/1531699416490557440</id>
-        <link href="https://twitter.com/elonmusk/status/1531699416490557440"/>
-        <updated>2022-05-31T18:09:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k @PinballReed @crikey_news @ummjackson @cameronwilson You’re humble bro. 
-Billy’s sense of humor & irreverence is a big part of why people love Dogecoin.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>

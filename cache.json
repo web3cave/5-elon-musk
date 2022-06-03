@@ -6,6 +6,116 @@
       "siteUrl": "https://twitter.com/elonmusk",
       "articles": [
         {
+          "id": "https://twitter.com/elonmusk/status/1532527411484626944",
+          "author": "Elon Musk",
+          "description": "Re @EvaFoxU Tesla AI Day #2 will be epic",
+          "link": "https://twitter.com/elonmusk/status/1532527411484626944",
+          "publishedOn": "2022-06-03T00:59:42.000Z",
+          "wordCount": 196,
+          "title": "Re @EvaFoxU Tesla AI Day #2 will be epic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532525711763841043",
+          "author": "Elon Musk",
+          "description": "Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then",
+          "link": "https://twitter.com/elonmusk/status/1532525711763841043",
+          "publishedOn": "2022-06-03T00:52:57.000Z",
+          "wordCount": 196,
+          "title": "Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532510690665283584",
+          "author": "Elon Musk",
+          "description": "Re @WatchersTank @NASASpaceflight @SpaceX Cryogenic proof test passed",
+          "link": "https://twitter.com/elonmusk/status/1532510690665283584",
+          "publishedOn": "2022-06-02T23:53:15.000Z",
+          "wordCount": 196,
+          "title": "Re @WatchersTank @NASASpaceflight @SpaceX Cryogenic proof test passed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532403096680288256",
+          "author": "Elon Musk",
+          "description": "Re @abledoc @scottfarkas @Tesla @JoeJustice Everyone eats same food, uses same restrooms, etc – no executive chef or other ivory tower stuff. \nThere shouldn’t be this workers vs management two-class system. Everyone is a worker.",
+          "link": "https://twitter.com/elonmusk/status/1532403096680288256",
+          "publishedOn": "2022-06-02T16:45:43.000Z",
+          "wordCount": 196,
+          "title": "Re @abledoc @scottfarkas @Tesla @JoeJustice Everyone eats same food, uses same restrooms, etc – no executive chef or other ivory tower stuff. There s...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532274289893904384",
+          "author": "Elon Musk",
+          "description": "Re @jamesdouma @RadarMoron @JeffTutorials @karpathy Transformers are replacing C heuristics for post-processing of the vision NN’s “giant bag of points”.\n[Side note: I hate the bloated mess that is modern C++, but love simple C, as you know what it will compile to in terms of actual CPU operations.]",
+          "link": "https://twitter.com/elonmusk/status/1532274289893904384",
+          "publishedOn": "2022-06-02T08:13:53.000Z",
+          "wordCount": 196,
+          "title": "Re @jamesdouma @RadarMoron @JeffTutorials @karpathy Transformers are replacing C heuristics for post-processing of the vision NN’s “giant bag of poi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532268658340265984",
+          "author": "Elon Musk",
+          "description": "Re @ExplainThisBob 😉",
+          "link": "https://twitter.com/elonmusk/status/1532268658340265984",
+          "publishedOn": "2022-06-02T07:51:30.000Z",
+          "wordCount": 196,
+          "title": "Re @ExplainThisBob 😉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532267941512761346",
+          "author": "Elon Musk",
+          "description": "Re @scottfarkas The above set of tweets illustrate why recessions serve a vital economic cleansing function",
+          "link": "https://twitter.com/elonmusk/status/1532267941512761346",
+          "publishedOn": "2022-06-02T07:48:40.000Z",
+          "wordCount": 196,
+          "title": "Re @scottfarkas The above set of tweets illustrate why recessions serve a vital economic cleansing function",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532265043391291392",
+          "author": "Elon Musk",
+          "description": "Re @spideycyp_155 @eringriffith I never wanted to be CEO – just wanted to work on product/technology. Bill Harris sounded like he would be a great CEO, given his Intuit experience, but he was not.\nRunning companies hurts my heart, but I don’t see any other way to bring technology & design to fruition.",
+          "link": "https://twitter.com/elonmusk/status/1532265043391291392",
+          "publishedOn": "2022-06-02T07:37:09.000Z",
+          "wordCount": 196,
+          "title": "Re @spideycyp_155 @eringriffith I never wanted to be CEO – just wanted to work on product/technology. Bill Harris sounded like he would be a great CE...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532239862438535168",
+          "author": "Elon Musk",
+          "description": "Re @OrbitHigher @JeffTutorials Yeah",
+          "link": "https://twitter.com/elonmusk/status/1532239862438535168",
+          "publishedOn": "2022-06-02T05:57:05.000Z",
+          "wordCount": 196,
+          "title": "Re @OrbitHigher @JeffTutorials Yeah",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532237563582357504",
+          "author": "Elon Musk",
+          "description": "Re @eringriffith Similar thing happened to X/PayPal in March 2000",
+          "link": "https://twitter.com/elonmusk/status/1532237563582357504",
+          "publishedOn": "2022-06-02T05:47:57.000Z",
+          "wordCount": 196,
+          "title": "Re @eringriffith Similar thing happened to X/PayPal in March 2000",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1532195571519430656",
+          "author": "Elon Musk",
+          "description": "Re @JeffTutorials We’re using more GPTs, as they now run natively on Tesla TRIP chip vs needing to round trip to iGPU",
+          "link": "https://twitter.com/elonmusk/status/1532195571519430656",
+          "publishedOn": "2022-06-02T03:01:05.000Z",
+          "wordCount": 196,
+          "title": "Re @JeffTutorials We’re using more GPTs, as they now run natively on Tesla TRIP chip vs needing to round trip to iGPU",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/elonmusk/status/1532060134197047296",
           "author": "Elon Musk",
           "description": "Re @justwidle2 @Tesla As I said in 2018 …",
@@ -76,86 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/elonmusk/status/1531879174394331136",
-          "author": "Elon Musk",
-          "description": "Re @DBurkland @WholeMarsBlog Yes, unless we encounter unexpected issues. 10.12.2 seems solid so far, but, as always, please be extremely vigilant.",
-          "link": "https://twitter.com/elonmusk/status/1531879174394331136",
-          "publishedOn": "2022-06-01T06:03:50.000Z",
-          "wordCount": 196,
-          "title": "Re @DBurkland @WholeMarsBlog Yes, unless we encounter unexpected issues. 10.12.2 seems solid so far, but, as always, please be extremely vigilant.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531877252643921920",
-          "author": "Elon Musk",
-          "description": "Re @DebugPrivilege 👍",
-          "link": "https://twitter.com/elonmusk/status/1531877252643921920",
-          "publishedOn": "2022-06-01T05:56:12.000Z",
-          "wordCount": 196,
-          "title": "Re @DebugPrivilege 👍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531867103854317568",
-          "author": "Elon Musk",
-          "description": "Re @WholeMarsBlog They should pretend to work somewhere else",
-          "link": "https://twitter.com/elonmusk/status/1531867103854317568",
-          "publishedOn": "2022-06-01T05:15:52.000Z",
-          "wordCount": 196,
-          "title": "Re @WholeMarsBlog They should pretend to work somewhere else",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531857087994765316",
-          "author": "Elon Musk",
-          "description": "Re @WholeMarsBlog I have yet to see an ESG list that *isn’t* fraudulent",
-          "link": "https://twitter.com/elonmusk/status/1531857087994765316",
-          "publishedOn": "2022-06-01T04:36:04.000Z",
-          "wordCount": 196,
-          "title": "Re @WholeMarsBlog I have yet to see an ESG list that *isn’t* fraudulent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531818107471335425",
-          "author": "Elon Musk",
-          "description": "Re @Erdayastronaut Just one at a time at first",
-          "link": "https://twitter.com/elonmusk/status/1531818107471335425",
-          "publishedOn": "2022-06-01T02:01:11.000Z",
-          "wordCount": 196,
-          "title": "Re @Erdayastronaut Just one at a time at first",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531790327677435904",
-          "author": "Elon Musk",
-          "description": "Re @Erdayastronaut Only a few weeks away. All Raptor 2 engines needed for first orbital flight are complete & being installed.",
-          "link": "https://twitter.com/elonmusk/status/1531790327677435904",
-          "publishedOn": "2022-06-01T00:10:48.000Z",
-          "wordCount": 196,
-          "title": "Re @Erdayastronaut Only a few weeks away. All Raptor 2 engines needed for first orbital flight are complete & being installed.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531759476616974337",
-          "author": "Elon Musk",
-          "description": "Re @Erdayastronaut Good interview",
-          "link": "https://twitter.com/elonmusk/status/1531759476616974337",
-          "publishedOn": "2022-05-31T22:08:12.000Z",
-          "wordCount": 196,
-          "title": "Re @Erdayastronaut Good interview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531757243489738754",
-          "author": "Elon Musk",
-          "description": "Re @octonion 🤣",
-          "link": "https://twitter.com/elonmusk/status/1531757243489738754",
-          "publishedOn": "2022-05-31T21:59:20.000Z",
-          "wordCount": 196,
-          "title": "Re @octonion 🤣",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/SpaceX/status/1531735685933465600",
           "author": "Elon Musk",
           "description": "RT SpaceX\nTwo years ago yesterday, SpaceX launched its first human spaceflight to the @space_station\nNational Air and Space Museum: Two years ago today, astronauts Bob Behnken and Doug Hurley launched to the ISS on board Crew Dragon \"Endeavour,\" NASA’s first human spaceflight from American soil since the Space Shuttle retired: \n📷 : NASA/Bill Ingalls\n https://youtu.be/adrSnRJLikk",
@@ -163,36 +193,6 @@
           "publishedOn": "2022-05-31T20:33:40.000Z",
           "wordCount": 196,
           "title": "RT SpaceX: Two years ago yesterday, SpaceX launched its first human spaceflight to the @space_station",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531733235625074688",
-          "author": "Elon Musk",
-          "description": "10 years since SpaceX’s first mission to @Space_Station\nSpaceX: Today marks the 10th anniversary of completion of the COTS Demo Flight 2 (COTS 2) – Dragon’s first mission to and from the @Space_Station",
-          "link": "https://twitter.com/elonmusk/status/1531733235625074688",
-          "publishedOn": "2022-05-31T20:23:56.000Z",
-          "wordCount": 196,
-          "title": "10 years since SpaceX’s first mission to @Space_Station",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531730381187301378",
-          "author": "Elon Musk",
-          "description": "Re @SawyerMerritt Cybertruck body",
-          "link": "https://twitter.com/elonmusk/status/1531730381187301378",
-          "publishedOn": "2022-05-31T20:12:35.000Z",
-          "wordCount": 196,
-          "title": "Re @SawyerMerritt Cybertruck body",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1531699416490557440",
-          "author": "Elon Musk",
-          "description": "Re @BillyM2k @PinballReed @crikey_news @ummjackson @cameronwilson You’re humble bro. \nBilly’s sense of humor & irreverence is a big part of why people love Dogecoin.",
-          "link": "https://twitter.com/elonmusk/status/1531699416490557440",
-          "publishedOn": "2022-05-31T18:09:33.000Z",
-          "wordCount": 196,
-          "title": "Re @BillyM2k @PinballReed @crikey_news @ummjackson @cameronwilson You’re humble bro. Billy’s sense of humor & irreverence is a big part of why peopl...",
           "imageUrl": null
         },
         {
