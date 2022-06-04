@@ -1,219 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T02:45:52.508Z</id>
+    <id>urn:2022-06-04T02:41:09.984Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-03T02:45:52.508Z</updated>
+    <updated>2022-06-04T02:41:09.984Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @karpathy Sigh]]></title>
+        <id>https://twitter.com/elonmusk/status/1532906349574639618</id>
+        <link href="https://twitter.com/elonmusk/status/1532906349574639618"/>
+        <updated>2022-06-04T02:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @karpathy Sigh]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @RenataKonkoly Wow]]></title>
+        <id>https://twitter.com/elonmusk/status/1532903664943243265</id>
+        <link href="https://twitter.com/elonmusk/status/1532903664943243265"/>
+        <updated>2022-06-04T01:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @RenataKonkoly Wow]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wapodavenport 👍]]></title>
+        <id>https://twitter.com/elonmusk/status/1532900419084615680</id>
+        <link href="https://twitter.com/elonmusk/status/1532900419084615680"/>
+        <updated>2022-06-04T01:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @wapodavenport 👍]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johnny Rotten of The Sex Pistols]]></title>
+        <id>https://twitter.com/elonmusk/status/1532899718401073152</id>
+        <link href="https://twitter.com/elonmusk/status/1532899718401073152"/>
+        <updated>2022-06-04T01:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Johnny Rotten of The Sex Pistols]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @united 🥳]]></title>
+        <id>https://twitter.com/elonmusk/status/1532891877158047744</id>
+        <link href="https://twitter.com/elonmusk/status/1532891877158047744"/>
+        <updated>2022-06-04T01:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @united 🥳]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @adam_tooze @gladstein That is quite the trend]]></title>
+        <id>https://twitter.com/elonmusk/status/1532890557839814656</id>
+        <link href="https://twitter.com/elonmusk/status/1532890557839814656"/>
+        <updated>2022-06-04T01:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @adam_tooze @gladstein That is quite the trend]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @scoumbourdis Nice work by OpenAI. It is hard to do useful things.]]></title>
+        <id>https://twitter.com/elonmusk/status/1532889418066976769</id>
+        <link href="https://twitter.com/elonmusk/status/1532889418066976769"/>
+        <updated>2022-06-04T00:58:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @scoumbourdis Nice work by OpenAI. It is hard to do useful things.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV @kgee @EliBurton_ @klwtts @JackBox Good interview]]></title>
+        <id>https://twitter.com/elonmusk/status/1532794333669228545</id>
+        <link href="https://twitter.com/elonmusk/status/1532794333669228545"/>
+        <updated>2022-06-03T18:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @kgee @EliBurton_ @klwtts @JackBox Good interview]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Forbes Thanks Mr President!]]></title>
+        <id>https://twitter.com/elonmusk/status/1532743768503459843</id>
+        <link href="https://twitter.com/elonmusk/status/1532743768503459843"/>
+        <updated>2022-06-03T15:19:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @Forbes Thanks Mr President! https://www.nasa.gov/press-release/as-artemis-moves-forward-nasa-picks-spacex-to-land-next-americans-on-moon]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole @SpaceX That is its primary purpose]]></title>
+        <id>https://twitter.com/elonmusk/status/1532733090728222723</id>
+        <link href="https://twitter.com/elonmusk/status/1532733090728222723"/>
+        <updated>2022-06-03T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole @SpaceX That is its primary purpose]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole 70 is currently the age when you receive maximum social security benefits. In other words, that’s when the govt concludes that you can’...]]></title>
+        <id>https://twitter.com/elonmusk/status/1532728628378746885</id>
+        <link href="https://twitter.com/elonmusk/status/1532728628378746885"/>
+        <updated>2022-06-03T14:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole 70 is currently the age when you receive maximum social security benefits. In other words, that’s when the govt concludes that you can’t hold a job!!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stats_feed !!]]></title>
+        <id>https://twitter.com/elonmusk/status/1532728055965286400</id>
+        <link href="https://twitter.com/elonmusk/status/1532728055965286400"/>
+        <updated>2022-06-03T14:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @stats_feed !!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole Open primaries sound like a good way to move candidates to be more centrist. Term limits help with the gerontocracy problem, but, frankly...]]></title>
+        <id>https://twitter.com/elonmusk/status/1532727837744107523</id>
+        <link href="https://twitter.com/elonmusk/status/1532727837744107523"/>
+        <updated>2022-06-03T14:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole Open primaries sound like a good way to move candidates to be more centrist.
+Term limits help with the gerontocracy problem, but, frankly, there should be a max age beyond which you can’t run (maybe 70?), just like there are min ages for house, senate & president.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @VW @Tesla Thanks, and also well done to you for advancing electric vehicles!]]></title>
+        <id>https://twitter.com/elonmusk/status/1532724097033052160</id>
+        <link href="https://twitter.com/elonmusk/status/1532724097033052160"/>
+        <updated>2022-06-03T14:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @VW @Tesla Thanks, and also well done to you for advancing electric vehicles!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @heydave7 No]]></title>
+        <id>https://twitter.com/elonmusk/status/1532722798917046275</id>
+        <link href="https://twitter.com/elonmusk/status/1532722798917046275"/>
+        <updated>2022-06-03T13:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @heydave7 No]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ExplainThisBob Once again, Bob nails it. Yes, I am endorsing a political candidate because he is competent!]]></title>
+        <id>https://twitter.com/elonmusk/status/1532716040916029441</id>
+        <link href="https://twitter.com/elonmusk/status/1532716040916029441"/>
+        <updated>2022-06-03T13:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @ExplainThisBob Once again, Bob nails it.
+Yes, I am endorsing a political candidate because he is competent!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Los Angeles is fortunate to have someone like Rick Caruso running for mayor. He’s awesome.]]></title>
+        <id>https://twitter.com/elonmusk/status/1532710931590959104</id>
+        <link href="https://twitter.com/elonmusk/status/1532710931590959104"/>
+        <updated>2022-06-03T13:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Los Angeles is fortunate to have someone like Rick Caruso running for mayor. He’s awesome.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @EvaFoxU Tesla AI Day #2 will be epic]]></title>
         <id>https://twitter.com/elonmusk/status/1532527411484626944</id>
         <link href="https://twitter.com/elonmusk/status/1532527411484626944"/>
         <updated>2022-06-03T00:59:42.000Z</updated>
         <summary type="html"><![CDATA[Re @EvaFoxU Tesla AI Day #2 will be epic]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then]]></title>
-        <id>https://twitter.com/elonmusk/status/1532525711763841043</id>
-        <link href="https://twitter.com/elonmusk/status/1532525711763841043"/>
-        <updated>2022-06-03T00:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WatchersTank @NASASpaceflight @SpaceX Cryogenic proof test passed]]></title>
-        <id>https://twitter.com/elonmusk/status/1532510690665283584</id>
-        <link href="https://twitter.com/elonmusk/status/1532510690665283584"/>
-        <updated>2022-06-02T23:53:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @WatchersTank @NASASpaceflight @SpaceX Cryogenic proof test passed]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @abledoc @scottfarkas @Tesla @JoeJustice Everyone eats same food, uses same restrooms, etc – no executive chef or other ivory tower stuff. There s...]]></title>
-        <id>https://twitter.com/elonmusk/status/1532403096680288256</id>
-        <link href="https://twitter.com/elonmusk/status/1532403096680288256"/>
-        <updated>2022-06-02T16:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @abledoc @scottfarkas @Tesla @JoeJustice Everyone eats same food, uses same restrooms, etc – no executive chef or other ivory tower stuff. 
-There shouldn’t be this workers vs management two-class system. Everyone is a worker.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jamesdouma @RadarMoron @JeffTutorials @karpathy Transformers are replacing C heuristics for post-processing of the vision NN’s “giant bag of poi...]]></title>
-        <id>https://twitter.com/elonmusk/status/1532274289893904384</id>
-        <link href="https://twitter.com/elonmusk/status/1532274289893904384"/>
-        <updated>2022-06-02T08:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @jamesdouma @RadarMoron @JeffTutorials @karpathy Transformers are replacing C heuristics for post-processing of the vision NN’s “giant bag of points”.
-[Side note: I hate the bloated mess that is modern C++, but love simple C, as you know what it will compile to in terms of actual CPU operations.]]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ExplainThisBob 😉]]></title>
-        <id>https://twitter.com/elonmusk/status/1532268658340265984</id>
-        <link href="https://twitter.com/elonmusk/status/1532268658340265984"/>
-        <updated>2022-06-02T07:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @ExplainThisBob 😉]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @scottfarkas The above set of tweets illustrate why recessions serve a vital economic cleansing function]]></title>
-        <id>https://twitter.com/elonmusk/status/1532267941512761346</id>
-        <link href="https://twitter.com/elonmusk/status/1532267941512761346"/>
-        <updated>2022-06-02T07:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @scottfarkas The above set of tweets illustrate why recessions serve a vital economic cleansing function]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @spideycyp_155 @eringriffith I never wanted to be CEO – just wanted to work on product/technology. Bill Harris sounded like he would be a great CE...]]></title>
-        <id>https://twitter.com/elonmusk/status/1532265043391291392</id>
-        <link href="https://twitter.com/elonmusk/status/1532265043391291392"/>
-        <updated>2022-06-02T07:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @spideycyp_155 @eringriffith I never wanted to be CEO – just wanted to work on product/technology. Bill Harris sounded like he would be a great CEO, given his Intuit experience, but he was not.
-Running companies hurts my heart, but I don’t see any other way to bring technology & design to fruition.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @OrbitHigher @JeffTutorials Yeah]]></title>
-        <id>https://twitter.com/elonmusk/status/1532239862438535168</id>
-        <link href="https://twitter.com/elonmusk/status/1532239862438535168"/>
-        <updated>2022-06-02T05:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @OrbitHigher @JeffTutorials Yeah]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @eringriffith Similar thing happened to X/PayPal in March 2000]]></title>
-        <id>https://twitter.com/elonmusk/status/1532237563582357504</id>
-        <link href="https://twitter.com/elonmusk/status/1532237563582357504"/>
-        <updated>2022-06-02T05:47:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @eringriffith Similar thing happened to X/PayPal in March 2000]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JeffTutorials We’re using more GPTs, as they now run natively on Tesla TRIP chip vs needing to round trip to iGPU]]></title>
-        <id>https://twitter.com/elonmusk/status/1532195571519430656</id>
-        <link href="https://twitter.com/elonmusk/status/1532195571519430656"/>
-        <updated>2022-06-02T03:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @JeffTutorials We’re using more GPTs, as they now run natively on Tesla TRIP chip vs needing to round trip to iGPU]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @justwidle2 @Tesla As I said in 2018 …]]></title>
-        <id>https://twitter.com/elonmusk/status/1532060134197047296</id>
-        <link href="https://twitter.com/elonmusk/status/1532060134197047296"/>
-        <updated>2022-06-01T18:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @justwidle2 @Tesla As I said in 2018 …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re We are trying to accelerate sustainable energy, so what matters is how much someone can contribute to that goal. Personal choices are your own and ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1532030554778087424</id>
-        <link href="https://twitter.com/elonmusk/status/1532030554778087424"/>
-        <updated>2022-06-01T16:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Re We are trying to accelerate sustainable energy, so what matters is how much someone can contribute to that goal. 
-Personal choices are your own and are respected.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla scores 100/100 for 7th year in a row for LGBTQ equality]]></title>
-        <id>https://twitter.com/elonmusk/status/1532028817157591041</id>
-        <link href="https://twitter.com/elonmusk/status/1532028817157591041"/>
-        <updated>2022-06-01T15:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Tesla scores 100/100 for 7th year in a row for LGBTQ equality https://www.hrc.org/resources/corporate-equality-index]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @spideycyp_155 @AndrewYang I will donate to centrist candidates in both parties]]></title>
-        <id>https://twitter.com/elonmusk/status/1531890215794745344</id>
-        <link href="https://twitter.com/elonmusk/status/1531890215794745344"/>
-        <updated>2022-06-01T06:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @spideycyp_155 @AndrewYang I will donate to centrist candidates in both parties]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @AndrewYang Is this a reference to open primaries? I think those are a good idea. I am in favor of anything that would result in more centrist cand...]]></title>
-        <id>https://twitter.com/elonmusk/status/1531888685666508800</id>
-        <link href="https://twitter.com/elonmusk/status/1531888685666508800"/>
-        <updated>2022-06-01T06:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @AndrewYang Is this a reference to open primaries? I think those are a good idea. 
-I am in favor of anything that would result in more centrist candidates being elected!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PPathole @Rainmaker1973 The amazing part will be having an orbital rocket that is fully & rapidly reusable with any payload at all! Everyone else ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1531884243097378816</id>
-        <link href="https://twitter.com/elonmusk/status/1531884243097378816"/>
-        <updated>2022-06-01T06:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole @Rainmaker1973 The amazing part will be having an orbital rocket that is fully & rapidly reusable with any payload at all!
-Everyone else gave up when they realized that their fully reusable payload<0.
-We still have a long way to go.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Rainmaker1973 The specs on Wikipedia aren’t quite right, but close enough. Thrust, liftoff mass, length & payload will grow over time.]]></title>
-        <id>https://twitter.com/elonmusk/status/1531880109225005056</id>
-        <link href="https://twitter.com/elonmusk/status/1531880109225005056"/>
-        <updated>2022-06-01T06:07:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @Rainmaker1973 The specs on Wikipedia aren’t quite right, but close enough.
-Thrust, liftoff mass, length & payload will grow over time.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Two years ago yesterday, SpaceX launched its first human spaceflight to the @space_station]]></title>
-        <id>https://twitter.com/SpaceX/status/1531735685933465600</id>
-        <link href="https://twitter.com/SpaceX/status/1531735685933465600"/>
-        <updated>2022-05-31T20:33:40.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Two years ago yesterday, SpaceX launched its first human spaceflight to the @space_station
-National Air and Space Museum: Two years ago today, astronauts Bob Behnken and Doug Hurley launched to the ISS on board Crew Dragon "Endeavour," NASA’s first human spaceflight from American soil since the Space Shuttle retired: 
-📷 : NASA/Bill Ingalls
- https://youtu.be/adrSnRJLikk]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: Tesla navigation will now take predicted crosswind, headwind, humidity & temperature into account for calculating battery % on arrival]]></title>
-        <id>https://twitter.com/Tesla/status/1530594154971299841</id>
-        <link href="https://twitter.com/Tesla/status/1530594154971299841"/>
-        <updated>2022-05-28T16:57:38.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Tesla navigation will now take predicted crosswind, headwind, humidity & temperature into account for calculating battery % on arrival]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
