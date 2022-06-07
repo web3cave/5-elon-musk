@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-06T02:51:18.283Z</id>
+    <id>urn:2022-06-07T02:48:55.454Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-06T02:51:18.283Z</updated>
+    <updated>2022-06-07T02:48:55.454Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What resolution is life in, 8k? – SJM]]></title>
+        <id>https://twitter.com/elonmusk/status/1533857698575310848</id>
+        <link href="https://twitter.com/elonmusk/status/1533857698575310848"/>
+        <updated>2022-06-06T17:05:47.000Z</updated>
+        <summary type="html"><![CDATA[What resolution is life in, 8k? – SJM]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @realMeetKevin Correct]]></title>
+        <id>https://twitter.com/elonmusk/status/1533839270976204801</id>
+        <link href="https://twitter.com/elonmusk/status/1533839270976204801"/>
+        <updated>2022-06-06T15:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @realMeetKevin Correct]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @realchrisrufo @Liv_Boeree There are still some great journalists at WaPo, but the trend is super bad]]></title>
+        <id>https://twitter.com/elonmusk/status/1533834416656486401</id>
+        <link href="https://twitter.com/elonmusk/status/1533834416656486401"/>
+        <updated>2022-06-06T15:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @realchrisrufo @Liv_Boeree There are still some great journalists at WaPo, but the trend is super bad]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @corkyjames @realchrisrufo 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1533834190600347648</id>
+        <link href="https://twitter.com/elonmusk/status/1533834190600347648"/>
+        <updated>2022-06-06T15:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @corkyjames @realchrisrufo 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole Romeo and Juliet]]></title>
+        <id>https://twitter.com/elonmusk/status/1533633958776291333</id>
+        <link href="https://twitter.com/elonmusk/status/1533633958776291333"/>
+        <updated>2022-06-06T02:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole Romeo and Juliet]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k 🤣👍]]></title>
+        <id>https://twitter.com/elonmusk/status/1533629871234097152</id>
+        <link href="https://twitter.com/elonmusk/status/1533629871234097152"/>
+        <updated>2022-06-06T02:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k 🤣👍]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If chess was released as a video game]]></title>
+        <id>https://twitter.com/elonmusk/status/1533619000986554368</id>
+        <link href="https://twitter.com/elonmusk/status/1533619000986554368"/>
+        <updated>2022-06-06T01:17:17.000Z</updated>
+        <summary type="html"><![CDATA[If chess was released as a video game]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EvaFoxU @WholeMarsBlog Such a dapper fellow!]]></title>
+        <id>https://twitter.com/elonmusk/status/1533617320769232900</id>
+        <link href="https://twitter.com/elonmusk/status/1533617320769232900"/>
+        <updated>2022-06-06T01:10:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU @WholeMarsBlog Such a dapper fellow!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The acid test for any two competing socioeconomic systems is which side needs to build a wall to keep people from escaping? That’s the bad one!]]></title>
+        <id>https://twitter.com/elonmusk/status/1533616384747442176</id>
+        <link href="https://twitter.com/elonmusk/status/1533616384747442176"/>
+        <updated>2022-06-06T01:06:53.000Z</updated>
+        <summary type="html"><![CDATA[The acid test for any two competing socioeconomic systems is which side needs to build a wall to keep people from escaping? That’s the bad one!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Realized what I have in common with environmentalists, but also why they’re so annoyingly wrong: They are conservationists of what is, whereas they s...]]></title>
         <id>https://twitter.com/elonmusk/status/1533606056756137985</id>
@@ -97,119 +187,6 @@ HEPA air filter in Model Y, S and X removes >99.97% of dust, pollen, mold, bacte
         <link href="https://twitter.com/elonmusk/status/1533413197629296640"/>
         <updated>2022-06-05T11:39:30.000Z</updated>
         <summary type="html"><![CDATA[Some hate humanity, but I love humanity so much]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @baierm588 Build 1000+ Starships to transport life to Mars. Basically, (very) modern Noah’s Arks.]]></title>
-        <id>https://twitter.com/elonmusk/status/1533412524418387970</id>
-        <link href="https://twitter.com/elonmusk/status/1533412524418387970"/>
-        <updated>2022-06-05T11:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @baierm588 Build 1000+ Starships to transport life to Mars. Basically, (very) modern Noah’s Arks.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RenataKonkoly Maybe we should make an actual Starship model that dispenses pez for our merch store]]></title>
-        <id>https://twitter.com/elonmusk/status/1533411722618449921</id>
-        <link href="https://twitter.com/elonmusk/status/1533411722618449921"/>
-        <updated>2022-06-05T11:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @RenataKonkoly Maybe we should make an actual Starship model that dispenses pez for our merch store]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making life multiplanetary expands the scope & scale of consciousness. It also enables us to backup the biosphere, protecting all life as we know it f...]]></title>
-        <id>https://twitter.com/elonmusk/status/1533410745429413888</id>
-        <link href="https://twitter.com/elonmusk/status/1533410745429413888"/>
-        <updated>2022-06-05T11:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Making life multiplanetary expands the scope & scale of consciousness. 
-It also enables us to backup the biosphere, protecting all life as we know it from a calamity on Earth.
-Humanity is life’s steward, as no other species can transport life to Mars. We can’t let them down.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deck from SpaceX all-hands update talk I gave last week]]></title>
-        <id>https://twitter.com/elonmusk/status/1533408313894912001</id>
-        <link href="https://twitter.com/elonmusk/status/1533408313894912001"/>
-        <updated>2022-06-05T11:20:06.000Z</updated>
-        <summary type="html"><![CDATA[Deck from SpaceX all-hands update talk I gave last week]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @GalaxyHeroesGHC It should be possible]]></title>
-        <id>https://twitter.com/elonmusk/status/1533393917797965824</id>
-        <link href="https://twitter.com/elonmusk/status/1533393917797965824"/>
-        <updated>2022-06-05T10:22:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @GalaxyHeroesGHC It should be possible]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @lexfridman That is why we must expand the scope & scale of consciousness – so that we may learn the answers to these questions]]></title>
-        <id>https://twitter.com/elonmusk/status/1533393128593444870</id>
-        <link href="https://twitter.com/elonmusk/status/1533393128593444870"/>
-        <updated>2022-06-05T10:19:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @lexfridman That is why we must expand the scope & scale of consciousness – so that we may learn the answers to these questions]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Tesmanian_com Accurate]]></title>
-        <id>https://twitter.com/elonmusk/status/1533285679035207681</id>
-        <link href="https://twitter.com/elonmusk/status/1533285679035207681"/>
-        <updated>2022-06-05T03:12:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @Tesmanian_com Accurate]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TimDOES @chazman @aelluswamy Not perfect, but should be better]]></title>
-        <id>https://twitter.com/elonmusk/status/1533256317766443008</id>
-        <link href="https://twitter.com/elonmusk/status/1533256317766443008"/>
-        <updated>2022-06-05T01:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Re @TimDOES @chazman @aelluswamy Not perfect, but should be better]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @chazman @aelluswamy 10.13 will solve your left turn most of the time]]></title>
-        <id>https://twitter.com/elonmusk/status/1533255046430867458</id>
-        <link href="https://twitter.com/elonmusk/status/1533255046430867458"/>
-        <updated>2022-06-05T01:11:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @chazman @aelluswamy 10.13 will solve your left turn most of the time]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @GasOff2 Yes, car will navigate to a pin location, even if in a complex surface parking lot or hotel entrance. When in covered or underground parki...]]></title>
-        <id>https://twitter.com/elonmusk/status/1533204963597459456</id>
-        <link href="https://twitter.com/elonmusk/status/1533204963597459456"/>
-        <updated>2022-06-04T21:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @GasOff2 Yes, car will navigate to a pin location, even if in a complex surface parking lot or hotel entrance.
-When in covered or underground parking lots, car will have to navigate using only inertial measurement, wheel movement & vision, as GPS signal is no longer available.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @slashdot Remarkable, although, as noted, there are big differences between humans and mice. We can cure a mouse of almost any cancer, but most of ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1533182094784057346</id>
-        <link href="https://twitter.com/elonmusk/status/1533182094784057346"/>
-        <updated>2022-06-04T20:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @slashdot Remarkable, although, as noted, there are big differences between humans and mice. We can cure a mouse of almost any cancer, but most of those cures don’t work with humans.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
