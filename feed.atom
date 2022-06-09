@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T02:53:52.610Z</id>
+    <id>urn:2022-06-09T02:54:13.389Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-08T02:53:52.610Z</updated>
+    <updated>2022-06-09T02:54:13.389Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9 launches the Nilesat 301 communications satellite to a geosynchronous transfer orbit from Florida]]></title>
+        <id>https://twitter.com/SpaceX/status/1534684542304256000</id>
+        <link href="https://twitter.com/SpaceX/status/1534684542304256000"/>
+        <updated>2022-06-08T23:51:22.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Falcon 9 launches the Nilesat 301 communications satellite to a geosynchronous transfer orbit from Florida]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog My diabolical plan is coming together!]]></title>
+        <id>https://twitter.com/elonmusk/status/1534596916297617410</id>
+        <link href="https://twitter.com/elonmusk/status/1534596916297617410"/>
+        <updated>2022-06-08T18:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog My diabolical plan is coming together!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @historydefined If little red riding hood was on psychedelics, this whole story makes a ton of sense]]></title>
+        <id>https://twitter.com/elonmusk/status/1534460211259355136</id>
+        <link href="https://twitter.com/elonmusk/status/1534460211259355136"/>
+        <updated>2022-06-08T08:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @historydefined If little red riding hood was on psychedelics, this whole story makes a ton of sense]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jeremychrysler @Tesla We will look into this & adjust. In general, I’d recommend against using recirc, as the range advantage is small.]]></title>
+        <id>https://twitter.com/elonmusk/status/1534363323348705283</id>
+        <link href="https://twitter.com/elonmusk/status/1534363323348705283"/>
+        <updated>2022-06-08T02:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @jeremychrysler @Tesla We will look into this & adjust. In general, I’d recommend against using recirc, as the range advantage is small.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @historydefined Seems odd that anyone would mistake a talking wolf for their grandmother. What sort of octave range does that wolf have anyway!?]]></title>
+        <id>https://twitter.com/elonmusk/status/1534360371594674178</id>
+        <link href="https://twitter.com/elonmusk/status/1534360371594674178"/>
+        <updated>2022-06-08T02:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @historydefined Seems odd that anyone would mistake a talking wolf for their grandmother. What sort of octave range does that wolf have anyway!?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @TrungTPhan 👀]]></title>
         <id>https://twitter.com/elonmusk/status/1534306727402819586</id>
@@ -140,69 +191,6 @@
         <link href="https://twitter.com/elonmusk/status/1533834190600347648"/>
         <updated>2022-06-06T15:32:22.000Z</updated>
         <summary type="html"><![CDATA[Re @corkyjames @realchrisrufo 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BBC_Future Most people still think China has a one-child policy. China had its lowest birthdate ever last year, despite having a three-child polic...]]></title>
-        <id>https://twitter.com/elonmusk/status/1533798671984119808</id>
-        <link href="https://twitter.com/elonmusk/status/1533798671984119808"/>
-        <updated>2022-06-06T13:11:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @BBC_Future Most people still think China has a one-child policy. 
-China had its lowest birthdate ever last year, despite having a three-child policy!
-At current birth rates, China will lose ~40% of people every generation!
-Population collapse.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PPathole Romeo and Juliet]]></title>
-        <id>https://twitter.com/elonmusk/status/1533633958776291333</id>
-        <link href="https://twitter.com/elonmusk/status/1533633958776291333"/>
-        <updated>2022-06-06T02:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole Romeo and Juliet]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k 🤣👍]]></title>
-        <id>https://twitter.com/elonmusk/status/1533629871234097152</id>
-        <link href="https://twitter.com/elonmusk/status/1533629871234097152"/>
-        <updated>2022-06-06T02:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k 🤣👍]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If chess was released as a video game]]></title>
-        <id>https://twitter.com/elonmusk/status/1533619000986554368</id>
-        <link href="https://twitter.com/elonmusk/status/1533619000986554368"/>
-        <updated>2022-06-06T01:17:17.000Z</updated>
-        <summary type="html"><![CDATA[If chess was released as a video game]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU @WholeMarsBlog Such a dapper fellow!]]></title>
-        <id>https://twitter.com/elonmusk/status/1533617320769232900</id>
-        <link href="https://twitter.com/elonmusk/status/1533617320769232900"/>
-        <updated>2022-06-06T01:10:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU @WholeMarsBlog Such a dapper fellow!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The acid test for any two competing socioeconomic systems is which side needs to build a wall to keep people from escaping? That’s the bad one!]]></title>
-        <id>https://twitter.com/elonmusk/status/1533616384747442176</id>
-        <link href="https://twitter.com/elonmusk/status/1533616384747442176"/>
-        <updated>2022-06-06T01:06:53.000Z</updated>
-        <summary type="html"><![CDATA[The acid test for any two competing socioeconomic systems is which side needs to build a wall to keep people from escaping? That’s the bad one!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
