@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T02:54:13.389Z</id>
+    <id>urn:2022-06-10T02:53:02.722Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-09T02:54:13.389Z</updated>
+    <updated>2022-06-10T02:53:02.722Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @RenataKonkoly @danielcrosby I heard Top Gun 2 is good. Will check it out.]]></title>
+        <id>https://twitter.com/elonmusk/status/1534981104150757376</id>
+        <link href="https://twitter.com/elonmusk/status/1534981104150757376"/>
+        <updated>2022-06-09T19:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @RenataKonkoly @danielcrosby I heard Top Gun 2 is good. Will check it out.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @danielcrosby There’s something special about enjoying movies in a theater with total strangers. I hope that never goes away.]]></title>
+        <id>https://twitter.com/elonmusk/status/1534979855527428100</id>
+        <link href="https://twitter.com/elonmusk/status/1534979855527428100"/>
+        <updated>2022-06-09T19:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @danielcrosby There’s something special about enjoying movies in a theater with total strangers. I hope that never goes away.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @RenataKonkoly @danielcrosby Doctor Strange in the Multiverse of Madness]]></title>
+        <id>https://twitter.com/elonmusk/status/1534978477123940352</id>
+        <link href="https://twitter.com/elonmusk/status/1534978477123940352"/>
+        <updated>2022-06-09T19:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @RenataKonkoly @danielcrosby Doctor Strange in the Multiverse of Madness]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @danielcrosby I don’t even care if it lowers my life expectancy]]></title>
+        <id>https://twitter.com/elonmusk/status/1534977771239251969</id>
+        <link href="https://twitter.com/elonmusk/status/1534977771239251969"/>
+        <updated>2022-06-09T19:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @danielcrosby I don’t even care if it lowers my life expectancy]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @danielcrosby Diet Coke is amazing, especially the soda fountain version at movie theaters with salt & butter popcorn]]></title>
+        <id>https://twitter.com/elonmusk/status/1534977373124411402</id>
+        <link href="https://twitter.com/elonmusk/status/1534977373124411402"/>
+        <updated>2022-06-09T19:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @danielcrosby Diet Coke is amazing, especially the soda fountain version at movie theaters with salt & butter popcorn]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TrungTPhan 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1534942442365018112</id>
+        <link href="https://twitter.com/elonmusk/status/1534942442365018112"/>
+        <updated>2022-06-09T16:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TrungTPhan If the average length of a tweet (minus headers) is ~100 bytes of text, that’s only 50GB. You could fit it on a USB stick.]]></title>
+        <id>https://twitter.com/elonmusk/status/1534939289653592065</id>
+        <link href="https://twitter.com/elonmusk/status/1534939289653592065"/>
+        <updated>2022-06-09T16:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan If the average length of a tweet (minus headers) is ~100 bytes of text, that’s only 50GB. You could fit it on a USB stick.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @RobHerring @OANN Only Twitter]]></title>
+        <id>https://twitter.com/elonmusk/status/1534938078279880706</id>
+        <link href="https://twitter.com/elonmusk/status/1534938078279880706"/>
+        <updated>2022-06-09T16:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @RobHerring @OANN Only Twitter]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kchau @Tesla @WholeMarsBlog @SawyerMerritt Glad they’re ok]]></title>
+        <id>https://twitter.com/elonmusk/status/1534934502614638593</id>
+        <link href="https://twitter.com/elonmusk/status/1534934502614638593"/>
+        <updated>2022-06-09T16:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @kchau @Tesla @WholeMarsBlog @SawyerMerritt Glad they’re ok]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT SpaceX: Falcon 9 launches the Nilesat 301 communications satellite to a geosynchronous transfer orbit from Florida]]></title>
         <id>https://twitter.com/SpaceX/status/1534684542304256000</id>
@@ -101,96 +191,6 @@ Falcon 9 launches the Nilesat 301 communications satellite to a geosynchronous t
         <link href="https://twitter.com/elonmusk/status/1534198181126238208"/>
         <updated>2022-06-07T15:38:45.000Z</updated>
         <summary type="html"><![CDATA[Re @dogeofficialceo 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @OwenSparks_ Yeah, exactly. Also, other companies are using the Tesla name for solar and Powerwall. Will put a stop to that.]]></title>
-        <id>https://twitter.com/elonmusk/status/1534197785460740098</id>
-        <link href="https://twitter.com/elonmusk/status/1534197785460740098"/>
-        <updated>2022-06-07T15:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @OwenSparks_ Yeah, exactly. Also, other companies are using the Tesla name for solar and Powerwall. Will put a stop to that.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube seems to be nonstop scam ads]]></title>
-        <id>https://twitter.com/elonmusk/status/1534196611978383361</id>
-        <link href="https://twitter.com/elonmusk/status/1534196611978383361"/>
-        <updated>2022-06-07T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[YouTube seems to be nonstop scam ads]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV @PPathole It looks like the future]]></title>
-        <id>https://twitter.com/elonmusk/status/1534186240672550913</id>
-        <link href="https://twitter.com/elonmusk/status/1534186240672550913"/>
-        <updated>2022-06-07T14:51:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV @PPathole It looks like the future]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PPathole cgi irl]]></title>
-        <id>https://twitter.com/elonmusk/status/1534186170959073281</id>
-        <link href="https://twitter.com/elonmusk/status/1534186170959073281"/>
-        <updated>2022-06-07T14:51:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole cgi irl]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PPathole It will be our best product ever imo]]></title>
-        <id>https://twitter.com/elonmusk/status/1533992088206921728</id>
-        <link href="https://twitter.com/elonmusk/status/1533992088206921728"/>
-        <updated>2022-06-07T01:59:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole It will be our best product ever imo]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What resolution is life in, 8k? – SJM]]></title>
-        <id>https://twitter.com/elonmusk/status/1533857698575310848</id>
-        <link href="https://twitter.com/elonmusk/status/1533857698575310848"/>
-        <updated>2022-06-06T17:05:47.000Z</updated>
-        <summary type="html"><![CDATA[What resolution is life in, 8k? – SJM]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @realMeetKevin Correct]]></title>
-        <id>https://twitter.com/elonmusk/status/1533839270976204801</id>
-        <link href="https://twitter.com/elonmusk/status/1533839270976204801"/>
-        <updated>2022-06-06T15:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @realMeetKevin Correct]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @realchrisrufo @Liv_Boeree There are still some great journalists at WaPo, but the trend is super bad]]></title>
-        <id>https://twitter.com/elonmusk/status/1533834416656486401</id>
-        <link href="https://twitter.com/elonmusk/status/1533834416656486401"/>
-        <updated>2022-06-06T15:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @realchrisrufo @Liv_Boeree There are still some great journalists at WaPo, but the trend is super bad]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @corkyjames @realchrisrufo 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1533834190600347648</id>
-        <link href="https://twitter.com/elonmusk/status/1533834190600347648"/>
-        <updated>2022-06-06T15:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @corkyjames @realchrisrufo 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>

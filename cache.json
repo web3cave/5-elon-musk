@@ -6,6 +6,96 @@
       "siteUrl": "https://twitter.com/elonmusk",
       "articles": [
         {
+          "id": "https://twitter.com/elonmusk/status/1534981104150757376",
+          "author": "Elon Musk",
+          "description": "Re @RenataKonkoly @danielcrosby I heard Top Gun 2 is good. Will check it out.",
+          "link": "https://twitter.com/elonmusk/status/1534981104150757376",
+          "publishedOn": "2022-06-09T19:29:48.000Z",
+          "wordCount": 196,
+          "title": "Re @RenataKonkoly @danielcrosby I heard Top Gun 2 is good. Will check it out.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1534979855527428100",
+          "author": "Elon Musk",
+          "description": "Re @danielcrosby There’s something special about enjoying movies in a theater with total strangers. I hope that never goes away.",
+          "link": "https://twitter.com/elonmusk/status/1534979855527428100",
+          "publishedOn": "2022-06-09T19:24:50.000Z",
+          "wordCount": 196,
+          "title": "Re @danielcrosby There’s something special about enjoying movies in a theater with total strangers. I hope that never goes away.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1534978477123940352",
+          "author": "Elon Musk",
+          "description": "Re @RenataKonkoly @danielcrosby Doctor Strange in the Multiverse of Madness",
+          "link": "https://twitter.com/elonmusk/status/1534978477123940352",
+          "publishedOn": "2022-06-09T19:19:22.000Z",
+          "wordCount": 196,
+          "title": "Re @RenataKonkoly @danielcrosby Doctor Strange in the Multiverse of Madness",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1534977771239251969",
+          "author": "Elon Musk",
+          "description": "Re @danielcrosby I don’t even care if it lowers my life expectancy",
+          "link": "https://twitter.com/elonmusk/status/1534977771239251969",
+          "publishedOn": "2022-06-09T19:16:33.000Z",
+          "wordCount": 196,
+          "title": "Re @danielcrosby I don’t even care if it lowers my life expectancy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1534977373124411402",
+          "author": "Elon Musk",
+          "description": "Re @danielcrosby Diet Coke is amazing, especially the soda fountain version at movie theaters with salt & butter popcorn",
+          "link": "https://twitter.com/elonmusk/status/1534977373124411402",
+          "publishedOn": "2022-06-09T19:14:58.000Z",
+          "wordCount": 196,
+          "title": "Re @danielcrosby Diet Coke is amazing, especially the soda fountain version at movie theaters with salt & butter popcorn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1534942442365018112",
+          "author": "Elon Musk",
+          "description": "Re @TrungTPhan 🤣",
+          "link": "https://twitter.com/elonmusk/status/1534942442365018112",
+          "publishedOn": "2022-06-09T16:56:10.000Z",
+          "wordCount": 196,
+          "title": "Re @TrungTPhan 🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1534939289653592065",
+          "author": "Elon Musk",
+          "description": "Re @TrungTPhan If the average length of a tweet (minus headers) is ~100 bytes of text, that’s only 50GB. You could fit it on a USB stick.",
+          "link": "https://twitter.com/elonmusk/status/1534939289653592065",
+          "publishedOn": "2022-06-09T16:43:39.000Z",
+          "wordCount": 196,
+          "title": "Re @TrungTPhan If the average length of a tweet (minus headers) is ~100 bytes of text, that’s only 50GB. You could fit it on a USB stick.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1534938078279880706",
+          "author": "Elon Musk",
+          "description": "Re @RobHerring @OANN Only Twitter",
+          "link": "https://twitter.com/elonmusk/status/1534938078279880706",
+          "publishedOn": "2022-06-09T16:38:50.000Z",
+          "wordCount": 196,
+          "title": "Re @RobHerring @OANN Only Twitter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1534934502614638593",
+          "author": "Elon Musk",
+          "description": "Re @kchau @Tesla @WholeMarsBlog @SawyerMerritt Glad they’re ok",
+          "link": "https://twitter.com/elonmusk/status/1534934502614638593",
+          "publishedOn": "2022-06-09T16:24:37.000Z",
+          "wordCount": 196,
+          "title": "Re @kchau @Tesla @WholeMarsBlog @SawyerMerritt Glad they’re ok",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/SpaceX/status/1534684542304256000",
           "author": "Elon Musk",
           "description": "RT SpaceX\nFalcon 9 launches the Nilesat 301 communications satellite to a geosynchronous transfer orbit from Florida",
@@ -103,96 +193,6 @@
           "publishedOn": "2022-06-07T15:38:45.000Z",
           "wordCount": 196,
           "title": "Re @dogeofficialceo 🤣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1534197785460740098",
-          "author": "Elon Musk",
-          "description": "Re @OwenSparks_ Yeah, exactly. Also, other companies are using the Tesla name for solar and Powerwall. Will put a stop to that.",
-          "link": "https://twitter.com/elonmusk/status/1534197785460740098",
-          "publishedOn": "2022-06-07T15:37:10.000Z",
-          "wordCount": 196,
-          "title": "Re @OwenSparks_ Yeah, exactly. Also, other companies are using the Tesla name for solar and Powerwall. Will put a stop to that.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1534196611978383361",
-          "author": "Elon Musk",
-          "description": "YouTube seems to be nonstop scam ads",
-          "link": "https://twitter.com/elonmusk/status/1534196611978383361",
-          "publishedOn": "2022-06-07T15:32:30.000Z",
-          "wordCount": 196,
-          "title": "YouTube seems to be nonstop scam ads",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1534186240672550913",
-          "author": "Elon Musk",
-          "description": "Re @teslaownersSV @PPathole It looks like the future",
-          "link": "https://twitter.com/elonmusk/status/1534186240672550913",
-          "publishedOn": "2022-06-07T14:51:18.000Z",
-          "wordCount": 196,
-          "title": "Re @teslaownersSV @PPathole It looks like the future",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1534186170959073281",
-          "author": "Elon Musk",
-          "description": "Re @PPathole cgi irl",
-          "link": "https://twitter.com/elonmusk/status/1534186170959073281",
-          "publishedOn": "2022-06-07T14:51:01.000Z",
-          "wordCount": 196,
-          "title": "Re @PPathole cgi irl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1533992088206921728",
-          "author": "Elon Musk",
-          "description": "Re @PPathole It will be our best product ever imo",
-          "link": "https://twitter.com/elonmusk/status/1533992088206921728",
-          "publishedOn": "2022-06-07T01:59:48.000Z",
-          "wordCount": 196,
-          "title": "Re @PPathole It will be our best product ever imo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1533857698575310848",
-          "author": "Elon Musk",
-          "description": "What resolution is life in, 8k? – SJM",
-          "link": "https://twitter.com/elonmusk/status/1533857698575310848",
-          "publishedOn": "2022-06-06T17:05:47.000Z",
-          "wordCount": 196,
-          "title": "What resolution is life in, 8k? – SJM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1533839270976204801",
-          "author": "Elon Musk",
-          "description": "Re @realMeetKevin Correct",
-          "link": "https://twitter.com/elonmusk/status/1533839270976204801",
-          "publishedOn": "2022-06-06T15:52:34.000Z",
-          "wordCount": 196,
-          "title": "Re @realMeetKevin Correct",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1533834416656486401",
-          "author": "Elon Musk",
-          "description": "Re @realchrisrufo @Liv_Boeree There are still some great journalists at WaPo, but the trend is super bad",
-          "link": "https://twitter.com/elonmusk/status/1533834416656486401",
-          "publishedOn": "2022-06-06T15:33:16.000Z",
-          "wordCount": 196,
-          "title": "Re @realchrisrufo @Liv_Boeree There are still some great journalists at WaPo, but the trend is super bad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1533834190600347648",
-          "author": "Elon Musk",
-          "description": "Re @corkyjames @realchrisrufo 🤣",
-          "link": "https://twitter.com/elonmusk/status/1533834190600347648",
-          "publishedOn": "2022-06-06T15:32:22.000Z",
-          "wordCount": 196,
-          "title": "Re @corkyjames @realchrisrufo 🤣",
           "imageUrl": null
         }
       ]
