@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-13T02:58:52.308Z</id>
+    <id>urn:2022-06-14T03:08:06.785Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-13T02:58:52.308Z</updated>
+    <updated>2022-06-14T03:08:06.785Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @cleantechnica Good progress]]></title>
+        <id>https://twitter.com/elonmusk/status/1536467179226398720</id>
+        <link href="https://twitter.com/elonmusk/status/1536467179226398720"/>
+        <updated>2022-06-13T21:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @cleantechnica Good progress]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @lexfridman @Twitter 💯]]></title>
+        <id>https://twitter.com/elonmusk/status/1536390773872148484</id>
+        <link href="https://twitter.com/elonmusk/status/1536390773872148484"/>
+        <updated>2022-06-13T16:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @lexfridman @Twitter 💯]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BLKMDL3 @Tesla Nice!]]></title>
+        <id>https://twitter.com/elonmusk/status/1536238009988816896</id>
+        <link href="https://twitter.com/elonmusk/status/1536238009988816896"/>
+        <updated>2022-06-13T06:44:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @BLKMDL3 @Tesla Nice!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @techAU We’re working on accelerating RHD Model Y production. Didn’t expect demand to be so high!]]></title>
+        <id>https://twitter.com/elonmusk/status/1536235984341327873</id>
+        <link href="https://twitter.com/elonmusk/status/1536235984341327873"/>
+        <updated>2022-06-13T06:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @techAU We’re working on accelerating RHD Model Y production. Didn’t expect demand to be so high!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @amariei_p @brian_heide @TrungTPhan Yup]]></title>
         <id>https://twitter.com/elonmusk/status/1536099342775468032</id>
@@ -161,46 +201,6 @@
         <link href="https://twitter.com/elonmusk/status/1536061227956375552"/>
         <updated>2022-06-12T19:01:50.000Z</updated>
         <summary type="html"><![CDATA[Re @BillyM2k Indeed, the rivalry is strong]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @austinbarnard45 Let’s try haha]]></title>
-        <id>https://twitter.com/elonmusk/status/1536058527386574848</id>
-        <link href="https://twitter.com/elonmusk/status/1536058527386574848"/>
-        <updated>2022-06-12T18:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @austinbarnard45 Let’s try haha]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Austin weirder!]]></title>
-        <id>https://twitter.com/elonmusk/status/1536057154544848901</id>
-        <link href="https://twitter.com/elonmusk/status/1536057154544848901"/>
-        <updated>2022-06-12T18:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Make Austin weirder!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k Even if you’re being crucified?]]></title>
-        <id>https://twitter.com/elonmusk/status/1536056891754913794</id>
-        <link href="https://twitter.com/elonmusk/status/1536056891754913794"/>
-        <updated>2022-06-12T18:44:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k Even if you’re being crucified?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ID_AA_Carmack Maybe a bug]]></title>
-        <id>https://twitter.com/elonmusk/status/1536055756893601793</id>
-        <link href="https://twitter.com/elonmusk/status/1536055756893601793"/>
-        <updated>2022-06-12T18:40:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @ID_AA_Carmack Maybe a bug]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
