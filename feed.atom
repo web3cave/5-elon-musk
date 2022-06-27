@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-26T03:07:59.920Z</id>
+    <id>urn:2022-06-27T03:11:23.100Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-26T03:07:59.920Z</updated>
+    <updated>2022-06-27T03:11:23.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -181,26 +181,6 @@ If they are successful, it would hurt the least served and completely unserved o
         <link href="https://twitter.com/elonmusk/status/1538943339776684034"/>
         <updated>2022-06-20T17:54:19.000Z</updated>
         <summary type="html"><![CDATA[Re @teslaownersSV @SpaceX Super talented team at SpaceX]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jmhorp @paulg Interesting]]></title>
-        <id>https://twitter.com/elonmusk/status/1538793660585857029</id>
-        <link href="https://twitter.com/elonmusk/status/1538793660585857029"/>
-        <updated>2022-06-20T07:59:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @jmhorp @paulg Interesting]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ilyasut Maybe we’re in a computer]]></title>
-        <id>https://twitter.com/elonmusk/status/1538681719779360768</id>
-        <link href="https://twitter.com/elonmusk/status/1538681719779360768"/>
-        <updated>2022-06-20T00:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @ilyasut Maybe we’re in a computer]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
