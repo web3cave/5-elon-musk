@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T03:12:49.922Z</id>
+    <id>urn:2022-07-05T03:09:06.715Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-04T03:12:49.922Z</updated>
+    <updated>2022-07-05T03:09:06.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elvis is just Elvish without an h]]></title>
+        <id>https://twitter.com/elonmusk/status/1544059562864640011</id>
+        <link href="https://twitter.com/elonmusk/status/1544059562864640011"/>
+        <updated>2022-07-04T20:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Elvis is just Elvish without an h]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy July 4th!]]></title>
+        <id>https://twitter.com/elonmusk/status/1544052094419832836</id>
+        <link href="https://twitter.com/elonmusk/status/1544052094419832836"/>
+        <updated>2022-07-04T20:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Happy July 4th!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1544051155562598401</id>
+        <link href="https://twitter.com/elonmusk/status/1544051155562598401"/>
+        <updated>2022-07-04T20:10:57.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @ResortsWorldLV @boringcompany @Vegas Great work!]]></title>
         <id>https://twitter.com/elonmusk/status/1543060584509366272</id>
@@ -151,56 +180,6 @@ If they are successful, it would hurt the least served and completely unserved o
         <link href="https://twitter.com/elonmusk/status/1539031248638812160"/>
         <updated>2022-06-20T23:43:38.000Z</updated>
         <summary type="html"><![CDATA[AI gets better every day]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Some great suggestions in the comments!]]></title>
-        <id>https://twitter.com/elonmusk/status/1538998865495564291</id>
-        <link href="https://twitter.com/elonmusk/status/1538998865495564291"/>
-        <updated>2022-06-20T21:34:57.000Z</updated>
-        <summary type="html"><![CDATA[Re Some great suggestions in the comments!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re But sometimes they’re out of stock]]></title>
-        <id>https://twitter.com/elonmusk/status/1538992942983127040</id>
-        <link href="https://twitter.com/elonmusk/status/1538992942983127040"/>
-        <updated>2022-06-20T21:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Re But sometimes they’re out of stock https://m.youtube.com/watch?v=Hz1JWzyvv8A]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @marenkahnert That was the largest wheel of cheese in the Beverly Hills Cheese Shop!]]></title>
-        <id>https://twitter.com/elonmusk/status/1538992456083161097</id>
-        <link href="https://twitter.com/elonmusk/status/1538992456083161097"/>
-        <updated>2022-06-20T21:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @marenkahnert That was the largest wheel of cheese in the Beverly Hills Cheese Shop!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV I love many cheeses, so hard to say that a particular one is best, but maybe Stilton]]></title>
-        <id>https://twitter.com/elonmusk/status/1538992101739855877</id>
-        <link href="https://twitter.com/elonmusk/status/1538992101739855877"/>
-        <updated>2022-06-20T21:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV I love many cheeses, so hard to say that a particular one is best, but maybe Stilton]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The sheer variety of cheese is amazing]]></title>
-        <id>https://twitter.com/elonmusk/status/1538991118603411461</id>
-        <link href="https://twitter.com/elonmusk/status/1538991118603411461"/>
-        <updated>2022-06-20T21:04:10.000Z</updated>
-        <summary type="html"><![CDATA[Re The sheer variety of cheese is amazing]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
