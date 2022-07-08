@@ -1,208 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-07T03:14:55.445Z</id>
+    <id>urn:2022-07-08T03:06:26.842Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-07T03:14:55.445Z</updated>
+    <updated>2022-07-08T03:06:26.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Highly recommend Revolutions by Mike Duncan, especially Season 10]]></title>
-        <id>https://twitter.com/elonmusk/status/1544790652969533441</id>
-        <link href="https://twitter.com/elonmusk/status/1544790652969533441"/>
-        <updated>2022-07-06T21:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Highly recommend Revolutions by Mike Duncan, especially Season 10 https://podcasts.apple.com/us/podcast/revolutions/id703889772]]></summary>
+        <title type="html"><![CDATA[Re @slashdot Great!]]></title>
+        <id>https://twitter.com/elonmusk/status/1545208079331074054</id>
+        <link href="https://twitter.com/elonmusk/status/1545208079331074054"/>
+        <updated>2022-07-08T00:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @slashdot Great!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @pmarca The world is actually vastly better than Orwell imagined, but there is also vastly more surveillance]]></title>
-        <id>https://twitter.com/elonmusk/status/1544764856762605568</id>
-        <link href="https://twitter.com/elonmusk/status/1544764856762605568"/>
-        <updated>2022-07-06T19:26:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @pmarca The world is actually vastly better than Orwell imagined, but there is also vastly more surveillance]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k @slashdot That is indeed the real question]]></title>
+        <id>https://twitter.com/elonmusk/status/1545188187085029376</id>
+        <link href="https://twitter.com/elonmusk/status/1545188187085029376"/>
+        <updated>2022-07-07T23:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @slashdot That is indeed the real question]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ggreenwald Troubling …]]></title>
-        <id>https://twitter.com/elonmusk/status/1544763117686644737</id>
-        <link href="https://twitter.com/elonmusk/status/1544763117686644737"/>
-        <updated>2022-07-06T19:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @ggreenwald Troubling …]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k I had same great experience from Tokyo to Osaka]]></title>
+        <id>https://twitter.com/elonmusk/status/1545176999043379200</id>
+        <link href="https://twitter.com/elonmusk/status/1545176999043379200"/>
+        <updated>2022-07-07T22:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k I had same great experience from Tokyo to Osaka]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @mishaboar @boringcompany Supporting Doge wherever possible]]></title>
-        <id>https://twitter.com/elonmusk/status/1544743525585141761</id>
-        <link href="https://twitter.com/elonmusk/status/1544743525585141761"/>
-        <updated>2022-07-06T18:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @mishaboar @boringcompany Supporting Doge wherever possible]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k China & Japan have awesome trains. Took bullet train from Beijing to Xi’an to see Terracotta Army of 秦始皇.]]></title>
+        <id>https://twitter.com/elonmusk/status/1545172331093377024</id>
+        <link href="https://twitter.com/elonmusk/status/1545172331093377024"/>
+        <updated>2022-07-07T22:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k China & Japan have awesome trains. 
+Took bullet train from Beijing to Xi’an to see Terracotta Army of 秦始皇.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Moon brought us together in ‘69, Mars can do that in the future]]></title>
-        <id>https://twitter.com/elonmusk/status/1544721101238018048</id>
-        <link href="https://twitter.com/elonmusk/status/1544721101238018048"/>
-        <updated>2022-07-06T16:33:04.000Z</updated>
-        <summary type="html"><![CDATA[Re Moon brought us together in ‘69,
-Mars can do that in the future]]></summary>
+        <title type="html"><![CDATA[Super fired up for future product development with our awesome Tesla team! Such an honor to work with them.]]></title>
+        <id>https://twitter.com/elonmusk/status/1545166492408328193</id>
+        <link href="https://twitter.com/elonmusk/status/1545166492408328193"/>
+        <updated>2022-07-07T22:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Super fired up for future product development with our awesome Tesla team! Such an honor to work with them.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Without a common goal, humanity will fight itself]]></title>
-        <id>https://twitter.com/elonmusk/status/1544720926020968453</id>
-        <link href="https://twitter.com/elonmusk/status/1544720926020968453"/>
-        <updated>2022-07-06T16:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Re Without a common goal, 
-humanity will fight itself]]></summary>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Also, being ruggedized for relentless salt spray & extreme winds & storms in deep ocean is not easy]]></title>
+        <id>https://twitter.com/elonmusk/status/1545166089675362305</id>
+        <link href="https://twitter.com/elonmusk/status/1545166089675362305"/>
+        <updated>2022-07-07T22:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Also, being ruggedized for relentless salt spray & extreme winds & storms in deep ocean is not easy]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @PPathole Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1544719307975938048</id>
-        <link href="https://twitter.com/elonmusk/status/1544719307975938048"/>
-        <updated>2022-07-06T16:25:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole Exactly]]></summary>
+        <title type="html"><![CDATA[Re @WholeMarsBlog No, it’s dual, high performance terminals, which are important for maintaining the connection in choppy seas & heavy storms. Still ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1545165611201728512</id>
+        <link href="https://twitter.com/elonmusk/status/1545165611201728512"/>
+        <updated>2022-07-07T21:59:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog No, it’s dual, high performance terminals, which are important for maintaining the connection in choppy seas & heavy storms.
+Still obv premium pricing, but way cheaper & faster than alternatives.
+SpaceX was paying $150k/month for a much worse connection to our ships!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @AlexBerenson @Twitter Can you say more about this: “… pressures that the government may have placed on Twitter …”]]></title>
-        <id>https://twitter.com/elonmusk/status/1544719143387238403</id>
-        <link href="https://twitter.com/elonmusk/status/1544719143387238403"/>
-        <updated>2022-07-06T16:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @AlexBerenson @Twitter Can you say more about this: “… pressures that the government may have placed on Twitter …”]]></summary>
+        <title type="html"><![CDATA[Re @JoshSeefried A flying, electric boat would be sickkk]]></title>
+        <id>https://twitter.com/elonmusk/status/1545154942159056896</id>
+        <link href="https://twitter.com/elonmusk/status/1545154942159056896"/>
+        <updated>2022-07-07T21:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @JoshSeefried A flying, electric boat would be sickkk]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humanity will reach Mars in your lifetime]]></title>
-        <id>https://twitter.com/elonmusk/status/1544636989647032321</id>
-        <link href="https://twitter.com/elonmusk/status/1544636989647032321"/>
-        <updated>2022-07-06T10:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Humanity will reach Mars in your lifetime]]></summary>
+        <title type="html"><![CDATA[Starlink for boats!]]></title>
+        <id>https://twitter.com/elonmusk/status/1545150462214623232</id>
+        <link href="https://twitter.com/elonmusk/status/1545150462214623232"/>
+        <updated>2022-07-07T20:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Starlink for boats!
+SpaceX: Starlink Maritime allows you to connect from some of the most remote waters in the world →
+
+ http://starlink.com/maritime]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flatulence Earther]]></title>
-        <id>https://twitter.com/elonmusk/status/1544615634453020673</id>
-        <link href="https://twitter.com/elonmusk/status/1544615634453020673"/>
-        <updated>2022-07-06T09:33:59.000Z</updated>
-        <summary type="html"><![CDATA[Flatulence Earther]]></summary>
+        <title type="html"><![CDATA[Re @cb_doge Not bad! It is high time that the future looked like the future. Same goes for fashion.]]></title>
+        <id>https://twitter.com/elonmusk/status/1545150198564790272</id>
+        <link href="https://twitter.com/elonmusk/status/1545150198564790272"/>
+        <updated>2022-07-07T20:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge Not bad! 
+It is high time that the future looked like the future.
+Same goes for fashion.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @BillyM2k 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1544544105417658369</id>
-        <link href="https://twitter.com/elonmusk/status/1544544105417658369"/>
-        <updated>2022-07-06T04:49:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k 🤣]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: In addition to withstanding extreme cold, heat, hail, sleet, heavy rain, and gale force winds, Starlink is rugged enough to withstand rocke...]]></title>
+        <id>https://twitter.com/SpaceX/status/1545126999219286017</id>
+        <link href="https://twitter.com/SpaceX/status/1545126999219286017"/>
+        <updated>2022-07-07T19:25:58.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+In addition to withstanding extreme cold, heat, hail, sleet, heavy rain, and gale force winds, Starlink is rugged enough to withstand rocket landings. Here’s live video captured on a SpaceX droneship at sea with and without Starlink]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @OwenSparks_ @Tesmanian_com Maybe later this year]]></title>
-        <id>https://twitter.com/elonmusk/status/1544531744812040194</id>
-        <link href="https://twitter.com/elonmusk/status/1544531744812040194"/>
-        <updated>2022-07-06T04:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @OwenSparks_ @Tesmanian_com Maybe later this year]]></summary>
+        <title type="html"><![CDATA[Re @EvaFoxU @BillyM2k @tesla_adri Pretty much. A van would have more roof height, so you could stand or sit under it for shade.]]></title>
+        <id>https://twitter.com/elonmusk/status/1545104424913207296</id>
+        <link href="https://twitter.com/elonmusk/status/1545104424913207296"/>
+        <updated>2022-07-07T17:56:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU @BillyM2k @tesla_adri Pretty much. A van would have more roof height, so you could stand or sit under it for shade.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog 😜💩]]></title>
-        <id>https://twitter.com/elonmusk/status/1544531302933749760</id>
-        <link href="https://twitter.com/elonmusk/status/1544531302933749760"/>
-        <updated>2022-07-06T03:58:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog 😜💩]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k Maybe with an optional solar power canopy that extends both sides of the van, tripling roof area]]></title>
+        <id>https://twitter.com/elonmusk/status/1545102846995095552</id>
+        <link href="https://twitter.com/elonmusk/status/1545102846995095552"/>
+        <updated>2022-07-07T17:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k Maybe with an optional solar power canopy that extends both sides of the van, tripling roof area]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Tesmanian_com Zip around Vegas super fast with Teslas in tunnels!]]></title>
-        <id>https://twitter.com/elonmusk/status/1544513390357381120</id>
-        <link href="https://twitter.com/elonmusk/status/1544513390357381120"/>
-        <updated>2022-07-06T02:47:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @Tesmanian_com Zip around Vegas super fast with Teslas in tunnels!]]></summary>
+        <title type="html"><![CDATA[Re @teslaownersSV 😉]]></title>
+        <id>https://twitter.com/elonmusk/status/1545055807019962374</id>
+        <link href="https://twitter.com/elonmusk/status/1545055807019962374"/>
+        <updated>2022-07-07T14:43:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV 😉]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU Structural pack is the right overall architecture from a physics standpoint, but it is still far from optimized]]></title>
-        <id>https://twitter.com/elonmusk/status/1544511999392071680</id>
-        <link href="https://twitter.com/elonmusk/status/1544511999392071680"/>
-        <updated>2022-07-06T02:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU Structural pack is the right overall architecture from a physics standpoint, but it is still far from optimized]]></summary>
+        <title type="html"><![CDATA[Re @micsolana @rmcentush Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1545051959178059777</id>
+        <link href="https://twitter.com/elonmusk/status/1545051959178059777"/>
+        <updated>2022-07-07T14:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @micsolana @rmcentush Exactly]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @BillyM2k I find the gold toe sock – inevitably off kilter & washed out – a little troubling esthetically & arguably a bit corpo]]></title>
-        <id>https://twitter.com/elonmusk/status/1544379368478212100</id>
-        <link href="https://twitter.com/elonmusk/status/1544379368478212100"/>
-        <updated>2022-07-05T17:55:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k I find the gold toe sock – inevitably off kilter & washed out – a little troubling esthetically & arguably a bit corpo]]></summary>
+        <title type="html"><![CDATA[Maybe Tesla should make a highly configurable Robovan for people & cargo?]]></title>
+        <id>https://twitter.com/elonmusk/status/1545051509020192768</id>
+        <link href="https://twitter.com/elonmusk/status/1545051509020192768"/>
+        <updated>2022-07-07T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Maybe Tesla should make a highly configurable Robovan for people & cargo?]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Sock Con, the conference for socks]]></title>
-        <id>https://twitter.com/elonmusk/status/1544377493263720450</id>
-        <link href="https://twitter.com/elonmusk/status/1544377493263720450"/>
-        <updated>2022-07-05T17:47:42.000Z</updated>
-        <summary type="html"><![CDATA[Re Sock Con, the conference for socks]]></summary>
+        <title type="html"><![CDATA[Re @PPathole Far too many people are under the illusion that Earth is overpopulated, even though birth rate trends are so obviously headed to populati...]]></title>
+        <id>https://twitter.com/elonmusk/status/1545050496230051844</id>
+        <link href="https://twitter.com/elonmusk/status/1545050496230051844"/>
+        <updated>2022-07-07T14:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole Far too many people are under the illusion that Earth is overpopulated, even though birth rate trends are so obviously headed to population collapse]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Always something new for the magazine cover and the articles practically write themselves]]></title>
-        <id>https://twitter.com/elonmusk/status/1544377130590552064</id>
-        <link href="https://twitter.com/elonmusk/status/1544377130590552064"/>
-        <updated>2022-07-05T17:46:15.000Z</updated>
-        <summary type="html"><![CDATA[Re Always something new for the magazine cover and the articles practically write themselves]]></summary>
+        <title type="html"><![CDATA[I hope you have big families and congrats to those who already do!]]></title>
+        <id>https://twitter.com/elonmusk/status/1545049944796516357</id>
+        <link href="https://twitter.com/elonmusk/status/1545049944796516357"/>
+        <updated>2022-07-07T14:19:47.000Z</updated>
+        <summary type="html"><![CDATA[I hope you have big families and congrats to those who already do!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A veritable “sock aficionado”]]></title>
-        <id>https://twitter.com/elonmusk/status/1544376599134494729</id>
-        <link href="https://twitter.com/elonmusk/status/1544376599134494729"/>
-        <updated>2022-07-05T17:44:09.000Z</updated>
-        <summary type="html"><![CDATA[A veritable “sock aficionado”]]></summary>
+        <title type="html"><![CDATA[Population of Mars is still zero people!]]></title>
+        <id>https://twitter.com/elonmusk/status/1545049435654172675</id>
+        <link href="https://twitter.com/elonmusk/status/1545049435654172675"/>
+        <updated>2022-07-07T14:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Population of Mars is still zero people!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ExplainThisBob This guy gets it]]></title>
-        <id>https://twitter.com/elonmusk/status/1544375575724400645</id>
-        <link href="https://twitter.com/elonmusk/status/1544375575724400645"/>
-        <updated>2022-07-05T17:40:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @ExplainThisBob This guy gets it]]></summary>
+        <title type="html"><![CDATA[Re Mark my words, they are sadly true]]></title>
+        <id>https://twitter.com/elonmusk/status/1545047278976524294</id>
+        <link href="https://twitter.com/elonmusk/status/1545047278976524294"/>
+        <updated>2022-07-07T14:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Re Mark my words, they are sadly true]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
