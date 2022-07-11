@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-10T03:06:31.278Z</id>
+    <id>urn:2022-07-11T03:03:42.205Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-10T03:06:31.278Z</updated>
+    <updated>2022-07-11T03:03:42.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -189,31 +189,6 @@ SpaceX was paying $150k/month for a much worse connection to our ships!]]></summ
         <link href="https://twitter.com/elonmusk/status/1545154942159056896"/>
         <updated>2022-07-07T21:17:00.000Z</updated>
         <summary type="html"><![CDATA[Re @JoshSeefried A flying, electric boat would be sickkk]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink for boats!]]></title>
-        <id>https://twitter.com/elonmusk/status/1545150462214623232</id>
-        <link href="https://twitter.com/elonmusk/status/1545150462214623232"/>
-        <updated>2022-07-07T20:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Starlink for boats!
-SpaceX: Starlink Maritime allows you to connect from some of the most remote waters in the world →
-
- http://starlink.com/maritime]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge Not bad! It is high time that the future looked like the future. Same goes for fashion.]]></title>
-        <id>https://twitter.com/elonmusk/status/1545150198564790272</id>
-        <link href="https://twitter.com/elonmusk/status/1545150198564790272"/>
-        <updated>2022-07-07T20:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge Not bad! 
-It is high time that the future looked like the future.
-Same goes for fashion.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
