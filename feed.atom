@@ -1,10 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-19T03:21:14.276Z</id>
+    <id>urn:2022-07-20T03:06:59.150Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-19T03:21:14.276Z</updated>
+    <updated>2022-07-20T03:06:59.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: NASA has selected Falcon Heavy to launch the Roman Space Telescope, which is designed to study dark energy and dark matter, search for and ...]]></title>
+        <id>https://twitter.com/SpaceX/status/1549492284932050944</id>
+        <link href="https://twitter.com/SpaceX/status/1549492284932050944"/>
+        <updated>2022-07-19T20:32:03.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+NASA has selected Falcon Heavy to launch the Roman Space Telescope, which is designed to study dark energy and dark matter, search for and image exoplanets, and more. Liftoff is targeted for no earlier than October 2026 from Launch Complex 39A in Florida http://nasa.gov/press-release/nasa-awards-launch-services-contract-for-roman-space-telescope]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @realMeetKevin Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1549468889297338370</id>
+        <link href="https://twitter.com/elonmusk/status/1549468889297338370"/>
+        <updated>2022-07-19T18:59:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @realMeetKevin Exactly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One of the best features of Model X]]></title>
+        <id>https://twitter.com/elonmusk/status/1549447559713890306</id>
+        <link href="https://twitter.com/elonmusk/status/1549447559713890306"/>
+        <updated>2022-07-19T17:34:20.000Z</updated>
+        <summary type="html"><![CDATA[One of the best features of Model X
+Tesla: Model X auto-presenting doors
+🎥: @ryanjaycowan]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JohnnaCrider1 @POTUS Teslas are the most made-in-USA vehicles]]></title>
+        <id>https://twitter.com/elonmusk/status/1549440612021243906</id>
+        <link href="https://twitter.com/elonmusk/status/1549440612021243906"/>
+        <updated>2022-07-19T17:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @JohnnaCrider1 @POTUS Teslas are the most made-in-USA vehicles]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ChildrensHD Total scam]]></title>
+        <id>https://twitter.com/elonmusk/status/1549440366788714499</id>
+        <link href="https://twitter.com/elonmusk/status/1549440366788714499"/>
+        <updated>2022-07-19T17:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @ChildrensHD Total scam]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @mn_google My calves are bigger tho]]></title>
+        <id>https://twitter.com/elonmusk/status/1549423976568553473</id>
+        <link href="https://twitter.com/elonmusk/status/1549423976568553473"/>
+        <updated>2022-07-19T16:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @mn_google My calves are bigger tho]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re To think that Fremont was just a derelict building & Giga Nevada was just rocks & bushes when started! California used to have a dozen car factorie...]]></title>
+        <id>https://twitter.com/elonmusk/status/1549423649463181312</id>
+        <link href="https://twitter.com/elonmusk/status/1549423649463181312"/>
+        <updated>2022-07-19T15:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Re To think that Fremont was just a derelict building & Giga Nevada was just rocks & bushes when started!
+California used to have a dozen car factories. NUMMI was last to close. Now, Tesla Fremont is the biggest car factory in North America!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congrats to Tesla Fremont + Giga Nevada for making their 2 millionth car!]]></title>
+        <id>https://twitter.com/elonmusk/status/1549422655656275968</id>
+        <link href="https://twitter.com/elonmusk/status/1549422655656275968"/>
+        <updated>2022-07-19T15:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Congrats to Tesla Fremont + Giga Nevada for making their 2 millionth car!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Please vote your shares with Tesla!]]></title>
+        <id>https://twitter.com/elonmusk/status/1549288086944845825</id>
+        <link href="https://twitter.com/elonmusk/status/1549288086944845825"/>
+        <updated>2022-07-19T07:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Please vote your shares with Tesla!
+Tesla: Vote at the 2022 Tesla Shareholder Meeting
+ https://ir.tesla.com/shareholders/vote]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1549265894731354114</id>
+        <link href="https://twitter.com/elonmusk/status/1549265894731354114"/>
+        <updated>2022-07-19T05:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SawyerMerritt @SpaceX It’s a start. About 1000 times more mass to orbit per year will be needed to make life multiplanetary.]]></title>
+        <id>https://twitter.com/elonmusk/status/1549222526643015682</id>
+        <link href="https://twitter.com/elonmusk/status/1549222526643015682"/>
+        <updated>2022-07-19T02:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt @SpaceX It’s a start. About 1000 times more mass to orbit per year will be needed to make life multiplanetary.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @BillyM2k Already did it]]></title>
         <id>https://twitter.com/elonmusk/status/1549197098226171906</id>
@@ -91,108 +207,6 @@
         <link href="https://twitter.com/elonmusk/status/1549100788848283649"/>
         <updated>2022-07-18T18:36:23.000Z</updated>
         <summary type="html"><![CDATA[Re @BillyM2k Arguably, we know more than nothing. “Death & taxes are a certainty” – BF.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @karpathy Also worth getting a particle counter]]></title>
-        <id>https://twitter.com/elonmusk/status/1549088120380981248</id>
-        <link href="https://twitter.com/elonmusk/status/1549088120380981248"/>
-        <updated>2022-07-18T17:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @karpathy Also worth getting a particle counter]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @OwenSparks_ @karpathy It’s on the future product list. Especially important in places like Austin, which has next-level amounts of pollen in the ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1549087985626488832</id>
-        <link href="https://twitter.com/elonmusk/status/1549087985626488832"/>
-        <updated>2022-07-18T17:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @OwenSparks_ @karpathy It’s on the future product list. Especially important in places like Austin, which has next-level amounts of pollen in the air.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @konstructivizm Things will get wild when Andromeda collides with our galaxy!]]></title>
-        <id>https://twitter.com/elonmusk/status/1549086953613713412</id>
-        <link href="https://twitter.com/elonmusk/status/1549086953613713412"/>
-        <updated>2022-07-18T17:41:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @konstructivizm Things will get wild when Andromeda collides with our galaxy!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @energybants @Liv_Boeree They should keep running]]></title>
-        <id>https://twitter.com/elonmusk/status/1549084087117307904</id>
-        <link href="https://twitter.com/elonmusk/status/1549084087117307904"/>
-        <updated>2022-07-18T17:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @energybants @Liv_Boeree They should keep running]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @karpathy True. I have a CO2 monitor on my desk. It beeps whenever ppm>1000.]]></title>
-        <id>https://twitter.com/elonmusk/status/1549082737008680962</id>
-        <link href="https://twitter.com/elonmusk/status/1549082737008680962"/>
-        <updated>2022-07-18T17:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @karpathy True. I have a CO2 monitor on my desk. It beeps whenever ppm>1000.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SpaceX @Space_Station About twice as much useful mass to orbit as rest of Earth combined]]></title>
-        <id>https://twitter.com/elonmusk/status/1549081948596862976</id>
-        <link href="https://twitter.com/elonmusk/status/1549081948596862976"/>
-        <updated>2022-07-18T17:21:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @SpaceX @Space_Station About twice as much useful mass to orbit as rest of Earth combined]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon 9 has completed 31 missions so far this year, delivering ~351 metric tons to orbit – carrying astronauts & research to the @space_s...]]></title>
-        <id>https://twitter.com/SpaceX/status/1549078643673927683</id>
-        <link href="https://twitter.com/SpaceX/status/1549078643673927683"/>
-        <updated>2022-07-18T17:08:23.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Falcon 9 has completed 31 missions so far this year, delivering ~351 metric tons to orbit – carrying astronauts & research to the @space_station, deploying Starlink to provide global high-speed internet, as well as many other critical payloads for our commercial & gov customers]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @tanayj Absolutely]]></title>
-        <id>https://twitter.com/elonmusk/status/1549048634544898049</id>
-        <link href="https://twitter.com/elonmusk/status/1549048634544898049"/>
-        <updated>2022-07-18T15:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @tanayj Absolutely]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut @LevEakins More accurate word is “propellant”, rather than “fuel”. Starship is ~78% liquid oxygen, ~22% fuel. Propellant cost i...]]></title>
-        <id>https://twitter.com/elonmusk/status/1549048216263335937</id>
-        <link href="https://twitter.com/elonmusk/status/1549048216263335937"/>
-        <updated>2022-07-18T15:07:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut @LevEakins More accurate word is “propellant”, rather than “fuel”. Starship is ~78% liquid oxygen, ~22% fuel.
-Propellant cost is of primary importance for a fully reusable rocket, so reusable rockets want high thrust, as thrust below T/W of 1 is irrelevant.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Rainmaker1973 I use this example a lot]]></title>
-        <id>https://twitter.com/elonmusk/status/1549035998113251329</id>
-        <link href="https://twitter.com/elonmusk/status/1549035998113251329"/>
-        <updated>2022-07-18T14:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @Rainmaker1973 I use this example a lot]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
