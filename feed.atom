@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T03:06:59.150Z</id>
+    <id>urn:2022-07-21T03:08:21.299Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-20T03:06:59.150Z</updated>
+    <updated>2022-07-21T03:08:21.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k Haha true]]></title>
+        <id>https://twitter.com/elonmusk/status/1549861540416946177</id>
+        <link href="https://twitter.com/elonmusk/status/1549861540416946177"/>
+        <updated>2022-07-20T20:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k Haha true]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole @waitbutwhy @undertheraedar Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1549605387158134785</id>
+        <link href="https://twitter.com/elonmusk/status/1549605387158134785"/>
+        <updated>2022-07-20T04:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole @waitbutwhy @undertheraedar Yes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1549603053606772736</id>
+        <link href="https://twitter.com/elonmusk/status/1549603053606772736"/>
+        <updated>2022-07-20T03:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @waitbutwhy @undertheraedar Earth is basically empty of humans]]></title>
+        <id>https://twitter.com/elonmusk/status/1549590303337742339</id>
+        <link href="https://twitter.com/elonmusk/status/1549590303337742339"/>
+        <updated>2022-07-20T03:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @waitbutwhy @undertheraedar Earth is basically empty of humans]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT SpaceX: NASA has selected Falcon Heavy to launch the Roman Space Telescope, which is designed to study dark energy and dark matter, search for and ...]]></title>
         <id>https://twitter.com/SpaceX/status/1549492284932050944</id>
@@ -167,46 +207,6 @@ Tesla: Vote at the 2022 Tesla Shareholder Meeting
         <id>https://twitter.com/elonmusk/status/1549126205529628672</id>
         <link href="https://twitter.com/elonmusk/status/1549126205529628672"/>
         <updated>2022-07-18T20:17:23.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU @BillyM2k 💯🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1549125950264205313</id>
-        <link href="https://twitter.com/elonmusk/status/1549125950264205313"/>
-        <updated>2022-07-18T20:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU @BillyM2k 💯🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RenataKonkoly @engineers_feed A classic 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1549116062020550662</id>
-        <link href="https://twitter.com/elonmusk/status/1549116062020550662"/>
-        <updated>2022-07-18T19:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @RenataKonkoly @engineers_feed A classic 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @engineers_feed I remember the 70’s, which means I’m definitely not spring chicken]]></title>
-        <id>https://twitter.com/elonmusk/status/1549105540214702081</id>
-        <link href="https://twitter.com/elonmusk/status/1549105540214702081"/>
-        <updated>2022-07-18T18:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @engineers_feed I remember the 70’s, which means I’m definitely not spring chicken]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k Arguably, we know more than nothing. “Death & taxes are a certainty” – BF.]]></title>
-        <id>https://twitter.com/elonmusk/status/1549100788848283649</id>
-        <link href="https://twitter.com/elonmusk/status/1549100788848283649"/>
-        <updated>2022-07-18T18:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k Arguably, we know more than nothing. “Death & taxes are a certainty” – BF.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
