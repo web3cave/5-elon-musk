@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T03:13:40.449Z</id>
+    <id>urn:2022-07-23T03:02:20.349Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-22T03:13:40.449Z</updated>
+    <updated>2022-07-23T03:02:20.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starlink now available in 36 countries!]]></title>
+        <id>https://twitter.com/elonmusk/status/1550556670337630209</id>
+        <link href="https://twitter.com/elonmusk/status/1550556670337630209"/>
+        <updated>2022-07-22T19:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Starlink now available in 36 countries! https://www.starlink.com/map]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congrats to SpaceX team on record number of launches!]]></title>
+        <id>https://twitter.com/elonmusk/status/1550556341827211265</id>
+        <link href="https://twitter.com/elonmusk/status/1550556341827211265"/>
+        <updated>2022-07-22T19:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Congrats to SpaceX team on record number of launches!
+SpaceX: Deployment of 46 Starlink satellites confirmed – completing SpaceX’s 32nd mission of 2022!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9’s first stage has landed on the Of Course I Still Love You droneship – marking SpaceX’s second launch and landing from Vandenbe...]]></title>
+        <id>https://twitter.com/SpaceX/status/1550538367003070464</id>
+        <link href="https://twitter.com/SpaceX/status/1550538367003070464"/>
+        <updated>2022-07-22T17:48:48.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Falcon 9’s first stage has landed on the Of Course I Still Love You droneship – marking SpaceX’s second launch and landing from Vandenberg in less than 12 days]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimus Primed]]></title>
+        <id>https://twitter.com/elonmusk/status/1550474712714805250</id>
+        <link href="https://twitter.com/elonmusk/status/1550474712714805250"/>
+        <updated>2022-07-22T13:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Optimus Primed]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole @alifarhat79 @wapodavenport @WalterIsaacson @jeff_foust Yup]]></title>
+        <id>https://twitter.com/elonmusk/status/1550473338367139846</id>
+        <link href="https://twitter.com/elonmusk/status/1550473338367139846"/>
+        <updated>2022-07-22T13:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole @alifarhat79 @wapodavenport @WalterIsaacson @jeff_foust Yup]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @alifarhat79 @wapodavenport @WalterIsaacson @jeff_foust I’m rubber, they’re glue]]></title>
+        <id>https://twitter.com/elonmusk/status/1550470214290219008</id>
+        <link href="https://twitter.com/elonmusk/status/1550470214290219008"/>
+        <updated>2022-07-22T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @alifarhat79 @wapodavenport @WalterIsaacson @jeff_foust I’m rubber, they’re glue]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @micsolana 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1550470057620389889</id>
+        <link href="https://twitter.com/elonmusk/status/1550470057620389889"/>
+        <updated>2022-07-22T13:17:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @micsolana 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wapodavenport @WalterIsaacson @jeff_foust Interesting. Smart move by China. Expendable rockets have no future.]]></title>
+        <id>https://twitter.com/elonmusk/status/1550467553339838466</id>
+        <link href="https://twitter.com/elonmusk/status/1550467553339838466"/>
+        <updated>2022-07-22T13:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @wapodavenport @WalterIsaacson @jeff_foust Interesting. Smart move by China. Expendable rockets have no future.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @jgebbia @Airbnb @bchesky @nathanblec Congrats on an incredible company with Airbnb, now for Book 2!]]></title>
         <id>https://twitter.com/elonmusk/status/1550266518671327236</id>
@@ -124,89 +206,6 @@ No escape from reality]]></summary>
         <link href="https://twitter.com/elonmusk/status/1549861540416946177"/>
         <updated>2022-07-20T20:59:20.000Z</updated>
         <summary type="html"><![CDATA[Re @BillyM2k Haha true]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PPathole @waitbutwhy @undertheraedar Yes]]></title>
-        <id>https://twitter.com/elonmusk/status/1549605387158134785</id>
-        <link href="https://twitter.com/elonmusk/status/1549605387158134785"/>
-        <updated>2022-07-20T04:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole @waitbutwhy @undertheraedar Yes]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1549603053606772736</id>
-        <link href="https://twitter.com/elonmusk/status/1549603053606772736"/>
-        <updated>2022-07-20T03:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @waitbutwhy @undertheraedar Earth is basically empty of humans]]></title>
-        <id>https://twitter.com/elonmusk/status/1549590303337742339</id>
-        <link href="https://twitter.com/elonmusk/status/1549590303337742339"/>
-        <updated>2022-07-20T03:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @waitbutwhy @undertheraedar Earth is basically empty of humans]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: NASA has selected Falcon Heavy to launch the Roman Space Telescope, which is designed to study dark energy and dark matter, search for and ...]]></title>
-        <id>https://twitter.com/SpaceX/status/1549492284932050944</id>
-        <link href="https://twitter.com/SpaceX/status/1549492284932050944"/>
-        <updated>2022-07-19T20:32:03.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-NASA has selected Falcon Heavy to launch the Roman Space Telescope, which is designed to study dark energy and dark matter, search for and image exoplanets, and more. Liftoff is targeted for no earlier than October 2026 from Launch Complex 39A in Florida http://nasa.gov/press-release/nasa-awards-launch-services-contract-for-roman-space-telescope]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @realMeetKevin Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1549468889297338370</id>
-        <link href="https://twitter.com/elonmusk/status/1549468889297338370"/>
-        <updated>2022-07-19T18:59:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @realMeetKevin Exactly]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of the best features of Model X]]></title>
-        <id>https://twitter.com/elonmusk/status/1549447559713890306</id>
-        <link href="https://twitter.com/elonmusk/status/1549447559713890306"/>
-        <updated>2022-07-19T17:34:20.000Z</updated>
-        <summary type="html"><![CDATA[One of the best features of Model X
-Tesla: Model X auto-presenting doors
-🎥: @ryanjaycowan]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JohnnaCrider1 @POTUS Teslas are the most made-in-USA vehicles]]></title>
-        <id>https://twitter.com/elonmusk/status/1549440612021243906</id>
-        <link href="https://twitter.com/elonmusk/status/1549440612021243906"/>
-        <updated>2022-07-19T17:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @JohnnaCrider1 @POTUS Teslas are the most made-in-USA vehicles]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ChildrensHD Total scam]]></title>
-        <id>https://twitter.com/elonmusk/status/1549440366788714499</id>
-        <link href="https://twitter.com/elonmusk/status/1549440366788714499"/>
-        <updated>2022-07-19T17:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChildrensHD Total scam]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
