@@ -1,16 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-23T03:02:20.349Z</id>
+    <id>urn:2022-07-24T03:08:30.310Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-23T03:02:20.349Z</updated>
+    <updated>2022-07-24T03:08:30.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Starlink now available in 36 countries!]]></title>
-        <id>https://twitter.com/elonmusk/status/1550556670337630209</id>
-        <link href="https://twitter.com/elonmusk/status/1550556670337630209"/>
-        <updated>2022-07-22T19:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Starlink now available in 36 countries! https://www.starlink.com/map]]></summary>
+        <title type="html"><![CDATA[Re @teslaownersSV @ICannot_Enough @ajtourville Should be a major improvement with respect to complex left turns]]></title>
+        <id>https://twitter.com/elonmusk/status/1551014854827266048</id>
+        <link href="https://twitter.com/elonmusk/status/1551014854827266048"/>
+        <updated>2022-07-24T01:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @ICannot_Enough @ajtourville Should be a major improvement with respect to complex left turns]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV @ICannot_Enough @ajtourville Maybe end of this week. Team is working hard on it.]]></title>
+        <id>https://twitter.com/elonmusk/status/1551014494679117825</id>
+        <link href="https://twitter.com/elonmusk/status/1551014494679117825"/>
+        <updated>2022-07-24T01:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @ICannot_Enough @ajtourville Maybe end of this week. Team is working hard on it.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ICannot_Enough @ajtourville 🤔 indeed]]></title>
+        <id>https://twitter.com/elonmusk/status/1551013806129553408</id>
+        <link href="https://twitter.com/elonmusk/status/1551013806129553408"/>
+        <updated>2022-07-24T01:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @ICannot_Enough @ajtourville 🤔 indeed]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ajtourville @ICannot_Enough @Twitter Odd]]></title>
+        <id>https://twitter.com/elonmusk/status/1551013753700753409</id>
+        <link href="https://twitter.com/elonmusk/status/1551013753700753409"/>
+        <updated>2022-07-24T01:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @ajtourville @ICannot_Enough @Twitter Odd]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DolllarPo Service turns on next month, which is same time required to deliver a user terminal, so order now at]]></title>
+        <id>https://twitter.com/elonmusk/status/1550817478405668864</id>
+        <link href="https://twitter.com/elonmusk/status/1550817478405668864"/>
+        <updated>2022-07-23T12:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @DolllarPo Service turns on next month, which is same time required to deliver a user terminal, so order now at http://Starlink.com]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excited to work with Tesla Service to enable same-hour service as often as possible! Applying Formula 1 pit crew techniques to Teslas.]]></title>
+        <id>https://twitter.com/elonmusk/status/1550816088300179459</id>
+        <link href="https://twitter.com/elonmusk/status/1550816088300179459"/>
+        <updated>2022-07-23T12:12:22.000Z</updated>
+        <summary type="html"><![CDATA[Excited to work with Tesla Service to enable same-hour service as often as possible! Applying Formula 1 pit crew techniques to Teslas.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Rainmaker1973 Major volcanic eruptions are underappreciated as civilizational risks]]></title>
+        <id>https://twitter.com/elonmusk/status/1550814218735304705</id>
+        <link href="https://twitter.com/elonmusk/status/1550814218735304705"/>
+        <updated>2022-07-23T12:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 Major volcanic eruptions are underappreciated as civilizational risks]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Rainmaker1973 Tough times]]></title>
+        <id>https://twitter.com/elonmusk/status/1550813250584993793</id>
+        <link href="https://twitter.com/elonmusk/status/1550813250584993793"/>
+        <updated>2022-07-23T12:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 Tough times]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
@@ -20,8 +90,7 @@
         <id>https://twitter.com/elonmusk/status/1550556341827211265</id>
         <link href="https://twitter.com/elonmusk/status/1550556341827211265"/>
         <updated>2022-07-22T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Congrats to SpaceX team on record number of launches!
-SpaceX: Deployment of 46 Starlink satellites confirmed – completing SpaceX’s 32nd mission of 2022!]]></summary>
+        <summary type="html"><![CDATA[Congrats to SpaceX team on record number of launches!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
@@ -113,99 +182,6 @@ Falcon 9’s first stage has landed on the Of Course I Still Love You droneship 
         <link href="https://twitter.com/elonmusk/status/1550131502179971072"/>
         <updated>2022-07-21T14:52:04.000Z</updated>
         <summary type="html"><![CDATA[Re @WholeMarsBlog Tbh, it’s good motivation to work out, eat healthier & maybe take my shirt off outside more than once a year haha]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ajtourville @Twitter 🧐]]></title>
-        <id>https://twitter.com/elonmusk/status/1550028175060733952</id>
-        <link href="https://twitter.com/elonmusk/status/1550028175060733952"/>
-        <updated>2022-07-21T08:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @ajtourville @Twitter 🧐]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JonErlichman 16 years ago]]></title>
-        <id>https://twitter.com/elonmusk/status/1550020745769717760</id>
-        <link href="https://twitter.com/elonmusk/status/1550020745769717760"/>
-        <updated>2022-07-21T07:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @JonErlichman 16 years ago]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @dogecoin Upgrades!]]></title>
-        <id>https://twitter.com/elonmusk/status/1549963955719704577</id>
-        <link href="https://twitter.com/elonmusk/status/1549963955719704577"/>
-        <updated>2022-07-21T03:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @dogecoin Upgrades!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV @mayemusk @kimbal @ToscaMusk 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1549962652578750464</id>
-        <link href="https://twitter.com/elonmusk/status/1549962652578750464"/>
-        <updated>2022-07-21T03:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV @mayemusk @kimbal @ToscaMusk 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🥇]]></title>
-        <id>https://twitter.com/elonmusk/status/1549959479621324802</id>
-        <link href="https://twitter.com/elonmusk/status/1549959479621324802"/>
-        <updated>2022-07-21T03:28:31.000Z</updated>
-        <summary type="html"><![CDATA[🥇]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EFF Sounds bad]]></title>
-        <id>https://twitter.com/elonmusk/status/1549959237366734848</id>
-        <link href="https://twitter.com/elonmusk/status/1549959237366734848"/>
-        <updated>2022-07-21T03:27:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @EFF Sounds bad]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RenataKonkoly @Reuters @PunHubOnline 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1549957680537579522</id>
-        <link href="https://twitter.com/elonmusk/status/1549957680537579522"/>
-        <updated>2022-07-21T03:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @RenataKonkoly @Reuters @PunHubOnline 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Reuters Is this the real life? Is this just fantasy? Caught in a landside, No escape from reality]]></title>
-        <id>https://twitter.com/elonmusk/status/1549952699399081984</id>
-        <link href="https://twitter.com/elonmusk/status/1549952699399081984"/>
-        <updated>2022-07-21T03:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @Reuters Is this the real life?
-Is this just fantasy?
-Caught in a landside,
-No escape from reality]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k Haha true]]></title>
-        <id>https://twitter.com/elonmusk/status/1549861540416946177</id>
-        <link href="https://twitter.com/elonmusk/status/1549861540416946177"/>
-        <updated>2022-07-20T20:59:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k Haha true]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
