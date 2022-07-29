@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-28T03:04:02.066Z</id>
+    <id>urn:2022-07-29T03:18:15.425Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-28T03:04:02.066Z</updated>
+    <updated>2022-07-29T03:18:15.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Much harder to make friends than enemies. My skill at the latter is improving.]]></title>
+        <id>https://twitter.com/elonmusk/status/1552501701994758145</id>
+        <link href="https://twitter.com/elonmusk/status/1552501701994758145"/>
+        <updated>2022-07-28T03:50:24.000Z</updated>
+        <summary type="html"><![CDATA[Much harder to make friends than enemies. My skill at the latter is improving.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @NASASpaceflight Sub lightspeed is all that’s needed to be interstellar. Intergalactic is tough.]]></title>
         <id>https://twitter.com/elonmusk/status/1552325766213427202</id>
@@ -192,16 +202,6 @@ Nicole is not a public person, so could win. I hope she sues them. @michaelsicon
         <link href="https://twitter.com/elonmusk/status/1551881641659883520"/>
         <updated>2022-07-26T10:46:30.000Z</updated>
         <summary type="html"><![CDATA[Re @dogeofficialceo @MarceloPLima 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MarceloPLima Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1551878680191897605</id>
-        <link href="https://twitter.com/elonmusk/status/1551878680191897605"/>
-        <updated>2022-07-26T10:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @MarceloPLima Exactly]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
