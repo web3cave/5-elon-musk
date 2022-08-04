@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T03:15:56.192Z</id>
+    <id>urn:2022-08-04T02:58:23.197Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T03:15:56.192Z</updated>
+    <updated>2022-08-04T02:58:23.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -203,6 +203,16 @@ Unfortunately, I generate lots of clicks.
 But these things move in cycles.
 When it starts boring readers to knock me down, they will build me up. 
 This cycle has happened so many times …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @WholeMarsBlog 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1553986531660107776</id>
+        <link href="https://twitter.com/elonmusk/status/1553986531660107776"/>
+        <updated>2022-08-01T06:10:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @WholeMarsBlog 🤣🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
