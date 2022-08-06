@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-05T03:09:43.050Z</id>
+    <id>urn:2022-08-06T02:52:20.880Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-05T03:09:43.050Z</updated>
+    <updated>2022-08-06T02:52:20.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hustling to get Starship Booster 7 back to pad to test outer ring of 20 engines]]></title>
+        <id>https://twitter.com/elonmusk/status/1555628746719211520</id>
+        <link href="https://twitter.com/elonmusk/status/1555628746719211520"/>
+        <updated>2022-08-05T18:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Hustling to get Starship Booster 7 back to pad to test outer ring of 20 engines]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Send Podcast]]></title>
+        <id>https://twitter.com/elonmusk/status/1555572717591699456</id>
+        <link href="https://twitter.com/elonmusk/status/1555572717591699456"/>
+        <updated>2022-08-05T15:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Full Send Podcast https://m.youtube.com/watch?v=fXS_gkWAIs0&feature=youtu.be]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank goodness for Senator Manchin]]></title>
+        <id>https://twitter.com/elonmusk/status/1555442024127537153</id>
+        <link href="https://twitter.com/elonmusk/status/1555442024127537153"/>
+        <updated>2022-08-05T06:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Thank goodness for Senator Manchin]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Tesla: Livestream the 2022 Annual Tesla Shareholder Meeting today at 4:30pm CT]]></title>
         <id>https://twitter.com/Tesla/status/1555268023946190850</id>
@@ -178,37 +208,6 @@ William MacAskill: My new book, What We Owe The Future, is now available for p
 🇬🇧
 🇺🇸
  https://oneworld-publications.com/what-we-owe-the-future-hb.html https://basicbooks.com/titles/william-macaskill/what-we-owe-the-future/9781541618626/]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still time to vote!]]></title>
-        <id>https://twitter.com/elonmusk/status/1554230257997209601</id>
-        <link href="https://twitter.com/elonmusk/status/1554230257997209601"/>
-        <updated>2022-08-01T22:19:04.000Z</updated>
-        <summary type="html"><![CDATA[Still time to vote!
-Tesla: Vote at the 2022 Tesla Shareholder Meeting
- https://ir.tesla.com/shareholders/vote]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1554219847898333184</id>
-        <link href="https://twitter.com/elonmusk/status/1554219847898333184"/>
-        <updated>2022-08-01T21:37:42.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re X ❤️ Doges]]></title>
-        <id>https://twitter.com/elonmusk/status/1554162151073501188</id>
-        <link href="https://twitter.com/elonmusk/status/1554162151073501188"/>
-        <updated>2022-08-01T17:48:26.000Z</updated>
-        <summary type="html"><![CDATA[Re X ❤️ Doges]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
