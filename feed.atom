@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-07T02:58:41.122Z</id>
+    <id>urn:2022-08-08T03:03:36.862Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-07T02:58:41.122Z</updated>
+    <updated>2022-08-08T03:03:36.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re This release will be big]]></title>
+        <id>https://twitter.com/elonmusk/status/1556406880624410631</id>
+        <link href="https://twitter.com/elonmusk/status/1556406880624410631"/>
+        <updated>2022-08-07T22:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Re This release will be big]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ajtourville @Twitter 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1556406673186643976</id>
+        <link href="https://twitter.com/elonmusk/status/1556406673186643976"/>
+        <updated>2022-08-07T22:27:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @ajtourville @Twitter 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1556348857625092096</id>
+        <link href="https://twitter.com/elonmusk/status/1556348857625092096"/>
+        <updated>2022-08-07T18:37:37.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Twitter has spoken …]]></title>
+        <id>https://twitter.com/elonmusk/status/1556348552682430466</id>
+        <link href="https://twitter.com/elonmusk/status/1556348552682430466"/>
+        <updated>2022-08-07T18:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Re Twitter has spoken …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSD Beta 10.69 drops on 8/20]]></title>
+        <id>https://twitter.com/elonmusk/status/1556181455570714624</id>
+        <link href="https://twitter.com/elonmusk/status/1556181455570714624"/>
+        <updated>2022-08-07T07:32:26.000Z</updated>
+        <summary type="html"><![CDATA[FSD Beta 10.69 drops on 8/20]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @truth_tesla @brettlindquist @garyblack00 Yeah, not cool]]></title>
         <id>https://twitter.com/elonmusk/status/1556021804283592705</id>
@@ -145,67 +194,6 @@ However, if it turns out that their SEC filings are materially false, then it sh
         <link href="https://twitter.com/elonmusk/status/1555726190450659328"/>
         <updated>2022-08-06T01:23:22.000Z</updated>
         <summary type="html"><![CDATA[Moving rocket to launch pad]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hustling to get Starship Booster 7 back to pad to test outer ring of 20 engines]]></title>
-        <id>https://twitter.com/elonmusk/status/1555628746719211520</id>
-        <link href="https://twitter.com/elonmusk/status/1555628746719211520"/>
-        <updated>2022-08-05T18:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Hustling to get Starship Booster 7 back to pad to test outer ring of 20 engines]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Send Podcast]]></title>
-        <id>https://twitter.com/elonmusk/status/1555572717591699456</id>
-        <link href="https://twitter.com/elonmusk/status/1555572717591699456"/>
-        <updated>2022-08-05T15:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Full Send Podcast https://m.youtube.com/watch?v=fXS_gkWAIs0&feature=youtu.be]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank goodness for Senator Manchin]]></title>
-        <id>https://twitter.com/elonmusk/status/1555442024127537153</id>
-        <link href="https://twitter.com/elonmusk/status/1555442024127537153"/>
-        <updated>2022-08-05T06:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Thank goodness for Senator Manchin]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: Livestream the 2022 Annual Tesla Shareholder Meeting today at 4:30pm CT]]></title>
-        <id>https://twitter.com/Tesla/status/1555268023946190850</id>
-        <link href="https://twitter.com/Tesla/status/1555268023946190850"/>
-        <updated>2022-08-04T19:02:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Livestream the 2022 Annual Tesla Shareholder Meeting today at 4:30pm CT https://youtu.be/49e7LrxS3FQ]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @garyblack00 I had more kids in Q2 than they made cars!]]></title>
-        <id>https://twitter.com/elonmusk/status/1555253283203194881</id>
-        <link href="https://twitter.com/elonmusk/status/1555253283203194881"/>
-        <updated>2022-08-04T18:04:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @garyblack00 I had more kids in Q2 than they made cars!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @dogeofficialceo @chicago_glenn @mySA @happydad Stone of Destiny]]></title>
-        <id>https://twitter.com/elonmusk/status/1555228099981316097</id>
-        <link href="https://twitter.com/elonmusk/status/1555228099981316097"/>
-        <updated>2022-08-04T16:24:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @dogeofficialceo @chicago_glenn @mySA @happydad Stone of Destiny]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
