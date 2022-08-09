@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-08T03:03:36.862Z</id>
+    <id>urn:2022-08-09T03:09:50.748Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-08T03:03:36.863Z</updated>
+    <updated>2022-08-09T03:09:50.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @garyblack00 @MartinViecha Growing at 50%/year requires an insane amount of work, but is achievable with outstanding execution]]></title>
+        <id>https://twitter.com/elonmusk/status/1556711224980566017</id>
+        <link href="https://twitter.com/elonmusk/status/1556711224980566017"/>
+        <updated>2022-08-08T18:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @garyblack00 @MartinViecha Growing at 50%/year requires an insane amount of work, but is achievable with outstanding execution]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SaysSimonson Maybe investment in automation?]]></title>
+        <id>https://twitter.com/elonmusk/status/1556685794038931462</id>
+        <link href="https://twitter.com/elonmusk/status/1556685794038931462"/>
+        <updated>2022-08-08T16:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @SaysSimonson Maybe investment in automation?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SaysSimonson Seems high]]></title>
+        <id>https://twitter.com/elonmusk/status/1556660066585120768</id>
+        <link href="https://twitter.com/elonmusk/status/1556660066585120768"/>
+        <updated>2022-08-08T15:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @SaysSimonson Seems high]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re This release will be big]]></title>
         <id>https://twitter.com/elonmusk/status/1556406880624410631</id>
@@ -164,36 +194,6 @@ Let him prove to the public that Twitter has <5% fake or spam daily users!]]></s
         <summary type="html"><![CDATA[Re @Andst7 Good summary of the problem. 
 If Twitter simply provides their method of sampling 100 accounts and how they’re confirmed to be real, the deal should proceed on original terms.
 However, if it turns out that their SEC filings are materially false, then it should not.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re I love the smell of hydraulic fluid in the morning]]></title>
-        <id>https://twitter.com/elonmusk/status/1555799183067684866</id>
-        <link href="https://twitter.com/elonmusk/status/1555799183067684866"/>
-        <updated>2022-08-06T06:13:25.000Z</updated>
-        <summary type="html"><![CDATA[Re I love the smell of hydraulic fluid in the morning]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re At launch pad]]></title>
-        <id>https://twitter.com/elonmusk/status/1555794448826900480</id>
-        <link href="https://twitter.com/elonmusk/status/1555794448826900480"/>
-        <updated>2022-08-06T05:54:36.000Z</updated>
-        <summary type="html"><![CDATA[Re At launch pad]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving rocket to launch pad]]></title>
-        <id>https://twitter.com/elonmusk/status/1555726190450659328</id>
-        <link href="https://twitter.com/elonmusk/status/1555726190450659328"/>
-        <updated>2022-08-06T01:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Moving rocket to launch pad]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
