@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-15T03:18:45.524Z</id>
+    <id>urn:2022-08-16T03:13:01.598Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-15T03:18:45.524Z</updated>
+    <updated>2022-08-16T03:13:01.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV Yes. Tesla Autopilot/AI team is doing amazing work! 10.69 will be worth its name.]]></title>
+        <id>https://twitter.com/elonmusk/status/1559322397043474446</id>
+        <link href="https://twitter.com/elonmusk/status/1559322397043474446"/>
+        <updated>2022-08-15T23:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV Yes. Tesla Autopilot/AI team is doing amazing work! 10.69 will be worth its name.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @BillFOXLA Strange that this receives very little attention in the media]]></title>
         <id>https://twitter.com/elonmusk/status/1558912698502549506</id>
@@ -183,26 +193,6 @@ SpaceX: Watch Falcon 9 launch 46 Starlink satellites to orbit →
         <link href="https://twitter.com/elonmusk/status/1558182670001111040"/>
         <updated>2022-08-12T20:04:32.000Z</updated>
         <summary type="html"><![CDATA[Re @cb_doge There are no coincidences]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Andst7 !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1558181634096103424</id>
-        <link href="https://twitter.com/elonmusk/status/1558181634096103424"/>
-        <updated>2022-08-12T20:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @Andst7 !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re it’s a sticky situation]]></title>
-        <id>https://twitter.com/elonmusk/status/1558181270160609284</id>
-        <link href="https://twitter.com/elonmusk/status/1558181270160609284"/>
-        <updated>2022-08-12T19:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Re it’s a sticky situation]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
