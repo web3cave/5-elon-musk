@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-19T03:13:14.150Z</id>
+    <id>urn:2022-08-20T03:05:05.012Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-19T03:13:14.150Z</updated>
+    <updated>2022-08-20T03:05:05.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Might need a new PO Box after tweeting this 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1560732675899817984</id>
+        <link href="https://twitter.com/elonmusk/status/1560732675899817984"/>
+        <updated>2022-08-19T20:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Re Might need a new PO Box after tweeting this 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nice letter from Bill Nix, who would’ve been my prof at Stanford if I hadn’t put grad studies on (permanent) deferment]]></title>
+        <id>https://twitter.com/elonmusk/status/1560720224588120064</id>
+        <link href="https://twitter.com/elonmusk/status/1560720224588120064"/>
+        <updated>2022-08-19T20:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Nice letter from Bill Nix, who would’ve been my prof at Stanford if I hadn’t put grad studies on (permanent) deferment]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SpaceX Each fairing half is a fully capable reentry vehicle with its own thrusters, thermal protection, avionics & sensor suite]]></title>
+        <id>https://twitter.com/elonmusk/status/1560711872344690691</id>
+        <link href="https://twitter.com/elonmusk/status/1560711872344690691"/>
+        <updated>2022-08-19T19:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @SpaceX Each fairing half is a fully capable reentry vehicle with its own thrusters, thermal protection, avionics & sensor suite]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Watch Falcon 9 launch 53 Starlink satellites to orbit →]]></title>
+        <id>https://twitter.com/SpaceX/status/1560707309361172480</id>
+        <link href="https://twitter.com/SpaceX/status/1560707309361172480"/>
+        <updated>2022-08-19T19:16:33.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Watch Falcon 9 launch 53 Starlink satellites to orbit → http://spacex.com/launches/sl4-27/ https://twitter.com/i/broadcasts/1zqKVBdwzbVKB]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Separation confirmed! Dragon will perform three departure burns to move away from the @space_station]]></title>
+        <id>https://twitter.com/SpaceX/status/1560644684237586434</id>
+        <link href="https://twitter.com/SpaceX/status/1560644684237586434"/>
+        <updated>2022-08-19T15:07:42.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Separation confirmed! Dragon will perform three departure burns to move away from the @space_station]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Dilbert_Daily Free Willy was never free 😢]]></title>
+        <id>https://twitter.com/elonmusk/status/1560634159386992640</id>
+        <link href="https://twitter.com/elonmusk/status/1560634159386992640"/>
+        <updated>2022-08-19T14:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @Dilbert_Daily Free Willy was never free 😢]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: SKY Perfect JSAT has selected Starship for launch of its Superbird-9 communications satellite!]]></title>
+        <id>https://twitter.com/SpaceX/status/1560627503546281985</id>
+        <link href="https://twitter.com/SpaceX/status/1560627503546281985"/>
+        <updated>2022-08-19T13:59:26.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+SKY Perfect JSAT has selected Starship for launch of its Superbird-9 communications satellite! https://www.skyperfectjsat.space/en/news/detail/sky_perfect_jsat_signed_launch_service_contract_for_superbird-9_satellite_with_spacex.html]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still so grateful 🥹]]></title>
+        <id>https://twitter.com/elonmusk/status/1560508081729044480</id>
+        <link href="https://twitter.com/elonmusk/status/1560508081729044480"/>
+        <updated>2022-08-19T06:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Still so grateful 🥹]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV @CChomp13 There are many major code changes, so this will be an extra cautious rollout. Releasing on 8/20 to ~1000 Tesla owners, the...]]></title>
+        <id>https://twitter.com/elonmusk/status/1560503326105649153</id>
+        <link href="https://twitter.com/elonmusk/status/1560503326105649153"/>
+        <updated>2022-08-19T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @CChomp13 There are many major code changes, so this will be an extra cautious rollout.
+Releasing on 8/20 to ~1000 Tesla owners, then 10.69.1 next week to accommodate feedback & release to ~10k customers, then 10.69.2 week after & release to rest of FSD Beta.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @CChomp13 Entropy]]></title>
+        <id>https://twitter.com/elonmusk/status/1560499044438495233</id>
+        <link href="https://twitter.com/elonmusk/status/1560499044438495233"/>
+        <updated>2022-08-19T05:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @CChomp13 Entropy]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1560466783567478784</id>
+        <link href="https://twitter.com/elonmusk/status/1560466783567478784"/>
+        <updated>2022-08-19T03:20:47.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Andst7 Those are the questions that Twitter is doing everything possible to avoid answering …]]></title>
         <id>https://twitter.com/elonmusk/status/1560360640044228609</id>
@@ -81,116 +194,6 @@
         <link href="https://twitter.com/elonmusk/status/1560076884154744833"/>
         <updated>2022-08-18T01:31:28.000Z</updated>
         <summary type="html"><![CDATA[Re @ashleevance 🔥]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @lexfridman 🔥🔥]]></title>
-        <id>https://twitter.com/elonmusk/status/1560012992338591744</id>
-        <link href="https://twitter.com/elonmusk/status/1560012992338591744"/>
-        <updated>2022-08-17T21:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @lexfridman 🔥🔥]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RationalEtienne @MuskUniversity For some reason, I just agree with that guy so much!]]></title>
-        <id>https://twitter.com/elonmusk/status/1559917784280322048</id>
-        <link href="https://twitter.com/elonmusk/status/1559917784280322048"/>
-        <updated>2022-08-17T14:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @RationalEtienne @MuskUniversity For some reason, I just agree with that guy so much!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @mayemusk @kimbal @ToscaMusk 💕]]></title>
-        <id>https://twitter.com/elonmusk/status/1559916646470393856</id>
-        <link href="https://twitter.com/elonmusk/status/1559916646470393856"/>
-        <updated>2022-08-17T14:54:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @mayemusk @kimbal @ToscaMusk 💕]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶 This Magic Moment 🎶]]></title>
-        <id>https://twitter.com/elonmusk/status/1559832948538482690</id>
-        <link href="https://twitter.com/elonmusk/status/1559832948538482690"/>
-        <updated>2022-08-17T09:22:09.000Z</updated>
-        <summary type="html"><![CDATA[🎶 This Magic Moment 🎶]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Kristennetten @wonderofscience *shall]]></title>
-        <id>https://twitter.com/elonmusk/status/1559824523704389634</id>
-        <link href="https://twitter.com/elonmusk/status/1559824523704389634"/>
-        <updated>2022-08-17T08:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @Kristennetten @wonderofscience *shall]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Kristennetten @wonderofscience I will seek out one of these “Mars Bars” tomorrow!]]></title>
-        <id>https://twitter.com/elonmusk/status/1559824351318474753</id>
-        <link href="https://twitter.com/elonmusk/status/1559824351318474753"/>
-        <updated>2022-08-17T08:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @Kristennetten @wonderofscience I will seek out one of these “Mars Bars” tomorrow!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Being a Mom is just as important as any career]]></title>
-        <id>https://twitter.com/elonmusk/status/1559823434028400640</id>
-        <link href="https://twitter.com/elonmusk/status/1559823434028400640"/>
-        <updated>2022-08-17T08:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Being a Mom is just as important as any career]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highly Recommend]]></title>
-        <id>https://twitter.com/elonmusk/status/1559814335320432642</id>
-        <link href="https://twitter.com/elonmusk/status/1559814335320432642"/>
-        <updated>2022-08-17T08:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Highly Recommend https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAudiobook?id=1422220593]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @waitbutwhy @trevorjacob93 😮]]></title>
-        <id>https://twitter.com/elonmusk/status/1559810142027354114</id>
-        <link href="https://twitter.com/elonmusk/status/1559810142027354114"/>
-        <updated>2022-08-17T07:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @waitbutwhy @trevorjacob93 😮]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @wonderofscience Mercury, the forbidden candy]]></title>
-        <id>https://twitter.com/elonmusk/status/1559809610134986752</id>
-        <link href="https://twitter.com/elonmusk/status/1559809610134986752"/>
-        <updated>2022-08-17T07:49:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @wonderofscience Mercury, the forbidden candy]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity Yes]]></title>
-        <id>https://twitter.com/elonmusk/status/1559805894703161345</id>
-        <link href="https://twitter.com/elonmusk/status/1559805894703161345"/>
-        <updated>2022-08-17T07:34:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity Yes]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
