@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-20T03:05:05.012Z</id>
+    <id>urn:2022-08-21T03:10:03.084Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-20T03:05:05.012Z</updated>
+    <updated>2022-08-21T03:10:03.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslarati @Tesla @WholeMarsBlog @JohnnaCrider1 🤔]]></title>
+        <id>https://twitter.com/elonmusk/status/1561157556369768448</id>
+        <link href="https://twitter.com/elonmusk/status/1561157556369768448"/>
+        <updated>2022-08-21T01:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslarati @Tesla @WholeMarsBlog @JohnnaCrider1 🤔]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @aelluswamy Worth hearing about Tesla Autopilot software/AI progress]]></title>
+        <id>https://twitter.com/elonmusk/status/1561157326291222536</id>
+        <link href="https://twitter.com/elonmusk/status/1561157326291222536"/>
+        <updated>2022-08-21T01:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @aelluswamy Worth hearing about Tesla Autopilot software/AI progress]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog As mentioned previously, this is a major release, so we need to be cautious. Goes out to ~1000 Beta participants later today.]]></title>
+        <id>https://twitter.com/elonmusk/status/1561046217840332808</id>
+        <link href="https://twitter.com/elonmusk/status/1561046217840332808"/>
+        <updated>2022-08-20T17:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog As mentioned previously, this is a major release, so we need to be cautious. Goes out to ~1000 Beta participants later today.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog 🤣💯👍]]></title>
+        <id>https://twitter.com/elonmusk/status/1561032727230648322</id>
+        <link href="https://twitter.com/elonmusk/status/1561032727230648322"/>
+        <updated>2022-08-20T16:49:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog 🤣💯👍]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Andst7 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1560806937008250880</id>
+        <link href="https://twitter.com/elonmusk/status/1560806937008250880"/>
+        <updated>2022-08-20T01:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @Andst7 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Shots from the @Space_Station of Dragon's departure]]></title>
+        <id>https://twitter.com/SpaceX/status/1560770079674884099</id>
+        <link href="https://twitter.com/SpaceX/status/1560770079674884099"/>
+        <updated>2022-08-19T23:25:59.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Shots from the @Space_Station of Dragon's departure]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Might need a new PO Box after tweeting this 🤣]]></title>
         <id>https://twitter.com/elonmusk/status/1560732675899817984</id>
@@ -144,56 +205,6 @@ Releasing on 8/20 to ~1000 Tesla owners, then 10.69.1 next week to accommodate f
         <link href="https://twitter.com/elonmusk/status/1560308317255340034"/>
         <updated>2022-08-18T16:51:06.000Z</updated>
         <summary type="html"><![CDATA[Re @ICannot_Enough That said, we will add autoconfigure to side mirrors]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ICannot_Enough Side mirrors cause ~5% range reduction at highway speed]]></title>
-        <id>https://twitter.com/elonmusk/status/1560294614690660355</id>
-        <link href="https://twitter.com/elonmusk/status/1560294614690660355"/>
-        <updated>2022-08-18T15:56:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @ICannot_Enough Side mirrors cause ~5% range reduction at highway speed]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ICannot_Enough Yes, but side mirrors won’t be needed in a self-driving future]]></title>
-        <id>https://twitter.com/elonmusk/status/1560293928045162497</id>
-        <link href="https://twitter.com/elonmusk/status/1560293928045162497"/>
-        <updated>2022-08-18T15:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @ICannot_Enough Yes, but side mirrors won’t be needed in a self-driving future]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DogecoinNorway @micsolana 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1560279650168983552</id>
-        <link href="https://twitter.com/elonmusk/status/1560279650168983552"/>
-        <updated>2022-08-18T14:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @DogecoinNorway @micsolana 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @micsolana 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1560275630196871171</id>
-        <link href="https://twitter.com/elonmusk/status/1560275630196871171"/>
-        <updated>2022-08-18T14:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Re @micsolana 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ashleevance 🔥]]></title>
-        <id>https://twitter.com/elonmusk/status/1560076884154744833</id>
-        <link href="https://twitter.com/elonmusk/status/1560076884154744833"/>
-        <updated>2022-08-18T01:31:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @ashleevance 🔥]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
