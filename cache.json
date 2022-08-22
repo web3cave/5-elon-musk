@@ -6,6 +6,76 @@
       "siteUrl": "https://twitter.com/elonmusk",
       "articles": [
         {
+          "id": "https://twitter.com/elonmusk/status/1561475238705401856",
+          "author": "Elon Musk",
+          "description": "👿",
+          "link": "https://twitter.com/elonmusk/status/1561475238705401856",
+          "publishedOn": "2022-08-21T22:08:02.000Z",
+          "wordCount": 383,
+          "title": "👿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1561429523899482112",
+          "author": "Elon Musk",
+          "description": "Re @chazman @aelluswamy Glad it’s working out! Thanks for giving us this tough case to solve. That’s what field testing is all about.\nThis early version of 10.69 is being extra cautious, so waits for a moderately big gap in traffic to cross. Upcoming releases will do better in heavy traffic.",
+          "link": "https://twitter.com/elonmusk/status/1561429523899482112",
+          "publishedOn": "2022-08-21T19:06:23.000Z",
+          "wordCount": 383,
+          "title": "Re @chazman @aelluswamy Glad it’s working out! Thanks for giving us this tough case to solve. That’s what field testing is all about. This early ver...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1561428443484536835",
+          "author": "Elon Musk",
+          "description": "Re @chazman @aelluswamy Just wanted to emphasize again that our awesome Tesla software/AI team is who really deserves the credit. The talent level at Tesla is incredible.",
+          "link": "https://twitter.com/elonmusk/status/1561428443484536835",
+          "publishedOn": "2022-08-21T19:02:05.000Z",
+          "wordCount": 383,
+          "title": "Re @chazman @aelluswamy Just wanted to emphasize again that our awesome Tesla software/AI team is who really deserves the credit. The talent level at ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1561362967945531395",
+          "author": "Elon Musk",
+          "description": "Re Note, you can upgrade your existing car to FSD in 2 mins via the Tesla app",
+          "link": "https://twitter.com/elonmusk/status/1561362967945531395",
+          "publishedOn": "2022-08-21T14:41:54.000Z",
+          "wordCount": 383,
+          "title": "Re Note, you can upgrade your existing car to FSD in 2 mins via the Tesla app",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1561362640261226499",
+          "author": "Elon Musk",
+          "description": "After wide release of FSD Beta 10.69.2, price of FSD will rise to $15k in North America on September 5th. \nCurrent price will be honored for orders made before Sept 5th, but delivered later.",
+          "link": "https://twitter.com/elonmusk/status/1561362640261226499",
+          "publishedOn": "2022-08-21T14:40:36.000Z",
+          "wordCount": 383,
+          "title": "After wide release of FSD Beta 10.69.2, price of FSD will rise to $15k in North America on September 5th. Current price will be honored for orders mad...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1561361064163516417",
+          "author": "Elon Musk",
+          "description": "FSD Beta 10.69 started rolling out to Tesla owners last night. This build is a big step forward!\n10.69.1 probably end of week with wider release.\n1069.2 in a few weeks should be good enough to provide to all FSD Beta participants.",
+          "link": "https://twitter.com/elonmusk/status/1561361064163516417",
+          "publishedOn": "2022-08-21T14:34:21.000Z",
+          "wordCount": 383,
+          "title": "FSD Beta 10.69 started rolling out to Tesla owners last night. This build is a big step forward! 10.69.1 probably end of week with wider release. 1069...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1561332565960806400",
+          "author": "Elon Musk",
+          "description": "Re @BLKMDL3 @Tesla Tesla Autopilot/AI team did great work with 10.69! Some point releases needed for polish, so 10.69.2 should really shine.",
+          "link": "https://twitter.com/elonmusk/status/1561332565960806400",
+          "publishedOn": "2022-08-21T12:41:06.000Z",
+          "wordCount": 383,
+          "title": "Re @BLKMDL3 @Tesla Tesla Autopilot/AI team did great work with 10.69! Some point releases needed for polish, so 10.69.2 should really shine.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/elonmusk/status/1561157556369768448",
           "author": "Elon Musk",
           "description": "Re @Teslarati @Tesla @WholeMarsBlog @JohnnaCrider1 🤔",
@@ -133,76 +203,6 @@
           "publishedOn": "2022-08-19T13:59:26.000Z",
           "wordCount": 383,
           "title": "RT SpaceX: SKY Perfect JSAT has selected Starship for launch of its Superbird-9 communications satellite!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1560508081729044480",
-          "author": "Elon Musk",
-          "description": "Still so grateful 🥹",
-          "link": "https://twitter.com/elonmusk/status/1560508081729044480",
-          "publishedOn": "2022-08-19T06:04:54.000Z",
-          "wordCount": 383,
-          "title": "Still so grateful 🥹",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1560503326105649153",
-          "author": "Elon Musk",
-          "description": "Re @teslaownersSV @CChomp13 There are many major code changes, so this will be an extra cautious rollout.\nReleasing on 8/20 to ~1000 Tesla owners, then 10.69.1 next week to accommodate feedback & release to ~10k customers, then 10.69.2 week after & release to rest of FSD Beta.",
-          "link": "https://twitter.com/elonmusk/status/1560503326105649153",
-          "publishedOn": "2022-08-19T05:46:00.000Z",
-          "wordCount": 383,
-          "title": "Re @teslaownersSV @CChomp13 There are many major code changes, so this will be an extra cautious rollout. Releasing on 8/20 to ~1000 Tesla owners, the...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1560499044438495233",
-          "author": "Elon Musk",
-          "description": "Re @CChomp13 Entropy",
-          "link": "https://twitter.com/elonmusk/status/1560499044438495233",
-          "publishedOn": "2022-08-19T05:28:59.000Z",
-          "wordCount": 383,
-          "title": "Re @CChomp13 Entropy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1560466783567478784",
-          "author": "Elon Musk",
-          "description": "",
-          "link": "https://twitter.com/elonmusk/status/1560466783567478784",
-          "publishedOn": "2022-08-19T03:20:47.000Z",
-          "wordCount": 383,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1560360640044228609",
-          "author": "Elon Musk",
-          "description": "Re @Andst7 Those are the questions that Twitter is doing everything possible to avoid answering …",
-          "link": "https://twitter.com/elonmusk/status/1560360640044228609",
-          "publishedOn": "2022-08-18T20:19:01.000Z",
-          "wordCount": 383,
-          "title": "Re @Andst7 Those are the questions that Twitter is doing everything possible to avoid answering …",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1560360034583838721",
-          "author": "Elon Musk",
-          "description": "Re @SawyerMerritt @ICannot_Enough Modifying your car after delivery is legal in America, so yes 😀",
-          "link": "https://twitter.com/elonmusk/status/1560360034583838721",
-          "publishedOn": "2022-08-18T20:16:36.000Z",
-          "wordCount": 383,
-          "title": "Re @SawyerMerritt @ICannot_Enough Modifying your car after delivery is legal in America, so yes 😀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1560308317255340034",
-          "author": "Elon Musk",
-          "description": "Re @ICannot_Enough That said, we will add autoconfigure to side mirrors",
-          "link": "https://twitter.com/elonmusk/status/1560308317255340034",
-          "publishedOn": "2022-08-18T16:51:06.000Z",
-          "wordCount": 383,
-          "title": "Re @ICannot_Enough That said, we will add autoconfigure to side mirrors",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-21T03:10:03.084Z</id>
+    <id>urn:2022-08-22T03:19:02.665Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-21T03:10:03.084Z</updated>
+    <updated>2022-08-22T03:19:02.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[👿]]></title>
+        <id>https://twitter.com/elonmusk/status/1561475238705401856</id>
+        <link href="https://twitter.com/elonmusk/status/1561475238705401856"/>
+        <updated>2022-08-21T22:08:02.000Z</updated>
+        <summary type="html"><![CDATA[👿]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @chazman @aelluswamy Glad it’s working out! Thanks for giving us this tough case to solve. That’s what field testing is all about. This early ver...]]></title>
+        <id>https://twitter.com/elonmusk/status/1561429523899482112</id>
+        <link href="https://twitter.com/elonmusk/status/1561429523899482112"/>
+        <updated>2022-08-21T19:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @chazman @aelluswamy Glad it’s working out! Thanks for giving us this tough case to solve. That’s what field testing is all about.
+This early version of 10.69 is being extra cautious, so waits for a moderately big gap in traffic to cross. Upcoming releases will do better in heavy traffic.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @chazman @aelluswamy Just wanted to emphasize again that our awesome Tesla software/AI team is who really deserves the credit. The talent level at ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1561428443484536835</id>
+        <link href="https://twitter.com/elonmusk/status/1561428443484536835"/>
+        <updated>2022-08-21T19:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @chazman @aelluswamy Just wanted to emphasize again that our awesome Tesla software/AI team is who really deserves the credit. The talent level at Tesla is incredible.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Note, you can upgrade your existing car to FSD in 2 mins via the Tesla app]]></title>
+        <id>https://twitter.com/elonmusk/status/1561362967945531395</id>
+        <link href="https://twitter.com/elonmusk/status/1561362967945531395"/>
+        <updated>2022-08-21T14:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Re Note, you can upgrade your existing car to FSD in 2 mins via the Tesla app]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After wide release of FSD Beta 10.69.2, price of FSD will rise to $15k in North America on September 5th. Current price will be honored for orders mad...]]></title>
+        <id>https://twitter.com/elonmusk/status/1561362640261226499</id>
+        <link href="https://twitter.com/elonmusk/status/1561362640261226499"/>
+        <updated>2022-08-21T14:40:36.000Z</updated>
+        <summary type="html"><![CDATA[After wide release of FSD Beta 10.69.2, price of FSD will rise to $15k in North America on September 5th. 
+Current price will be honored for orders made before Sept 5th, but delivered later.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSD Beta 10.69 started rolling out to Tesla owners last night. This build is a big step forward! 10.69.1 probably end of week with wider release. 1069...]]></title>
+        <id>https://twitter.com/elonmusk/status/1561361064163516417</id>
+        <link href="https://twitter.com/elonmusk/status/1561361064163516417"/>
+        <updated>2022-08-21T14:34:21.000Z</updated>
+        <summary type="html"><![CDATA[FSD Beta 10.69 started rolling out to Tesla owners last night. This build is a big step forward!
+10.69.1 probably end of week with wider release.
+1069.2 in a few weeks should be good enough to provide to all FSD Beta participants.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BLKMDL3 @Tesla Tesla Autopilot/AI team did great work with 10.69! Some point releases needed for polish, so 10.69.2 should really shine.]]></title>
+        <id>https://twitter.com/elonmusk/status/1561332565960806400</id>
+        <link href="https://twitter.com/elonmusk/status/1561332565960806400"/>
+        <updated>2022-08-21T12:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @BLKMDL3 @Tesla Tesla Autopilot/AI team did great work with 10.69! Some point releases needed for polish, so 10.69.2 should really shine.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Teslarati @Tesla @WholeMarsBlog @JohnnaCrider1 🤔]]></title>
         <id>https://twitter.com/elonmusk/status/1561157556369768448</id>
@@ -135,76 +209,6 @@ Separation confirmed! Dragon will perform three departure burns to move away fro
         <updated>2022-08-19T13:59:26.000Z</updated>
         <summary type="html"><![CDATA[RT SpaceX
 SKY Perfect JSAT has selected Starship for launch of its Superbird-9 communications satellite! https://www.skyperfectjsat.space/en/news/detail/sky_perfect_jsat_signed_launch_service_contract_for_superbird-9_satellite_with_spacex.html]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still so grateful 🥹]]></title>
-        <id>https://twitter.com/elonmusk/status/1560508081729044480</id>
-        <link href="https://twitter.com/elonmusk/status/1560508081729044480"/>
-        <updated>2022-08-19T06:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Still so grateful 🥹]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV @CChomp13 There are many major code changes, so this will be an extra cautious rollout. Releasing on 8/20 to ~1000 Tesla owners, the...]]></title>
-        <id>https://twitter.com/elonmusk/status/1560503326105649153</id>
-        <link href="https://twitter.com/elonmusk/status/1560503326105649153"/>
-        <updated>2022-08-19T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV @CChomp13 There are many major code changes, so this will be an extra cautious rollout.
-Releasing on 8/20 to ~1000 Tesla owners, then 10.69.1 next week to accommodate feedback & release to ~10k customers, then 10.69.2 week after & release to rest of FSD Beta.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CChomp13 Entropy]]></title>
-        <id>https://twitter.com/elonmusk/status/1560499044438495233</id>
-        <link href="https://twitter.com/elonmusk/status/1560499044438495233"/>
-        <updated>2022-08-19T05:28:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @CChomp13 Entropy]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1560466783567478784</id>
-        <link href="https://twitter.com/elonmusk/status/1560466783567478784"/>
-        <updated>2022-08-19T03:20:47.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Andst7 Those are the questions that Twitter is doing everything possible to avoid answering …]]></title>
-        <id>https://twitter.com/elonmusk/status/1560360640044228609</id>
-        <link href="https://twitter.com/elonmusk/status/1560360640044228609"/>
-        <updated>2022-08-18T20:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @Andst7 Those are the questions that Twitter is doing everything possible to avoid answering …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt @ICannot_Enough Modifying your car after delivery is legal in America, so yes 😀]]></title>
-        <id>https://twitter.com/elonmusk/status/1560360034583838721</id>
-        <link href="https://twitter.com/elonmusk/status/1560360034583838721"/>
-        <updated>2022-08-18T20:16:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt @ICannot_Enough Modifying your car after delivery is legal in America, so yes 😀]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ICannot_Enough That said, we will add autoconfigure to side mirrors]]></title>
-        <id>https://twitter.com/elonmusk/status/1560308317255340034</id>
-        <link href="https://twitter.com/elonmusk/status/1560308317255340034"/>
-        <updated>2022-08-18T16:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @ICannot_Enough That said, we will add autoconfigure to side mirrors]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
