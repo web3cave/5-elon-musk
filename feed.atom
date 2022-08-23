@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-22T03:19:02.665Z</id>
+    <id>urn:2022-08-23T03:34:26.795Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-22T03:19:02.665Z</updated>
+    <updated>2022-08-23T03:34:26.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @chazman @aelluswamy 👍]]></title>
+        <id>https://twitter.com/elonmusk/status/1561840143060828162</id>
+        <link href="https://twitter.com/elonmusk/status/1561840143060828162"/>
+        <updated>2022-08-22T22:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @chazman @aelluswamy 👍]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuralink progress update show & tell on October 31 st (Halloween)]]></title>
+        <id>https://twitter.com/elonmusk/status/1561608534629965826</id>
+        <link href="https://twitter.com/elonmusk/status/1561608534629965826"/>
+        <updated>2022-08-22T06:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Neuralink progress update show & tell on October 31 st (Halloween)]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 main goals this year: - Starship to orbit - FSD wide release Many other things, of course, but those are the 2 giant kahunas. Will require insane wo...]]></title>
+        <id>https://twitter.com/elonmusk/status/1561607860101996544</id>
+        <link href="https://twitter.com/elonmusk/status/1561607860101996544"/>
+        <updated>2022-08-22T06:55:01.000Z</updated>
+        <summary type="html"><![CDATA[2 main goals this year: 
+- Starship to orbit
+- FSD wide release
+Many other things, of course, but those are the 2 giant kahunas. Will require insane work by many super talented people, but, if anyone can do it, they can. 
+It is an honor to work with such awesome human beings.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re It is the fastest way to get between one downtown and another with known physics (and the Standard Model is proving quiet resilient)!]]></title>
+        <id>https://twitter.com/elonmusk/status/1561605094344466432</id>
+        <link href="https://twitter.com/elonmusk/status/1561605094344466432"/>
+        <updated>2022-08-22T06:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Re It is the fastest way to get between one downtown and another with known physics (and the Standard Model is proving quiet resilient)!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Would be cool to do a (much simplified) Hyperloop demo tunnel between maybe Austin & San Antonio?]]></title>
+        <id>https://twitter.com/elonmusk/status/1561604589962625025</id>
+        <link href="https://twitter.com/elonmusk/status/1561604589962625025"/>
+        <updated>2022-08-22T06:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Re Would be cool to do a (much simplified) Hyperloop demo tunnel between maybe Austin & San Antonio?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Now @boringcompany tunnels are in active use in Vegas. Try it if you’re in town. Will be expanding to connect all major destinations in Vegas plus...]]></title>
+        <id>https://twitter.com/elonmusk/status/1561604107726716928</id>
+        <link href="https://twitter.com/elonmusk/status/1561604107726716928"/>
+        <updated>2022-08-22T06:40:07.000Z</updated>
+        <summary type="html"><![CDATA[Re Now @boringcompany tunnels are in active use in Vegas. Try it if you’re in town. Will be expanding to connect all major destinations in Vegas plus airport.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1561603367155163136</id>
+        <link href="https://twitter.com/elonmusk/status/1561603367155163136"/>
+        <updated>2022-08-22T06:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Re 🤣🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Funny how there are often simultaneous reactions saying “it’s impossible” and “it was already done 3000 years ago”]]></title>
+        <id>https://twitter.com/elonmusk/status/1561602929957691392</id>
+        <link href="https://twitter.com/elonmusk/status/1561602929957691392"/>
+        <updated>2022-08-22T06:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Re Funny how there are often simultaneous reactions saying “it’s impossible” and “it was already done 3000 years ago”]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👿]]></title>
         <id>https://twitter.com/elonmusk/status/1561475238705401856</id>
@@ -115,100 +199,6 @@ Current price will be honored for orders made before Sept 5th, but delivered lat
         <link href="https://twitter.com/elonmusk/status/1561032727230648322"/>
         <updated>2022-08-20T16:49:39.000Z</updated>
         <summary type="html"><![CDATA[Re @WholeMarsBlog 🤣💯👍]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Andst7 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1560806937008250880</id>
-        <link href="https://twitter.com/elonmusk/status/1560806937008250880"/>
-        <updated>2022-08-20T01:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @Andst7 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Shots from the @Space_Station of Dragon's departure]]></title>
-        <id>https://twitter.com/SpaceX/status/1560770079674884099</id>
-        <link href="https://twitter.com/SpaceX/status/1560770079674884099"/>
-        <updated>2022-08-19T23:25:59.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Shots from the @Space_Station of Dragon's departure]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Might need a new PO Box after tweeting this 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1560732675899817984</id>
-        <link href="https://twitter.com/elonmusk/status/1560732675899817984"/>
-        <updated>2022-08-19T20:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Re Might need a new PO Box after tweeting this 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nice letter from Bill Nix, who would’ve been my prof at Stanford if I hadn’t put grad studies on (permanent) deferment]]></title>
-        <id>https://twitter.com/elonmusk/status/1560720224588120064</id>
-        <link href="https://twitter.com/elonmusk/status/1560720224588120064"/>
-        <updated>2022-08-19T20:07:52.000Z</updated>
-        <summary type="html"><![CDATA[Nice letter from Bill Nix, who would’ve been my prof at Stanford if I hadn’t put grad studies on (permanent) deferment]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SpaceX Each fairing half is a fully capable reentry vehicle with its own thrusters, thermal protection, avionics & sensor suite]]></title>
-        <id>https://twitter.com/elonmusk/status/1560711872344690691</id>
-        <link href="https://twitter.com/elonmusk/status/1560711872344690691"/>
-        <updated>2022-08-19T19:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @SpaceX Each fairing half is a fully capable reentry vehicle with its own thrusters, thermal protection, avionics & sensor suite]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Watch Falcon 9 launch 53 Starlink satellites to orbit →]]></title>
-        <id>https://twitter.com/SpaceX/status/1560707309361172480</id>
-        <link href="https://twitter.com/SpaceX/status/1560707309361172480"/>
-        <updated>2022-08-19T19:16:33.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Watch Falcon 9 launch 53 Starlink satellites to orbit → http://spacex.com/launches/sl4-27/ https://twitter.com/i/broadcasts/1zqKVBdwzbVKB]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Separation confirmed! Dragon will perform three departure burns to move away from the @space_station]]></title>
-        <id>https://twitter.com/SpaceX/status/1560644684237586434</id>
-        <link href="https://twitter.com/SpaceX/status/1560644684237586434"/>
-        <updated>2022-08-19T15:07:42.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Separation confirmed! Dragon will perform three departure burns to move away from the @space_station]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Dilbert_Daily Free Willy was never free 😢]]></title>
-        <id>https://twitter.com/elonmusk/status/1560634159386992640</id>
-        <link href="https://twitter.com/elonmusk/status/1560634159386992640"/>
-        <updated>2022-08-19T14:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @Dilbert_Daily Free Willy was never free 😢]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: SKY Perfect JSAT has selected Starship for launch of its Superbird-9 communications satellite!]]></title>
-        <id>https://twitter.com/SpaceX/status/1560627503546281985</id>
-        <link href="https://twitter.com/SpaceX/status/1560627503546281985"/>
-        <updated>2022-08-19T13:59:26.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-SKY Perfect JSAT has selected Starship for launch of its Superbird-9 communications satellite! https://www.skyperfectjsat.space/en/news/detail/sky_perfect_jsat_signed_launch_service_contract_for_superbird-9_satellite_with_spacex.html]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
