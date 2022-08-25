@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-24T03:30:42.970Z</id>
+    <id>urn:2022-08-25T03:29:44.215Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-24T03:30:42.970Z</updated>
+    <updated>2022-08-25T03:29:44.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @BBC_Future I would gladly obey their commands, but I can’t tell what they’re saying!]]></title>
+        <id>https://twitter.com/elonmusk/status/1562535862943961088</id>
+        <link href="https://twitter.com/elonmusk/status/1562535862943961088"/>
+        <updated>2022-08-24T20:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @BBC_Future I would gladly obey their commands, but I can’t tell what they’re saying!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @RationalEtienne @arctechinc I do not doubt that. Criticism, public or private, is welcome after we go to wide beta. Early beta has many known issu...]]></title>
+        <id>https://twitter.com/elonmusk/status/1562521553358581760</id>
+        <link href="https://twitter.com/elonmusk/status/1562521553358581760"/>
+        <updated>2022-08-24T19:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @RationalEtienne @arctechinc I do not doubt that. Criticism, public or private, is welcome after we go to wide beta. 
+Early beta has many known issues. The reason we release it to a limited number of cars is to discover unknown issues.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @RationalEtienne @arctechinc No. Let me make something clear: James contacted me directly to be included in *early* beta, which is only ~1000 cars,...]]></title>
+        <id>https://twitter.com/elonmusk/status/1562507192342761473</id>
+        <link href="https://twitter.com/elonmusk/status/1562507192342761473"/>
+        <updated>2022-08-24T18:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @RationalEtienne @arctechinc No. Let me make something clear: James contacted me directly to be included in *early* beta, which is only ~1000 cars, mostly employees. 
+Early beta explicitly has issues or it would be rolled out widely, so publicly criticizing something he had asked for is wrong.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is something special]]></title>
+        <id>https://twitter.com/elonmusk/status/1562477813613047811</id>
+        <link href="https://twitter.com/elonmusk/status/1562477813613047811"/>
+        <updated>2022-08-24T16:31:54.000Z</updated>
+        <summary type="html"><![CDATA[This is something special
+SpaceX: Tomorrow night at 7:00 p.m. CT, Elon and @TMobile’s Mike Sievert will announce plans to increase connectivity. Tune in to watch live →
+ http://spacex.com]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The course of civilization is not always upward]]></title>
+        <id>https://twitter.com/elonmusk/status/1562340989775511552</id>
+        <link href="https://twitter.com/elonmusk/status/1562340989775511552"/>
+        <updated>2022-08-24T07:28:13.000Z</updated>
+        <summary type="html"><![CDATA[The course of civilization is not always upward https://m.youtube.com/watch?v=glKe9njOB24]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @heydave7 True]]></title>
+        <id>https://twitter.com/elonmusk/status/1562316090151038977</id>
+        <link href="https://twitter.com/elonmusk/status/1562316090151038977"/>
+        <updated>2022-08-24T05:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @heydave7 True]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mechazilla loads Starship on launchpad]]></title>
+        <id>https://twitter.com/elonmusk/status/1562314849912119296</id>
+        <link href="https://twitter.com/elonmusk/status/1562314849912119296"/>
+        <updated>2022-08-24T05:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Mechazilla loads Starship on launchpad]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DavidSacks 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1562314348206297088</id>
+        <link href="https://twitter.com/elonmusk/status/1562314348206297088"/>
+        <updated>2022-08-24T05:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @DavidSacks 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @teslaherbert 🤣]]></title>
         <id>https://twitter.com/elonmusk/status/1562177549500706821</id>
@@ -110,100 +194,6 @@
         <link href="https://twitter.com/elonmusk/status/1562104998783324160"/>
         <updated>2022-08-23T15:50:28.000Z</updated>
         <summary type="html"><![CDATA[Re @ID_AA_Carmack You’re waking up in the morning!?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @chazman @aelluswamy 👍]]></title>
-        <id>https://twitter.com/elonmusk/status/1561840143060828162</id>
-        <link href="https://twitter.com/elonmusk/status/1561840143060828162"/>
-        <updated>2022-08-22T22:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @chazman @aelluswamy 👍]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neuralink progress update show & tell on October 31 st (Halloween)]]></title>
-        <id>https://twitter.com/elonmusk/status/1561608534629965826</id>
-        <link href="https://twitter.com/elonmusk/status/1561608534629965826"/>
-        <updated>2022-08-22T06:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Neuralink progress update show & tell on October 31 st (Halloween)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 main goals this year: - Starship to orbit - FSD wide release Many other things, of course, but those are the 2 giant kahunas. Will require insane wo...]]></title>
-        <id>https://twitter.com/elonmusk/status/1561607860101996544</id>
-        <link href="https://twitter.com/elonmusk/status/1561607860101996544"/>
-        <updated>2022-08-22T06:55:01.000Z</updated>
-        <summary type="html"><![CDATA[2 main goals this year: 
-- Starship to orbit
-- FSD wide release
-Many other things, of course, but those are the 2 giant kahunas. Will require insane work by many super talented people, but, if anyone can do it, they can. 
-It is an honor to work with such awesome human beings.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re It is the fastest way to get between one downtown and another with known physics (and the Standard Model is proving quiet resilient)!]]></title>
-        <id>https://twitter.com/elonmusk/status/1561605094344466432</id>
-        <link href="https://twitter.com/elonmusk/status/1561605094344466432"/>
-        <updated>2022-08-22T06:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Re It is the fastest way to get between one downtown and another with known physics (and the Standard Model is proving quiet resilient)!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Would be cool to do a (much simplified) Hyperloop demo tunnel between maybe Austin & San Antonio?]]></title>
-        <id>https://twitter.com/elonmusk/status/1561604589962625025</id>
-        <link href="https://twitter.com/elonmusk/status/1561604589962625025"/>
-        <updated>2022-08-22T06:42:02.000Z</updated>
-        <summary type="html"><![CDATA[Re Would be cool to do a (much simplified) Hyperloop demo tunnel between maybe Austin & San Antonio?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Now @boringcompany tunnels are in active use in Vegas. Try it if you’re in town. Will be expanding to connect all major destinations in Vegas plus...]]></title>
-        <id>https://twitter.com/elonmusk/status/1561604107726716928</id>
-        <link href="https://twitter.com/elonmusk/status/1561604107726716928"/>
-        <updated>2022-08-22T06:40:07.000Z</updated>
-        <summary type="html"><![CDATA[Re Now @boringcompany tunnels are in active use in Vegas. Try it if you’re in town. Will be expanding to connect all major destinations in Vegas plus airport.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1561603367155163136</id>
-        <link href="https://twitter.com/elonmusk/status/1561603367155163136"/>
-        <updated>2022-08-22T06:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Re 🤣🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Funny how there are often simultaneous reactions saying “it’s impossible” and “it was already done 3000 years ago”]]></title>
-        <id>https://twitter.com/elonmusk/status/1561602929957691392</id>
-        <link href="https://twitter.com/elonmusk/status/1561602929957691392"/>
-        <updated>2022-08-22T06:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Re Funny how there are often simultaneous reactions saying “it’s impossible” and “it was already done 3000 years ago”]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👿]]></title>
-        <id>https://twitter.com/elonmusk/status/1561475238705401856</id>
-        <link href="https://twitter.com/elonmusk/status/1561475238705401856"/>
-        <updated>2022-08-21T22:08:02.000Z</updated>
-        <summary type="html"><![CDATA[👿]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
