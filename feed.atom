@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-27T03:24:25.695Z</id>
+    <id>urn:2022-08-28T03:23:00.514Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-27T03:24:25.695Z</updated>
+    <updated>2022-08-28T03:23:00.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Re It was inevitable]]></title>
-        <id>https://twitter.com/elonmusk/status/1563340246682849281</id>
-        <link href="https://twitter.com/elonmusk/status/1563340246682849281"/>
-        <updated>2022-08-27T01:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Re It was inevitable]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Re @RenataKonkoly The caffeine one is most troubling]]></title>
         <id>https://twitter.com/elonmusk/status/1563338817154666497</id>
         <link href="https://twitter.com/elonmusk/status/1563338817154666497"/>
         <updated>2022-08-27T01:33:14.000Z</updated>
         <summary type="html"><![CDATA[Re @RenataKonkoly The caffeine one is most troubling]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which one would win?]]></title>
-        <id>https://twitter.com/elonmusk/status/1563337811578978305</id>
-        <link href="https://twitter.com/elonmusk/status/1563337811578978305"/>
-        <updated>2022-08-27T01:29:14.000Z</updated>
-        <summary type="html"><![CDATA[Which one would win?]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
@@ -202,6 +182,29 @@ Adding silicon to (primarily carbon) anode, which improves energy density, reduc
         <link href="https://twitter.com/elonmusk/status/1562956451538014209"/>
         <updated>2022-08-26T00:13:51.000Z</updated>
         <summary type="html"><![CDATA[Starlink V2, launching next year, will transmit direct to mobile phones, eliminating dead zones worldwide]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Watch live as Elon and @TMobile CEO and President Mike Sievert announce plans to increase connectivity →]]></title>
+        <id>https://twitter.com/SpaceX/status/1562954090996346880</id>
+        <link href="https://twitter.com/SpaceX/status/1562954090996346880"/>
+        <updated>2022-08-26T00:04:28.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Watch live as Elon and @TMobile CEO and President Mike Sievert announce plans to increase connectivity → http://spacex.com https://twitter.com/i/broadcasts/1gqxvlrgkPeGB]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Livestream of big news in about an hour]]></title>
+        <id>https://twitter.com/elonmusk/status/1562935219644235776</id>
+        <link href="https://twitter.com/elonmusk/status/1562935219644235776"/>
+        <updated>2022-08-25T22:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Livestream of big news in about an hour
+SpaceX: Tomorrow night at 7:00 p.m. CT, Elon and @TMobile’s Mike Sievert will announce plans to increase connectivity. Tune in to watch live →
+ http://spacex.com]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>

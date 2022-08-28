@@ -6,16 +6,6 @@
       "siteUrl": "https://twitter.com/elonmusk",
       "articles": [
         {
-          "id": "https://twitter.com/elonmusk/status/1563340246682849281",
-          "author": "Elon Musk",
-          "description": "Re It was inevitable",
-          "link": "https://twitter.com/elonmusk/status/1563340246682849281",
-          "publishedOn": "2022-08-27T01:38:54.000Z",
-          "wordCount": 390,
-          "title": "Re It was inevitable",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/elonmusk/status/1563338817154666497",
           "author": "Elon Musk",
           "description": "Re @RenataKonkoly The caffeine one is most troubling",
@@ -23,16 +13,6 @@
           "publishedOn": "2022-08-27T01:33:14.000Z",
           "wordCount": 390,
           "title": "Re @RenataKonkoly The caffeine one is most troubling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1563337811578978305",
-          "author": "Elon Musk",
-          "description": "Which one would win?",
-          "link": "https://twitter.com/elonmusk/status/1563337811578978305",
-          "publishedOn": "2022-08-27T01:29:14.000Z",
-          "wordCount": 390,
-          "title": "Which one would win?",
           "imageUrl": null
         },
         {
@@ -203,6 +183,26 @@
           "publishedOn": "2022-08-26T00:13:51.000Z",
           "wordCount": 390,
           "title": "Starlink V2, launching next year, will transmit direct to mobile phones, eliminating dead zones worldwide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/SpaceX/status/1562954090996346880",
+          "author": "Elon Musk",
+          "description": "RT SpaceX\nWatch live as Elon and @TMobile CEO and President Mike Sievert announce plans to increase connectivity → http://spacex.com https://twitter.com/i/broadcasts/1gqxvlrgkPeGB",
+          "link": "https://twitter.com/SpaceX/status/1562954090996346880",
+          "publishedOn": "2022-08-26T00:04:28.000Z",
+          "wordCount": 390,
+          "title": "RT SpaceX: Watch live as Elon and @TMobile CEO and President Mike Sievert announce plans to increase connectivity →",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1562935219644235776",
+          "author": "Elon Musk",
+          "description": "Livestream of big news in about an hour\nSpaceX: Tomorrow night at 7:00 p.m. CT, Elon and @TMobile’s Mike Sievert will announce plans to increase connectivity. Tune in to watch live →\n http://spacex.com",
+          "link": "https://twitter.com/elonmusk/status/1562935219644235776",
+          "publishedOn": "2022-08-25T22:49:28.000Z",
+          "wordCount": 390,
+          "title": "Livestream of big news in about an hour",
           "imageUrl": null
         }
       ]
