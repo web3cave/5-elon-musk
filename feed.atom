@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-30T03:39:50.534Z</id>
+    <id>urn:2022-08-31T03:53:06.036Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-30T03:39:50.534Z</updated>
+    <updated>2022-08-31T03:53:06.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog @jonbbc @aelluswamy 10.69.2 goes out to 100k owners next week]]></title>
+        <id>https://twitter.com/elonmusk/status/1564748039344082949</id>
+        <link href="https://twitter.com/elonmusk/status/1564748039344082949"/>
+        <updated>2022-08-30T22:52:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog @jonbbc @aelluswamy 10.69.2 goes out to 100k owners next week]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MuskUniversity SJM question]]></title>
+        <id>https://twitter.com/elonmusk/status/1564747543979892736</id>
+        <link href="https://twitter.com/elonmusk/status/1564747543979892736"/>
+        <updated>2022-08-30T22:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity SJM question]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spent the day walking entire Giga Berlin production line – team is doing excellent work!]]></title>
+        <id>https://twitter.com/elonmusk/status/1564747303646265346</id>
+        <link href="https://twitter.com/elonmusk/status/1564747303646265346"/>
+        <updated>2022-08-30T22:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Spent the day walking entire Giga Berlin production line – team is doing excellent work!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jonbbc @WholeMarsBlog @aelluswamy 10.69.1 is even better. We reduced latency & jitter in hardware command loop, so time from object detection to b...]]></title>
+        <id>https://twitter.com/elonmusk/status/1564746666414166028</id>
+        <link href="https://twitter.com/elonmusk/status/1564746666414166028"/>
+        <updated>2022-08-30T22:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @jonbbc @WholeMarsBlog @aelluswamy 10.69.1 is even better. We reduced latency & jitter in hardware command loop, so time from object detection to brake actuation is 10% to 20% better.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kickass Internet connection coming Royal Caribbean ships soon!]]></title>
+        <id>https://twitter.com/elonmusk/status/1564744331554131971</id>
+        <link href="https://twitter.com/elonmusk/status/1564744331554131971"/>
+        <updated>2022-08-30T22:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Kickass Internet connection coming Royal Caribbean ships soon!
+Royal Caribbean Group: We've just announced our plan to implement @SpaceX’s Starlink, making us the first in the #cruiseindustry to adopt the #technology. The game-changing, high-speed internet will be deployed on @RoyalCaribbean, @CelebrityCruise and @Silversea ships. Read:
+ https://bit.ly/3CJDci3]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: Extreme heat and durability testing in Dubai 🐫]]></title>
+        <id>https://twitter.com/Tesla/status/1564664691846160385</id>
+        <link href="https://twitter.com/Tesla/status/1564664691846160385"/>
+        <updated>2022-08-30T17:21:47.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+Extreme heat and durability testing in Dubai 🐫]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MuskUniversity It’s true]]></title>
+        <id>https://twitter.com/elonmusk/status/1564532969175322624</id>
+        <link href="https://twitter.com/elonmusk/status/1564532969175322624"/>
+        <updated>2022-08-30T08:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity It’s true]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV @SpaceX Ancient times]]></title>
+        <id>https://twitter.com/elonmusk/status/1564532904998289409</id>
+        <link href="https://twitter.com/elonmusk/status/1564532904998289409"/>
+        <updated>2022-08-30T08:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @SpaceX Ancient times]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @teslaownersSV It will grow by at least 5 to 10 meters over time]]></title>
         <id>https://twitter.com/elonmusk/status/1564300172753915904</id>
@@ -117,96 +200,6 @@ The two-hour launch window opens at 8:33am EDT on Aug. 29.
         <link href="https://twitter.com/elonmusk/status/1564020618512801793"/>
         <updated>2022-08-28T22:42:28.000Z</updated>
         <summary type="html"><![CDATA[Re @jgebbia Wise actions]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @hubermanlab Diet Coke is amazing]]></title>
-        <id>https://twitter.com/elonmusk/status/1563954062457860096</id>
-        <link href="https://twitter.com/elonmusk/status/1563954062457860096"/>
-        <updated>2022-08-28T18:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @hubermanlab Diet Coke is amazing]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Please share some things in this thread which are working for you in life & that others may find helpful!]]></title>
-        <id>https://twitter.com/elonmusk/status/1563949874067869696</id>
-        <link href="https://twitter.com/elonmusk/status/1563949874067869696"/>
-        <updated>2022-08-28T18:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Re Please share some things in this thread which are working for you in life & that others may find helpful!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge @NorthmanTrader Yeah, I lift a little …]]></title>
-        <id>https://twitter.com/elonmusk/status/1563949012910190592</id>
-        <link href="https://twitter.com/elonmusk/status/1563949012910190592"/>
-        <updated>2022-08-28T17:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge @NorthmanTrader Yeah, I lift a little …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NorthmanTrader Over 20 lbs down from my (unhealthy) peak weight]]></title>
-        <id>https://twitter.com/elonmusk/status/1563948579454013441</id>
-        <link href="https://twitter.com/elonmusk/status/1563948579454013441"/>
-        <updated>2022-08-28T17:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @NorthmanTrader Over 20 lbs down from my (unhealthy) peak weight]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From time to time, I will share some things that seem to be working for me, in case you find it helpful]]></title>
-        <id>https://twitter.com/elonmusk/status/1563948078415024129</id>
-        <link href="https://twitter.com/elonmusk/status/1563948078415024129"/>
-        <updated>2022-08-28T17:54:13.000Z</updated>
-        <summary type="html"><![CDATA[From time to time, I will share some things that seem to be working for me, in case you find it helpful]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The Zero fasting app is quite good]]></title>
-        <id>https://twitter.com/elonmusk/status/1563944735730909185</id>
-        <link href="https://twitter.com/elonmusk/status/1563944735730909185"/>
-        <updated>2022-08-28T17:40:56.000Z</updated>
-        <summary type="html"><![CDATA[Re The Zero fasting app is quite good]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On advice of a good friend, I’ve been fasting periodically & feel healthier]]></title>
-        <id>https://twitter.com/elonmusk/status/1563944510358712321</id>
-        <link href="https://twitter.com/elonmusk/status/1563944510358712321"/>
-        <updated>2022-08-28T17:40:02.000Z</updated>
-        <summary type="html"><![CDATA[On advice of a good friend, I’ve been fasting periodically & feel healthier]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @nypost Yes, but I’ve done a lot with the place!]]></title>
-        <id>https://twitter.com/elonmusk/status/1563943323596759041</id>
-        <link href="https://twitter.com/elonmusk/status/1563943323596759041"/>
-        <updated>2022-08-28T17:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @nypost Yes, but I’ve done a lot with the place!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @bullsunvalley @culturaltutor gnus news snooze]]></title>
-        <id>https://twitter.com/elonmusk/status/1563886743425716224</id>
-        <link href="https://twitter.com/elonmusk/status/1563886743425716224"/>
-        <updated>2022-08-28T13:50:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @bullsunvalley @culturaltutor gnus news snooze]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
