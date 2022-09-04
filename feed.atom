@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-03T03:24:56.350Z</id>
+    <id>urn:2022-09-04T03:31:36.546Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-03T03:24:56.350Z</updated>
+    <updated>2022-09-04T03:31:36.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_doge .@Chrisrock invited me to open for one of his shows. Thanks Chris! I will try not to flounder too much.]]></title>
+        <id>https://twitter.com/elonmusk/status/1566234349921374209</id>
+        <link href="https://twitter.com/elonmusk/status/1566234349921374209"/>
+        <updated>2022-09-04T01:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge .@Chrisrock invited me to open for one of his shows. Thanks Chris! I will try not to flounder too much.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @sirxapex @SciGuySpace Yes, also very important]]></title>
+        <id>https://twitter.com/elonmusk/status/1566233616543125505</id>
+        <link href="https://twitter.com/elonmusk/status/1566233616543125505"/>
+        <updated>2022-09-04T01:16:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @sirxapex @SciGuySpace Yes, also very important]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SciGuySpace Accurate assessment. Raptor design started out using H2, but switched to CH4. Latter is best combo of high efficiency & ease of operat...]]></title>
+        <id>https://twitter.com/elonmusk/status/1566233000458592256</id>
+        <link href="https://twitter.com/elonmusk/status/1566233000458592256"/>
+        <updated>2022-09-04T01:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @SciGuySpace Accurate assessment. Raptor design started out using H2, but switched to CH4. Latter is best combo of high efficiency & ease of operation imo.
+Delta-v difference between H2 & CH4 is small for most missions, because CH4 tank is much smaller & no insulation is needed.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @heydave7 Moody’s is irrelevant]]></title>
+        <id>https://twitter.com/elonmusk/status/1565884647950626816</id>
+        <link href="https://twitter.com/elonmusk/status/1565884647950626816"/>
+        <updated>2022-09-03T02:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @heydave7 Moody’s is irrelevant]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1565883786847326209</id>
+        <link href="https://twitter.com/elonmusk/status/1565883786847326209"/>
+        <updated>2022-09-03T02:06:02.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Michaelgr1011 @LAPDHQ @RickCarusoLA @ericgarcetti @MayorOfLA @lapdVanNuysDiv Hope Connor is ok!]]></title>
         <id>https://twitter.com/elonmusk/status/1565441825376243713</id>
@@ -148,44 +198,12 @@ Falcon 9 launches Starlink to orbit for SpaceX’s sixth launch this month]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kickass Internet connection coming Royal Caribbean ships soon!]]></title>
-        <id>https://twitter.com/elonmusk/status/1564744331554131971</id>
-        <link href="https://twitter.com/elonmusk/status/1564744331554131971"/>
-        <updated>2022-08-30T22:38:14.000Z</updated>
-        <summary type="html"><![CDATA[Kickass Internet connection coming Royal Caribbean ships soon!
-Royal Caribbean Group: We've just announced our plan to implement @SpaceX’s Starlink, making us the first in the #cruiseindustry to adopt the #technology. The game-changing, high-speed internet will be deployed on @RoyalCaribbean, @CelebrityCruise and @Silversea ships. Read:
- https://bit.ly/3CJDci3]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Tesla: Extreme heat and durability testing in Dubai 🐫]]></title>
         <id>https://twitter.com/Tesla/status/1564664691846160385</id>
         <link href="https://twitter.com/Tesla/status/1564664691846160385"/>
         <updated>2022-08-30T17:21:47.000Z</updated>
         <summary type="html"><![CDATA[RT Tesla
 Extreme heat and durability testing in Dubai 🐫]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity It’s true]]></title>
-        <id>https://twitter.com/elonmusk/status/1564532969175322624</id>
-        <link href="https://twitter.com/elonmusk/status/1564532969175322624"/>
-        <updated>2022-08-30T08:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity It’s true]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV @SpaceX Ancient times]]></title>
-        <id>https://twitter.com/elonmusk/status/1564532904998289409</id>
-        <link href="https://twitter.com/elonmusk/status/1564532904998289409"/>
-        <updated>2022-08-30T08:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV @SpaceX Ancient times]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
