@@ -176,26 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/elonmusk/status/1564747303646265346",
-          "author": "Elon Musk",
-          "description": "Spent the day walking entire Giga Berlin production line – team is doing excellent work!",
-          "link": "https://twitter.com/elonmusk/status/1564747303646265346",
-          "publishedOn": "2022-08-30T22:50:03.000Z",
-          "wordCount": 390,
-          "title": "Spent the day walking entire Giga Berlin production line – team is doing excellent work!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1564746666414166028",
-          "author": "Elon Musk",
-          "description": "Re @jonbbc @WholeMarsBlog @aelluswamy 10.69.1 is even better. We reduced latency & jitter in hardware command loop, so time from object detection to brake actuation is 10% to 20% better.",
-          "link": "https://twitter.com/elonmusk/status/1564746666414166028",
-          "publishedOn": "2022-08-30T22:47:31.000Z",
-          "wordCount": 390,
-          "title": "Re @jonbbc @WholeMarsBlog @aelluswamy 10.69.1 is even better. We reduced latency & jitter in hardware command loop, so time from object detection to b...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/Tesla/status/1564664691846160385",
           "author": "Elon Musk",
           "description": "RT Tesla\nExtreme heat and durability testing in Dubai 🐫",

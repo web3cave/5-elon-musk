@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-04T03:31:36.546Z</id>
+    <id>urn:2022-09-05T03:36:26.731Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-04T03:31:36.546Z</updated>
+    <updated>2022-09-05T03:36:26.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -173,26 +173,6 @@ Falcon 9 launches Starlink to orbit for SpaceX’s sixth launch this month]]></s
         <link href="https://twitter.com/elonmusk/status/1564747543979892736"/>
         <updated>2022-08-30T22:51:00.000Z</updated>
         <summary type="html"><![CDATA[Re @MuskUniversity SJM question]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spent the day walking entire Giga Berlin production line – team is doing excellent work!]]></title>
-        <id>https://twitter.com/elonmusk/status/1564747303646265346</id>
-        <link href="https://twitter.com/elonmusk/status/1564747303646265346"/>
-        <updated>2022-08-30T22:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Spent the day walking entire Giga Berlin production line – team is doing excellent work!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jonbbc @WholeMarsBlog @aelluswamy 10.69.1 is even better. We reduced latency & jitter in hardware command loop, so time from object detection to b...]]></title>
-        <id>https://twitter.com/elonmusk/status/1564746666414166028</id>
-        <link href="https://twitter.com/elonmusk/status/1564746666414166028"/>
-        <updated>2022-08-30T22:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @jonbbc @WholeMarsBlog @aelluswamy 10.69.1 is even better. We reduced latency & jitter in hardware command loop, so time from object detection to brake actuation is 10% to 20% better.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
