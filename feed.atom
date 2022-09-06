@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-05T03:36:26.731Z</id>
+    <id>urn:2022-09-06T03:43:00.131Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-05T03:36:26.731Z</updated>
+    <updated>2022-09-06T03:43:00.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re And 90% of my comments are bots 🤖]]></title>
+        <id>https://twitter.com/elonmusk/status/1566853171720470528</id>
+        <link href="https://twitter.com/elonmusk/status/1566853171720470528"/>
+        <updated>2022-09-05T18:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Re And 90% of my comments are bots 🤖]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Almost every male character so far is a coward, a jerk or both. Only Galadriel is brave, smart and nice.]]></title>
+        <id>https://twitter.com/elonmusk/status/1566852513235705856</id>
+        <link href="https://twitter.com/elonmusk/status/1566852513235705856"/>
+        <updated>2022-09-05T18:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Re Almost every male character so far is a coward, a jerk or both. Only Galadriel is brave, smart and nice.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Release of 10.69.2 probably end of week. Needs a bit more polish.]]></title>
+        <id>https://twitter.com/elonmusk/status/1566849487858982914</id>
+        <link href="https://twitter.com/elonmusk/status/1566849487858982914"/>
+        <updated>2022-09-05T18:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Release of 10.69.2 probably end of week. Needs a bit more polish.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tolkien is turning in his grave]]></title>
+        <id>https://twitter.com/elonmusk/status/1566849074762059777</id>
+        <link href="https://twitter.com/elonmusk/status/1566849074762059777"/>
+        <updated>2022-09-05T18:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Tolkien is turning in his grave]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog 10.69.2 has a relatively small number of code changes, but their practical effect will be significant]]></title>
+        <id>https://twitter.com/elonmusk/status/1566848612092477451</id>
+        <link href="https://twitter.com/elonmusk/status/1566848612092477451"/>
+        <updated>2022-09-05T17:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog 10.69.2 has a relatively small number of code changes, but their practical effect will be significant]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SpaceX More Starlinks reach orbit]]></title>
+        <id>https://twitter.com/elonmusk/status/1566842660819804168</id>
+        <link href="https://twitter.com/elonmusk/status/1566842660819804168"/>
+        <updated>2022-09-05T17:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @SpaceX More Starlinks reach orbit]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @andst7 It will probably help proportionate to the cost of raising children]]></title>
+        <id>https://twitter.com/elonmusk/status/1566834137742417923</id>
+        <link href="https://twitter.com/elonmusk/status/1566834137742417923"/>
+        <updated>2022-09-05T17:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @andst7 It will probably help proportionate to the cost of raising children]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @andst7 Important. South Korea is currently tracking to lose about half its population roughly every generation. Long lifespan hides the dire natur...]]></title>
+        <id>https://twitter.com/elonmusk/status/1566822635056599043</id>
+        <link href="https://twitter.com/elonmusk/status/1566822635056599043"/>
+        <updated>2022-09-05T16:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @andst7 Important. South Korea is currently tracking to lose about half its population roughly every generation. Long lifespan hides the dire nature of the problem.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @cb_doge .@Chrisrock invited me to open for one of his shows. Thanks Chris! I will try not to flounder too much.]]></title>
         <id>https://twitter.com/elonmusk/status/1566234349921374209</id>
@@ -101,89 +181,6 @@ Delta-v difference between H2 & CH4 is small for most missions, because CH4 tank
         <link href="https://twitter.com/elonmusk/status/1565189065158311937"/>
         <updated>2022-09-01T04:05:27.000Z</updated>
         <summary type="html"><![CDATA[Sure sounds higher than 5%! https://www.theaustralian.com.au/business/technology/former-cia-and-fbi-security-specialist-says-more-than-80-per-cent-of-twitter-accounts-are-bots/news-story/6996bf16dd9008d096d95fb665d05104]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ChrisZheng001 I intend to do so as soon as possible]]></title>
-        <id>https://twitter.com/elonmusk/status/1565001329033981954</id>
-        <link href="https://twitter.com/elonmusk/status/1565001329033981954"/>
-        <updated>2022-08-31T15:39:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChrisZheng001 I intend to do so as soon as possible]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1564995664408219648</id>
-        <link href="https://twitter.com/elonmusk/status/1564995664408219648"/>
-        <updated>2022-08-31T15:16:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SciGuySpace Yeah, aiming for up to 100 flights next year]]></title>
-        <id>https://twitter.com/elonmusk/status/1564994769826172929</id>
-        <link href="https://twitter.com/elonmusk/status/1564994769826172929"/>
-        <updated>2022-08-31T15:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @SciGuySpace Yeah, aiming for up to 100 flights next year]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now launching every ~5 days]]></title>
-        <id>https://twitter.com/elonmusk/status/1564993132873146368</id>
-        <link href="https://twitter.com/elonmusk/status/1564993132873146368"/>
-        <updated>2022-08-31T15:06:53.000Z</updated>
-        <summary type="html"><![CDATA[Now launching every ~5 days
-SpaceX: Falcon 9 launches Starlink to orbit for SpaceX’s sixth launch this month]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon 9 launches Starlink to orbit for SpaceX’s sixth launch this month]]></title>
-        <id>https://twitter.com/SpaceX/status/1564975288655630338</id>
-        <link href="https://twitter.com/SpaceX/status/1564975288655630338"/>
-        <updated>2022-08-31T13:55:59.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Falcon 9 launches Starlink to orbit for SpaceX’s sixth launch this month]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog @jonbbc @aelluswamy 10.69.2 goes out to 100k owners next week]]></title>
-        <id>https://twitter.com/elonmusk/status/1564748039344082949</id>
-        <link href="https://twitter.com/elonmusk/status/1564748039344082949"/>
-        <updated>2022-08-30T22:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog @jonbbc @aelluswamy 10.69.2 goes out to 100k owners next week]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity SJM question]]></title>
-        <id>https://twitter.com/elonmusk/status/1564747543979892736</id>
-        <link href="https://twitter.com/elonmusk/status/1564747543979892736"/>
-        <updated>2022-08-30T22:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity SJM question]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: Extreme heat and durability testing in Dubai 🐫]]></title>
-        <id>https://twitter.com/Tesla/status/1564664691846160385</id>
-        <link href="https://twitter.com/Tesla/status/1564664691846160385"/>
-        <updated>2022-08-30T17:21:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Extreme heat and durability testing in Dubai 🐫]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
