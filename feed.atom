@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T03:42:02.135Z</id>
+    <id>urn:2022-09-08T03:32:47.787Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-07T03:42:02.135Z</updated>
+    <updated>2022-09-08T03:32:47.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: Tesla Model Y receives highest safety score of any vehicle ever tested]]></title>
+        <id>https://twitter.com/Tesla/status/1567461724751626241</id>
+        <link href="https://twitter.com/Tesla/status/1567461724751626241"/>
+        <updated>2022-09-07T10:36:11.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+Tesla Model Y receives highest safety score of any vehicle ever tested https://www.tesla.com/blog/model-y-earns-5-star-safety-rating-euro-]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“That’s not punny!”]]></title>
+        <id>https://twitter.com/elonmusk/status/1567367045435609089</id>
+        <link href="https://twitter.com/elonmusk/status/1567367045435609089"/>
+        <updated>2022-09-07T04:19:58.000Z</updated>
+        <summary type="html"><![CDATA[“That’s not punny!”]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: Enter your destination & your Tesla will automatically include Supercharging stops in your route]]></title>
+        <id>https://twitter.com/Tesla/status/1567271770016587779</id>
+        <link href="https://twitter.com/Tesla/status/1567271770016587779"/>
+        <updated>2022-09-06T22:01:23.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+Enter your destination & your Tesla will automatically include Supercharging stops in your route
+Lawrence 4.68e+3 🔋: Wyoming desolation in the plains. No range anxiety in my #Tesla makes the trip awesome. Superchargers and route planning have never failed me. 🙌]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @WholeMarsBlog More solar + batteries needed. Batteries are great at dealing with peak demand.]]></title>
         <id>https://twitter.com/elonmusk/status/1567267044692729856</id>
@@ -171,36 +204,6 @@
         <link href="https://twitter.com/elonmusk/status/1566848612092477451"/>
         <updated>2022-09-05T17:59:54.000Z</updated>
         <summary type="html"><![CDATA[Re @WholeMarsBlog 10.69.2 has a relatively small number of code changes, but their practical effect will be significant]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SpaceX More Starlinks reach orbit]]></title>
-        <id>https://twitter.com/elonmusk/status/1566842660819804168</id>
-        <link href="https://twitter.com/elonmusk/status/1566842660819804168"/>
-        <updated>2022-09-05T17:36:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @SpaceX More Starlinks reach orbit]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @andst7 It will probably help proportionate to the cost of raising children]]></title>
-        <id>https://twitter.com/elonmusk/status/1566834137742417923</id>
-        <link href="https://twitter.com/elonmusk/status/1566834137742417923"/>
-        <updated>2022-09-05T17:02:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @andst7 It will probably help proportionate to the cost of raising children]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @andst7 Important. South Korea is currently tracking to lose about half its population roughly every generation. Long lifespan hides the dire natur...]]></title>
-        <id>https://twitter.com/elonmusk/status/1566822635056599043</id>
-        <link href="https://twitter.com/elonmusk/status/1566822635056599043"/>
-        <updated>2022-09-05T16:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @andst7 Important. South Korea is currently tracking to lose about half its population roughly every generation. Long lifespan hides the dire nature of the problem.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
