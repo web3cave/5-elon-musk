@@ -1,209 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-08T03:32:47.787Z</id>
+    <id>urn:2022-09-09T03:28:45.576Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-08T03:32:47.787Z</updated>
+    <updated>2022-09-09T03:28:45.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Tesla: Tesla Model Y receives highest safety score of any vehicle ever tested]]></title>
-        <id>https://twitter.com/Tesla/status/1567461724751626241</id>
-        <link href="https://twitter.com/Tesla/status/1567461724751626241"/>
-        <updated>2022-09-07T10:36:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Tesla Model Y receives highest safety score of any vehicle ever tested https://www.tesla.com/blog/model-y-earns-5-star-safety-rating-euro-]]></summary>
+        <title type="html"><![CDATA[Re @CodingMark @Andy8671025 @WholeMarsBlog Assuming 25% efficient PV cells at 0.8 surface coverage]]></title>
+        <id>https://twitter.com/elonmusk/status/1568018005652553736</id>
+        <link href="https://twitter.com/elonmusk/status/1568018005652553736"/>
+        <updated>2022-09-08T23:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @CodingMark @Andy8671025 @WholeMarsBlog Assuming 25% efficient PV cells at 0.8 surface coverage]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“That’s not punny!”]]></title>
-        <id>https://twitter.com/elonmusk/status/1567367045435609089</id>
-        <link href="https://twitter.com/elonmusk/status/1567367045435609089"/>
-        <updated>2022-09-07T04:19:58.000Z</updated>
-        <summary type="html"><![CDATA[“That’s not punny!”]]></summary>
+        <title type="html"><![CDATA[Re @CodingMark @Andy8671025 @WholeMarsBlog Exactly. Ecosystem is almost entirely dependent on the sun already. Civilization’s energy needs are absurd...]]></title>
+        <id>https://twitter.com/elonmusk/status/1568017475325014016</id>
+        <link href="https://twitter.com/elonmusk/status/1568017475325014016"/>
+        <updated>2022-09-08T23:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @CodingMark @Andy8671025 @WholeMarsBlog Exactly. Ecosystem is almost entirely dependent on the sun already. 
+Civilization’s energy needs are absurdly tiny compared to what the sun sends us for free (~1 GWh/day/km^2).]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Tesla: Enter your destination & your Tesla will automatically include Supercharging stops in your route]]></title>
-        <id>https://twitter.com/Tesla/status/1567271770016587779</id>
-        <link href="https://twitter.com/Tesla/status/1567271770016587779"/>
-        <updated>2022-09-06T22:01:23.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Enter your destination & your Tesla will automatically include Supercharging stops in your route
-Lawrence 4.68e+3 🔋: Wyoming desolation in the plains. No range anxiety in my #Tesla makes the trip awesome. Superchargers and route planning have never failed me. 🙌]]></summary>
+        <title type="html"><![CDATA[Re @CSI_Starbase Yup, there’s a reason we do static fires! Much better to break things on the ground than en route to orbit.]]></title>
+        <id>https://twitter.com/elonmusk/status/1568012966989299712</id>
+        <link href="https://twitter.com/elonmusk/status/1568012966989299712"/>
+        <updated>2022-09-08T23:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @CSI_Starbase Yup, there’s a reason we do static fires! Much better to break things on the ground than en route to orbit.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog More solar + batteries needed. Batteries are great at dealing with peak demand.]]></title>
-        <id>https://twitter.com/elonmusk/status/1567267044692729856</id>
-        <link href="https://twitter.com/elonmusk/status/1567267044692729856"/>
-        <updated>2022-09-06T21:42:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog More solar + batteries needed. Batteries are great at dealing with peak demand.]]></summary>
+        <title type="html"><![CDATA[Re @Andy8671025 @WholeMarsBlog Solar panels, ground mount & rooftop, paired with stationary batteries, will be civilization’s primary source of energ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1568012443233779712</id>
+        <link href="https://twitter.com/elonmusk/status/1568012443233779712"/>
+        <updated>2022-09-08T23:04:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @Andy8671025 @WholeMarsBlog Solar panels, ground mount & rooftop, paired with stationary batteries, will be civilization’s primary source of energy, as sure as day follows night. 
+Mark these words.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @kerrikgray @lexfridman 👍]]></title>
-        <id>https://twitter.com/elonmusk/status/1567205139731124224</id>
-        <link href="https://twitter.com/elonmusk/status/1567205139731124224"/>
-        <updated>2022-09-06T17:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @kerrikgray @lexfridman 👍]]></summary>
+        <title type="html"><![CDATA[Re @Tesla I love the graffiti art at Giga Berlin!]]></title>
+        <id>https://twitter.com/elonmusk/status/1567975849110171650</id>
+        <link href="https://twitter.com/elonmusk/status/1567975849110171650"/>
+        <updated>2022-09-08T20:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @Tesla I love the graffiti art at Giga Berlin!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @lexfridman I accept 99% of cookies, but 💯 if choc chip]]></title>
-        <id>https://twitter.com/elonmusk/status/1567201841590550531</id>
-        <link href="https://twitter.com/elonmusk/status/1567201841590550531"/>
-        <updated>2022-09-06T17:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @lexfridman I accept 99% of cookies, but 💯 if choc chip]]></summary>
+        <title type="html"><![CDATA[Re @WholeMarsBlog So much empty land & only a tiny percentage needed to power entire country!]]></title>
+        <id>https://twitter.com/elonmusk/status/1567975631727501314</id>
+        <link href="https://twitter.com/elonmusk/status/1567975631727501314"/>
+        <updated>2022-09-08T20:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog So much empty land & only a tiny percentage needed to power entire country!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @garyblack00 If Twitter put as much effort into bot/spam removal as they do into subpoenas, we wouldn’t have this problem in the first place!]]></title>
-        <id>https://twitter.com/elonmusk/status/1567194664008024071</id>
-        <link href="https://twitter.com/elonmusk/status/1567194664008024071"/>
-        <updated>2022-09-06T16:54:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @garyblack00 If Twitter put as much effort into bot/spam removal as they do into subpoenas, we wouldn’t have this problem in the first place!]]></summary>
+        <title type="html"><![CDATA[Re @WholeMarsBlog It’s looking good so far]]></title>
+        <id>https://twitter.com/elonmusk/status/1567975438064189440</id>
+        <link href="https://twitter.com/elonmusk/status/1567975438064189440"/>
+        <updated>2022-09-08T20:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog It’s looking good so far]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @cb_doge @musicphantom69 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1567193406517960704</id>
-        <link href="https://twitter.com/elonmusk/status/1567193406517960704"/>
-        <updated>2022-09-06T16:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge @musicphantom69 🤣]]></summary>
+        <title type="html"><![CDATA[Re @EvaFoxU Indeed]]></title>
+        <id>https://twitter.com/elonmusk/status/1567975035243044876</id>
+        <link href="https://twitter.com/elonmusk/status/1567975035243044876"/>
+        <updated>2022-09-08T20:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU Indeed]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @garyblack00 We have advised all potential witnesses to provide full cooperation to the court, but we do not control their actions]]></title>
-        <id>https://twitter.com/elonmusk/status/1567192839024435206</id>
-        <link href="https://twitter.com/elonmusk/status/1567192839024435206"/>
-        <updated>2022-09-06T16:47:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @garyblack00 We have advised all potential witnesses to provide full cooperation to the court, but we do not control their actions]]></summary>
+        <title type="html"><![CDATA[Re @BLKMDL3 @Apple @SpaceX We’ve had some promising conversations with Apple about Starlink connectivity. iPhone team is obv super smart. For sure, c...]]></title>
+        <id>https://twitter.com/elonmusk/status/1567930757473091584</id>
+        <link href="https://twitter.com/elonmusk/status/1567930757473091584"/>
+        <updated>2022-09-08T17:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @BLKMDL3 @Apple @SpaceX We’ve had some promising conversations with Apple about Starlink connectivity. iPhone team is obv super smart.
+For sure, closing link from space to phone will work best if phone software & hardware adapt to space-based signals vs Starlink purely emulating cell tower.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @garyblack00 Read the actual ruling. We had zero to do with David Sack’s response. Zero.]]></title>
-        <id>https://twitter.com/elonmusk/status/1567192288442388481</id>
-        <link href="https://twitter.com/elonmusk/status/1567192288442388481"/>
-        <updated>2022-09-06T16:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @garyblack00 Read the actual ruling. We had zero to do with David Sack’s response. Zero.]]></summary>
+        <title type="html"><![CDATA[Re @austinhinson_ @Tesla Note, I am putting a lot of time personally into advancing Tesla service to make it awesome. Hopefully, this is starting to b...]]></title>
+        <id>https://twitter.com/elonmusk/status/1567929834562625540</id>
+        <link href="https://twitter.com/elonmusk/status/1567929834562625540"/>
+        <updated>2022-09-08T17:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @austinhinson_ @Tesla Note, I am putting a lot of time personally into advancing Tesla service to make it awesome. Hopefully, this is starting to be felt by Tesla owners.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @musicphantom69 Those who claim any criticism of Rings of Power means you’re racist are outing themselves as closet racists]]></title>
-        <id>https://twitter.com/elonmusk/status/1567178433381240833</id>
-        <link href="https://twitter.com/elonmusk/status/1567178433381240833"/>
-        <updated>2022-09-06T15:50:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @musicphantom69 Those who claim any criticism of Rings of Power means you’re racist are outing themselves as closet racists]]></summary>
+        <title type="html"><![CDATA[Re @austinhinson_ You’re right, we should credit Tesla owners $100 if we change appointments with less than 24 hours notice. Should be reciprocal. @T...]]></title>
+        <id>https://twitter.com/elonmusk/status/1567915815273365509</id>
+        <link href="https://twitter.com/elonmusk/status/1567915815273365509"/>
+        <updated>2022-09-08T16:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @austinhinson_ You’re right, we should credit Tesla owners $100 if we change appointments with less than 24 hours notice. Should be reciprocal. @Tesla]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @joshcarlosjosh Peter Jackson did excellent work with Lord of the Rings. The Hobbit was stretched too long for a short book.]]></title>
-        <id>https://twitter.com/elonmusk/status/1567139578166890506</id>
-        <link href="https://twitter.com/elonmusk/status/1567139578166890506"/>
-        <updated>2022-09-06T13:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @joshcarlosjosh Peter Jackson did excellent work with Lord of the Rings. The Hobbit was stretched too long for a short book.]]></summary>
+        <title type="html"><![CDATA[Re @teslaownersSV Lot of people still don’t realize Tesla makes uninterruptible power supplies for your whole home (Powerwall)]]></title>
+        <id>https://twitter.com/elonmusk/status/1567806055463149568</id>
+        <link href="https://twitter.com/elonmusk/status/1567806055463149568"/>
+        <updated>2022-09-08T09:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV Lot of people still don’t realize Tesla makes uninterruptible power supplies for your whole home (Powerwall)]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt @Tesla For now, supply is too low, but ordering a Powerwall by itself should be possible end of year]]></title>
-        <id>https://twitter.com/elonmusk/status/1566950472015028225</id>
-        <link href="https://twitter.com/elonmusk/status/1566950472015028225"/>
-        <updated>2022-09-06T00:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt @Tesla For now, supply is too low, but ordering a Powerwall by itself should be possible end of year]]></summary>
+        <title type="html"><![CDATA[And remember 💕]]></title>
+        <id>https://twitter.com/elonmusk/status/1567805472039747585</id>
+        <link href="https://twitter.com/elonmusk/status/1567805472039747585"/>
+        <updated>2022-09-08T09:22:07.000Z</updated>
+        <summary type="html"><![CDATA[And remember 💕
+Elon Musk: Hey you …
+Yeah you Queen …
+You’re gonna make it! 💕💕]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 Cool]]></title>
-        <id>https://twitter.com/elonmusk/status/1566937887735676928</id>
-        <link href="https://twitter.com/elonmusk/status/1566937887735676928"/>
-        <updated>2022-09-05T23:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 Cool]]></summary>
+        <title type="html"><![CDATA[Re @da5is This thread brings back a lot of memories]]></title>
+        <id>https://twitter.com/elonmusk/status/1567804695560716290</id>
+        <link href="https://twitter.com/elonmusk/status/1567804695560716290"/>
+        <updated>2022-09-08T09:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @da5is This thread brings back a lot of memories]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Order a Tesla Powerwall battery for blackout protection!]]></title>
-        <id>https://twitter.com/elonmusk/status/1566936909980614662</id>
-        <link href="https://twitter.com/elonmusk/status/1566936909980614662"/>
-        <updated>2022-09-05T23:50:46.000Z</updated>
-        <summary type="html"><![CDATA[Order a Tesla Powerwall battery for blackout protection! https://www.tesla.com/powerwall]]></summary>
+        <title type="html"><![CDATA[Re @ev_australia @Tesla @SawyerMerritt @EvaFoxU @miku919191 @tesla_adri @PPathole @TeslaHype @TeslaDiva99 @teslaownersau @techAU We have since improve...]]></title>
+        <id>https://twitter.com/elonmusk/status/1567789895669747712</id>
+        <link href="https://twitter.com/elonmusk/status/1567789895669747712"/>
+        <updated>2022-09-08T08:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @ev_australia @Tesla @SawyerMerritt @EvaFoxU @miku919191 @tesla_adri @PPathole @TeslaHype @TeslaDiva99 @teslaownersau @techAU We have since improved it further]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re And 90% of my comments are bots 🤖]]></title>
-        <id>https://twitter.com/elonmusk/status/1566853171720470528</id>
-        <link href="https://twitter.com/elonmusk/status/1566853171720470528"/>
-        <updated>2022-09-05T18:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Re And 90% of my comments are bots 🤖]]></summary>
+        <title type="html"><![CDATA[Re @WholeMarsBlog The primary solution to a sustainable energy future is solar/wind with batteries for when sun doesn’t shine or wind doesn’t blow, ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1567789461899038721</id>
+        <link href="https://twitter.com/elonmusk/status/1567789461899038721"/>
+        <updated>2022-09-08T08:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog The primary solution to a sustainable energy future is solar/wind with batteries for when sun doesn’t shine or wind doesn’t blow, interconnected with conventional high voltage lines. No unknown technology is needed!
+Hydro+geothermal+fission will also be non-trivial contributors.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Almost every male character so far is a coward, a jerk or both. Only Galadriel is brave, smart and nice.]]></title>
-        <id>https://twitter.com/elonmusk/status/1566852513235705856</id>
-        <link href="https://twitter.com/elonmusk/status/1566852513235705856"/>
-        <updated>2022-09-05T18:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Re Almost every male character so far is a coward, a jerk or both. Only Galadriel is brave, smart and nice.]]></summary>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Fusion would be expensive energy, given difficulty of obtaining and transporting source fuel, plus maintaining the reactor. Far bett...]]></title>
+        <id>https://twitter.com/elonmusk/status/1567783902273540100</id>
+        <link href="https://twitter.com/elonmusk/status/1567783902273540100"/>
+        <updated>2022-09-08T07:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Fusion would be expensive energy, given difficulty of obtaining and transporting source fuel, plus maintaining the reactor. 
+Far better to use the Sun – thermonuclear reactor with no need to refuel or service.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog Release of 10.69.2 probably end of week. Needs a bit more polish.]]></title>
-        <id>https://twitter.com/elonmusk/status/1566849487858982914</id>
-        <link href="https://twitter.com/elonmusk/status/1566849487858982914"/>
-        <updated>2022-09-05T18:03:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog Release of 10.69.2 probably end of week. Needs a bit more polish.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tolkien is turning in his grave]]></title>
-        <id>https://twitter.com/elonmusk/status/1566849074762059777</id>
-        <link href="https://twitter.com/elonmusk/status/1566849074762059777"/>
-        <updated>2022-09-05T18:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Tolkien is turning in his grave]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog 10.69.2 has a relatively small number of code changes, but their practical effect will be significant]]></title>
-        <id>https://twitter.com/elonmusk/status/1566848612092477451</id>
-        <link href="https://twitter.com/elonmusk/status/1566848612092477451"/>
-        <updated>2022-09-05T17:59:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog 10.69.2 has a relatively small number of code changes, but their practical effect will be significant]]></summary>
+        <title type="html"><![CDATA[Re @lexfridman 🤔]]></title>
+        <id>https://twitter.com/elonmusk/status/1567732942637617153</id>
+        <link href="https://twitter.com/elonmusk/status/1567732942637617153"/>
+        <updated>2022-09-08T04:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @lexfridman 🤔]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
