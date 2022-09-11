@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-10T03:32:31.966Z</id>
+    <id>urn:2022-09-11T03:29:49.328Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-10T03:32:31.966Z</updated>
+    <updated>2022-09-11T03:29:49.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Austen Instagram is an envy amplifier]]></title>
+        <id>https://twitter.com/elonmusk/status/1568753942414168065</id>
+        <link href="https://twitter.com/elonmusk/status/1568753942414168065"/>
+        <updated>2022-09-11T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @Austen Instagram is an envy amplifier]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DirtyTesLa @WholeMarsBlog Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1568708195601743872</id>
+        <link href="https://twitter.com/elonmusk/status/1568708195601743872"/>
+        <updated>2022-09-10T21:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @DirtyTesLa @WholeMarsBlog Yes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Team found a bug causing an 8% delay in detecting pedestrians at >50m. That’s been fixed, so rolling out tonight.]]></title>
+        <id>https://twitter.com/elonmusk/status/1568702556809101313</id>
+        <link href="https://twitter.com/elonmusk/status/1568702556809101313"/>
+        <updated>2022-09-10T20:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Team found a bug causing an 8% delay in detecting pedestrians at >50m. That’s been fixed, so rolling out tonight.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EvaFoxU 🔥🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1568650661029621760</id>
+        <link href="https://twitter.com/elonmusk/status/1568650661029621760"/>
+        <updated>2022-09-10T17:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU 🔥🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @chicago_glenn @stevenmarkryan @WholeMarsBlog That’s pretty accurate]]></title>
+        <id>https://twitter.com/elonmusk/status/1568647635904655361</id>
+        <link href="https://twitter.com/elonmusk/status/1568647635904655361"/>
+        <updated>2022-09-10T17:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @chicago_glenn @stevenmarkryan @WholeMarsBlog That’s pretty accurate]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stevenmarkryan @WholeMarsBlog Haha]]></title>
+        <id>https://twitter.com/elonmusk/status/1568645932694274048</id>
+        <link href="https://twitter.com/elonmusk/status/1568645932694274048"/>
+        <updated>2022-09-10T17:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @stevenmarkryan @WholeMarsBlog Haha]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Astronomy too]]></title>
+        <id>https://twitter.com/elonmusk/status/1568645533304233984</id>
+        <link href="https://twitter.com/elonmusk/status/1568645533304233984"/>
+        <updated>2022-09-10T17:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Re Astronomy too]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @WholeMarsBlog Internal beta rollout tonight, wider tomorrow]]></title>
         <id>https://twitter.com/elonmusk/status/1568416675950641152</id>
@@ -131,58 +201,6 @@
         <link href="https://twitter.com/elonmusk/status/1568018005652553736"/>
         <updated>2022-09-08T23:26:39.000Z</updated>
         <summary type="html"><![CDATA[Re @CodingMark @Andy8671025 @WholeMarsBlog Assuming 25% efficient PV cells at 0.8 surface coverage]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CodingMark @Andy8671025 @WholeMarsBlog Exactly. Ecosystem is almost entirely dependent on the sun already. Civilization’s energy needs are absurd...]]></title>
-        <id>https://twitter.com/elonmusk/status/1568017475325014016</id>
-        <link href="https://twitter.com/elonmusk/status/1568017475325014016"/>
-        <updated>2022-09-08T23:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @CodingMark @Andy8671025 @WholeMarsBlog Exactly. Ecosystem is almost entirely dependent on the sun already. 
-Civilization’s energy needs are absurdly tiny compared to what the sun sends us for free (~1 GWh/day/km^2).]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CSI_Starbase Yup, there’s a reason we do static fires! Much better to break things on the ground than en route to orbit.]]></title>
-        <id>https://twitter.com/elonmusk/status/1568012966989299712</id>
-        <link href="https://twitter.com/elonmusk/status/1568012966989299712"/>
-        <updated>2022-09-08T23:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @CSI_Starbase Yup, there’s a reason we do static fires! Much better to break things on the ground than en route to orbit.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Andy8671025 @WholeMarsBlog Solar panels, ground mount & rooftop, paired with stationary batteries, will be civilization’s primary source of energ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1568012443233779712</id>
-        <link href="https://twitter.com/elonmusk/status/1568012443233779712"/>
-        <updated>2022-09-08T23:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @Andy8671025 @WholeMarsBlog Solar panels, ground mount & rooftop, paired with stationary batteries, will be civilization’s primary source of energy, as sure as day follows night. 
-Mark these words.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Tesla I love the graffiti art at Giga Berlin!]]></title>
-        <id>https://twitter.com/elonmusk/status/1567975849110171650</id>
-        <link href="https://twitter.com/elonmusk/status/1567975849110171650"/>
-        <updated>2022-09-08T20:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @Tesla I love the graffiti art at Giga Berlin!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog So much empty land & only a tiny percentage needed to power entire country!]]></title>
-        <id>https://twitter.com/elonmusk/status/1567975631727501314</id>
-        <link href="https://twitter.com/elonmusk/status/1567975631727501314"/>
-        <updated>2022-09-08T20:38:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog So much empty land & only a tiny percentage needed to power entire country!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
