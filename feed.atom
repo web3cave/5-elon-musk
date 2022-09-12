@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-11T03:29:49.328Z</id>
+    <id>urn:2022-09-12T03:46:33.009Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-11T03:29:49.328Z</updated>
+    <updated>2022-09-12T03:46:33.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Real-world validation & billions of miles of real-world training are what will make FSD superhuman]]></title>
+        <id>https://twitter.com/elonmusk/status/1569140947396575234</id>
+        <link href="https://twitter.com/elonmusk/status/1569140947396575234"/>
+        <updated>2022-09-12T01:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Real-world validation & billions of miles of real-world training are what will make FSD superhuman]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 Yup]]></title>
+        <id>https://twitter.com/elonmusk/status/1569133939876413440</id>
+        <link href="https://twitter.com/elonmusk/status/1569133939876413440"/>
+        <updated>2022-09-12T01:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 Yup]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_doge @paraga Sigh]]></title>
+        <id>https://twitter.com/elonmusk/status/1569076870838116352</id>
+        <link href="https://twitter.com/elonmusk/status/1569076870838116352"/>
+        <updated>2022-09-11T21:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge @paraga Sigh]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSD Beta 10.69.2 rolling out now. Please note that top priority is safety, so expect it to be overly cautious, especially around pedestrians.]]></title>
+        <id>https://twitter.com/elonmusk/status/1569076207194365953</id>
+        <link href="https://twitter.com/elonmusk/status/1569076207194365953"/>
+        <updated>2022-09-11T21:31:34.000Z</updated>
+        <summary type="html"><![CDATA[FSD Beta 10.69.2 rolling out now. Please note that top priority is safety, so expect it to be overly cautious, especially around pedestrians.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falcon arching to orbit]]></title>
+        <id>https://twitter.com/elonmusk/status/1568796529690902529</id>
+        <link href="https://twitter.com/elonmusk/status/1568796529690902529"/>
+        <updated>2022-09-11T03:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Falcon arching to orbit]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No obvious limit to rocket reflight so far]]></title>
+        <id>https://twitter.com/elonmusk/status/1568788727014752257</id>
+        <link href="https://twitter.com/elonmusk/status/1568788727014752257"/>
+        <updated>2022-09-11T02:29:13.000Z</updated>
+        <summary type="html"><![CDATA[No obvious limit to rocket reflight so far
+SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship – completing SpaceX’s first 14th flight of a first stage booster]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Austen Instagram is an envy amplifier]]></title>
         <id>https://twitter.com/elonmusk/status/1568753942414168065</id>
@@ -141,66 +202,6 @@
         <link href="https://twitter.com/elonmusk/status/1568364238451740674"/>
         <updated>2022-09-09T22:22:27.000Z</updated>
         <summary type="html"><![CDATA[Tesla North America aiming for >50% same hour service]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @andst7 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1568363393827962882</id>
-        <link href="https://twitter.com/elonmusk/status/1568363393827962882"/>
-        <updated>2022-09-09T22:19:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @andst7 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU @cb_doge @BillyM2k @cz_binance Anubis]]></title>
-        <id>https://twitter.com/elonmusk/status/1568355935336153088</id>
-        <link href="https://twitter.com/elonmusk/status/1568355935336153088"/>
-        <updated>2022-09-09T21:49:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU @cb_doge @BillyM2k @cz_binance Anubis]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k @cz_binance Nice. I’m dressing up as a sink & knocking on random doors. Once they see me, they will have no choice but to let that sink ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1568345070767841282</id>
-        <link href="https://twitter.com/elonmusk/status/1568345070767841282"/>
-        <updated>2022-09-09T21:06:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k @cz_binance Nice. I’m dressing up as a sink & knocking on random doors. Once they see me, they will have no choice but to let that sink in.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SpaceX One of our most complex missions]]></title>
-        <id>https://twitter.com/elonmusk/status/1568314201873186817</id>
-        <link href="https://twitter.com/elonmusk/status/1568314201873186817"/>
-        <updated>2022-09-09T19:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @SpaceX One of our most complex missions]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EvasTeslaSPlaid @paraga Bot block party]]></title>
-        <id>https://twitter.com/elonmusk/status/1568090684829188102</id>
-        <link href="https://twitter.com/elonmusk/status/1568090684829188102"/>
-        <updated>2022-09-09T04:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvasTeslaSPlaid @paraga Bot block party]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CodingMark @Andy8671025 @WholeMarsBlog Assuming 25% efficient PV cells at 0.8 surface coverage]]></title>
-        <id>https://twitter.com/elonmusk/status/1568018005652553736</id>
-        <link href="https://twitter.com/elonmusk/status/1568018005652553736"/>
-        <updated>2022-09-08T23:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @CodingMark @Andy8671025 @WholeMarsBlog Assuming 25% efficient PV cells at 0.8 surface coverage]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
