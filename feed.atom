@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T03:46:33.009Z</id>
+    <id>urn:2022-09-13T03:40:53.361Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-12T03:46:33.009Z</updated>
+    <updated>2022-09-13T03:40:53.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Take a moment to …]]></title>
+        <id>https://twitter.com/elonmusk/status/1569480022481567749</id>
+        <link href="https://twitter.com/elonmusk/status/1569480022481567749"/>
+        <updated>2022-09-13T00:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Take a moment to …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The residual value of gasoline cars bought today will be much lower than people think]]></title>
+        <id>https://twitter.com/elonmusk/status/1569450579633766402</id>
+        <link href="https://twitter.com/elonmusk/status/1569450579633766402"/>
+        <updated>2022-09-12T22:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Re The residual value of gasoline cars bought today will be much lower than people think]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EvaFoxU Supercharger centers with solar & batteries are the long-term vision]]></title>
+        <id>https://twitter.com/elonmusk/status/1569449256892891137</id>
+        <link href="https://twitter.com/elonmusk/status/1569449256892891137"/>
+        <updated>2022-09-12T22:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU Supercharger centers with solar & batteries are the long-term vision]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Won’t be long before we view gasoline cars the same way we view steam engines today]]></title>
+        <id>https://twitter.com/elonmusk/status/1569417348179759107</id>
+        <link href="https://twitter.com/elonmusk/status/1569417348179759107"/>
+        <updated>2022-09-12T20:07:08.000Z</updated>
+        <summary type="html"><![CDATA[Won’t be long before we view gasoline cars the same way we view steam engines today]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TrimontiumTrust @HardcoreHistory Socrates can be a little boring tbh]]></title>
+        <id>https://twitter.com/elonmusk/status/1569411918011449345</id>
+        <link href="https://twitter.com/elonmusk/status/1569411918011449345"/>
+        <updated>2022-09-12T19:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrimontiumTrust @HardcoreHistory Socrates can be a little boring tbh]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ICannot_Enough @ilyasut Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1569382873198886918</id>
+        <link href="https://twitter.com/elonmusk/status/1569382873198886918"/>
+        <updated>2022-09-12T17:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @ICannot_Enough @ilyasut Yes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ilyasut Our view of reality is always wrong, just a question of how wrong]]></title>
+        <id>https://twitter.com/elonmusk/status/1569381543184941060</id>
+        <link href="https://twitter.com/elonmusk/status/1569381543184941060"/>
+        <updated>2022-09-12T17:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @ilyasut Our view of reality is always wrong, just a question of how wrong]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV @cb_doge @Tesla @mayemusk I guess we could make Joe mode quieter]]></title>
+        <id>https://twitter.com/elonmusk/status/1569200178254454785</id>
+        <link href="https://twitter.com/elonmusk/status/1569200178254454785"/>
+        <updated>2022-09-12T05:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @cb_doge @Tesla @mayemusk I guess we could make Joe mode quieter]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_doge @Tesla @mayemusk Still doing same thing, but bigger]]></title>
+        <id>https://twitter.com/elonmusk/status/1569199888885219330</id>
+        <link href="https://twitter.com/elonmusk/status/1569199888885219330"/>
+        <updated>2022-09-12T05:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge @Tesla @mayemusk Still doing same thing, but bigger]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Looks good to roll out to all Tesla owners with 10.12.2 (~100k cars)!]]></title>
+        <id>https://twitter.com/elonmusk/status/1569178980703502337</id>
+        <link href="https://twitter.com/elonmusk/status/1569178980703502337"/>
+        <updated>2022-09-12T04:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Re Looks good to roll out to all Tesla owners with 10.12.2 (~100k cars)!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Tesla__Mania @WholeMarsBlog That is probably the right order of magnitude]]></title>
+        <id>https://twitter.com/elonmusk/status/1569165163093282816</id>
+        <link href="https://twitter.com/elonmusk/status/1569165163093282816"/>
+        <updated>2022-09-12T03:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @Tesla__Mania @WholeMarsBlog That is probably the right order of magnitude]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @WholeMarsBlog Real-world validation & billions of miles of real-world training are what will make FSD superhuman]]></title>
         <id>https://twitter.com/elonmusk/status/1569140947396575234</id>
@@ -92,116 +202,6 @@ SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas dro
         <link href="https://twitter.com/elonmusk/status/1568702556809101313"/>
         <updated>2022-09-10T20:46:49.000Z</updated>
         <summary type="html"><![CDATA[Re @WholeMarsBlog Team found a bug causing an 8% delay in detecting pedestrians at >50m. That’s been fixed, so rolling out tonight.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU 🔥🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1568650661029621760</id>
-        <link href="https://twitter.com/elonmusk/status/1568650661029621760"/>
-        <updated>2022-09-10T17:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU 🔥🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @chicago_glenn @stevenmarkryan @WholeMarsBlog That’s pretty accurate]]></title>
-        <id>https://twitter.com/elonmusk/status/1568647635904655361</id>
-        <link href="https://twitter.com/elonmusk/status/1568647635904655361"/>
-        <updated>2022-09-10T17:08:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @chicago_glenn @stevenmarkryan @WholeMarsBlog That’s pretty accurate]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stevenmarkryan @WholeMarsBlog Haha]]></title>
-        <id>https://twitter.com/elonmusk/status/1568645932694274048</id>
-        <link href="https://twitter.com/elonmusk/status/1568645932694274048"/>
-        <updated>2022-09-10T17:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @stevenmarkryan @WholeMarsBlog Haha]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Astronomy too]]></title>
-        <id>https://twitter.com/elonmusk/status/1568645533304233984</id>
-        <link href="https://twitter.com/elonmusk/status/1568645533304233984"/>
-        <updated>2022-09-10T17:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Re Astronomy too]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog Internal beta rollout tonight, wider tomorrow]]></title>
-        <id>https://twitter.com/elonmusk/status/1568416675950641152</id>
-        <link href="https://twitter.com/elonmusk/status/1568416675950641152"/>
-        <updated>2022-09-10T01:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog Internal beta rollout tonight, wider tomorrow]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog It’s coming!]]></title>
-        <id>https://twitter.com/elonmusk/status/1568406310680412161</id>
-        <link href="https://twitter.com/elonmusk/status/1568406310680412161"/>
-        <updated>2022-09-10T01:09:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog It’s coming!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take Materials Science 101. You won’t regret it.]]></title>
-        <id>https://twitter.com/elonmusk/status/1568386909793325060</id>
-        <link href="https://twitter.com/elonmusk/status/1568386909793325060"/>
-        <updated>2022-09-09T23:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Take Materials Science 101. You won’t regret it.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A major Fed rate hike risks deflation]]></title>
-        <id>https://twitter.com/elonmusk/status/1568383953370767365</id>
-        <link href="https://twitter.com/elonmusk/status/1568383953370767365"/>
-        <updated>2022-09-09T23:40:48.000Z</updated>
-        <summary type="html"><![CDATA[A major Fed rate hike risks deflation]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @_bennettm_ Please lmk when that happens]]></title>
-        <id>https://twitter.com/elonmusk/status/1568366754191081473</id>
-        <link href="https://twitter.com/elonmusk/status/1568366754191081473"/>
-        <updated>2022-09-09T22:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @_bennettm_ Please lmk when that happens]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TeslaGong Absolutely, the Tesla fleet in Australia is growing rapidly, so we do need to ramp up service in general]]></title>
-        <id>https://twitter.com/elonmusk/status/1568365909806387201</id>
-        <link href="https://twitter.com/elonmusk/status/1568365909806387201"/>
-        <updated>2022-09-09T22:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @TeslaGong Absolutely, the Tesla fleet in Australia is growing rapidly, so we do need to ramp up service in general]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla North America aiming for >50% same hour service]]></title>
-        <id>https://twitter.com/elonmusk/status/1568364238451740674</id>
-        <link href="https://twitter.com/elonmusk/status/1568364238451740674"/>
-        <updated>2022-09-09T22:22:27.000Z</updated>
-        <summary type="html"><![CDATA[Tesla North America aiming for >50% same hour service]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>

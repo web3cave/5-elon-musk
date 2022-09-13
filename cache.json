@@ -6,6 +6,116 @@
       "siteUrl": "https://twitter.com/elonmusk",
       "articles": [
         {
+          "id": "https://twitter.com/elonmusk/status/1569480022481567749",
+          "author": "Elon Musk",
+          "description": "Take a moment to …",
+          "link": "https://twitter.com/elonmusk/status/1569480022481567749",
+          "publishedOn": "2022-09-13T00:16:11.000Z",
+          "wordCount": 390,
+          "title": "Take a moment to …",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569450579633766402",
+          "author": "Elon Musk",
+          "description": "Re The residual value of gasoline cars bought today will be much lower than people think",
+          "link": "https://twitter.com/elonmusk/status/1569450579633766402",
+          "publishedOn": "2022-09-12T22:19:11.000Z",
+          "wordCount": 390,
+          "title": "Re The residual value of gasoline cars bought today will be much lower than people think",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569449256892891137",
+          "author": "Elon Musk",
+          "description": "Re @EvaFoxU Supercharger centers with solar & batteries are the long-term vision",
+          "link": "https://twitter.com/elonmusk/status/1569449256892891137",
+          "publishedOn": "2022-09-12T22:13:56.000Z",
+          "wordCount": 390,
+          "title": "Re @EvaFoxU Supercharger centers with solar & batteries are the long-term vision",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569417348179759107",
+          "author": "Elon Musk",
+          "description": "Won’t be long before we view gasoline cars the same way we view steam engines today",
+          "link": "https://twitter.com/elonmusk/status/1569417348179759107",
+          "publishedOn": "2022-09-12T20:07:08.000Z",
+          "wordCount": 390,
+          "title": "Won’t be long before we view gasoline cars the same way we view steam engines today",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569411918011449345",
+          "author": "Elon Musk",
+          "description": "Re @TrimontiumTrust @HardcoreHistory Socrates can be a little boring tbh",
+          "link": "https://twitter.com/elonmusk/status/1569411918011449345",
+          "publishedOn": "2022-09-12T19:45:34.000Z",
+          "wordCount": 390,
+          "title": "Re @TrimontiumTrust @HardcoreHistory Socrates can be a little boring tbh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569382873198886918",
+          "author": "Elon Musk",
+          "description": "Re @ICannot_Enough @ilyasut Yes",
+          "link": "https://twitter.com/elonmusk/status/1569382873198886918",
+          "publishedOn": "2022-09-12T17:50:09.000Z",
+          "wordCount": 390,
+          "title": "Re @ICannot_Enough @ilyasut Yes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569381543184941060",
+          "author": "Elon Musk",
+          "description": "Re @ilyasut Our view of reality is always wrong, just a question of how wrong",
+          "link": "https://twitter.com/elonmusk/status/1569381543184941060",
+          "publishedOn": "2022-09-12T17:44:52.000Z",
+          "wordCount": 390,
+          "title": "Re @ilyasut Our view of reality is always wrong, just a question of how wrong",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569200178254454785",
+          "author": "Elon Musk",
+          "description": "Re @teslaownersSV @cb_doge @Tesla @mayemusk I guess we could make Joe mode quieter",
+          "link": "https://twitter.com/elonmusk/status/1569200178254454785",
+          "publishedOn": "2022-09-12T05:44:11.000Z",
+          "wordCount": 390,
+          "title": "Re @teslaownersSV @cb_doge @Tesla @mayemusk I guess we could make Joe mode quieter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569199888885219330",
+          "author": "Elon Musk",
+          "description": "Re @cb_doge @Tesla @mayemusk Still doing same thing, but bigger",
+          "link": "https://twitter.com/elonmusk/status/1569199888885219330",
+          "publishedOn": "2022-09-12T05:43:02.000Z",
+          "wordCount": 390,
+          "title": "Re @cb_doge @Tesla @mayemusk Still doing same thing, but bigger",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569178980703502337",
+          "author": "Elon Musk",
+          "description": "Re Looks good to roll out to all Tesla owners with 10.12.2 (~100k cars)!",
+          "link": "https://twitter.com/elonmusk/status/1569178980703502337",
+          "publishedOn": "2022-09-12T04:19:57.000Z",
+          "wordCount": 390,
+          "title": "Re Looks good to roll out to all Tesla owners with 10.12.2 (~100k cars)!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569165163093282816",
+          "author": "Elon Musk",
+          "description": "Re @Tesla__Mania @WholeMarsBlog That is probably the right order of magnitude",
+          "link": "https://twitter.com/elonmusk/status/1569165163093282816",
+          "publishedOn": "2022-09-12T03:25:03.000Z",
+          "wordCount": 390,
+          "title": "Re @Tesla__Mania @WholeMarsBlog That is probably the right order of magnitude",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/elonmusk/status/1569140947396575234",
           "author": "Elon Musk",
           "description": "Re @WholeMarsBlog Real-world validation & billions of miles of real-world training are what will make FSD superhuman",
@@ -93,116 +203,6 @@
           "publishedOn": "2022-09-10T20:46:49.000Z",
           "wordCount": 390,
           "title": "Re @WholeMarsBlog Team found a bug causing an 8% delay in detecting pedestrians at >50m. That’s been fixed, so rolling out tonight.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568650661029621760",
-          "author": "Elon Musk",
-          "description": "Re @EvaFoxU 🔥🤣",
-          "link": "https://twitter.com/elonmusk/status/1568650661029621760",
-          "publishedOn": "2022-09-10T17:20:36.000Z",
-          "wordCount": 390,
-          "title": "Re @EvaFoxU 🔥🤣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568647635904655361",
-          "author": "Elon Musk",
-          "description": "Re @chicago_glenn @stevenmarkryan @WholeMarsBlog That’s pretty accurate",
-          "link": "https://twitter.com/elonmusk/status/1568647635904655361",
-          "publishedOn": "2022-09-10T17:08:35.000Z",
-          "wordCount": 390,
-          "title": "Re @chicago_glenn @stevenmarkryan @WholeMarsBlog That’s pretty accurate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568645932694274048",
-          "author": "Elon Musk",
-          "description": "Re @stevenmarkryan @WholeMarsBlog Haha",
-          "link": "https://twitter.com/elonmusk/status/1568645932694274048",
-          "publishedOn": "2022-09-10T17:01:49.000Z",
-          "wordCount": 390,
-          "title": "Re @stevenmarkryan @WholeMarsBlog Haha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568645533304233984",
-          "author": "Elon Musk",
-          "description": "Re Astronomy too",
-          "link": "https://twitter.com/elonmusk/status/1568645533304233984",
-          "publishedOn": "2022-09-10T17:00:13.000Z",
-          "wordCount": 390,
-          "title": "Re Astronomy too",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568416675950641152",
-          "author": "Elon Musk",
-          "description": "Re @WholeMarsBlog Internal beta rollout tonight, wider tomorrow",
-          "link": "https://twitter.com/elonmusk/status/1568416675950641152",
-          "publishedOn": "2022-09-10T01:50:49.000Z",
-          "wordCount": 390,
-          "title": "Re @WholeMarsBlog Internal beta rollout tonight, wider tomorrow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568406310680412161",
-          "author": "Elon Musk",
-          "description": "Re @WholeMarsBlog It’s coming!",
-          "link": "https://twitter.com/elonmusk/status/1568406310680412161",
-          "publishedOn": "2022-09-10T01:09:38.000Z",
-          "wordCount": 390,
-          "title": "Re @WholeMarsBlog It’s coming!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568386909793325060",
-          "author": "Elon Musk",
-          "description": "Take Materials Science 101. You won’t regret it.",
-          "link": "https://twitter.com/elonmusk/status/1568386909793325060",
-          "publishedOn": "2022-09-09T23:52:33.000Z",
-          "wordCount": 390,
-          "title": "Take Materials Science 101. You won’t regret it.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568383953370767365",
-          "author": "Elon Musk",
-          "description": "A major Fed rate hike risks deflation",
-          "link": "https://twitter.com/elonmusk/status/1568383953370767365",
-          "publishedOn": "2022-09-09T23:40:48.000Z",
-          "wordCount": 390,
-          "title": "A major Fed rate hike risks deflation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568366754191081473",
-          "author": "Elon Musk",
-          "description": "Re @_bennettm_ Please lmk when that happens",
-          "link": "https://twitter.com/elonmusk/status/1568366754191081473",
-          "publishedOn": "2022-09-09T22:32:27.000Z",
-          "wordCount": 390,
-          "title": "Re @_bennettm_ Please lmk when that happens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568365909806387201",
-          "author": "Elon Musk",
-          "description": "Re @TeslaGong Absolutely, the Tesla fleet in Australia is growing rapidly, so we do need to ramp up service in general",
-          "link": "https://twitter.com/elonmusk/status/1568365909806387201",
-          "publishedOn": "2022-09-09T22:29:06.000Z",
-          "wordCount": 390,
-          "title": "Re @TeslaGong Absolutely, the Tesla fleet in Australia is growing rapidly, so we do need to ramp up service in general",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1568364238451740674",
-          "author": "Elon Musk",
-          "description": "Tesla North America aiming for >50% same hour service",
-          "link": "https://twitter.com/elonmusk/status/1568364238451740674",
-          "publishedOn": "2022-09-09T22:22:27.000Z",
-          "wordCount": 390,
-          "title": "Tesla North America aiming for >50% same hour service",
           "imageUrl": null
         }
       ]
