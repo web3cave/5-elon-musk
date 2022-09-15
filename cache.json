@@ -1,13 +1,63 @@
 {
   "sources": [
     {
-      "title": "Twitter @Naughtius Maximus",
+      "title": "Twitter @Elon Musk",
       "feedUrl": "https://rsshub.app/twitter/user/elonmusk",
       "siteUrl": "https://twitter.com/elonmusk",
       "articles": [
         {
+          "id": "https://twitter.com/elonmusk/status/1569953613073764352",
+          "author": "Elon Musk",
+          "description": "Salted butter is amazing, but should be stored at room temperature",
+          "link": "https://twitter.com/elonmusk/status/1569953613073764352",
+          "publishedOn": "2022-09-14T07:38:04.000Z",
+          "wordCount": 390,
+          "title": "Salted butter is amazing, but should be stored at room temperature",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569951122231787521",
+          "author": "Elon Musk",
+          "description": "Re @corey_aronson @CathieDWood Drop 0.25%",
+          "link": "https://twitter.com/elonmusk/status/1569951122231787521",
+          "publishedOn": "2022-09-14T07:28:10.000Z",
+          "wordCount": 390,
+          "title": "Re @corey_aronson @CathieDWood Drop 0.25%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569948349549379585",
+          "author": "Elon Musk",
+          "description": "Re @CathieDWood Exactly, this is neither subtle nor secret",
+          "link": "https://twitter.com/elonmusk/status/1569948349549379585",
+          "publishedOn": "2022-09-14T07:17:09.000Z",
+          "wordCount": 390,
+          "title": "Re @CathieDWood Exactly, this is neither subtle nor secret",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569900069943660545",
+          "author": "Elon Musk",
+          "description": "Re @WholeMarsBlog Layers upon layers of neural nets, ever higher",
+          "link": "https://twitter.com/elonmusk/status/1569900069943660545",
+          "publishedOn": "2022-09-14T04:05:18.000Z",
+          "wordCount": 390,
+          "title": "Re @WholeMarsBlog Layers upon layers of neural nets, ever higher",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1569898054257639427",
+          "author": "Elon Musk",
+          "description": "",
+          "link": "https://twitter.com/elonmusk/status/1569898054257639427",
+          "publishedOn": "2022-09-14T03:57:18.000Z",
+          "wordCount": 390,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/elonmusk/status/1569834935032356864",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re @HuobiGlobal Subtle 🤣",
           "link": "https://twitter.com/elonmusk/status/1569834935032356864",
           "publishedOn": "2022-09-13T23:46:29.000Z",
@@ -17,7 +67,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569833588996345856",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re @HuobiGlobal 🤣",
           "link": "https://twitter.com/elonmusk/status/1569833588996345856",
           "publishedOn": "2022-09-13T23:41:08.000Z",
@@ -27,7 +77,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569824665581006850",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re Note, we are working on making the whistle sound much louder",
           "link": "https://twitter.com/elonmusk/status/1569824665581006850",
           "publishedOn": "2022-09-13T23:05:40.000Z",
@@ -37,7 +87,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569824256388923393",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re But u have to pay in Doge",
           "link": "https://twitter.com/elonmusk/status/1569824256388923393",
           "publishedOn": "2022-09-13T23:04:03.000Z",
@@ -47,7 +97,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569823898442829826",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Blow the whistle! https://shop.tesla.com/product/cyberwhistle?web=true",
           "link": "https://twitter.com/elonmusk/status/1569823898442829826",
           "publishedOn": "2022-09-13T23:02:37.000Z",
@@ -57,7 +107,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569791511591813120",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re @chrissyfarr True",
           "link": "https://twitter.com/elonmusk/status/1569791511591813120",
           "publishedOn": "2022-09-13T20:53:56.000Z",
@@ -67,7 +117,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569781068370219009",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re @kimbal Could be worse",
           "link": "https://twitter.com/elonmusk/status/1569781068370219009",
           "publishedOn": "2022-09-13T20:12:26.000Z",
@@ -77,7 +127,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569771032092856328",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re @prasad_s7 @JGrupe @Tesla @SawyerMerritt @DirtyTesLa Fair point",
           "link": "https://twitter.com/elonmusk/status/1569771032092856328",
           "publishedOn": "2022-09-13T19:32:33.000Z",
@@ -87,7 +137,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569770519070740480",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re @spideycyp_155 🤣👍",
           "link": "https://twitter.com/elonmusk/status/1569770519070740480",
           "publishedOn": "2022-09-13T19:30:31.000Z",
@@ -97,7 +147,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569769614728646656",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re @andst7 Good thread",
           "link": "https://twitter.com/elonmusk/status/1569769614728646656",
           "publishedOn": "2022-09-13T19:26:55.000Z",
@@ -107,7 +157,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569760174704926723",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "",
           "link": "https://twitter.com/elonmusk/status/1569760174704926723",
           "publishedOn": "2022-09-13T18:49:25.000Z",
@@ -117,7 +167,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569759897176231937",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re @TaraBull808 Sounds pretty bad",
           "link": "https://twitter.com/elonmusk/status/1569759897176231937",
           "publishedOn": "2022-09-13T18:48:18.000Z",
@@ -127,7 +177,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569749569377812480",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re Please fix @twitter, @verified, @paraga",
           "link": "https://twitter.com/elonmusk/status/1569749569377812480",
           "publishedOn": "2022-09-13T18:07:16.000Z",
@@ -137,7 +187,7 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569749150555594753",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "My tweets are being suppressed!",
           "link": "https://twitter.com/elonmusk/status/1569749150555594753",
           "publishedOn": "2022-09-13T18:05:36.000Z",
@@ -147,62 +197,12 @@
         },
         {
           "id": "https://twitter.com/elonmusk/status/1569747502135480323",
-          "author": "Naughtius Maximus",
+          "author": "Elon Musk",
           "description": "Re @ajtourville 🤣",
           "link": "https://twitter.com/elonmusk/status/1569747502135480323",
           "publishedOn": "2022-09-13T17:59:03.000Z",
           "wordCount": 390,
           "title": "Re @ajtourville 🤣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1569746673794011138",
-          "author": "Naughtius Maximus",
-          "description": "Re This says it all:\n“None of the members of the Stripe chat who spoke with me said that they accepted payment or agreed to speak to the firms about Zatko, and all said they wished to defend his credibility.”",
-          "link": "https://twitter.com/elonmusk/status/1569746673794011138",
-          "publishedOn": "2022-09-13T17:55:46.000Z",
-          "wordCount": 390,
-          "title": "Re This says it all: “None of the members of the Stripe chat who spoke with me said that they accepted payment or agreed to speak to the firms about ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1569744148881866758",
-          "author": "Naughtius Maximus",
-          "description": "Anyone know who the secret clients are? Let’s out them on Twitter rn haha.\nRonan Farrow: “They didn’t care how much it would cost them.” People around Twitter whistleblower Peiter “Mudge” Zatko are being inundated by offers from secret clients paying for dirt on him, as he testifies on the Hill about an alleged security crisis at Twitter. NEW:\n https://www.newyorker.com/news/news-desk/the-search-for-dirt-on-the-twitter-whistle-blower",
-          "link": "https://twitter.com/elonmusk/status/1569744148881866758",
-          "publishedOn": "2022-09-13T17:45:44.000Z",
-          "wordCount": 390,
-          "title": "Anyone know who the secret clients are? Let’s out them on Twitter rn haha.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1569735652731719680",
-          "author": "Naughtius Maximus",
-          "description": "Re @JohnArnoldFndtn Absolutely",
-          "link": "https://twitter.com/elonmusk/status/1569735652731719680",
-          "publishedOn": "2022-09-13T17:11:58.000Z",
-          "wordCount": 390,
-          "title": "Re @JohnArnoldFndtn Absolutely",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1569731835239735296",
-          "author": "Naughtius Maximus",
-          "description": "Re @JGrupe @Tesla @SawyerMerritt @DirtyTesLa True",
-          "link": "https://twitter.com/elonmusk/status/1569731835239735296",
-          "publishedOn": "2022-09-13T16:56:48.000Z",
-          "wordCount": 390,
-          "title": "Re @JGrupe @Tesla @SawyerMerritt @DirtyTesLa True",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1569731699726221312",
-          "author": "Naughtius Maximus",
-          "description": "Re @TeslaHype I’m testing it today in Palo Alto",
-          "link": "https://twitter.com/elonmusk/status/1569731699726221312",
-          "publishedOn": "2022-09-13T16:56:16.000Z",
-          "wordCount": 390,
-          "title": "Re @TeslaHype I’m testing it today in Palo Alto",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-14T03:35:54.183Z</id>
+    <id>urn:2022-09-15T03:42:06.194Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-14T03:35:54.183Z</updated>
+    <updated>2022-09-15T03:42:06.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Salted butter is amazing, but should be stored at room temperature]]></title>
+        <id>https://twitter.com/elonmusk/status/1569953613073764352</id>
+        <link href="https://twitter.com/elonmusk/status/1569953613073764352"/>
+        <updated>2022-09-14T07:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Salted butter is amazing, but should be stored at room temperature]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @corey_aronson @CathieDWood Drop 0.25%]]></title>
+        <id>https://twitter.com/elonmusk/status/1569951122231787521</id>
+        <link href="https://twitter.com/elonmusk/status/1569951122231787521"/>
+        <updated>2022-09-14T07:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @corey_aronson @CathieDWood Drop 0.25%]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @CathieDWood Exactly, this is neither subtle nor secret]]></title>
+        <id>https://twitter.com/elonmusk/status/1569948349549379585</id>
+        <link href="https://twitter.com/elonmusk/status/1569948349549379585"/>
+        <updated>2022-09-14T07:17:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @CathieDWood Exactly, this is neither subtle nor secret]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Layers upon layers of neural nets, ever higher]]></title>
+        <id>https://twitter.com/elonmusk/status/1569900069943660545</id>
+        <link href="https://twitter.com/elonmusk/status/1569900069943660545"/>
+        <updated>2022-09-14T04:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Layers upon layers of neural nets, ever higher]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1569898054257639427</id>
+        <link href="https://twitter.com/elonmusk/status/1569898054257639427"/>
+        <updated>2022-09-14T03:57:18.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @HuobiGlobal Subtle 🤣]]></title>
         <id>https://twitter.com/elonmusk/status/1569834935032356864</id>
@@ -12,7 +61,7 @@
         <updated>2022-09-13T23:46:29.000Z</updated>
         <summary type="html"><![CDATA[Re @HuobiGlobal Subtle 🤣]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -22,7 +71,7 @@
         <updated>2022-09-13T23:41:08.000Z</updated>
         <summary type="html"><![CDATA[Re @HuobiGlobal 🤣]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -32,7 +81,7 @@
         <updated>2022-09-13T23:05:40.000Z</updated>
         <summary type="html"><![CDATA[Re Note, we are working on making the whistle sound much louder]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -42,7 +91,7 @@
         <updated>2022-09-13T23:04:03.000Z</updated>
         <summary type="html"><![CDATA[Re But u have to pay in Doge]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -52,7 +101,7 @@
         <updated>2022-09-13T23:02:37.000Z</updated>
         <summary type="html"><![CDATA[Blow the whistle! https://shop.tesla.com/product/cyberwhistle?web=true]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -62,7 +111,7 @@
         <updated>2022-09-13T20:53:56.000Z</updated>
         <summary type="html"><![CDATA[Re @chrissyfarr True]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -72,7 +121,7 @@
         <updated>2022-09-13T20:12:26.000Z</updated>
         <summary type="html"><![CDATA[Re @kimbal Could be worse]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -82,7 +131,7 @@
         <updated>2022-09-13T19:32:33.000Z</updated>
         <summary type="html"><![CDATA[Re @prasad_s7 @JGrupe @Tesla @SawyerMerritt @DirtyTesLa Fair point]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -92,7 +141,7 @@
         <updated>2022-09-13T19:30:31.000Z</updated>
         <summary type="html"><![CDATA[Re @spideycyp_155 🤣👍]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -102,7 +151,7 @@
         <updated>2022-09-13T19:26:55.000Z</updated>
         <summary type="html"><![CDATA[Re @andst7 Good thread]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -111,7 +160,7 @@
         <link href="https://twitter.com/elonmusk/status/1569760174704926723"/>
         <updated>2022-09-13T18:49:25.000Z</updated>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -121,7 +170,7 @@
         <updated>2022-09-13T18:48:18.000Z</updated>
         <summary type="html"><![CDATA[Re @TaraBull808 Sounds pretty bad]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -131,7 +180,7 @@
         <updated>2022-09-13T18:07:16.000Z</updated>
         <summary type="html"><![CDATA[Re Please fix @twitter, @verified, @paraga]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -141,7 +190,7 @@
         <updated>2022-09-13T18:05:36.000Z</updated>
         <summary type="html"><![CDATA[My tweets are being suppressed!]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
@@ -151,60 +200,7 @@
         <updated>2022-09-13T17:59:03.000Z</updated>
         <summary type="html"><![CDATA[Re @ajtourville 🤣]]></summary>
         <author>
-            <name>Naughtius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re This says it all: “None of the members of the Stripe chat who spoke with me said that they accepted payment or agreed to speak to the firms about ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1569746673794011138</id>
-        <link href="https://twitter.com/elonmusk/status/1569746673794011138"/>
-        <updated>2022-09-13T17:55:46.000Z</updated>
-        <summary type="html"><![CDATA[Re This says it all:
-“None of the members of the Stripe chat who spoke with me said that they accepted payment or agreed to speak to the firms about Zatko, and all said they wished to defend his credibility.”]]></summary>
-        <author>
-            <name>Naughtius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone know who the secret clients are? Let’s out them on Twitter rn haha.]]></title>
-        <id>https://twitter.com/elonmusk/status/1569744148881866758</id>
-        <link href="https://twitter.com/elonmusk/status/1569744148881866758"/>
-        <updated>2022-09-13T17:45:44.000Z</updated>
-        <summary type="html"><![CDATA[Anyone know who the secret clients are? Let’s out them on Twitter rn haha.
-Ronan Farrow: “They didn’t care how much it would cost them.” People around Twitter whistleblower Peiter “Mudge” Zatko are being inundated by offers from secret clients paying for dirt on him, as he testifies on the Hill about an alleged security crisis at Twitter. NEW:
- https://www.newyorker.com/news/news-desk/the-search-for-dirt-on-the-twitter-whistle-blower]]></summary>
-        <author>
-            <name>Naughtius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JohnArnoldFndtn Absolutely]]></title>
-        <id>https://twitter.com/elonmusk/status/1569735652731719680</id>
-        <link href="https://twitter.com/elonmusk/status/1569735652731719680"/>
-        <updated>2022-09-13T17:11:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @JohnArnoldFndtn Absolutely]]></summary>
-        <author>
-            <name>Naughtius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JGrupe @Tesla @SawyerMerritt @DirtyTesLa True]]></title>
-        <id>https://twitter.com/elonmusk/status/1569731835239735296</id>
-        <link href="https://twitter.com/elonmusk/status/1569731835239735296"/>
-        <updated>2022-09-13T16:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @JGrupe @Tesla @SawyerMerritt @DirtyTesLa True]]></summary>
-        <author>
-            <name>Naughtius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TeslaHype I’m testing it today in Palo Alto]]></title>
-        <id>https://twitter.com/elonmusk/status/1569731699726221312</id>
-        <link href="https://twitter.com/elonmusk/status/1569731699726221312"/>
-        <updated>2022-09-13T16:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @TeslaHype I’m testing it today in Palo Alto]]></summary>
-        <author>
-            <name>Naughtius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
 </feed>
