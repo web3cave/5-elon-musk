@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-15T03:42:06.194Z</id>
+    <id>urn:2022-09-16T03:45:49.625Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-15T03:42:06.194Z</updated>
+    <updated>2022-09-16T03:45:49.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @GailAlfarATX @Tesla @aelluswamy Beta expanding to safety scores above 80 after 10.69.2.1 goes out]]></title>
+        <id>https://twitter.com/elonmusk/status/1570441171431985152</id>
+        <link href="https://twitter.com/elonmusk/status/1570441171431985152"/>
+        <updated>2022-09-15T15:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @GailAlfarATX @Tesla @aelluswamy Beta expanding to safety scores above 80 after 10.69.2.1 goes out]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @GailAlfarATX @Tesla @aelluswamy 10.69.2.1 coming out in a few days with additional polish, 10.69.3 comes out shortly after AI Day]]></title>
+        <id>https://twitter.com/elonmusk/status/1570439829732851713</id>
+        <link href="https://twitter.com/elonmusk/status/1570439829732851713"/>
+        <updated>2022-09-15T15:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @GailAlfarATX @Tesla @aelluswamy 10.69.2.1 coming out in a few days with additional polish, 10.69.3 comes out shortly after AI Day]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ilyasut or their short shorts]]></title>
+        <id>https://twitter.com/elonmusk/status/1570206531005849601</id>
+        <link href="https://twitter.com/elonmusk/status/1570206531005849601"/>
+        <updated>2022-09-15T00:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @ilyasut or their short shorts]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salted butter is amazing, but should be stored at room temperature]]></title>
         <id>https://twitter.com/elonmusk/status/1569953613073764352</id>
@@ -169,36 +199,6 @@
         <link href="https://twitter.com/elonmusk/status/1569759897176231937"/>
         <updated>2022-09-13T18:48:18.000Z</updated>
         <summary type="html"><![CDATA[Re @TaraBull808 Sounds pretty bad]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Please fix @twitter, @verified, @paraga]]></title>
-        <id>https://twitter.com/elonmusk/status/1569749569377812480</id>
-        <link href="https://twitter.com/elonmusk/status/1569749569377812480"/>
-        <updated>2022-09-13T18:07:16.000Z</updated>
-        <summary type="html"><![CDATA[Re Please fix @twitter, @verified, @paraga]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My tweets are being suppressed!]]></title>
-        <id>https://twitter.com/elonmusk/status/1569749150555594753</id>
-        <link href="https://twitter.com/elonmusk/status/1569749150555594753"/>
-        <updated>2022-09-13T18:05:36.000Z</updated>
-        <summary type="html"><![CDATA[My tweets are being suppressed!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ajtourville 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1569747502135480323</id>
-        <link href="https://twitter.com/elonmusk/status/1569747502135480323"/>
-        <updated>2022-09-13T17:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @ajtourville 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
