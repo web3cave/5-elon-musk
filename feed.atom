@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-16T03:45:49.625Z</id>
+    <id>urn:2022-09-17T03:23:01.795Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-16T03:45:49.625Z</updated>
+    <updated>2022-09-17T03:23:01.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starlink is meant for peaceful use only]]></title>
+        <id>https://twitter.com/elonmusk/status/1570952805833379840</id>
+        <link href="https://twitter.com/elonmusk/status/1570952805833379840"/>
+        <updated>2022-09-17T01:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Starlink is meant for peaceful use only]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ExposingBiden @MUSCkids Is it really true that four-year-olds are receiving hormone treatment?]]></title>
+        <id>https://twitter.com/elonmusk/status/1570886951259238401</id>
+        <link href="https://twitter.com/elonmusk/status/1570886951259238401"/>
+        <updated>2022-09-16T21:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @ExposingBiden @MUSCkids Is it really true that four-year-olds are receiving hormone treatment?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NaturePortfolio @NaturePhysics Technically true, but Earth’s economy is extremely far from physical limits. Energy is the foundation of the econo...]]></title>
+        <id>https://twitter.com/elonmusk/status/1570886136930922496</id>
+        <link href="https://twitter.com/elonmusk/status/1570886136930922496"/>
+        <updated>2022-09-16T21:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @NaturePortfolio @NaturePhysics Technically true, but Earth’s economy is extremely far from physical limits. 
+Energy is the foundation of the economy, but we’re using a very tiny amount of available energy, even if we only used PV.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @GailAlfarATX @Tesla @aelluswamy Beta expanding to safety scores above 80 after 10.69.2.1 goes out]]></title>
         <id>https://twitter.com/elonmusk/status/1570441171431985152</id>
@@ -160,45 +191,6 @@
         <link href="https://twitter.com/elonmusk/status/1569771032092856328"/>
         <updated>2022-09-13T19:32:33.000Z</updated>
         <summary type="html"><![CDATA[Re @prasad_s7 @JGrupe @Tesla @SawyerMerritt @DirtyTesLa Fair point]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @spideycyp_155 🤣👍]]></title>
-        <id>https://twitter.com/elonmusk/status/1569770519070740480</id>
-        <link href="https://twitter.com/elonmusk/status/1569770519070740480"/>
-        <updated>2022-09-13T19:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @spideycyp_155 🤣👍]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @andst7 Good thread]]></title>
-        <id>https://twitter.com/elonmusk/status/1569769614728646656</id>
-        <link href="https://twitter.com/elonmusk/status/1569769614728646656"/>
-        <updated>2022-09-13T19:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @andst7 Good thread]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1569760174704926723</id>
-        <link href="https://twitter.com/elonmusk/status/1569760174704926723"/>
-        <updated>2022-09-13T18:49:25.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TaraBull808 Sounds pretty bad]]></title>
-        <id>https://twitter.com/elonmusk/status/1569759897176231937</id>
-        <link href="https://twitter.com/elonmusk/status/1569759897176231937"/>
-        <updated>2022-09-13T18:48:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @TaraBull808 Sounds pretty bad]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
