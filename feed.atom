@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T03:32:09.130Z</id>
+    <id>urn:2022-09-23T03:39:12.295Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-22T03:32:09.130Z</updated>
+    <updated>2022-09-23T03:39:12.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @jackfarrington @PopMech It is]]></title>
+        <id>https://twitter.com/elonmusk/status/1573047790577614848</id>
+        <link href="https://twitter.com/elonmusk/status/1573047790577614848"/>
+        <updated>2022-09-22T20:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @jackfarrington @PopMech It is]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PopMech Why is this a PopMech story?]]></title>
+        <id>https://twitter.com/elonmusk/status/1573026765295030273</id>
+        <link href="https://twitter.com/elonmusk/status/1573026765295030273"/>
+        <updated>2022-09-22T19:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @PopMech Why is this a PopMech story?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k]]></title>
+        <id>https://twitter.com/elonmusk/status/1573007878042296320</id>
+        <link href="https://twitter.com/elonmusk/status/1573007878042296320"/>
+        <updated>2022-09-22T17:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k https://www.tylervigen.com/spurious-correlations]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ajtourville @Twitter @paraga Yup (sigh)]]></title>
+        <id>https://twitter.com/elonmusk/status/1573004188791066627</id>
+        <link href="https://twitter.com/elonmusk/status/1573004188791066627"/>
+        <updated>2022-09-22T17:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @ajtourville @Twitter @paraga Yup (sigh)]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MuskUniversity Fully reusable orbital rockets are the fundamental breakthrough needed for humanity to become a multiplanet species]]></title>
+        <id>https://twitter.com/elonmusk/status/1572986371295289351</id>
+        <link href="https://twitter.com/elonmusk/status/1572986371295289351"/>
+        <updated>2022-09-22T16:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity Fully reusable orbital rockets are the fundamental breakthrough needed for humanity to become a multiplanet species]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stocktalkweekly @WholeMarsBlog @SawyerMerritt The terminology is outdated & inaccurate. This is a tiny over-the-air software update. To the best o...]]></title>
+        <id>https://twitter.com/elonmusk/status/1572985952683065345</id>
+        <link href="https://twitter.com/elonmusk/status/1572985952683065345"/>
+        <updated>2022-09-22T16:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @stocktalkweekly @WholeMarsBlog @SawyerMerritt The terminology is outdated & inaccurate. This is a tiny over-the-air software update. To the best of our knowledge, there have been no injuries.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JoeTegtmeyer @teslascope @johnkrausphotos Your car needs a camera upgrade, which is free of charge. There are a few thousand cars in a similar sit...]]></title>
+        <id>https://twitter.com/elonmusk/status/1572970174629691395</id>
+        <link href="https://twitter.com/elonmusk/status/1572970174629691395"/>
+        <updated>2022-09-22T15:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @JoeTegtmeyer @teslascope @johnkrausphotos Your car needs a camera upgrade, which is free of charge. There are a few thousand cars in a similar situation. Replacement cameras will be available early next month.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Rainmaker1973 @biolocousb While (!pheromone) {}]]></title>
+        <id>https://twitter.com/elonmusk/status/1572968110235455488</id>
+        <link href="https://twitter.com/elonmusk/status/1572968110235455488"/>
+        <updated>2022-09-22T15:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 @biolocousb While (!pheromone) {}]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @BillyM2k 🤣👍]]></title>
         <id>https://twitter.com/elonmusk/status/1572729532532023299</id>
@@ -121,87 +201,6 @@
         <link href="https://twitter.com/elonmusk/status/1572601652347117572"/>
         <updated>2022-09-21T15:00:26.000Z</updated>
         <summary type="html"><![CDATA[Re @enn_nafnlaus @TaraBull808 @treygahigh @theliamnissan @RBReich Boys High was a good school, but it was government, not private. Brooklyn would be considered a middle income, not exclusive, neighborhood in America.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @enn_nafnlaus @TaraBull808 @treygahigh @theliamnissan @RBReich For sure]]></title>
-        <id>https://twitter.com/elonmusk/status/1572600332592762887</id>
-        <link href="https://twitter.com/elonmusk/status/1572600332592762887"/>
-        <updated>2022-09-21T14:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @enn_nafnlaus @TaraBull808 @treygahigh @theliamnissan @RBReich For sure]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich Errol ran out of money in the 90’s. My brother & I financially supported him & his ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1572595710528262160</id>
-        <link href="https://twitter.com/elonmusk/status/1572595710528262160"/>
-        <updated>2022-09-21T14:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich Errol ran out of money in the 90’s. My brother & I financially supported him & his extended family in South Africa since then on condition that he not do bad things. Unfortunately, he did do bad things :(]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich This is true]]></title>
-        <id>https://twitter.com/elonmusk/status/1572593059535228936</id>
-        <link href="https://twitter.com/elonmusk/status/1572593059535228936"/>
-        <updated>2022-09-21T14:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich This is true]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslarati @ResidentSponge With some improvements, it will achieve 300 Mps]]></title>
-        <id>https://twitter.com/elonmusk/status/1572586993233829890</id>
-        <link href="https://twitter.com/elonmusk/status/1572586993233829890"/>
-        <updated>2022-09-21T14:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslarati @ResidentSponge With some improvements, it will achieve 300 Mps]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @enn_nafnlaus @TaraBull808 @treygahigh @theliamnissan @RBReich Incorrect. There was tuition for students from outside the school district, which wa...]]></title>
-        <id>https://twitter.com/elonmusk/status/1572585205231407104</id>
-        <link href="https://twitter.com/elonmusk/status/1572585205231407104"/>
-        <updated>2022-09-21T13:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @enn_nafnlaus @TaraBull808 @treygahigh @theliamnissan @RBReich Incorrect. There was tuition for students from outside the school district, which was a small part of the student body, incl black students, but not for students in district, which I was.
-Also, I was there for 2.5 years, previously attending govt schools for 9 of 12 years.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich I went to government schools, not private, except for part of one year in third grad...]]></title>
-        <id>https://twitter.com/elonmusk/status/1572570349426085888</id>
-        <link href="https://twitter.com/elonmusk/status/1572570349426085888"/>
-        <updated>2022-09-21T12:56:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich I went to government schools, not private, except for part of one year in third grade]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NASASpaceflight @yasin_shafiei @thejackbeyer @BocaChicaGal @NicAnsuini Probably Q2 next year, with vehicles initially transferred by boat from Por...]]></title>
-        <id>https://twitter.com/elonmusk/status/1572568337263243264</id>
-        <link href="https://twitter.com/elonmusk/status/1572568337263243264"/>
-        <updated>2022-09-21T12:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @NASASpaceflight @yasin_shafiei @thejackbeyer @BocaChicaGal @NicAnsuini Probably Q2 next year, with vehicles initially transferred by boat from Port of Brownsville to the Cape]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge @PPathole @RBReich 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1572567768607916033</id>
-        <link href="https://twitter.com/elonmusk/status/1572567768607916033"/>
-        <updated>2022-09-21T12:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge @PPathole @RBReich 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
