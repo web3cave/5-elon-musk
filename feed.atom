@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-23T03:39:12.295Z</id>
+    <id>urn:2022-09-24T03:38:02.336Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-23T03:39:12.295Z</updated>
+    <updated>2022-09-24T03:38:02.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @SecBlinken Activating Starlink …]]></title>
+        <id>https://twitter.com/elonmusk/status/1573379244268437504</id>
+        <link href="https://twitter.com/elonmusk/status/1573379244268437504"/>
+        <updated>2022-09-23T18:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @SecBlinken Activating Starlink …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV @stevenmarkryan Education is the path out of poverty and Internet access enables education]]></title>
+        <id>https://twitter.com/elonmusk/status/1573165011484413952</id>
+        <link href="https://twitter.com/elonmusk/status/1573165011484413952"/>
+        <updated>2022-09-23T04:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @stevenmarkryan Education is the path out of poverty and Internet access enables education]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stevenmarkryan Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1573164441084067842</id>
+        <link href="https://twitter.com/elonmusk/status/1573164441084067842"/>
+        <updated>2022-09-23T04:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @stevenmarkryan Exactly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink connecting schools in the Amazon]]></title>
+        <id>https://twitter.com/elonmusk/status/1573144936756965376</id>
+        <link href="https://twitter.com/elonmusk/status/1573144936756965376"/>
+        <updated>2022-09-23T02:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Starlink connecting schools in the Amazon
+Fábio Faria 🇧🇷🇧🇷🇧🇷: Escola conectada com STARLINK na Região Amazônica! 🇧🇷
+Governo de entregas e resultado 🚀👊 @elonmusk]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @jackfarrington @PopMech It is]]></title>
         <id>https://twitter.com/elonmusk/status/1573047790577614848</id>
@@ -161,46 +203,6 @@
         <link href="https://twitter.com/elonmusk/status/1572617803936727046"/>
         <updated>2022-09-21T16:04:36.000Z</updated>
         <summary type="html"><![CDATA[Re @Teslarati Area from south Giga to river really will be next-level great & open to public!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslarati @KlenderJoey Ecological paradise plans from south portion of Giga Texas to river look great, however we must first get the factory finan...]]></title>
-        <id>https://twitter.com/elonmusk/status/1572616456071938049</id>
-        <link href="https://twitter.com/elonmusk/status/1572616456071938049"/>
-        <updated>2022-09-21T15:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslarati @KlenderJoey Ecological paradise plans from south portion of Giga Texas to river look great, however we must first get the factory financially on its feet]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich I was instrumental in creating OpenAI, which made DALL-E]]></title>
-        <id>https://twitter.com/elonmusk/status/1572605894499729408</id>
-        <link href="https://twitter.com/elonmusk/status/1572605894499729408"/>
-        <updated>2022-09-21T15:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich I was instrumental in creating OpenAI, which made DALL-E]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich Although his methods of instruction very strongly favored stick over carrot, I did l...]]></title>
-        <id>https://twitter.com/elonmusk/status/1572604058116173828</id>
-        <link href="https://twitter.com/elonmusk/status/1572604058116173828"/>
-        <updated>2022-09-21T15:09:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @enn_nafnlaus @treygahigh @TaraBull808 @theliamnissan @RBReich Although his methods of instruction very strongly favored stick over carrot, I did learn a tremendous amount of engineering from him & appreciation of art (he is an extremely talented artist)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @enn_nafnlaus @TaraBull808 @treygahigh @theliamnissan @RBReich Boys High was a good school, but it was government, not private. Brooklyn would be c...]]></title>
-        <id>https://twitter.com/elonmusk/status/1572601652347117572</id>
-        <link href="https://twitter.com/elonmusk/status/1572601652347117572"/>
-        <updated>2022-09-21T15:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @enn_nafnlaus @TaraBull808 @treygahigh @theliamnissan @RBReich Boys High was a good school, but it was government, not private. Brooklyn would be considered a middle income, not exclusive, neighborhood in America.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
