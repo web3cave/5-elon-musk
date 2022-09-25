@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-24T03:38:02.336Z</id>
+    <id>urn:2022-09-25T03:33:57.484Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-24T03:38:02.336Z</updated>
+    <updated>2022-09-25T03:33:57.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Stephen_Geiger Siegel is obviously correct]]></title>
+        <id>https://twitter.com/elonmusk/status/1573624036957065217</id>
+        <link href="https://twitter.com/elonmusk/status/1573624036957065217"/>
+        <updated>2022-09-24T10:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @Stephen_Geiger Siegel is obviously correct]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @SecBlinken Activating Starlink …]]></title>
         <id>https://twitter.com/elonmusk/status/1573379244268437504</id>
@@ -193,16 +203,6 @@ Governo de entregas e resultado 🚀👊 @elonmusk]]></summary>
         <link href="https://twitter.com/elonmusk/status/1572619068347404288"/>
         <updated>2022-09-21T16:09:38.000Z</updated>
         <summary type="html"><![CDATA[Re @Teslarati Long-term goal is a boardwalk with amenities that goes all the way to downtown Austin, so you can walk, bike or kayak]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslarati Area from south Giga to river really will be next-level great & open to public!]]></title>
-        <id>https://twitter.com/elonmusk/status/1572617803936727046</id>
-        <link href="https://twitter.com/elonmusk/status/1572617803936727046"/>
-        <updated>2022-09-21T16:04:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslarati Area from south Giga to river really will be next-level great & open to public!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
