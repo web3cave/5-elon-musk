@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-25T03:33:57.484Z</id>
+    <id>urn:2022-09-26T03:45:04.256Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-25T03:33:57.484Z</updated>
+    <updated>2022-09-26T03:45:04.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Tesmanian_com Charming …]]></title>
+        <id>https://twitter.com/elonmusk/status/1574193494436069377</id>
+        <link href="https://twitter.com/elonmusk/status/1574193494436069377"/>
+        <updated>2022-09-26T00:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @Tesmanian_com Charming …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/elonmusk/status/1574126470049431558</id>
+        <link href="https://twitter.com/elonmusk/status/1574126470049431558"/>
+        <updated>2022-09-25T19:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Re]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1574120217411604481</id>
+        <link href="https://twitter.com/elonmusk/status/1574120217411604481"/>
+        <updated>2022-09-25T19:34:40.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink now over 1M user terminals manufactured]]></title>
+        <id>https://twitter.com/elonmusk/status/1574112663864430593</id>
+        <link href="https://twitter.com/elonmusk/status/1574112663864430593"/>
+        <updated>2022-09-25T19:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Starlink now over 1M user terminals manufactured]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9 launches 52 Starlink satellites to orbit]]></title>
+        <id>https://twitter.com/SpaceX/status/1573846653320192002</id>
+        <link href="https://twitter.com/SpaceX/status/1573846653320192002"/>
+        <updated>2022-09-25T01:27:37.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Falcon 9 launches 52 Starlink satellites to orbit]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Stephen_Geiger Siegel is obviously correct]]></title>
         <id>https://twitter.com/elonmusk/status/1573624036957065217</id>
@@ -153,56 +203,6 @@ Governo de entregas e resultado 🚀👊 @elonmusk]]></summary>
         <link href="https://twitter.com/elonmusk/status/1572693484213272580"/>
         <updated>2022-09-21T21:05:20.000Z</updated>
         <summary type="html"><![CDATA[Re @teslaownersSV @SawyerMerritt Shaded patio]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt Actually, I live in a little house on Weems St that cost ~$50k (but I’ve done a lot with the place!)]]></title>
-        <id>https://twitter.com/elonmusk/status/1572693048433479680</id>
-        <link href="https://twitter.com/elonmusk/status/1572693048433479680"/>
-        <updated>2022-09-21T21:03:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt Actually, I live in a little house on Weems St that cost ~$50k (but I’ve done a lot with the place!)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity Aka cogency]]></title>
-        <id>https://twitter.com/elonmusk/status/1572692745633808384</id>
-        <link href="https://twitter.com/elonmusk/status/1572692745633808384"/>
-        <updated>2022-09-21T21:02:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity Aka cogency]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k Looks awesome 😎]]></title>
-        <id>https://twitter.com/elonmusk/status/1572632382561484800</id>
-        <link href="https://twitter.com/elonmusk/status/1572632382561484800"/>
-        <updated>2022-09-21T17:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k Looks awesome 😎]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV @Teslarati Maybe little electric Tesla boats with a retro-futuristic Victorian design]]></title>
-        <id>https://twitter.com/elonmusk/status/1572620091396878338</id>
-        <link href="https://twitter.com/elonmusk/status/1572620091396878338"/>
-        <updated>2022-09-21T16:13:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV @Teslarati Maybe little electric Tesla boats with a retro-futuristic Victorian design]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslarati Long-term goal is a boardwalk with amenities that goes all the way to downtown Austin, so you can walk, bike or kayak]]></title>
-        <id>https://twitter.com/elonmusk/status/1572619068347404288</id>
-        <link href="https://twitter.com/elonmusk/status/1572619068347404288"/>
-        <updated>2022-09-21T16:09:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslarati Long-term goal is a boardwalk with amenities that goes all the way to downtown Austin, so you can walk, bike or kayak]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
