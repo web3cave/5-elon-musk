@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T03:45:04.256Z</id>
+    <id>urn:2022-09-27T03:28:43.362Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-26T03:45:04.256Z</updated>
+    <updated>2022-09-27T03:28:43.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT NASA: IMPACT SUCCESS! Watch from #DARTMIssion’s DRACO Camera, as the vending machine-sized spacecraft successfully collides with asteroid Dimorpho...]]></title>
+        <id>https://twitter.com/NASA/status/1574539270987173903</id>
+        <link href="https://twitter.com/NASA/status/1574539270987173903"/>
+        <updated>2022-09-26T23:19:50.000Z</updated>
+        <summary type="html"><![CDATA[RT NASA
+IMPACT SUCCESS! Watch from #DARTMIssion’s DRACO Camera, as the vending machine-sized spacecraft successfully collides with asteroid Dimorphos, which is the size of a football stadium and poses no threat to Earth.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Tesmanian_com Charming …]]></title>
         <id>https://twitter.com/elonmusk/status/1574193494436069377</id>
@@ -193,16 +204,6 @@ Governo de entregas e resultado 🚀👊 @elonmusk]]></summary>
         <link href="https://twitter.com/elonmusk/status/1572729532532023299"/>
         <updated>2022-09-21T23:28:35.000Z</updated>
         <summary type="html"><![CDATA[Re @BillyM2k 🤣👍]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV @SawyerMerritt Shaded patio]]></title>
-        <id>https://twitter.com/elonmusk/status/1572693484213272580</id>
-        <link href="https://twitter.com/elonmusk/status/1572693484213272580"/>
-        <updated>2022-09-21T21:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV @SawyerMerritt Shaded patio]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
