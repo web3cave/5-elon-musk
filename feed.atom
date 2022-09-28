@@ -1,10 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T03:28:43.362Z</id>
+    <id>urn:2022-09-28T03:34:26.112Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-27T03:28:43.362Z</updated>
+    <updated>2022-09-28T03:34:26.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re I guess this joke is a slow burn … 🥁]]></title>
+        <id>https://twitter.com/elonmusk/status/1574958348163612672</id>
+        <link href="https://twitter.com/elonmusk/status/1574958348163612672"/>
+        <updated>2022-09-28T03:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Re I guess this joke is a slow burn … 🥁]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Big improvement in high speed cross-traffic velocity NN coming next month]]></title>
+        <id>https://twitter.com/elonmusk/status/1574957722415398912</id>
+        <link href="https://twitter.com/elonmusk/status/1574957722415398912"/>
+        <updated>2022-09-28T03:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Big improvement in high speed cross-traffic velocity NN coming next month]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @chrispavlovski @dbongino @rustyrockets Maybe worth talking at some point]]></title>
+        <id>https://twitter.com/elonmusk/status/1574956999938256896</id>
+        <link href="https://twitter.com/elonmusk/status/1574956999938256896"/>
+        <updated>2022-09-28T02:59:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @chrispavlovski @dbongino @rustyrockets Maybe worth talking at some point]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make “hair on fire” not just a metaphor]]></title>
+        <id>https://twitter.com/elonmusk/status/1574901832622612480</id>
+        <link href="https://twitter.com/elonmusk/status/1574901832622612480"/>
+        <updated>2022-09-27T23:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Make “hair on fire” not just a metaphor]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1574897832095408128</id>
+        <link href="https://twitter.com/elonmusk/status/1574897832095408128"/>
+        <updated>2022-09-27T23:04:38.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Stand out in a crowd! Get noticed as you walk through the airport!]]></title>
+        <id>https://twitter.com/elonmusk/status/1574897489005510656</id>
+        <link href="https://twitter.com/elonmusk/status/1574897489005510656"/>
+        <updated>2022-09-27T23:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Re Stand out in a crowd! Get noticed as you walk through the airport!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Coming soon from @BoringCompany, the same people that sold you a Flamethrower]]></title>
+        <id>https://twitter.com/elonmusk/status/1574896997416374272</id>
+        <link href="https://twitter.com/elonmusk/status/1574896997416374272"/>
+        <updated>2022-09-27T23:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Re Coming soon from @BoringCompany, the same people that sold you a Flamethrower]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Burnt Hair” – Scent for Men by Singed]]></title>
+        <id>https://twitter.com/elonmusk/status/1574895951973449729</id>
+        <link href="https://twitter.com/elonmusk/status/1574895951973449729"/>
+        <updated>2022-09-27T22:57:09.000Z</updated>
+        <summary type="html"><![CDATA[“Burnt Hair” – Scent for Men by Singed]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dbongino @rustyrockets I’m a little preoccupied rn]]></title>
+        <id>https://twitter.com/elonmusk/status/1574888044905185281</id>
+        <link href="https://twitter.com/elonmusk/status/1574888044905185281"/>
+        <updated>2022-09-27T22:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @dbongino @rustyrockets I’m a little preoccupied rn]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ID_AA_Carmack Batteries ftw]]></title>
+        <id>https://twitter.com/elonmusk/status/1574887915385016321</id>
+        <link href="https://twitter.com/elonmusk/status/1574887915385016321"/>
+        <updated>2022-09-27T22:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @ID_AA_Carmack Batteries ftw]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @rustyrockets Good point]]></title>
+        <id>https://twitter.com/elonmusk/status/1574885241948319744</id>
+        <link href="https://twitter.com/elonmusk/status/1574885241948319744"/>
+        <updated>2022-09-27T22:14:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @rustyrockets Good point]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My son, Saxon, was amazed that so many paper newspapers are still produced every day. He said they probably just search the Internet & print it out. Y...]]></title>
+        <id>https://twitter.com/elonmusk/status/1574803555873345536</id>
+        <link href="https://twitter.com/elonmusk/status/1574803555873345536"/>
+        <updated>2022-09-27T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[My son, Saxon, was amazed that so many paper newspapers are still produced every day. 
+He said they probably just search the Internet & print it out. Yup, with rare exception, that is *actually* what they do haha.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1574794308523380744</id>
+        <link href="https://twitter.com/elonmusk/status/1574794308523380744"/>
+        <updated>2022-09-27T16:13:16.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falcon 9 fairing cam captures 2nd stage plume, booster entry burn & Earth in twilight]]></title>
+        <id>https://twitter.com/elonmusk/status/1574773851523022850</id>
+        <link href="https://twitter.com/elonmusk/status/1574773851523022850"/>
+        <updated>2022-09-27T14:51:58.000Z</updated>
+        <summary type="html"><![CDATA[Falcon 9 fairing cam captures 2nd stage plume, booster entry burn & Earth in twilight]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @lacker @ilyasut Even then, Lenin would’ve gotten nowhere without Ludendorff’s train]]></title>
+        <id>https://twitter.com/elonmusk/status/1574625957926707200</id>
+        <link href="https://twitter.com/elonmusk/status/1574625957926707200"/>
+        <updated>2022-09-27T05:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @lacker @ilyasut Even then, Lenin would’ve gotten nowhere without Ludendorff’s train]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT NASA: IMPACT SUCCESS! Watch from #DARTMIssion’s DRACO Camera, as the vending machine-sized spacecraft successfully collides with asteroid Dimorpho...]]></title>
         <id>https://twitter.com/NASA/status/1574539270987173903</id>
@@ -51,159 +200,6 @@ IMPACT SUCCESS! Watch from #DARTMIssion’s DRACO Camera, as the vending machine
         <link href="https://twitter.com/elonmusk/status/1574112663864430593"/>
         <updated>2022-09-25T19:04:39.000Z</updated>
         <summary type="html"><![CDATA[Starlink now over 1M user terminals manufactured]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon 9 launches 52 Starlink satellites to orbit]]></title>
-        <id>https://twitter.com/SpaceX/status/1573846653320192002</id>
-        <link href="https://twitter.com/SpaceX/status/1573846653320192002"/>
-        <updated>2022-09-25T01:27:37.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Falcon 9 launches 52 Starlink satellites to orbit]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Stephen_Geiger Siegel is obviously correct]]></title>
-        <id>https://twitter.com/elonmusk/status/1573624036957065217</id>
-        <link href="https://twitter.com/elonmusk/status/1573624036957065217"/>
-        <updated>2022-09-24T10:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @Stephen_Geiger Siegel is obviously correct]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SecBlinken Activating Starlink …]]></title>
-        <id>https://twitter.com/elonmusk/status/1573379244268437504</id>
-        <link href="https://twitter.com/elonmusk/status/1573379244268437504"/>
-        <updated>2022-09-23T18:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @SecBlinken Activating Starlink …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV @stevenmarkryan Education is the path out of poverty and Internet access enables education]]></title>
-        <id>https://twitter.com/elonmusk/status/1573165011484413952</id>
-        <link href="https://twitter.com/elonmusk/status/1573165011484413952"/>
-        <updated>2022-09-23T04:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV @stevenmarkryan Education is the path out of poverty and Internet access enables education]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stevenmarkryan Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1573164441084067842</id>
-        <link href="https://twitter.com/elonmusk/status/1573164441084067842"/>
-        <updated>2022-09-23T04:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @stevenmarkryan Exactly]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink connecting schools in the Amazon]]></title>
-        <id>https://twitter.com/elonmusk/status/1573144936756965376</id>
-        <link href="https://twitter.com/elonmusk/status/1573144936756965376"/>
-        <updated>2022-09-23T02:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Starlink connecting schools in the Amazon
-Fábio Faria 🇧🇷🇧🇷🇧🇷: Escola conectada com STARLINK na Região Amazônica! 🇧🇷
-Governo de entregas e resultado 🚀👊 @elonmusk]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jackfarrington @PopMech It is]]></title>
-        <id>https://twitter.com/elonmusk/status/1573047790577614848</id>
-        <link href="https://twitter.com/elonmusk/status/1573047790577614848"/>
-        <updated>2022-09-22T20:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Re @jackfarrington @PopMech It is]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PopMech Why is this a PopMech story?]]></title>
-        <id>https://twitter.com/elonmusk/status/1573026765295030273</id>
-        <link href="https://twitter.com/elonmusk/status/1573026765295030273"/>
-        <updated>2022-09-22T19:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @PopMech Why is this a PopMech story?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k]]></title>
-        <id>https://twitter.com/elonmusk/status/1573007878042296320</id>
-        <link href="https://twitter.com/elonmusk/status/1573007878042296320"/>
-        <updated>2022-09-22T17:54:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k https://www.tylervigen.com/spurious-correlations]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ajtourville @Twitter @paraga Yup (sigh)]]></title>
-        <id>https://twitter.com/elonmusk/status/1573004188791066627</id>
-        <link href="https://twitter.com/elonmusk/status/1573004188791066627"/>
-        <updated>2022-09-22T17:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @ajtourville @Twitter @paraga Yup (sigh)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity Fully reusable orbital rockets are the fundamental breakthrough needed for humanity to become a multiplanet species]]></title>
-        <id>https://twitter.com/elonmusk/status/1572986371295289351</id>
-        <link href="https://twitter.com/elonmusk/status/1572986371295289351"/>
-        <updated>2022-09-22T16:29:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity Fully reusable orbital rockets are the fundamental breakthrough needed for humanity to become a multiplanet species]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stocktalkweekly @WholeMarsBlog @SawyerMerritt The terminology is outdated & inaccurate. This is a tiny over-the-air software update. To the best o...]]></title>
-        <id>https://twitter.com/elonmusk/status/1572985952683065345</id>
-        <link href="https://twitter.com/elonmusk/status/1572985952683065345"/>
-        <updated>2022-09-22T16:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @stocktalkweekly @WholeMarsBlog @SawyerMerritt The terminology is outdated & inaccurate. This is a tiny over-the-air software update. To the best of our knowledge, there have been no injuries.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JoeTegtmeyer @teslascope @johnkrausphotos Your car needs a camera upgrade, which is free of charge. There are a few thousand cars in a similar sit...]]></title>
-        <id>https://twitter.com/elonmusk/status/1572970174629691395</id>
-        <link href="https://twitter.com/elonmusk/status/1572970174629691395"/>
-        <updated>2022-09-22T15:24:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @JoeTegtmeyer @teslascope @johnkrausphotos Your car needs a camera upgrade, which is free of charge. There are a few thousand cars in a similar situation. Replacement cameras will be available early next month.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Rainmaker1973 @biolocousb While (!pheromone) {}]]></title>
-        <id>https://twitter.com/elonmusk/status/1572968110235455488</id>
-        <link href="https://twitter.com/elonmusk/status/1572968110235455488"/>
-        <updated>2022-09-22T15:16:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @Rainmaker1973 @biolocousb While (!pheromone) {}]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k 🤣👍]]></title>
-        <id>https://twitter.com/elonmusk/status/1572729532532023299</id>
-        <link href="https://twitter.com/elonmusk/status/1572729532532023299"/>
-        <updated>2022-09-21T23:28:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k 🤣👍]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
