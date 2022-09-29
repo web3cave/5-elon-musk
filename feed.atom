@@ -1,10 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T03:34:26.112Z</id>
+    <id>urn:2022-09-29T03:37:38.611Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-28T03:34:26.112Z</updated>
+    <updated>2022-09-29T03:37:38.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Rated for 280+ kph (174+ mph) winds]]></title>
+        <id>https://twitter.com/elonmusk/status/1575271078221357056</id>
+        <link href="https://twitter.com/elonmusk/status/1575271078221357056"/>
+        <updated>2022-09-28T23:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Re Rated for 280+ kph (174+ mph) winds https://www.starlink.com/specifications?spec=3]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink Maritime system enables high speed Internet connectivity even in heavy seas & hurricane winds]]></title>
+        <id>https://twitter.com/elonmusk/status/1575270119881601024</id>
+        <link href="https://twitter.com/elonmusk/status/1575270119881601024"/>
+        <updated>2022-09-28T23:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Starlink Maritime system enables high speed Internet connectivity even in heavy seas & hurricane winds https://www.starlink.com/maritime]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last coal shipment arrived in Hawaii at same time as Tesla Megapack batteries that will enable 24/7 sustainable energy]]></title>
+        <id>https://twitter.com/elonmusk/status/1575268810109505536</id>
+        <link href="https://twitter.com/elonmusk/status/1575268810109505536"/>
+        <updated>2022-09-28T23:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Last coal shipment arrived in Hawaii at same time as Tesla Megapack batteries that will enable 24/7 sustainable energy]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BryceSpaceTech @SpaceX Still very tiny potatoes compared to what’s needed to make life multiplanetary]]></title>
+        <id>https://twitter.com/elonmusk/status/1575227124931530753</id>
+        <link href="https://twitter.com/elonmusk/status/1575227124931530753"/>
+        <updated>2022-09-28T20:53:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @BryceSpaceTech @SpaceX Still very tiny potatoes compared to what’s needed to make life multiplanetary]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BryceSpaceTech @SpaceX SpaceX now delivering about twice as much payload to orbit as rest of world combined]]></title>
+        <id>https://twitter.com/elonmusk/status/1575226816347852800</id>
+        <link href="https://twitter.com/elonmusk/status/1575226816347852800"/>
+        <updated>2022-09-28T20:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @BryceSpaceTech @SpaceX SpaceX now delivering about twice as much payload to orbit as rest of world combined]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Reuters Extremely concerning]]></title>
+        <id>https://twitter.com/elonmusk/status/1575211053901746177</id>
+        <link href="https://twitter.com/elonmusk/status/1575211053901746177"/>
+        <updated>2022-09-28T19:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @Reuters Extremely concerning]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslarati @KlenderJoey How ironic, that’s what Henrik Fisker did to Tesla in 2007! Karma is a …]]></title>
+        <id>https://twitter.com/elonmusk/status/1575210561964384258</id>
+        <link href="https://twitter.com/elonmusk/status/1575210561964384258"/>
+        <updated>2022-09-28T19:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslarati @KlenderJoey How ironic, that’s what Henrik Fisker did to Tesla in 2007! Karma is a …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @alex_avoigt They need to add a lot of batteries to the grid to buffer energy]]></title>
+        <id>https://twitter.com/elonmusk/status/1575131662354026497</id>
+        <link href="https://twitter.com/elonmusk/status/1575131662354026497"/>
+        <updated>2022-09-28T14:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @alex_avoigt They need to add a lot of batteries to the grid to buffer energy]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1575021541103874048</id>
+        <link href="https://twitter.com/elonmusk/status/1575021541103874048"/>
+        <updated>2022-09-28T07:16:12.000Z</updated>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re I guess this joke is a slow burn … 🥁]]></title>
         <id>https://twitter.com/elonmusk/status/1574958348163612672</id>
@@ -110,96 +199,6 @@
         <link href="https://twitter.com/elonmusk/status/1574885241948319744"/>
         <updated>2022-09-27T22:14:36.000Z</updated>
         <summary type="html"><![CDATA[Re @rustyrockets Good point]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My son, Saxon, was amazed that so many paper newspapers are still produced every day. He said they probably just search the Internet & print it out. Y...]]></title>
-        <id>https://twitter.com/elonmusk/status/1574803555873345536</id>
-        <link href="https://twitter.com/elonmusk/status/1574803555873345536"/>
-        <updated>2022-09-27T16:50:00.000Z</updated>
-        <summary type="html"><![CDATA[My son, Saxon, was amazed that so many paper newspapers are still produced every day. 
-He said they probably just search the Internet & print it out. Yup, with rare exception, that is *actually* what they do haha.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1574794308523380744</id>
-        <link href="https://twitter.com/elonmusk/status/1574794308523380744"/>
-        <updated>2022-09-27T16:13:16.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falcon 9 fairing cam captures 2nd stage plume, booster entry burn & Earth in twilight]]></title>
-        <id>https://twitter.com/elonmusk/status/1574773851523022850</id>
-        <link href="https://twitter.com/elonmusk/status/1574773851523022850"/>
-        <updated>2022-09-27T14:51:58.000Z</updated>
-        <summary type="html"><![CDATA[Falcon 9 fairing cam captures 2nd stage plume, booster entry burn & Earth in twilight]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @lacker @ilyasut Even then, Lenin would’ve gotten nowhere without Ludendorff’s train]]></title>
-        <id>https://twitter.com/elonmusk/status/1574625957926707200</id>
-        <link href="https://twitter.com/elonmusk/status/1574625957926707200"/>
-        <updated>2022-09-27T05:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @lacker @ilyasut Even then, Lenin would’ve gotten nowhere without Ludendorff’s train]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT NASA: IMPACT SUCCESS! Watch from #DARTMIssion’s DRACO Camera, as the vending machine-sized spacecraft successfully collides with asteroid Dimorpho...]]></title>
-        <id>https://twitter.com/NASA/status/1574539270987173903</id>
-        <link href="https://twitter.com/NASA/status/1574539270987173903"/>
-        <updated>2022-09-26T23:19:50.000Z</updated>
-        <summary type="html"><![CDATA[RT NASA
-IMPACT SUCCESS! Watch from #DARTMIssion’s DRACO Camera, as the vending machine-sized spacecraft successfully collides with asteroid Dimorphos, which is the size of a football stadium and poses no threat to Earth.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Tesmanian_com Charming …]]></title>
-        <id>https://twitter.com/elonmusk/status/1574193494436069377</id>
-        <link href="https://twitter.com/elonmusk/status/1574193494436069377"/>
-        <updated>2022-09-26T00:25:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @Tesmanian_com Charming …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/elonmusk/status/1574126470049431558</id>
-        <link href="https://twitter.com/elonmusk/status/1574126470049431558"/>
-        <updated>2022-09-25T19:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Re]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1574120217411604481</id>
-        <link href="https://twitter.com/elonmusk/status/1574120217411604481"/>
-        <updated>2022-09-25T19:34:40.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink now over 1M user terminals manufactured]]></title>
-        <id>https://twitter.com/elonmusk/status/1574112663864430593</id>
-        <link href="https://twitter.com/elonmusk/status/1574112663864430593"/>
-        <updated>2022-09-25T19:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Starlink now over 1M user terminals manufactured]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
