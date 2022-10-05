@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-04T03:06:32.725Z</id>
+    <id>urn:2022-10-05T03:05:06.707Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-04T03:06:32.725Z</updated>
+    <updated>2022-10-05T03:05:06.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @LarckeningXuruo Twitter probably accelerates X by 3 to 5 years, but I could be wrong]]></title>
+        <id>https://twitter.com/elonmusk/status/1577428673971777536</id>
+        <link href="https://twitter.com/elonmusk/status/1577428673971777536"/>
+        <updated>2022-10-04T22:41:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @LarckeningXuruo Twitter probably accelerates X by 3 to 5 years, but I could be wrong]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buying Twitter is an accelerant to creating X, the everything app]]></title>
+        <id>https://twitter.com/elonmusk/status/1577428272056389633</id>
+        <link href="https://twitter.com/elonmusk/status/1577428272056389633"/>
+        <updated>2022-10-04T22:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Buying Twitter is an accelerant to creating X, the everything app]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @unusual_whales 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1577410658978525184</id>
+        <link href="https://twitter.com/elonmusk/status/1577410658978525184"/>
+        <updated>2022-10-04T21:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @unusual_whales 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SawyerMerritt Should be noted that Starlink is still far from cash flow positive. All LEO communications constellations to date have gone bankrupt...]]></title>
+        <id>https://twitter.com/elonmusk/status/1577339522383241216</id>
+        <link href="https://twitter.com/elonmusk/status/1577339522383241216"/>
+        <updated>2022-10-04T16:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt Should be noted that Starlink is still far from cash flow positive. All LEO communications constellations to date have gone bankrupt, so any support is super helpful.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @FrenchyRagin @Kasparov63 A small number of terminals were paid for by the govt, vast majority were not. This is just another bs WaPo hit piece.]]></title>
         <id>https://twitter.com/elonmusk/status/1577083578202361856</id>
@@ -166,46 +206,6 @@ I do care that millions of people may die needlessly for an essentially identica
         <link href="https://twitter.com/elonmusk/status/1576979962938081295"/>
         <updated>2022-10-03T16:58:16.000Z</updated>
         <summary type="html"><![CDATA[Re @Nemli_mot Indeed. Biggest bot attack I’ve ever seen.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Please vote in this poll! ⬇️⬇️⬇️⬇️]]></title>
-        <id>https://twitter.com/elonmusk/status/1576976609348681738</id>
-        <link href="https://twitter.com/elonmusk/status/1576976609348681738"/>
-        <updated>2022-10-03T16:44:57.000Z</updated>
-        <summary type="html"><![CDATA[Please vote in this poll! ⬇️⬇️⬇️⬇️]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @raulsanchezuk The bot attack on this poll is strong!]]></title>
-        <id>https://twitter.com/elonmusk/status/1576976391597617153</id>
-        <link href="https://twitter.com/elonmusk/status/1576976391597617153"/>
-        <updated>2022-10-03T16:44:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @raulsanchezuk The bot attack on this poll is strong!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @AkiKivirinta The will of the people should decide whether they are part of Russia or Ukraine, but Russia invaded areas that would unequivocally ch...]]></title>
-        <id>https://twitter.com/elonmusk/status/1576975654779617289</id>
-        <link href="https://twitter.com/elonmusk/status/1576975654779617289"/>
-        <updated>2022-10-03T16:41:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @AkiKivirinta The will of the people should decide whether they are part of Russia or Ukraine, but Russia invaded areas that would unequivocally choose to be part of Ukraine]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Also worth noting that a possible, albeit unlikely, outcome from this conflict is nuclear war]]></title>
-        <id>https://twitter.com/elonmusk/status/1576973049277992974</id>
-        <link href="https://twitter.com/elonmusk/status/1576973049277992974"/>
-        <updated>2022-10-03T16:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Re Also worth noting that a possible, albeit unlikely, outcome from this conflict is nuclear war]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
