@@ -6,6 +6,176 @@
       "siteUrl": "https://twitter.com/elonmusk",
       "articles": [
         {
+          "id": "https://twitter.com/elonmusk/status/1578564011859533824",
+          "author": "Elon Musk",
+          "description": "Re @wintonARK Dojo uses bf16, so actual performance difference vs 64 bit is much less than it would seem, since you truncate so many useless zeroes & round from there",
+          "link": "https://twitter.com/elonmusk/status/1578564011859533824",
+          "publishedOn": "2022-10-08T01:52:43.000Z",
+          "wordCount": 399,
+          "title": "Re @wintonARK Dojo uses bf16, so actual performance difference vs 64 bit is much less than it would seem, since you truncate so many useless zeroes & ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578562473984393217",
+          "author": "Elon Musk",
+          "description": "Re @sashayanshin 🤣",
+          "link": "https://twitter.com/elonmusk/status/1578562473984393217",
+          "publishedOn": "2022-10-08T01:46:36.000Z",
+          "wordCount": 399,
+          "title": "Re @sashayanshin 🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578561669466398720",
+          "author": "Elon Musk",
+          "description": "Re @SirineAti @SpaceX Two Dragons on @Space_Station",
+          "link": "https://twitter.com/elonmusk/status/1578561669466398720",
+          "publishedOn": "2022-10-08T01:43:24.000Z",
+          "wordCount": 399,
+          "title": "Re @SirineAti @SpaceX Two Dragons on @Space_Station",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578503339968696320",
+          "author": "Elon Musk",
+          "description": "Re @Teslarati @ajtourville @JohnnaCrider1 Can’t wait to see this beast in action!",
+          "link": "https://twitter.com/elonmusk/status/1578503339968696320",
+          "publishedOn": "2022-10-07T21:51:38.000Z",
+          "wordCount": 399,
+          "title": "Re @Teslarati @ajtourville @JohnnaCrider1 Can’t wait to see this beast in action!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578478096314880000",
+          "author": "Elon Musk",
+          "description": "Re @WholeMarsBlog Even better build coming next week",
+          "link": "https://twitter.com/elonmusk/status/1578478096314880000",
+          "publishedOn": "2022-10-07T20:11:19.000Z",
+          "wordCount": 399,
+          "title": "Re @WholeMarsBlog Even better build coming next week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578440049594880002",
+          "author": "Elon Musk",
+          "description": "Re @dogeofficialceo @spideycyp_155 @SawyerMerritt @ChristopherJM @FT @MehulAtLarge @felschwartz Quite a few. Trying to do the right thing, which is not always clear.",
+          "link": "https://twitter.com/elonmusk/status/1578440049594880002",
+          "publishedOn": "2022-10-07T17:40:08.000Z",
+          "wordCount": 399,
+          "title": "Re @dogeofficialceo @spideycyp_155 @SawyerMerritt @ChristopherJM @FT @MehulAtLarge @felschwartz Quite a few. Trying to do the right thing, which is no...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578438980743200768",
+          "author": "Elon Musk",
+          "description": "Re @spideycyp_155 @SawyerMerritt @ChristopherJM @FT @MehulAtLarge @felschwartz I am in regular contact with Fedorov",
+          "link": "https://twitter.com/elonmusk/status/1578438980743200768",
+          "publishedOn": "2022-10-07T17:35:53.000Z",
+          "wordCount": 399,
+          "title": "Re @spideycyp_155 @SawyerMerritt @ChristopherJM @FT @MehulAtLarge @felschwartz I am in regular contact with Fedorov",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578433482757271552",
+          "author": "Elon Musk",
+          "description": "Re @ChristopherJM @FT @MehulAtLarge @felschwartz Bad reporting by FT. This article falsely claims that Starlink terminals & service were paid for, when only a small percentage have been. \nThis operation has cost SpaceX $80M & will exceed $100M by end of year.\nAs for what’s happening on the battlefield, that’s classified.",
+          "link": "https://twitter.com/elonmusk/status/1578433482757271552",
+          "publishedOn": "2022-10-07T17:14:02.000Z",
+          "wordCount": 399,
+          "title": "Re @ChristopherJM @FT @MehulAtLarge @felschwartz Bad reporting by FT. This article falsely claims that Starlink terminals & service were paid for, whe...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578409767793561601",
+          "author": "Elon Musk",
+          "description": "Re @skorusARK Starlink will provide the vast majority of bandwidth from space",
+          "link": "https://twitter.com/elonmusk/status/1578409767793561601",
+          "publishedOn": "2022-10-07T15:39:48.000Z",
+          "wordCount": 399,
+          "title": "Re @skorusARK Starlink will provide the vast majority of bandwidth from space",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578407554136276992",
+          "author": "Elon Musk",
+          "description": "Re @RGVaerialphotos You’d need an electric propeller mounted on the tow hitch to go faster than a few knots. \nThere might a creative wheel hub design that can generate meaningful thrust.",
+          "link": "https://twitter.com/elonmusk/status/1578407554136276992",
+          "publishedOn": "2022-10-07T15:31:00.000Z",
+          "wordCount": 399,
+          "title": "Re @RGVaerialphotos You’d need an electric propeller mounted on the tow hitch to go faster than a few knots. There might a creative wheel hub design ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578392575257546752",
+          "author": "Elon Musk",
+          "description": "Re @EvaFoxU Norway rocks! ♥️♥️ 🇳🇴 🇳🇴",
+          "link": "https://twitter.com/elonmusk/status/1578392575257546752",
+          "publishedOn": "2022-10-07T14:31:29.000Z",
+          "wordCount": 399,
+          "title": "Re @EvaFoxU Norway rocks! ♥️♥️ 🇳🇴 🇳🇴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578387441332928513",
+          "author": "Elon Musk",
+          "description": "In case you missed Tesla AI Day 2022 https://m.youtube.com/watch?v=ODSJsviD_SU&t=1s",
+          "link": "https://twitter.com/elonmusk/status/1578387441332928513",
+          "publishedOn": "2022-10-07T14:11:05.000Z",
+          "wordCount": 399,
+          "title": "In case you missed Tesla AI Day 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578377847588143106",
+          "author": "Elon Musk",
+          "description": "Re @skorusARK Satellite constellation capability comes down to tonnage to orbit per year times capability per ton",
+          "link": "https://twitter.com/elonmusk/status/1578377847588143106",
+          "publishedOn": "2022-10-07T13:32:58.000Z",
+          "wordCount": 399,
+          "title": "Re @skorusARK Satellite constellation capability comes down to tonnage to orbit per year times capability per ton",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578277238465712128",
+          "author": "Elon Musk",
+          "description": "SpaceX Dragon docking with @Space_Station (extended video)",
+          "link": "https://twitter.com/elonmusk/status/1578277238465712128",
+          "publishedOn": "2022-10-07T06:53:11.000Z",
+          "wordCount": 399,
+          "title": "SpaceX Dragon docking with @Space_Station (extended video)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578254096858943489",
+          "author": "Elon Musk",
+          "description": "Re @Teslaconomics Very intense 7 days indeed",
+          "link": "https://twitter.com/elonmusk/status/1578254096858943489",
+          "publishedOn": "2022-10-07T05:21:13.000Z",
+          "wordCount": 399,
+          "title": "Re @Teslaconomics Very intense 7 days indeed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578237770069200896",
+          "author": "Elon Musk",
+          "description": "Re @alifarhat79 @NotParagAgrawal 🤣",
+          "link": "https://twitter.com/elonmusk/status/1578237770069200896",
+          "publishedOn": "2022-10-07T04:16:21.000Z",
+          "wordCount": 399,
+          "title": "Re @alifarhat79 @NotParagAgrawal 🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1578236843409162243",
+          "author": "Elon Musk",
+          "description": "Re @BillyM2k 🤣💯",
+          "link": "https://twitter.com/elonmusk/status/1578236843409162243",
+          "publishedOn": "2022-10-07T04:12:40.000Z",
+          "wordCount": 399,
+          "title": "Re @BillyM2k 🤣💯",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/elonmusk/status/1578189382812508160",
           "author": "Elon Musk",
           "description": "Re @stevenmarkryan @nichegamer @Twitter Personally, I like the latter, but to each their own",
@@ -33,176 +203,6 @@
           "publishedOn": "2022-10-07T00:42:50.000Z",
           "wordCount": 399,
           "title": "Re @nichegamer @Twitter Software engineering, server operations & design will rule the roost",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578183522518413313",
-          "author": "Elon Musk",
-          "description": "Re @nichegamer @Twitter There will be very rapid product evolution",
-          "link": "https://twitter.com/elonmusk/status/1578183522518413313",
-          "publishedOn": "2022-10-07T00:40:47.000Z",
-          "wordCount": 399,
-          "title": "Re @nichegamer @Twitter There will be very rapid product evolution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578171356482371585",
-          "author": "Elon Musk",
-          "description": "Re 500 mile range & super fun to drive",
-          "link": "https://twitter.com/elonmusk/status/1578171356482371585",
-          "publishedOn": "2022-10-06T23:52:27.000Z",
-          "wordCount": 399,
-          "title": "Re 500 mile range & super fun to drive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578170980283076608",
-          "author": "Elon Musk",
-          "description": "Excited to announce start of production of Tesla Semi Truck with deliveries to @Pepsi on Dec 1st!",
-          "link": "https://twitter.com/elonmusk/status/1578170980283076608",
-          "publishedOn": "2022-10-06T23:50:57.000Z",
-          "wordCount": 399,
-          "title": "Excited to announce start of production of Tesla Semi Truck with deliveries to @Pepsi on Dec 1st!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578167067492388864",
-          "author": "Elon Musk",
-          "description": "Re @NASASpaceflight Tiny helium leak (just barely triggered abort), but we take no risks with customer satellites. Standing down to investigate.",
-          "link": "https://twitter.com/elonmusk/status/1578167067492388864",
-          "publishedOn": "2022-10-06T23:35:24.000Z",
-          "wordCount": 399,
-          "title": "Re @NASASpaceflight Tiny helium leak (just barely triggered abort), but we take no risks with customer satellites. Standing down to investigate.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Space_Station/status/1578162070310330369",
-          "author": "Elon Musk",
-          "description": "RT International Space Station\nThe station now has 11 crew members with the arrival of the four @SpaceX #Crew5 members today. They'll work in space conducting @ISS_Research for the next several months. More... https://go.nasa.gov/3SJvoC6",
-          "link": "https://twitter.com/Space_Station/status/1578162070310330369",
-          "publishedOn": "2022-10-06T23:15:33.000Z",
-          "wordCount": 399,
-          "title": "RT International Space Station: The station now has 11 crew members with the arrival of the four @SpaceX #Crew5 members today. They'll work in space c...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578155166032805888",
-          "author": "Elon Musk",
-          "description": "Re @KyivIndependent 🤔",
-          "link": "https://twitter.com/elonmusk/status/1578155166032805888",
-          "publishedOn": "2022-10-06T22:48:06.000Z",
-          "wordCount": 399,
-          "title": "Re @KyivIndependent 🤔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578154139472707584",
-          "author": "Elon Musk",
-          "description": "Re @BillyM2k Agreed",
-          "link": "https://twitter.com/elonmusk/status/1578154139472707584",
-          "publishedOn": "2022-10-06T22:44:02.000Z",
-          "wordCount": 399,
-          "title": "Re @BillyM2k Agreed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578153917955051520",
-          "author": "Elon Musk",
-          "description": "Re @POTUS 👍",
-          "link": "https://twitter.com/elonmusk/status/1578153917955051520",
-          "publishedOn": "2022-10-06T22:43:09.000Z",
-          "wordCount": 399,
-          "title": "Re @POTUS 👍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578152308411547648",
-          "author": "Elon Musk",
-          "description": "Re @Teslarati @JohnnaCrider1 Plot twist!",
-          "link": "https://twitter.com/elonmusk/status/1578152308411547648",
-          "publishedOn": "2022-10-06T22:36:45.000Z",
-          "wordCount": 399,
-          "title": "Re @Teslarati @JohnnaCrider1 Plot twist!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578145198580068353",
-          "author": "Elon Musk",
-          "description": "Re @cb_doge Elon liking his own tweets liking his own tweets …",
-          "link": "https://twitter.com/elonmusk/status/1578145198580068353",
-          "publishedOn": "2022-10-06T22:08:30.000Z",
-          "wordCount": 399,
-          "title": "Re @cb_doge Elon liking his own tweets liking his own tweets …",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578130215884259328",
-          "author": "Elon Musk",
-          "description": "Re @SpaceX Dragon is now docked to @Space_Station",
-          "link": "https://twitter.com/elonmusk/status/1578130215884259328",
-          "publishedOn": "2022-10-06T21:08:58.000Z",
-          "wordCount": 399,
-          "title": "Re @SpaceX Dragon is now docked to @Space_Station",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578111446696828928",
-          "author": "Elon Musk",
-          "description": "Re Video",
-          "link": "https://twitter.com/elonmusk/status/1578111446696828928",
-          "publishedOn": "2022-10-06T19:54:23.000Z",
-          "wordCount": 399,
-          "title": "Re Video",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578055594573004800",
-          "author": "Elon Musk",
-          "description": "Starlink view of 2nd stage deorbit burn",
-          "link": "https://twitter.com/elonmusk/status/1578055594573004800",
-          "publishedOn": "2022-10-06T16:12:27.000Z",
-          "wordCount": 399,
-          "title": "Starlink view of 2nd stage deorbit burn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578050963889393664",
-          "author": "Elon Musk",
-          "description": "Re @realAdrianDa32 @HuXijin_GT 👍🤣",
-          "link": "https://twitter.com/elonmusk/status/1578050963889393664",
-          "publishedOn": "2022-10-06T15:54:03.000Z",
-          "wordCount": 399,
-          "title": "Re @realAdrianDa32 @HuXijin_GT 👍🤣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578049022102851584",
-          "author": "Elon Musk",
-          "description": "Re @HuXijin_GT 手整体插在口袋里的人过分自信",
-          "link": "https://twitter.com/elonmusk/status/1578049022102851584",
-          "publishedOn": "2022-10-06T15:46:20.000Z",
-          "wordCount": 399,
-          "title": "Re @HuXijin_GT 手整体插在口袋里的人过分自信",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578046964087898113",
-          "author": "Elon Musk",
-          "description": "Re @Xu0P5C4rMmMKUdu @stillgray @atrupar @LindseyGrahamSC I will try my best",
-          "link": "https://twitter.com/elonmusk/status/1578046964087898113",
-          "publishedOn": "2022-10-06T15:38:09.000Z",
-          "wordCount": 399,
-          "title": "Re @Xu0P5C4rMmMKUdu @stillgray @atrupar @LindseyGrahamSC I will try my best",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1578041621093949440",
-          "author": "Elon Musk",
-          "description": "Re @KyivPost I’m a big fan of Ukraine, but not of WW3",
-          "link": "https://twitter.com/elonmusk/status/1578041621093949440",
-          "publishedOn": "2022-10-06T15:16:55.000Z",
-          "wordCount": 399,
-          "title": "Re @KyivPost I’m a big fan of Ukraine, but not of WW3",
           "imageUrl": null
         }
       ]

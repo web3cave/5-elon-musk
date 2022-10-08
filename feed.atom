@@ -1,10 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-07T03:13:40.176Z</id>
+    <id>urn:2022-10-08T02:59:01.595Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-07T03:13:40.176Z</updated>
+    <updated>2022-10-08T02:59:01.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @wintonARK Dojo uses bf16, so actual performance difference vs 64 bit is much less than it would seem, since you truncate so many useless zeroes & ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1578564011859533824</id>
+        <link href="https://twitter.com/elonmusk/status/1578564011859533824"/>
+        <updated>2022-10-08T01:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @wintonARK Dojo uses bf16, so actual performance difference vs 64 bit is much less than it would seem, since you truncate so many useless zeroes & round from there]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @sashayanshin 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1578562473984393217</id>
+        <link href="https://twitter.com/elonmusk/status/1578562473984393217"/>
+        <updated>2022-10-08T01:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @sashayanshin 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SirineAti @SpaceX Two Dragons on @Space_Station]]></title>
+        <id>https://twitter.com/elonmusk/status/1578561669466398720</id>
+        <link href="https://twitter.com/elonmusk/status/1578561669466398720"/>
+        <updated>2022-10-08T01:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @SirineAti @SpaceX Two Dragons on @Space_Station]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslarati @ajtourville @JohnnaCrider1 Can’t wait to see this beast in action!]]></title>
+        <id>https://twitter.com/elonmusk/status/1578503339968696320</id>
+        <link href="https://twitter.com/elonmusk/status/1578503339968696320"/>
+        <updated>2022-10-07T21:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslarati @ajtourville @JohnnaCrider1 Can’t wait to see this beast in action!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Even better build coming next week]]></title>
+        <id>https://twitter.com/elonmusk/status/1578478096314880000</id>
+        <link href="https://twitter.com/elonmusk/status/1578478096314880000"/>
+        <updated>2022-10-07T20:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Even better build coming next week]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dogeofficialceo @spideycyp_155 @SawyerMerritt @ChristopherJM @FT @MehulAtLarge @felschwartz Quite a few. Trying to do the right thing, which is no...]]></title>
+        <id>https://twitter.com/elonmusk/status/1578440049594880002</id>
+        <link href="https://twitter.com/elonmusk/status/1578440049594880002"/>
+        <updated>2022-10-07T17:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @dogeofficialceo @spideycyp_155 @SawyerMerritt @ChristopherJM @FT @MehulAtLarge @felschwartz Quite a few. Trying to do the right thing, which is not always clear.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @spideycyp_155 @SawyerMerritt @ChristopherJM @FT @MehulAtLarge @felschwartz I am in regular contact with Fedorov]]></title>
+        <id>https://twitter.com/elonmusk/status/1578438980743200768</id>
+        <link href="https://twitter.com/elonmusk/status/1578438980743200768"/>
+        <updated>2022-10-07T17:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @spideycyp_155 @SawyerMerritt @ChristopherJM @FT @MehulAtLarge @felschwartz I am in regular contact with Fedorov]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ChristopherJM @FT @MehulAtLarge @felschwartz Bad reporting by FT. This article falsely claims that Starlink terminals & service were paid for, whe...]]></title>
+        <id>https://twitter.com/elonmusk/status/1578433482757271552</id>
+        <link href="https://twitter.com/elonmusk/status/1578433482757271552"/>
+        <updated>2022-10-07T17:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @ChristopherJM @FT @MehulAtLarge @felschwartz Bad reporting by FT. This article falsely claims that Starlink terminals & service were paid for, when only a small percentage have been. 
+This operation has cost SpaceX $80M & will exceed $100M by end of year.
+As for what’s happening on the battlefield, that’s classified.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @skorusARK Starlink will provide the vast majority of bandwidth from space]]></title>
+        <id>https://twitter.com/elonmusk/status/1578409767793561601</id>
+        <link href="https://twitter.com/elonmusk/status/1578409767793561601"/>
+        <updated>2022-10-07T15:39:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @skorusARK Starlink will provide the vast majority of bandwidth from space]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @RGVaerialphotos You’d need an electric propeller mounted on the tow hitch to go faster than a few knots. There might a creative wheel hub design ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1578407554136276992</id>
+        <link href="https://twitter.com/elonmusk/status/1578407554136276992"/>
+        <updated>2022-10-07T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @RGVaerialphotos You’d need an electric propeller mounted on the tow hitch to go faster than a few knots. 
+There might a creative wheel hub design that can generate meaningful thrust.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EvaFoxU Norway rocks! ♥️♥️ 🇳🇴 🇳🇴]]></title>
+        <id>https://twitter.com/elonmusk/status/1578392575257546752</id>
+        <link href="https://twitter.com/elonmusk/status/1578392575257546752"/>
+        <updated>2022-10-07T14:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU Norway rocks! ♥️♥️ 🇳🇴 🇳🇴]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In case you missed Tesla AI Day 2022]]></title>
+        <id>https://twitter.com/elonmusk/status/1578387441332928513</id>
+        <link href="https://twitter.com/elonmusk/status/1578387441332928513"/>
+        <updated>2022-10-07T14:11:05.000Z</updated>
+        <summary type="html"><![CDATA[In case you missed Tesla AI Day 2022 https://m.youtube.com/watch?v=ODSJsviD_SU&t=1s]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @skorusARK Satellite constellation capability comes down to tonnage to orbit per year times capability per ton]]></title>
+        <id>https://twitter.com/elonmusk/status/1578377847588143106</id>
+        <link href="https://twitter.com/elonmusk/status/1578377847588143106"/>
+        <updated>2022-10-07T13:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @skorusARK Satellite constellation capability comes down to tonnage to orbit per year times capability per ton]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX Dragon docking with @Space_Station (extended video)]]></title>
+        <id>https://twitter.com/elonmusk/status/1578277238465712128</id>
+        <link href="https://twitter.com/elonmusk/status/1578277238465712128"/>
+        <updated>2022-10-07T06:53:11.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX Dragon docking with @Space_Station (extended video)]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslaconomics Very intense 7 days indeed]]></title>
+        <id>https://twitter.com/elonmusk/status/1578254096858943489</id>
+        <link href="https://twitter.com/elonmusk/status/1578254096858943489"/>
+        <updated>2022-10-07T05:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslaconomics Very intense 7 days indeed]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @alifarhat79 @NotParagAgrawal 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1578237770069200896</id>
+        <link href="https://twitter.com/elonmusk/status/1578237770069200896"/>
+        <updated>2022-10-07T04:16:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @alifarhat79 @NotParagAgrawal 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k 🤣💯]]></title>
+        <id>https://twitter.com/elonmusk/status/1578236843409162243</id>
+        <link href="https://twitter.com/elonmusk/status/1578236843409162243"/>
+        <updated>2022-10-07T04:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k 🤣💯]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @stevenmarkryan @nichegamer @Twitter Personally, I like the latter, but to each their own]]></title>
         <id>https://twitter.com/elonmusk/status/1578189382812508160</id>
@@ -31,177 +204,6 @@
         <link href="https://twitter.com/elonmusk/status/1578184037776216064"/>
         <updated>2022-10-07T00:42:50.000Z</updated>
         <summary type="html"><![CDATA[Re @nichegamer @Twitter Software engineering, server operations & design will rule the roost]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @nichegamer @Twitter There will be very rapid product evolution]]></title>
-        <id>https://twitter.com/elonmusk/status/1578183522518413313</id>
-        <link href="https://twitter.com/elonmusk/status/1578183522518413313"/>
-        <updated>2022-10-07T00:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @nichegamer @Twitter There will be very rapid product evolution]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 500 mile range & super fun to drive]]></title>
-        <id>https://twitter.com/elonmusk/status/1578171356482371585</id>
-        <link href="https://twitter.com/elonmusk/status/1578171356482371585"/>
-        <updated>2022-10-06T23:52:27.000Z</updated>
-        <summary type="html"><![CDATA[Re 500 mile range & super fun to drive]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excited to announce start of production of Tesla Semi Truck with deliveries to @Pepsi on Dec 1st!]]></title>
-        <id>https://twitter.com/elonmusk/status/1578170980283076608</id>
-        <link href="https://twitter.com/elonmusk/status/1578170980283076608"/>
-        <updated>2022-10-06T23:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Excited to announce start of production of Tesla Semi Truck with deliveries to @Pepsi on Dec 1st!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NASASpaceflight Tiny helium leak (just barely triggered abort), but we take no risks with customer satellites. Standing down to investigate.]]></title>
-        <id>https://twitter.com/elonmusk/status/1578167067492388864</id>
-        <link href="https://twitter.com/elonmusk/status/1578167067492388864"/>
-        <updated>2022-10-06T23:35:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @NASASpaceflight Tiny helium leak (just barely triggered abort), but we take no risks with customer satellites. Standing down to investigate.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT International Space Station: The station now has 11 crew members with the arrival of the four @SpaceX #Crew5 members today. They'll work in space c...]]></title>
-        <id>https://twitter.com/Space_Station/status/1578162070310330369</id>
-        <link href="https://twitter.com/Space_Station/status/1578162070310330369"/>
-        <updated>2022-10-06T23:15:33.000Z</updated>
-        <summary type="html"><![CDATA[RT International Space Station
-The station now has 11 crew members with the arrival of the four @SpaceX #Crew5 members today. They'll work in space conducting @ISS_Research for the next several months. More... https://go.nasa.gov/3SJvoC6]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @KyivIndependent 🤔]]></title>
-        <id>https://twitter.com/elonmusk/status/1578155166032805888</id>
-        <link href="https://twitter.com/elonmusk/status/1578155166032805888"/>
-        <updated>2022-10-06T22:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @KyivIndependent 🤔]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k Agreed]]></title>
-        <id>https://twitter.com/elonmusk/status/1578154139472707584</id>
-        <link href="https://twitter.com/elonmusk/status/1578154139472707584"/>
-        <updated>2022-10-06T22:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k Agreed]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @POTUS 👍]]></title>
-        <id>https://twitter.com/elonmusk/status/1578153917955051520</id>
-        <link href="https://twitter.com/elonmusk/status/1578153917955051520"/>
-        <updated>2022-10-06T22:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @POTUS 👍]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 Plot twist!]]></title>
-        <id>https://twitter.com/elonmusk/status/1578152308411547648</id>
-        <link href="https://twitter.com/elonmusk/status/1578152308411547648"/>
-        <updated>2022-10-06T22:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 Plot twist!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge Elon liking his own tweets liking his own tweets …]]></title>
-        <id>https://twitter.com/elonmusk/status/1578145198580068353</id>
-        <link href="https://twitter.com/elonmusk/status/1578145198580068353"/>
-        <updated>2022-10-06T22:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge Elon liking his own tweets liking his own tweets …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SpaceX Dragon is now docked to @Space_Station]]></title>
-        <id>https://twitter.com/elonmusk/status/1578130215884259328</id>
-        <link href="https://twitter.com/elonmusk/status/1578130215884259328"/>
-        <updated>2022-10-06T21:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @SpaceX Dragon is now docked to @Space_Station]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Video]]></title>
-        <id>https://twitter.com/elonmusk/status/1578111446696828928</id>
-        <link href="https://twitter.com/elonmusk/status/1578111446696828928"/>
-        <updated>2022-10-06T19:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Re Video]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink view of 2nd stage deorbit burn]]></title>
-        <id>https://twitter.com/elonmusk/status/1578055594573004800</id>
-        <link href="https://twitter.com/elonmusk/status/1578055594573004800"/>
-        <updated>2022-10-06T16:12:27.000Z</updated>
-        <summary type="html"><![CDATA[Starlink view of 2nd stage deorbit burn]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @realAdrianDa32 @HuXijin_GT 👍🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1578050963889393664</id>
-        <link href="https://twitter.com/elonmusk/status/1578050963889393664"/>
-        <updated>2022-10-06T15:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @realAdrianDa32 @HuXijin_GT 👍🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @HuXijin_GT 手整体插在口袋里的人过分自信]]></title>
-        <id>https://twitter.com/elonmusk/status/1578049022102851584</id>
-        <link href="https://twitter.com/elonmusk/status/1578049022102851584"/>
-        <updated>2022-10-06T15:46:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @HuXijin_GT 手整体插在口袋里的人过分自信]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Xu0P5C4rMmMKUdu @stillgray @atrupar @LindseyGrahamSC I will try my best]]></title>
-        <id>https://twitter.com/elonmusk/status/1578046964087898113</id>
-        <link href="https://twitter.com/elonmusk/status/1578046964087898113"/>
-        <updated>2022-10-06T15:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @Xu0P5C4rMmMKUdu @stillgray @atrupar @LindseyGrahamSC I will try my best]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @KyivPost I’m a big fan of Ukraine, but not of WW3]]></title>
-        <id>https://twitter.com/elonmusk/status/1578041621093949440</id>
-        <link href="https://twitter.com/elonmusk/status/1578041621093949440"/>
-        <updated>2022-10-06T15:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @KyivPost I’m a big fan of Ukraine, but not of WW3]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
