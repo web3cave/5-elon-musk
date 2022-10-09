@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-08T02:59:01.595Z</id>
+    <id>urn:2022-10-09T03:27:35.149Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-08T02:59:01.595Z</updated>
+    <updated>2022-10-09T03:27:35.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @NASASpaceflight Double-header]]></title>
+        <id>https://twitter.com/elonmusk/status/1578896527229321216</id>
+        <link href="https://twitter.com/elonmusk/status/1578896527229321216"/>
+        <updated>2022-10-08T23:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @NASASpaceflight Double-header]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship - the 14th launch and landing of this booster!]]></title>
+        <id>https://twitter.com/SpaceX/status/1578886769789267969</id>
+        <link href="https://twitter.com/SpaceX/status/1578886769789267969"/>
+        <updated>2022-10-08T23:15:14.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship - the 14th launch and landing of this booster!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @davidmarcus @PayPal Agreed]]></title>
+        <id>https://twitter.com/elonmusk/status/1578815879445217280</id>
+        <link href="https://twitter.com/elonmusk/status/1578815879445217280"/>
+        <updated>2022-10-08T18:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @davidmarcus @PayPal Agreed]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Rainmaker1973 Beautiful]]></title>
+        <id>https://twitter.com/elonmusk/status/1578815793776979968</id>
+        <link href="https://twitter.com/elonmusk/status/1578815793776979968"/>
+        <updated>2022-10-08T18:33:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 Beautiful]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @andst7 💯]]></title>
+        <id>https://twitter.com/elonmusk/status/1578803070963658753</id>
+        <link href="https://twitter.com/elonmusk/status/1578803070963658753"/>
+        <updated>2022-10-08T17:42:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @andst7 💯]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kanyewest Welcome back to Twitter, my friend!]]></title>
+        <id>https://twitter.com/elonmusk/status/1578769394536452097</id>
+        <link href="https://twitter.com/elonmusk/status/1578769394536452097"/>
+        <updated>2022-10-08T15:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @kanyewest Welcome back to Twitter, my friend!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @muskQu0tes 💯]]></title>
+        <id>https://twitter.com/elonmusk/status/1578604673178947585</id>
+        <link href="https://twitter.com/elonmusk/status/1578604673178947585"/>
+        <updated>2022-10-08T04:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @muskQu0tes 💯]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @wintonARK Dojo uses bf16, so actual performance difference vs 64 bit is much less than it would seem, since you truncate so many useless zeroes & ...]]></title>
         <id>https://twitter.com/elonmusk/status/1578564011859533824</id>
@@ -134,76 +205,6 @@ There might a creative wheel hub design that can generate meaningful thrust.]]><
         <link href="https://twitter.com/elonmusk/status/1578377847588143106"/>
         <updated>2022-10-07T13:32:58.000Z</updated>
         <summary type="html"><![CDATA[Re @skorusARK Satellite constellation capability comes down to tonnage to orbit per year times capability per ton]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX Dragon docking with @Space_Station (extended video)]]></title>
-        <id>https://twitter.com/elonmusk/status/1578277238465712128</id>
-        <link href="https://twitter.com/elonmusk/status/1578277238465712128"/>
-        <updated>2022-10-07T06:53:11.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX Dragon docking with @Space_Station (extended video)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslaconomics Very intense 7 days indeed]]></title>
-        <id>https://twitter.com/elonmusk/status/1578254096858943489</id>
-        <link href="https://twitter.com/elonmusk/status/1578254096858943489"/>
-        <updated>2022-10-07T05:21:13.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslaconomics Very intense 7 days indeed]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @alifarhat79 @NotParagAgrawal 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1578237770069200896</id>
-        <link href="https://twitter.com/elonmusk/status/1578237770069200896"/>
-        <updated>2022-10-07T04:16:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @alifarhat79 @NotParagAgrawal 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k 🤣💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1578236843409162243</id>
-        <link href="https://twitter.com/elonmusk/status/1578236843409162243"/>
-        <updated>2022-10-07T04:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k 🤣💯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stevenmarkryan @nichegamer @Twitter Personally, I like the latter, but to each their own]]></title>
-        <id>https://twitter.com/elonmusk/status/1578189382812508160</id>
-        <link href="https://twitter.com/elonmusk/status/1578189382812508160"/>
-        <updated>2022-10-07T01:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @stevenmarkryan @nichegamer @Twitter Personally, I like the latter, but to each their own]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stevenmarkryan @nichegamer @Twitter I think being able to dial the content you see from “warm & fuzzy” all the way to “bring it on mf!” is the...]]></title>
-        <id>https://twitter.com/elonmusk/status/1578188951588073472</id>
-        <link href="https://twitter.com/elonmusk/status/1578188951588073472"/>
-        <updated>2022-10-07T01:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @stevenmarkryan @nichegamer @Twitter I think being able to dial the content you see from “warm & fuzzy” all the way to “bring it on mf!” is the way to go]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @nichegamer @Twitter Software engineering, server operations & design will rule the roost]]></title>
-        <id>https://twitter.com/elonmusk/status/1578184037776216064</id>
-        <link href="https://twitter.com/elonmusk/status/1578184037776216064"/>
-        <updated>2022-10-07T00:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @nichegamer @Twitter Software engineering, server operations & design will rule the roost]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
