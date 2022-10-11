@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T03:31:32.097Z</id>
+    <id>urn:2022-10-11T03:28:50.740Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-10T03:31:32.097Z</updated>
+    <updated>2022-10-11T03:28:50.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @kanyewest Talked to ye today & expressed my concerns about his recent tweet, which I think he took to heart]]></title>
+        <id>https://twitter.com/elonmusk/status/1579627776231247874</id>
+        <link href="https://twitter.com/elonmusk/status/1579627776231247874"/>
+        <updated>2022-10-11T00:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @kanyewest Talked to ye today & expressed my concerns about his recent tweet, which I think he took to heart]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 It was built & paid for at my request. Hunter & team did great work.]]></title>
+        <id>https://twitter.com/elonmusk/status/1579600228826591233</id>
+        <link href="https://twitter.com/elonmusk/status/1579600228826591233"/>
+        <updated>2022-10-10T22:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 It was built & paid for at my request. Hunter & team did great work.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Starlink が日本でのサービスを開始しました － アジアでは初めてのサービス国です →]]></title>
+        <id>https://twitter.com/SpaceX/status/1579587196033462272</id>
+        <link href="https://twitter.com/SpaceX/status/1579587196033462272"/>
+        <updated>2022-10-10T21:38:29.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Starlink が日本でのサービスを開始しました － アジアでは初めてのサービス国です → http://starlink.com/map]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @CathieDWood 💯]]></title>
+        <id>https://twitter.com/elonmusk/status/1579299680491823104</id>
+        <link href="https://twitter.com/elonmusk/status/1579299680491823104"/>
+        <updated>2022-10-10T02:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @CathieDWood 💯]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @WholeMarsBlog It will]]></title>
         <id>https://twitter.com/elonmusk/status/1579263949945835521</id>
@@ -162,46 +203,6 @@ A sealed escape pod with a heat shield would probably work.]]></summary>
         <link href="https://twitter.com/elonmusk/status/1579103991161843712"/>
         <updated>2022-10-09T13:38:24.000Z</updated>
         <summary type="html"><![CDATA[Re @ace_constantine @NASAEarthMars I love the inverse poetry of making metaphors literal]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NASAEarthMars That is quite an interesting story. We sent what appeared to be identical emails to all, but each was actually coded with either one...]]></title>
-        <id>https://twitter.com/elonmusk/status/1579101966453858305</id>
-        <link href="https://twitter.com/elonmusk/status/1579101966453858305"/>
-        <updated>2022-10-09T13:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @NASAEarthMars That is quite an interesting story. We sent what appeared to be identical emails to all, but each was actually coded with either one or two spaces between sentences, forming a binary signature that identified the leaker.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Because it runs recursively]]></title>
-        <id>https://twitter.com/elonmusk/status/1579100345472782337</id>
-        <link href="https://twitter.com/elonmusk/status/1579100345472782337"/>
-        <updated>2022-10-09T13:23:55.000Z</updated>
-        <summary type="html"><![CDATA[Re Because it runs recursively]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @tegmark Nuclear war probability is rising rapidly]]></title>
-        <id>https://twitter.com/elonmusk/status/1579099787864903680</id>
-        <link href="https://twitter.com/elonmusk/status/1579099787864903680"/>
-        <updated>2022-10-09T13:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @tegmark Nuclear war probability is rising rapidly]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An eye for an eye leaves everyone blind]]></title>
-        <id>https://twitter.com/elonmusk/status/1579099265401778176</id>
-        <link href="https://twitter.com/elonmusk/status/1579099265401778176"/>
-        <updated>2022-10-09T13:19:37.000Z</updated>
-        <summary type="html"><![CDATA[An eye for an eye leaves everyone blind]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
