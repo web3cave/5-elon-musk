@@ -1,209 +1,207 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-16T03:39:14.397Z</id>
+    <id>urn:2022-10-17T03:49:28.690Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-16T03:39:14.397Z</updated>
+    <updated>2022-10-17T03:49:28.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU Yup]]></title>
-        <id>https://twitter.com/elonmusk/status/1581441473882443776</id>
-        <link href="https://twitter.com/elonmusk/status/1581441473882443776"/>
-        <updated>2022-10-16T00:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU Yup]]></summary>
+        <title type="html"><![CDATA[Re @teslaownersSV This is harder than it sounds, but ok]]></title>
+        <id>https://twitter.com/elonmusk/status/1581765733582716930</id>
+        <link href="https://twitter.com/elonmusk/status/1581765733582716930"/>
+        <updated>2022-10-16T21:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV This is harder than it sounds, but ok]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU 7 years ago]]></title>
-        <id>https://twitter.com/elonmusk/status/1581430699986296832</id>
-        <link href="https://twitter.com/elonmusk/status/1581430699986296832"/>
-        <updated>2022-10-15T23:43:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU 7 years ago]]></summary>
+        <title type="html"><![CDATA[Deus X Machina]]></title>
+        <id>https://twitter.com/elonmusk/status/1581764872702132224</id>
+        <link href="https://twitter.com/elonmusk/status/1581764872702132224"/>
+        <updated>2022-10-16T21:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Deus X Machina]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @FutureJurvetson @SpaceX Definitely one of the strangest meetings I’ve ever experienced. @adeoressi was there too.]]></title>
-        <id>https://twitter.com/elonmusk/status/1581379103902470144</id>
-        <link href="https://twitter.com/elonmusk/status/1581379103902470144"/>
-        <updated>2022-10-15T20:18:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @FutureJurvetson @SpaceX Definitely one of the strangest meetings I’ve ever experienced. @adeoressi was there too.]]></summary>
+        <title type="html"><![CDATA[Re @ChrisG_NSF We are proceeding very carefully. If there is a RUD on the pad, Starship progress will be set back by ~6 months.]]></title>
+        <id>https://twitter.com/elonmusk/status/1581743346153771008</id>
+        <link href="https://twitter.com/elonmusk/status/1581743346153771008"/>
+        <updated>2022-10-16T20:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @ChrisG_NSF We are proceeding very carefully. If there is a RUD on the pad, Starship progress will be set back by ~6 months.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @KimDotcom @Twitter I’m trying my hardest to de-escalate this situation and obviously failing]]></title>
-        <id>https://twitter.com/elonmusk/status/1581378204841172992</id>
-        <link href="https://twitter.com/elonmusk/status/1581378204841172992"/>
-        <updated>2022-10-15T20:15:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @KimDotcom @Twitter I’m trying my hardest to de-escalate this situation and obviously failing]]></summary>
+        <title type="html"><![CDATA[Re @Rainmaker1973 Game over when (not if) Earth gets hit by an object of that size]]></title>
+        <id>https://twitter.com/elonmusk/status/1581671300984365056</id>
+        <link href="https://twitter.com/elonmusk/status/1581671300984365056"/>
+        <updated>2022-10-16T15:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 Game over when (not if) Earth gets hit by an object of that size]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @KimDotcom @Twitter Damned if you do, damned if you don’t, so … guess I’m just damned]]></title>
-        <id>https://twitter.com/elonmusk/status/1581372484762226690</id>
-        <link href="https://twitter.com/elonmusk/status/1581372484762226690"/>
-        <updated>2022-10-15T19:52:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @KimDotcom @Twitter Damned if you do, damned if you don’t, so … guess I’m just damned]]></summary>
+        <title type="html"><![CDATA[Re @N_Schmid Ramen >> Lambos]]></title>
+        <id>https://twitter.com/elonmusk/status/1581661713362919424</id>
+        <link href="https://twitter.com/elonmusk/status/1581661713362919424"/>
+        <updated>2022-10-16T15:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @N_Schmid Ramen >> Lambos]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt Starship & next-gen Starlink satellites are key, but much risk lies ahead before those are working at scale]]></title>
-        <id>https://twitter.com/elonmusk/status/1581371571230285825</id>
-        <link href="https://twitter.com/elonmusk/status/1581371571230285825"/>
-        <updated>2022-10-15T19:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt Starship & next-gen Starlink satellites are key, but much risk lies ahead before those are working at scale]]></summary>
+        <title type="html"><![CDATA[Re @Rainmaker1973 Used a lot in rocketry]]></title>
+        <id>https://twitter.com/elonmusk/status/1581661032405118978</id>
+        <link href="https://twitter.com/elonmusk/status/1581661032405118978"/>
+        <updated>2022-10-16T14:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 Used a lot in rocketry]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @RaheemKassam The hilarious thing is you’re not wrong 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1581368246019584001</id>
-        <link href="https://twitter.com/elonmusk/status/1581368246019584001"/>
-        <updated>2022-10-15T19:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @RaheemKassam The hilarious thing is you’re not wrong 🤣]]></summary>
+        <title type="html"><![CDATA[So true]]></title>
+        <id>https://twitter.com/elonmusk/status/1581652738768654338</id>
+        <link href="https://twitter.com/elonmusk/status/1581652738768654338"/>
+        <updated>2022-10-16T14:26:13.000Z</updated>
+        <summary type="html"><![CDATA[So true]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU So it goes …]]></title>
-        <id>https://twitter.com/elonmusk/status/1581367292075470848</id>
-        <link href="https://twitter.com/elonmusk/status/1581367292075470848"/>
-        <updated>2022-10-15T19:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU So it goes …]]></summary>
+        <title type="html"><![CDATA[Re @Rainmaker1973 Every millipede has its millennia]]></title>
+        <id>https://twitter.com/elonmusk/status/1581650420631367681</id>
+        <link href="https://twitter.com/elonmusk/status/1581650420631367681"/>
+        <updated>2022-10-16T14:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 Every millipede has its millennia]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @gainzy222 Fate loves irony]]></title>
-        <id>https://twitter.com/elonmusk/status/1581348928934785026</id>
-        <link href="https://twitter.com/elonmusk/status/1581348928934785026"/>
-        <updated>2022-10-15T18:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @gainzy222 Fate loves irony]]></summary>
+        <title type="html"><![CDATA[Re @HardcoreHistory We should bring back their outfits]]></title>
+        <id>https://twitter.com/elonmusk/status/1581649798209290242</id>
+        <link href="https://twitter.com/elonmusk/status/1581649798209290242"/>
+        <updated>2022-10-16T14:14:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @HardcoreHistory We should bring back their outfits]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DavidSacks Even so, we should still do good deeds]]></title>
-        <id>https://twitter.com/elonmusk/status/1581347686992998403</id>
-        <link href="https://twitter.com/elonmusk/status/1581347686992998403"/>
-        <updated>2022-10-15T18:14:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @DavidSacks Even so, we should still do good deeds]]></summary>
+        <title type="html"><![CDATA[Re @karpathy Good thread]]></title>
+        <id>https://twitter.com/elonmusk/status/1581648878201208833</id>
+        <link href="https://twitter.com/elonmusk/status/1581648878201208833"/>
+        <updated>2022-10-16T14:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @karpathy Good thread]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The hell with it … even though Starlink is still losing money & other companies are getting billions of taxpayer $, we’ll just keep funding Ukraine ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1581345747777179651</id>
-        <link href="https://twitter.com/elonmusk/status/1581345747777179651"/>
-        <updated>2022-10-15T18:06:20.000Z</updated>
-        <summary type="html"><![CDATA[The hell with it … even though Starlink is still losing money & other companies are getting billions of taxpayer $, we’ll just keep funding Ukraine govt for free]]></summary>
+        <title type="html"><![CDATA[Fancy a game of meme tennis?]]></title>
+        <id>https://twitter.com/elonmusk/status/1581514716890865664</id>
+        <link href="https://twitter.com/elonmusk/status/1581514716890865664"/>
+        <updated>2022-10-16T05:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Fancy a game of meme tennis?]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Brian_J_Berger That dude is not just a “condition of anonymity” spineless coward, he’s also an ignorant fool. Starlink was directly requested b...]]></title>
-        <id>https://twitter.com/elonmusk/status/1581340120774426625</id>
-        <link href="https://twitter.com/elonmusk/status/1581340120774426625"/>
-        <updated>2022-10-15T17:43:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @Brian_J_Berger That dude is not just a “condition of anonymity” spineless coward, he’s also an ignorant fool. Starlink was directly requested by the Ukraine government, as it was the only thing that worked.]]></summary>
+        <title type="html"><![CDATA[Re Buy Burnt Hair from a company that digs holes!]]></title>
+        <id>https://twitter.com/elonmusk/status/1581513703400570880</id>
+        <link href="https://twitter.com/elonmusk/status/1581513703400570880"/>
+        <updated>2022-10-16T05:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Re Buy Burnt Hair from a company that digs holes!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @spideycyp_155 @PPathole @ashleevance It has required a lot of our resources. Going into super lockdown mode slows down new development progress, a...]]></title>
-        <id>https://twitter.com/elonmusk/status/1581333422575714304</id>
-        <link href="https://twitter.com/elonmusk/status/1581333422575714304"/>
-        <updated>2022-10-15T17:17:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @spideycyp_155 @PPathole @ashleevance It has required a lot of our resources. Going into super lockdown mode slows down new development progress, as we have to resist attacks from a sophisticated adversary actively at war.]]></summary>
+        <title type="html"><![CDATA[Re @chicago_glenn I read this as goth clowns lonely]]></title>
+        <id>https://twitter.com/elonmusk/status/1581510840536399872</id>
+        <link href="https://twitter.com/elonmusk/status/1581510840536399872"/>
+        <updated>2022-10-16T05:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @chicago_glenn I read this as goth clowns lonely]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ashleevance DoD provided about 3% of the Falcon 1 development cost. Appreciated, certainly, but should be seen in context.]]></title>
-        <id>https://twitter.com/elonmusk/status/1581331242389499906</id>
-        <link href="https://twitter.com/elonmusk/status/1581331242389499906"/>
-        <updated>2022-10-15T17:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @ashleevance DoD provided about 3% of the Falcon 1 development cost. Appreciated, certainly, but should be seen in context.]]></summary>
+        <title type="html"><![CDATA[Did you hear about the dyslexic KBG agent – it’s pot secret!]]></title>
+        <id>https://twitter.com/elonmusk/status/1581508126595244032</id>
+        <link href="https://twitter.com/elonmusk/status/1581508126595244032"/>
+        <updated>2022-10-16T04:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Did you hear about the dyslexic KBG agent – it’s pot secret!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @PPathole @ashleevance Of course. And their signal jamming systems are also getting better.]]></title>
-        <id>https://twitter.com/elonmusk/status/1581328221466787841</id>
-        <link href="https://twitter.com/elonmusk/status/1581328221466787841"/>
-        <updated>2022-10-15T16:56:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole @ashleevance Of course. And their signal jamming systems are also getting better.]]></summary>
+        <title type="html"><![CDATA[Re @utamadush 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1581507258235904000</id>
+        <link href="https://twitter.com/elonmusk/status/1581507258235904000"/>
+        <updated>2022-10-16T04:48:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @utamadush 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ashleevance The amount SpaceX is requesting for a major battlefield advantage is less than the cost of one new GPS satellite. Ironically, GPS does...]]></title>
-        <id>https://twitter.com/elonmusk/status/1581323301304954881</id>
-        <link href="https://twitter.com/elonmusk/status/1581323301304954881"/>
-        <updated>2022-10-15T16:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @ashleevance The amount SpaceX is requesting for a major battlefield advantage is less than the cost of one new GPS satellite. Ironically, GPS doesn’t work on battlefields, as the signal is easy to jam, but Starlink does.]]></summary>
+        <title type="html"><![CDATA[Re Venn diagram intersection of those two audiences is pretty small, I guess]]></title>
+        <id>https://twitter.com/elonmusk/status/1581506733117431812</id>
+        <link href="https://twitter.com/elonmusk/status/1581506733117431812"/>
+        <updated>2022-10-16T04:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Re Venn diagram intersection of those two audiences is pretty small, I guess]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ajtourville Would be great if someday humanity stopped pointing nukes at itself that would destroy almost all life on Earth. In any given year, th...]]></title>
-        <id>https://twitter.com/elonmusk/status/1581322383452880896</id>
-        <link href="https://twitter.com/elonmusk/status/1581322383452880896"/>
-        <updated>2022-10-15T16:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @ajtourville Would be great if someday humanity stopped pointing nukes at itself that would destroy almost all life on Earth.
-In any given year, there is a chance above zero that they will be launched. We are now at the highest risk in 60 years. https://www.nytimes.com/2022/10/06/world/europe/biden-armageddon-nuclear-war-risk.html]]></summary>
+        <title type="html"><![CDATA[Re Not as popular as I’d hoped (sigh)]]></title>
+        <id>https://twitter.com/elonmusk/status/1581506444310249475</id>
+        <link href="https://twitter.com/elonmusk/status/1581506444310249475"/>
+        <updated>2022-10-16T04:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Re Not as popular as I’d hoped (sigh)]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog Curses, foiled again!]]></title>
-        <id>https://twitter.com/elonmusk/status/1581172066832699392</id>
-        <link href="https://twitter.com/elonmusk/status/1581172066832699392"/>
-        <updated>2022-10-15T06:36:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog Curses, foiled again!]]></summary>
+        <title type="html"><![CDATA[Pitching my idea once again for a crossover of Das Boot & Boss Baby. “Das Baby” – Hijinks on the high seas!]]></title>
+        <id>https://twitter.com/elonmusk/status/1581490395149926404</id>
+        <link href="https://twitter.com/elonmusk/status/1581490395149926404"/>
+        <updated>2022-10-16T03:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Pitching my idea once again for a crossover of Das Boot & Boss Baby.
+“Das Baby” – Hijinks on the high seas!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: Deployment of Eutelsat HOTBIRD 13F confirmed]]></title>
-        <id>https://twitter.com/SpaceX/status/1581162844409643009</id>
-        <link href="https://twitter.com/SpaceX/status/1581162844409643009"/>
-        <updated>2022-10-15T05:59:33.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Deployment of Eutelsat HOTBIRD 13F confirmed]]></summary>
+        <title type="html"><![CDATA[Re @teslaownersSV @oldmordim Just a scratch, we can buff it out]]></title>
+        <id>https://twitter.com/elonmusk/status/1581488923209273344</id>
+        <link href="https://twitter.com/elonmusk/status/1581488923209273344"/>
+        <updated>2022-10-16T03:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @oldmordim Just a scratch, we can buff it out]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon 9’s first stage has landed on the Just Read the Instructions droneship]]></title>
-        <id>https://twitter.com/SpaceX/status/1581155807227355136</id>
-        <link href="https://twitter.com/SpaceX/status/1581155807227355136"/>
-        <updated>2022-10-15T05:31:35.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Falcon 9’s first stage has landed on the Just Read the Instructions droneship]]></summary>
+        <title type="html"><![CDATA[Re @oldmordim Mostly accurate]]></title>
+        <id>https://twitter.com/elonmusk/status/1581488036499496960</id>
+        <link href="https://twitter.com/elonmusk/status/1581488036499496960"/>
+        <updated>2022-10-16T03:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @oldmordim Mostly accurate]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
