@@ -1,10 +1,204 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-19T03:35:21.655Z</id>
+    <id>urn:2022-10-20T03:30:23.357Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-19T03:35:21.655Z</updated>
+    <updated>2022-10-20T03:30:23.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: 10 years of Supercharging. 46 countries. 35k+ stalls. 20 billion miles charged. 🚘⚡️]]></title>
+        <id>https://twitter.com/Tesla/status/1582901412312207361</id>
+        <link href="https://twitter.com/Tesla/status/1582901412312207361"/>
+        <updated>2022-10-20T01:08:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+10 years of Supercharging.
+46 countries.
+35k+ stalls.
+20 billion miles charged.
+🚘⚡️]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 Accelerating sustainable energy is our primary mission]]></title>
+        <id>https://twitter.com/elonmusk/status/1582886876922249216</id>
+        <link href="https://twitter.com/elonmusk/status/1582886876922249216"/>
+        <updated>2022-10-20T00:10:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslarati @JohnnaCrider1 Accelerating sustainable energy is our primary mission]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @westcoastbill Will require truly exceptional execution, but it is possible]]></title>
+        <id>https://twitter.com/elonmusk/status/1582862492111233024</id>
+        <link href="https://twitter.com/elonmusk/status/1582862492111233024"/>
+        <updated>2022-10-19T22:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @westcoastbill Will require truly exceptional execution, but it is possible]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: Re Tesla Semi deliveries are scheduled to begin in December 2022]]></title>
+        <id>https://twitter.com/Tesla/status/1582825290426109952</id>
+        <link href="https://twitter.com/Tesla/status/1582825290426109952"/>
+        <updated>2022-10-19T20:05:31.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+Re Tesla Semi deliveries are scheduled to begin in December 2022]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: Q3 Earnings Call →]]></title>
+        <id>https://twitter.com/Tesla/status/1582825230472343553</id>
+        <link href="https://twitter.com/Tesla/status/1582825230472343553"/>
+        <updated>2022-10-19T20:05:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+Q3 Earnings Call → http://livestream.tesla.com]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I will not let you down, no matter what it takes]]></title>
+        <id>https://twitter.com/elonmusk/status/1582805523484680192</id>
+        <link href="https://twitter.com/elonmusk/status/1582805523484680192"/>
+        <updated>2022-10-19T18:46:58.000Z</updated>
+        <summary type="html"><![CDATA[I will not let you down, no matter what it takes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DirtyTesLa Awesome]]></title>
+        <id>https://twitter.com/elonmusk/status/1582797136839970817</id>
+        <link href="https://twitter.com/elonmusk/status/1582797136839970817"/>
+        <updated>2022-10-19T18:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @DirtyTesLa Awesome]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re We even did a Starlink video call on one airplane aloft to Starlink on another, far away, airplane aloft and it worked perfectly with no lag!]]></title>
+        <id>https://twitter.com/elonmusk/status/1582779309391228931</id>
+        <link href="https://twitter.com/elonmusk/status/1582779309391228931"/>
+        <updated>2022-10-19T17:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Re We even did a Starlink video call on one airplane aloft to Starlink on another, far away, airplane aloft and it worked perfectly with no lag!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vox Populi Vox Dei]]></title>
+        <id>https://twitter.com/elonmusk/status/1582778449583693836</id>
+        <link href="https://twitter.com/elonmusk/status/1582778449583693836"/>
+        <updated>2022-10-19T16:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Vox Populi Vox Dei]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @chazman @aelluswamy Several major architectural upgrades in 10.69.3, so it’s much more than a point release, but we’re sticking with 10.69 just ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1582729657350180865</id>
+        <link href="https://twitter.com/elonmusk/status/1582729657350180865"/>
+        <updated>2022-10-19T13:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @chazman @aelluswamy Several major architectural upgrades in 10.69.3, so it’s much more than a point release, but we’re sticking with 10.69 just cause haha]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @atrupar Sounds fair]]></title>
+        <id>https://twitter.com/elonmusk/status/1582592031712432128</id>
+        <link href="https://twitter.com/elonmusk/status/1582592031712432128"/>
+        <updated>2022-10-19T04:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @atrupar Sounds fair]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k Definitely giving me kid naming ideas 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1582582264185049088</id>
+        <link href="https://twitter.com/elonmusk/status/1582582264185049088"/>
+        <updated>2022-10-19T03:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k Definitely giving me kid naming ideas 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re And … sold out!]]></title>
+        <id>https://twitter.com/elonmusk/status/1582582042063093760</id>
+        <link href="https://twitter.com/elonmusk/status/1582582042063093760"/>
+        <updated>2022-10-19T03:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Re And … sold out!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet in airplanes will feel same as if you were accessing Internet at home!]]></title>
+        <id>https://twitter.com/elonmusk/status/1582576552797081607</id>
+        <link href="https://twitter.com/elonmusk/status/1582576552797081607"/>
+        <updated>2022-10-19T03:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Internet in airplanes will feel same as if you were accessing Internet at home!
+SpaceX: With Starlink, passengers will be able to access high-speed, low-latency internet from the moment they walk on their plane →
+ http://starlink.com/aviation]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28,700 bottles of exquisite Burnt Hair perfume already sold! Only 1,300 left of this unique, limited edition, collector’s item.]]></title>
+        <id>https://twitter.com/elonmusk/status/1582547658039623680</id>
+        <link href="https://twitter.com/elonmusk/status/1582547658039623680"/>
+        <updated>2022-10-19T01:42:18.000Z</updated>
+        <summary type="html"><![CDATA[28,700 bottles of exquisite Burnt Hair perfume already sold! 
+Only 1,300 left of this unique, limited edition, collector’s item.
+Elon Musk: The finest fragrance on Earth!
+ http://boringcompany.com/burnthair]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_doge @alex_avoigt We’re working on it. Hope to release something next week.]]></title>
+        <id>https://twitter.com/elonmusk/status/1582523854181670912</id>
+        <link href="https://twitter.com/elonmusk/status/1582523854181670912"/>
+        <updated>2022-10-19T00:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge @alex_avoigt We’re working on it. Hope to release something next week.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @alex_avoigt No money from DoD, but several other countries, orgs & individuals are paying for ~11k/25k terminals (thanks!). SpaceX is losing ~$20M...]]></title>
+        <id>https://twitter.com/elonmusk/status/1582523481345835008</id>
+        <link href="https://twitter.com/elonmusk/status/1582523481345835008"/>
+        <updated>2022-10-19T00:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @alex_avoigt No money from DoD, but several other countries, orgs & individuals are paying for ~11k/25k terminals (thanks!).
+SpaceX is losing ~$20M/month due to unpaid service & costs related to enhanced security measures for cyberwar defense, but we’ll keep doing it (sigh).]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: SpaceX’s Rideshare program’s redesigned payload configuration offers more opportunities for smallsat providers to catch a ride to orbit. ...]]></title>
+        <id>https://twitter.com/SpaceX/status/1582514028579938304</id>
+        <link href="https://twitter.com/SpaceX/status/1582514028579938304"/>
+        <updated>2022-10-18T23:28:40.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+SpaceX’s Rideshare program’s redesigned payload configuration offers more opportunities for smallsat providers to catch a ride to orbit. Learn more here → http://spacex.com/rideshare/]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @atrupar Smart? Maybe. Does dumb stuff? Definitely!]]></title>
         <id>https://twitter.com/elonmusk/status/1582468440664641536</id>
@@ -22,187 +216,6 @@ Does dumb stuff? Definitely!]]></summary>
         <link href="https://twitter.com/elonmusk/status/1582449194014343168"/>
         <updated>2022-10-18T19:11:02.000Z</updated>
         <summary type="html"><![CDATA[Re @balajis True]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @HassanNatha]]></title>
-        <id>https://twitter.com/elonmusk/status/1582398374787321859</id>
-        <link href="https://twitter.com/elonmusk/status/1582398374787321859"/>
-        <updated>2022-10-18T15:49:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @HassanNatha https://babylonbee.com/news/meet-steve-the-last-remaining-american-who-doesnt-have-a-podcast]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TonyadeVitti 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1582397390715518977</id>
-        <link href="https://twitter.com/elonmusk/status/1582397390715518977"/>
-        <updated>2022-10-18T15:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @TonyadeVitti 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @520AlRihla Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1582389037356023808</id>
-        <link href="https://twitter.com/elonmusk/status/1582389037356023808"/>
-        <updated>2022-10-18T15:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @520AlRihla Exactly]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @tesla4k 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1582387937660264448</id>
-        <link href="https://twitter.com/elonmusk/status/1582387937660264448"/>
-        <updated>2022-10-18T15:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @tesla4k 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @larryronaldpar1 Should I make weapons? Ideally, not.]]></title>
-        <id>https://twitter.com/elonmusk/status/1582387823516487680</id>
-        <link href="https://twitter.com/elonmusk/status/1582387823516487680"/>
-        <updated>2022-10-18T15:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @larryronaldpar1 Should I make weapons? Ideally, not.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TeslaHype An easy prediction]]></title>
-        <id>https://twitter.com/elonmusk/status/1582386890006593536</id>
-        <link href="https://twitter.com/elonmusk/status/1582386890006593536"/>
-        <updated>2022-10-18T15:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @TeslaHype An easy prediction]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drone War I]]></title>
-        <id>https://twitter.com/elonmusk/status/1582379931983499264</id>
-        <link href="https://twitter.com/elonmusk/status/1582379931983499264"/>
-        <updated>2022-10-18T14:35:49.000Z</updated>
-        <summary type="html"><![CDATA[Drone War I https://www.independent.co.uk/news/ap-ukraine-russia-explainer-moscow-b2204811.html?amp]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @FLVoiceNews]]></title>
-        <id>https://twitter.com/elonmusk/status/1582359018164850691</id>
-        <link href="https://twitter.com/elonmusk/status/1582359018164850691"/>
-        <updated>2022-10-18T13:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @FLVoiceNews]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV (Actually) Smart Summon is almost done]]></title>
-        <id>https://twitter.com/elonmusk/status/1582252941050023937</id>
-        <link href="https://twitter.com/elonmusk/status/1582252941050023937"/>
-        <updated>2022-10-18T06:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV (Actually) Smart Summon is almost done]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslaconomics Yes]]></title>
-        <id>https://twitter.com/elonmusk/status/1582194537069694978</id>
-        <link href="https://twitter.com/elonmusk/status/1582194537069694978"/>
-        <updated>2022-10-18T02:19:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslaconomics Yes]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stoolpresidente I have a plan]]></title>
-        <id>https://twitter.com/elonmusk/status/1582187855723761664</id>
-        <link href="https://twitter.com/elonmusk/status/1582187855723761664"/>
-        <updated>2022-10-18T01:52:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @stoolpresidente I have a plan]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TeslaAIBot @SpaceX @Tesla Thanks Optimus :)]]></title>
-        <id>https://twitter.com/elonmusk/status/1582166395345068034</id>
-        <link href="https://twitter.com/elonmusk/status/1582166395345068034"/>
-        <updated>2022-10-18T00:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @TeslaAIBot @SpaceX @Tesla Thanks Optimus :)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt @SpaceX To be precise, 25,300 terminals were sent to Ukraine, but, at present, only 10,630 are paying for service]]></title>
-        <id>https://twitter.com/elonmusk/status/1582098412501364736</id>
-        <link href="https://twitter.com/elonmusk/status/1582098412501364736"/>
-        <updated>2022-10-17T19:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt @SpaceX To be precise, 25,300 terminals were sent to Ukraine, but, at present, only 10,630 are paying for service]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt @SpaceX SpaceX has already withdrawn its request for funding]]></title>
-        <id>https://twitter.com/elonmusk/status/1582097354576265217</id>
-        <link href="https://twitter.com/elonmusk/status/1582097354576265217"/>
-        <updated>2022-10-17T19:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt @SpaceX SpaceX has already withdrawn its request for funding]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @starrski71 @RenataKonkoly @EvaFoxU @kadubai11 @spideycyp_155 Wrong analogy. America also had a humiliating withdrawal from Afghanistan. No one in ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1582009338675154944</id>
-        <link href="https://twitter.com/elonmusk/status/1582009338675154944"/>
-        <updated>2022-10-17T14:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Re @starrski71 @RenataKonkoly @EvaFoxU @kadubai11 @spideycyp_155 Wrong analogy. America also had a humiliating withdrawal from Afghanistan. No one in America sees that country as part of America.
-Crimea *is* seen as a crucial part of Russia by Russia, much as Hawaii is seen as a crucial part of America.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EnjoyerFive 🎯🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1582006549567807488</id>
-        <link href="https://twitter.com/elonmusk/status/1582006549567807488"/>
-        <updated>2022-10-17T13:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @EnjoyerFive 🎯🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PPathole @spideycyp_155 Probably not]]></title>
-        <id>https://twitter.com/elonmusk/status/1582005725684899840</id>
-        <link href="https://twitter.com/elonmusk/status/1582005725684899840"/>
-        <updated>2022-10-17T13:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @PPathole @spideycyp_155 Probably not]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @zerohedge Practice makes perfect …]]></title>
-        <id>https://twitter.com/elonmusk/status/1582005487775539200</id>
-        <link href="https://twitter.com/elonmusk/status/1582005487775539200"/>
-        <updated>2022-10-17T13:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @zerohedge Practice makes perfect …]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
