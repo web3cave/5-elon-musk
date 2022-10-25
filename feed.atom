@@ -1,211 +1,209 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-24T03:46:22.132Z</id>
+    <id>urn:2022-10-25T03:42:19.739Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-24T03:46:22.132Z</updated>
+    <updated>2022-10-25T03:42:19.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon Heavy in the hangar at Launch Complex 39A]]></title>
-        <id>https://twitter.com/SpaceX/status/1584313461999181825</id>
-        <link href="https://twitter.com/SpaceX/status/1584313461999181825"/>
-        <updated>2022-10-23T22:38:59.000Z</updated>
+        <title type="html"><![CDATA[διαλεκτική]]></title>
+        <id>https://twitter.com/elonmusk/status/1584717774261489665</id>
+        <link href="https://twitter.com/elonmusk/status/1584717774261489665"/>
+        <updated>2022-10-25T01:25:34.000Z</updated>
+        <summary type="html"><![CDATA[διαλεκτική]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SwipeWright Twitter should be as broadly inclusive as possible, serving as a fair forum for lively, even if occasionally rancorous, debate between...]]></title>
+        <id>https://twitter.com/elonmusk/status/1584715136547573762</id>
+        <link href="https://twitter.com/elonmusk/status/1584715136547573762"/>
+        <updated>2022-10-25T01:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @SwipeWright Twitter should be as broadly inclusive as possible, serving as a fair forum for lively, even if occasionally rancorous, debate between widely divergent beliefs.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MuskUniversity Absolutely necessary]]></title>
+        <id>https://twitter.com/elonmusk/status/1584677519965687810</id>
+        <link href="https://twitter.com/elonmusk/status/1584677519965687810"/>
+        <updated>2022-10-24T22:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity Absolutely necessary]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DavidSacks @MarcBodnick !]]></title>
+        <id>https://twitter.com/elonmusk/status/1584660916942954497</id>
+        <link href="https://twitter.com/elonmusk/status/1584660916942954497"/>
+        <updated>2022-10-24T21:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @DavidSacks @MarcBodnick !]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @realchrisrufo @MaxBoot 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1584660690970681344</id>
+        <link href="https://twitter.com/elonmusk/status/1584660690970681344"/>
+        <updated>2022-10-24T21:38:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @realchrisrufo @MaxBoot 🤣🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MuskUniversity Important]]></title>
+        <id>https://twitter.com/elonmusk/status/1584648259217547265</id>
+        <link href="https://twitter.com/elonmusk/status/1584648259217547265"/>
+        <updated>2022-10-24T20:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity Important]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MuskUniversity Yup]]></title>
+        <id>https://twitter.com/elonmusk/status/1584647527969980417</id>
+        <link href="https://twitter.com/elonmusk/status/1584647527969980417"/>
+        <updated>2022-10-24T20:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity Yup]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DavidSacks Exactly!]]></title>
+        <id>https://twitter.com/elonmusk/status/1584646223109423106</id>
+        <link href="https://twitter.com/elonmusk/status/1584646223109423106"/>
+        <updated>2022-10-24T20:41:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @DavidSacks Exactly!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SawyerMerritt 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1584645966292189184</id>
+        <link href="https://twitter.com/elonmusk/status/1584645966292189184"/>
+        <updated>2022-10-24T20:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @VinnyLingham Yeah, doesn’t make sense]]></title>
+        <id>https://twitter.com/elonmusk/status/1584616967788384256</id>
+        <link href="https://twitter.com/elonmusk/status/1584616967788384256"/>
+        <updated>2022-10-24T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @VinnyLingham Yeah, doesn’t make sense]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Starlink is now available in Jamaica →]]></title>
+        <id>https://twitter.com/SpaceX/status/1584605119466725376</id>
+        <link href="https://twitter.com/SpaceX/status/1584605119466725376"/>
+        <updated>2022-10-24T17:57:55.000Z</updated>
         <summary type="html"><![CDATA[RT SpaceX
-Falcon Heavy in the hangar at Launch Complex 39A]]></summary>
+Starlink is now available in Jamaica → http://starlink.com/map]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @LordofEa @kerrikgray @chicago_glenn @Tesla @teslaownersSV @dvorahfr @TonyadeVitti @SpaceX @SirineAti Absolutely!]]></title>
-        <id>https://twitter.com/elonmusk/status/1584312886066749441</id>
-        <link href="https://twitter.com/elonmusk/status/1584312886066749441"/>
-        <updated>2022-10-23T22:36:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @LordofEa @kerrikgray @chicago_glenn @Tesla @teslaownersSV @dvorahfr @TonyadeVitti @SpaceX @SirineAti Absolutely!]]></summary>
+        <title type="html"><![CDATA[Re @MuskUniversity Good thread]]></title>
+        <id>https://twitter.com/elonmusk/status/1584542487083122689</id>
+        <link href="https://twitter.com/elonmusk/status/1584542487083122689"/>
+        <updated>2022-10-24T13:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity Good thread]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @SKMorefield Interesting]]></title>
-        <id>https://twitter.com/elonmusk/status/1584227656538939392</id>
-        <link href="https://twitter.com/elonmusk/status/1584227656538939392"/>
-        <updated>2022-10-23T16:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @SKMorefield Interesting]]></summary>
+        <title type="html"><![CDATA[Re @RenataKonkoly @spideycyp_155 @SquawkCNBC @Kasparov63 I only play crazy 9’s]]></title>
+        <id>https://twitter.com/elonmusk/status/1584540916421103616</id>
+        <link href="https://twitter.com/elonmusk/status/1584540916421103616"/>
+        <updated>2022-10-24T13:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @RenataKonkoly @spideycyp_155 @SquawkCNBC @Kasparov63 I only play crazy 9’s]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @pcgamer Great game]]></title>
-        <id>https://twitter.com/elonmusk/status/1584175648146620421</id>
-        <link href="https://twitter.com/elonmusk/status/1584175648146620421"/>
-        <updated>2022-10-23T13:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @pcgamer Great game]]></summary>
+        <title type="html"><![CDATA[Re @MarcusHouse @LordofEa @kerrikgray @chicago_glenn @Tesla @teslaownersSV @dvorahfr @TonyadeVitti @SpaceX @SirineAti That’s the plan, unless it is d...]]></title>
+        <id>https://twitter.com/elonmusk/status/1584540160959860738</id>
+        <link href="https://twitter.com/elonmusk/status/1584540160959860738"/>
+        <updated>2022-10-24T13:39:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @MarcusHouse @LordofEa @kerrikgray @chicago_glenn @Tesla @teslaownersSV @dvorahfr @TonyadeVitti @SpaceX @SirineAti That’s the plan, unless it is damaged in testing. What really matters is that ship & booster production line is spooling up. Also, each new ship & booster has incremental design improvements.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Maybe it was a social media algorithm, not even people]]></title>
-        <id>https://twitter.com/elonmusk/status/1584175255425540096</id>
-        <link href="https://twitter.com/elonmusk/status/1584175255425540096"/>
-        <updated>2022-10-23T13:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Re Maybe it was a social media algorithm, not even people]]></summary>
+        <title type="html"><![CDATA[Re @ChananBos @SquawkCNBC @Kasparov63 Yeah, I’m back to spare bedroom /couch surfing at friend’s houses in Silicon Valley, which I did for about a d...]]></title>
+        <id>https://twitter.com/elonmusk/status/1584539176997122048</id>
+        <link href="https://twitter.com/elonmusk/status/1584539176997122048"/>
+        <updated>2022-10-24T13:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @ChananBos @SquawkCNBC @Kasparov63 Yeah, I’m back to spare bedroom /couch surfing at friend’s houses in Silicon Valley, which I did for about a decade.
+Frankly, I like it this way, as I get to see my friends, who I love, more often.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Think about who might have decided “The Current Thing” before accepting it]]></title>
-        <id>https://twitter.com/elonmusk/status/1584174386998697985</id>
-        <link href="https://twitter.com/elonmusk/status/1584174386998697985"/>
-        <updated>2022-10-23T13:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Think about who might have decided “The Current Thing” before accepting it]]></summary>
+        <title type="html"><![CDATA[Re @spideycyp_155 @SquawkCNBC @Kasparov63 I did as a child, but found it to be too simple to be useful in real life: a mere 8 by 8 grid, no fog of war...]]></title>
+        <id>https://twitter.com/elonmusk/status/1584537377837490177</id>
+        <link href="https://twitter.com/elonmusk/status/1584537377837490177"/>
+        <updated>2022-10-24T13:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @spideycyp_155 @SquawkCNBC @Kasparov63 I did as a child, but found it to be too simple to be useful in real life: a mere 8 by 8 grid, no fog of war, no technology tree, no random map or spawn position, only 2 players, both sides exact same pieces, etc.
+Polytopia addresses these limitations.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who decides “The Current Thing?” Real question. I don’t know.]]></title>
-        <id>https://twitter.com/elonmusk/status/1584173256415723521</id>
-        <link href="https://twitter.com/elonmusk/status/1584173256415723521"/>
-        <updated>2022-10-23T13:21:51.000Z</updated>
-        <summary type="html"><![CDATA[Who decides “The Current Thing?”
-Real question. I don’t know.]]></summary>
+        <title type="html"><![CDATA[Re @SquawkCNBC @Kasparov63 And I don’t even own a house, let alone a “mansion”, you douche]]></title>
+        <id>https://twitter.com/elonmusk/status/1584535161521463296</id>
+        <link href="https://twitter.com/elonmusk/status/1584535161521463296"/>
+        <updated>2022-10-24T13:19:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @SquawkCNBC @Kasparov63 And I don’t even own a house, let alone a “mansion”, you douche]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @andst7 Exactly. WaPo are such hypocrites.]]></title>
-        <id>https://twitter.com/elonmusk/status/1584170458815303680</id>
-        <link href="https://twitter.com/elonmusk/status/1584170458815303680"/>
-        <updated>2022-10-23T13:10:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @andst7 Exactly. WaPo are such hypocrites.]]></summary>
+        <title type="html"><![CDATA[Re @SquawkCNBC @Kasparov63 While it’s true that Kasparov is almost as good at playing chess as my iPhone, he is otherwise an idiot]]></title>
+        <id>https://twitter.com/elonmusk/status/1584533444444332033</id>
+        <link href="https://twitter.com/elonmusk/status/1584533444444332033"/>
+        <updated>2022-10-24T13:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @SquawkCNBC @Kasparov63 While it’s true that Kasparov is almost as good at playing chess as my iPhone, he is otherwise an idiot]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neuralink show & tell now on Nov 30]]></title>
-        <id>https://twitter.com/elonmusk/status/1584157532209090560</id>
-        <link href="https://twitter.com/elonmusk/status/1584157532209090560"/>
-        <updated>2022-10-23T12:19:22.000Z</updated>
-        <summary type="html"><![CDATA[Neuralink show & tell now on Nov 30]]></summary>
+        <title type="html"><![CDATA[Re @spideycyp_155 @Teslarati @Writer_01001101 @FedorovMykhailo Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1584529700558290944</id>
+        <link href="https://twitter.com/elonmusk/status/1584529700558290944"/>
+        <updated>2022-10-24T12:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @spideycyp_155 @Teslarati @Writer_01001101 @FedorovMykhailo Yes]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @muskQu0tes @SpaceX Had to be done]]></title>
-        <id>https://twitter.com/elonmusk/status/1584155478229102593</id>
-        <link href="https://twitter.com/elonmusk/status/1584155478229102593"/>
-        <updated>2022-10-23T12:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @muskQu0tes @SpaceX Had to be done]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Gfilche @MartinViecha We’ve come a long way]]></title>
-        <id>https://twitter.com/elonmusk/status/1583996892530511872</id>
-        <link href="https://twitter.com/elonmusk/status/1583996892530511872"/>
-        <updated>2022-10-23T01:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @Gfilche @MartinViecha We’ve come a long way]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i know |nothing| is forever]]></title>
-        <id>https://twitter.com/elonmusk/status/1583978878305173505</id>
-        <link href="https://twitter.com/elonmusk/status/1583978878305173505"/>
-        <updated>2022-10-23T00:29:28.000Z</updated>
-        <summary type="html"><![CDATA[i know
-|nothing|
-is forever]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k @sakitechonline @DavidSacks 🤣💪]]></title>
-        <id>https://twitter.com/elonmusk/status/1583932665371062272</id>
-        <link href="https://twitter.com/elonmusk/status/1583932665371062272"/>
-        <updated>2022-10-22T21:25:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k @sakitechonline @DavidSacks 🤣💪]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @michaelmalice @washingtonpost Good point 🤔]]></title>
-        <id>https://twitter.com/elonmusk/status/1583917276142923776</id>
-        <link href="https://twitter.com/elonmusk/status/1583917276142923776"/>
-        <updated>2022-10-22T20:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @michaelmalice @washingtonpost Good point 🤔]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity This needs to change. Manufacturing is awesome!]]></title>
-        <id>https://twitter.com/elonmusk/status/1583909603250622464</id>
-        <link href="https://twitter.com/elonmusk/status/1583909603250622464"/>
-        <updated>2022-10-22T19:54:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity This needs to change. Manufacturing is awesome!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @muskQu0tes It will happen]]></title>
-        <id>https://twitter.com/elonmusk/status/1583871819240525824</id>
-        <link href="https://twitter.com/elonmusk/status/1583871819240525824"/>
-        <updated>2022-10-22T17:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @muskQu0tes It will happen]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DavidSacks @TheAtlantic @davidfrum @EliotACohen Hear! Hear!]]></title>
-        <id>https://twitter.com/elonmusk/status/1583850705088978944</id>
-        <link href="https://twitter.com/elonmusk/status/1583850705088978944"/>
-        <updated>2022-10-22T16:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @DavidSacks @TheAtlantic @davidfrum @EliotACohen Hear! Hear!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ruthbenghiat Why are you perpetuating propaganda concocted by the oil & gas industry to distract you from the 6 trillion dollars per *year* of sub...]]></title>
-        <id>https://twitter.com/elonmusk/status/1583837212197601280</id>
-        <link href="https://twitter.com/elonmusk/status/1583837212197601280"/>
-        <updated>2022-10-22T15:06:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @ruthbenghiat Why are you perpetuating propaganda concocted by the oil & gas industry to distract you from the 6 trillion dollars per *year* of subsidies those companies receive? https://www.imf.org/en/Topics/climate-change/energy-subsidies]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @xuanyiman @stillgray @DavidSacks 😋]]></title>
-        <id>https://twitter.com/elonmusk/status/1583715179086647296</id>
-        <link href="https://twitter.com/elonmusk/status/1583715179086647296"/>
-        <updated>2022-10-22T07:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @xuanyiman @stillgray @DavidSacks 😋]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Historic Vids: How the borders have changed over time]]></title>
-        <id>https://twitter.com/historyinmemes/status/1583650462859153408</id>
-        <link href="https://twitter.com/historyinmemes/status/1583650462859153408"/>
-        <updated>2022-10-22T02:44:27.000Z</updated>
-        <summary type="html"><![CDATA[RT Historic Vids
-How the borders have changed over time]]></summary>
+        <title type="html"><![CDATA[Re @dogeofficialceo @gunsnrosesgirl3 @DolphinDroneDom 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1584528026943250432</id>
+        <link href="https://twitter.com/elonmusk/status/1584528026943250432"/>
+        <updated>2022-10-24T12:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @dogeofficialceo @gunsnrosesgirl3 @DolphinDroneDom 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
