@@ -1,215 +1,205 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T03:17:08.678Z</id>
+    <id>urn:2022-11-03T02:58:22.719Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T03:17:08.678Z</updated>
+    <updated>2022-11-03T02:58:22.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Yoel Roth: We’re staying vigilant against attempts to manipulate conversations about the 2022 US midterms. Read on for independent analysis of our...]]></title>
-        <id>https://twitter.com/yoyoel/status/1587616703952826368</id>
-        <link href="https://twitter.com/yoyoel/status/1587616703952826368"/>
-        <updated>2022-11-02T01:24:53.000Z</updated>
-        <summary type="html"><![CDATA[RT Yoel Roth
-We’re staying vigilant against attempts to manipulate conversations about the 2022 US midterms. Read on for independent analysis of our teams’ work 👇
-Renee DiResta: Happy one week before Midterms! Here's a report we just put out on 6 networks that Twitter released to  outside researchers. 5 of the 6 had a fair bit to say ab American politics, incl the election; they varied bt fake-Dem & fake-Republican perspectives.
- https://www.eipartnership.net/blog/inauthentic-foreign-networks]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslarati Yup]]></title>
-        <id>https://twitter.com/elonmusk/status/1587606794037346305</id>
-        <link href="https://twitter.com/elonmusk/status/1587606794037346305"/>
-        <updated>2022-11-02T00:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslarati Yup]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Rubiu5 That already happens very frequently]]></title>
-        <id>https://twitter.com/elonmusk/status/1587588008756318211</id>
-        <link href="https://twitter.com/elonmusk/status/1587588008756318211"/>
-        <updated>2022-11-01T23:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @Rubiu5 That already happens very frequently]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @thegoodgodabove 💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1587587658737393666</id>
-        <link href="https://twitter.com/elonmusk/status/1587587658737393666"/>
-        <updated>2022-11-01T23:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @thegoodgodabove 💯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut @SpaceForceDoD @SLDelta45 @SpaceX Falcon Heavy is a testament to the awesomeness of humanity]]></title>
-        <id>https://twitter.com/elonmusk/status/1587585178754551808</id>
-        <link href="https://twitter.com/elonmusk/status/1587585178754551808"/>
-        <updated>2022-11-01T23:19:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut @SpaceForceDoD @SLDelta45 @SpaceX Falcon Heavy is a testament to the awesomeness of humanity]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Jihoz_Axie Sounds like a good idea]]></title>
-        <id>https://twitter.com/elonmusk/status/1587583673901121538</id>
-        <link href="https://twitter.com/elonmusk/status/1587583673901121538"/>
-        <updated>2022-11-01T23:13:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @Jihoz_Axie Sounds like a good idea]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @wintonARK 🎯]]></title>
-        <id>https://twitter.com/elonmusk/status/1587554165336702976</id>
-        <link href="https://twitter.com/elonmusk/status/1587554165336702976"/>
-        <updated>2022-11-01T21:16:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @wintonARK 🎯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re There will be a secondary tag below the name for someone who is a public figure, which is already the case for politicians]]></title>
-        <id>https://twitter.com/elonmusk/status/1587527711228149765</id>
-        <link href="https://twitter.com/elonmusk/status/1587527711228149765"/>
-        <updated>2022-11-01T19:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Re There will be a secondary tag below the name for someone who is a public figure, which is already the case for politicians]]></summary>
+        <title type="html"><![CDATA[🤔]]></title>
+        <id>https://twitter.com/elonmusk/status/1587923502354472960</id>
+        <link href="https://twitter.com/elonmusk/status/1587923502354472960"/>
+        <updated>2022-11-02T21:43:59.000Z</updated>
+        <summary type="html"><![CDATA[🤔]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1587523701452464131</id>
-        <link href="https://twitter.com/elonmusk/status/1587523701452464131"/>
-        <updated>2022-11-01T19:15:19.000Z</updated>
+        <id>https://twitter.com/elonmusk/status/1587913672801759234</id>
+        <link href="https://twitter.com/elonmusk/status/1587913672801759234"/>
+        <updated>2022-11-02T21:04:56.000Z</updated>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @saylor Yes, this will destroy the bots. If a paid Blue account engages in spam/scam, that account will be suspended. Essentially, this raises the ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1587512669359292419</id>
-        <link href="https://twitter.com/elonmusk/status/1587512669359292419"/>
-        <updated>2022-11-01T18:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @saylor Yes, this will destroy the bots. If a paid Blue account engages in spam/scam, that account will be suspended. 
-Essentially, this raises the cost of crime on Twitter by several orders of magnitude.]]></summary>
+        <title type="html"><![CDATA[Re @AOC Your feedback is appreciated, now pay $8]]></title>
+        <id>https://twitter.com/elonmusk/status/1587911540770222081</id>
+        <link href="https://twitter.com/elonmusk/status/1587911540770222081"/>
+        <updated>2022-11-02T20:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @AOC Your feedback is appreciated, now pay $8]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Gfilche Absolutely essential. Creators need to make a living!]]></title>
-        <id>https://twitter.com/elonmusk/status/1587507372305649666</id>
-        <link href="https://twitter.com/elonmusk/status/1587507372305649666"/>
-        <updated>2022-11-01T18:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @Gfilche Absolutely essential. Creators need to make a living!]]></summary>
+        <title type="html"><![CDATA[Advertisers should support:]]></title>
+        <id>https://twitter.com/elonmusk/status/1587899771091566595</id>
+        <link href="https://twitter.com/elonmusk/status/1587899771091566595"/>
+        <updated>2022-11-02T20:09:41.000Z</updated>
+        <summary type="html"><![CDATA[Advertisers should support:]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re This will also give Twitter a revenue stream to reward content creators]]></title>
-        <id>https://twitter.com/elonmusk/status/1587505731611262976</id>
-        <link href="https://twitter.com/elonmusk/status/1587505731611262976"/>
-        <updated>2022-11-01T18:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Re This will also give Twitter a revenue stream to reward content creators]]></summary>
+        <title type="html"><![CDATA[Re @itsALLrisky 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1587895653182513152</id>
+        <link href="https://twitter.com/elonmusk/status/1587895653182513152"/>
+        <updated>2022-11-02T19:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @itsALLrisky 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Emmonspired @MKBHD Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1587505338198200320</id>
-        <link href="https://twitter.com/elonmusk/status/1587505338198200320"/>
-        <updated>2022-11-01T18:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @Emmonspired @MKBHD Exactly]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1587894226695884800</id>
+        <link href="https://twitter.com/elonmusk/status/1587894226695884800"/>
+        <updated>2022-11-02T19:47:39.000Z</updated>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @jimmyfailla 🤣👻]]></title>
-        <id>https://twitter.com/elonmusk/status/1587504854771138561</id>
-        <link href="https://twitter.com/elonmusk/status/1587504854771138561"/>
-        <updated>2022-11-01T18:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @jimmyfailla 🤣👻]]></summary>
+        <title type="html"><![CDATA[Re @FridaGhitis $8]]></title>
+        <id>https://twitter.com/elonmusk/status/1587891883421798400</id>
+        <link href="https://twitter.com/elonmusk/status/1587891883421798400"/>
+        <updated>2022-11-02T19:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @FridaGhitis $8]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re And paywall bypass for publishers willing to work with us]]></title>
-        <id>https://twitter.com/elonmusk/status/1587500624098246656</id>
-        <link href="https://twitter.com/elonmusk/status/1587500624098246656"/>
-        <updated>2022-11-01T17:43:37.000Z</updated>
-        <summary type="html"><![CDATA[Re And paywall bypass for publishers willing to work with us]]></summary>
+        <title type="html"><![CDATA[Twitter is simply the most interesting place on the Internet. That’s why you’re reading this tweet right now.]]></title>
+        <id>https://twitter.com/elonmusk/status/1587877870860484610</id>
+        <link href="https://twitter.com/elonmusk/status/1587877870860484610"/>
+        <updated>2022-11-02T18:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Twitter is simply the most interesting place on the Internet. That’s why you’re reading this tweet right now.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re You will also get: - Priority in replies, mentions & search, which is essential to defeat spam/scam - Ability to post long video & audio - Half as ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1587500060853424129</id>
-        <link href="https://twitter.com/elonmusk/status/1587500060853424129"/>
-        <updated>2022-11-01T17:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Re You will also get:
-- Priority in replies, mentions & search, which is essential to defeat spam/scam
-- Ability to post long video & audio
-- Half as many ads]]></summary>
+        <title type="html"><![CDATA[Re @RealSpikeCohen The system is working 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1587877173410418688</id>
+        <link href="https://twitter.com/elonmusk/status/1587877173410418688"/>
+        <updated>2022-11-02T18:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @RealSpikeCohen The system is working 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Price adjusted by country proportionate to purchasing power parity]]></title>
-        <id>https://twitter.com/elonmusk/status/1587499283573530625</id>
-        <link href="https://twitter.com/elonmusk/status/1587499283573530625"/>
-        <updated>2022-11-01T17:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Re Price adjusted by country proportionate to purchasing power parity]]></summary>
+        <title type="html"><![CDATA[Being attacked by both right & left simultaneously is a good sign]]></title>
+        <id>https://twitter.com/elonmusk/status/1587873929443565572</id>
+        <link href="https://twitter.com/elonmusk/status/1587873929443565572"/>
+        <updated>2022-11-02T18:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Being attacked by both right & left simultaneously is a good sign]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter’s current lords & peasants system for who has or doesn’t have a blue checkmark is bullshit. Power to the people! Blue for $8/month.]]></title>
-        <id>https://twitter.com/elonmusk/status/1587498907336118274</id>
-        <link href="https://twitter.com/elonmusk/status/1587498907336118274"/>
-        <updated>2022-11-01T17:36:48.000Z</updated>
-        <summary type="html"><![CDATA[Twitter’s current lords & peasants system for who has or doesn’t have a blue checkmark is bullshit. 
-Power to the people! Blue for $8/month.]]></summary>
+        <title type="html"><![CDATA[Re @TrungTPhan Quite a few companies like this]]></title>
+        <id>https://twitter.com/elonmusk/status/1587873760207667201</id>
+        <link href="https://twitter.com/elonmusk/status/1587873760207667201"/>
+        <updated>2022-11-02T18:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan Quite a few companies like this]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon Heavy launches USSF-44 to orbit, and its two side boosters return to Earth – SpaceX's 50th mission of 2022]]></title>
-        <id>https://twitter.com/SpaceX/status/1587484312076779520</id>
-        <link href="https://twitter.com/SpaceX/status/1587484312076779520"/>
-        <updated>2022-11-01T16:38:48.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Falcon Heavy launches USSF-44 to orbit, and its two side boosters return to Earth – SpaceX's 50th mission of 2022]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k Works every time]]></title>
+        <id>https://twitter.com/elonmusk/status/1587872835732643845</id>
+        <link href="https://twitter.com/elonmusk/status/1587872835732643845"/>
+        <updated>2022-11-02T18:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k Works every time]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Forger Stucky: Wow that was amazing, @SpaceX #FalconHeavy]]></title>
-        <id>https://twitter.com/Stuck4ger/status/1587446533724803072</id>
-        <link href="https://twitter.com/Stuck4ger/status/1587446533724803072"/>
-        <updated>2022-11-01T14:08:41.000Z</updated>
-        <summary type="html"><![CDATA[RT Forger Stucky
-Wow that was amazing, @SpaceX #FalconHeavy]]></summary>
+        <title type="html"><![CDATA[Re @TrungTPhan 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1587872510644666368</id>
+        <link href="https://twitter.com/elonmusk/status/1587872510644666368"/>
+        <updated>2022-11-02T18:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan 🤣🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cafreiman @micsolana Capital allocation should be done by those best at doing so]]></title>
+        <id>https://twitter.com/elonmusk/status/1587867451806695431</id>
+        <link href="https://twitter.com/elonmusk/status/1587867451806695431"/>
+        <updated>2022-11-02T18:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @cafreiman @micsolana Capital allocation should be done by those best at doing so]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TesLatino @Tesla Still a fair bit of polish to be done on 69.3. It’s a major release posing as a minor release.]]></title>
+        <id>https://twitter.com/elonmusk/status/1587864269365952512</id>
+        <link href="https://twitter.com/elonmusk/status/1587864269365952512"/>
+        <updated>2022-11-02T17:48:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @TesLatino @Tesla Still a fair bit of polish to be done on 69.3. It’s a major release posing as a minor release.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @adrianhon Some good ideas here]]></title>
+        <id>https://twitter.com/elonmusk/status/1587861127165136897</id>
+        <link href="https://twitter.com/elonmusk/status/1587861127165136897"/>
+        <updated>2022-11-02T17:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @adrianhon Some good ideas here]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[you get what you pay for]]></title>
+        <id>https://twitter.com/elonmusk/status/1587853401014034435</id>
+        <link href="https://twitter.com/elonmusk/status/1587853401014034435"/>
+        <updated>2022-11-02T17:05:26.000Z</updated>
+        <summary type="html"><![CDATA[you get what you pay for]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Rubiu5 If verified accounts violate terms of service, eg spam/scam/impersonation, they’ll be suspended, but Twitter will keep their money! We wil...]]></title>
+        <id>https://twitter.com/elonmusk/status/1587853006699401216</id>
+        <link href="https://twitter.com/elonmusk/status/1587853006699401216"/>
+        <updated>2022-11-02T17:03:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rubiu5 If verified accounts violate terms of service, eg spam/scam/impersonation, they’ll be suspended, but Twitter will keep their money!
+We will definitely add cool stuff like what you’re suggesting to Twitter Blue.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MichaelDell Thanks Michael]]></title>
+        <id>https://twitter.com/elonmusk/status/1587849705609904129</id>
+        <link href="https://twitter.com/elonmusk/status/1587849705609904129"/>
+        <updated>2022-11-02T16:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @MichaelDell Thanks Michael]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @bennyjohnson Absolutely agreed that the Twitter safety board should have people from all viewpoints]]></title>
+        <id>https://twitter.com/elonmusk/status/1587813382706663424</id>
+        <link href="https://twitter.com/elonmusk/status/1587813382706663424"/>
+        <updated>2022-11-02T14:26:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @bennyjohnson Absolutely agreed that the Twitter safety board should have people from all viewpoints]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
