@@ -1,10 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T02:55:03.645Z</id>
+    <id>urn:2022-11-09T03:02:57.756Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T02:55:03.645Z</updated>
+    <updated>2022-11-09T03:02:57.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @TribelSocial Tribal is awesome & I totally don’t own it (yet)]]></title>
+        <id>https://twitter.com/elonmusk/status/1590146663473381376</id>
+        <link href="https://twitter.com/elonmusk/status/1590146663473381376"/>
+        <updated>2022-11-09T00:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @TribelSocial Tribal is awesome & I totally don’t own it (yet)]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @micsolana When reality is indistinguishable from satire]]></title>
+        <id>https://twitter.com/elonmusk/status/1590145227121397761</id>
+        <link href="https://twitter.com/elonmusk/status/1590145227121397761"/>
+        <updated>2022-11-09T00:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @micsolana When reality is indistinguishable from satire]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog ✌️]]></title>
+        <id>https://twitter.com/elonmusk/status/1590089134563291136</id>
+        <link href="https://twitter.com/elonmusk/status/1590089134563291136"/>
+        <updated>2022-11-08T21:09:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog ✌️]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @monitoringbias It is borderline illegal to support Republicans in San Francisco! Even admitting you know some is pretty bad 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1590088898881159168</id>
+        <link href="https://twitter.com/elonmusk/status/1590088898881159168"/>
+        <updated>2022-11-08T21:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @monitoringbias It is borderline illegal to support Republicans in San Francisco! 
+Even admitting you know some is pretty bad 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TrungTPhan 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1590074828656365568</id>
+        <link href="https://twitter.com/elonmusk/status/1590074828656365568"/>
+        <updated>2022-11-08T20:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1590074277243781120</id>
+        <link href="https://twitter.com/elonmusk/status/1590074277243781120"/>
+        <updated>2022-11-08T20:10:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ZubyMusic Good point]]></title>
+        <id>https://twitter.com/elonmusk/status/1590073832500756480</id>
+        <link href="https://twitter.com/elonmusk/status/1590073832500756480"/>
+        <updated>2022-11-08T20:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @ZubyMusic Good point]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DavidSacks Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1590048968830222336</id>
+        <link href="https://twitter.com/elonmusk/status/1590048968830222336"/>
+        <updated>2022-11-08T18:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @DavidSacks Yes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @RustyRoad @ID_AA_Carmack Twitter is the most interesting place on the Internet]]></title>
+        <id>https://twitter.com/elonmusk/status/1590013865626333185</id>
+        <link href="https://twitter.com/elonmusk/status/1590013865626333185"/>
+        <updated>2022-11-08T16:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @RustyRoad @ID_AA_Carmack Twitter is the most interesting place on the Internet]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter is the worst! But also the best.]]></title>
+        <id>https://twitter.com/elonmusk/status/1590004271625691136</id>
+        <link href="https://twitter.com/elonmusk/status/1590004271625691136"/>
+        <updated>2022-11-08T15:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Twitter is the worst!
+But also the best.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @andst7 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1590002903754080256</id>
+        <link href="https://twitter.com/elonmusk/status/1590002903754080256"/>
+        <updated>2022-11-08T15:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @andst7 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stevekrenzel Wow, this is messed up!]]></title>
+        <id>https://twitter.com/elonmusk/status/1590000207303147521</id>
+        <link href="https://twitter.com/elonmusk/status/1590000207303147521"/>
+        <updated>2022-11-08T15:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @stevekrenzel Wow, this is messed up!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Politics is war and truth is the first casualty]]></title>
+        <id>https://twitter.com/elonmusk/status/1589997215862652929</id>
+        <link href="https://twitter.com/elonmusk/status/1589997215862652929"/>
+        <updated>2022-11-08T15:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Politics is war and truth is the first casualty]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PPathole @mayemusk While it’s true that I’ve been under unfair & misleading attack for some time by leading Democrats, my motivation here is for...]]></title>
+        <id>https://twitter.com/elonmusk/status/1589993413973544960</id>
+        <link href="https://twitter.com/elonmusk/status/1589993413973544960"/>
+        <updated>2022-11-08T14:49:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @PPathole @mayemusk While it’s true that I’ve been under unfair & misleading attack for some time by leading Democrats, my motivation here is for centrist governance, which matches the interests of most Americans]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @laoisman80 @hankgreen Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1589989535102140416</id>
+        <link href="https://twitter.com/elonmusk/status/1589989535102140416"/>
+        <updated>2022-11-08T14:33:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @laoisman80 @hankgreen Exactly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @yoyoel Important thread]]></title>
+        <id>https://twitter.com/elonmusk/status/1589989260824031234</id>
+        <link href="https://twitter.com/elonmusk/status/1589989260824031234"/>
+        <updated>2022-11-08T14:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @yoyoel Important thread]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k 🤣🤷‍♂️]]></title>
+        <id>https://twitter.com/elonmusk/status/1589885149663363072</id>
+        <link href="https://twitter.com/elonmusk/status/1589885149663363072"/>
+        <updated>2022-11-08T07:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k 🤣🤷‍♂️]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ID_AA_Carmack]]></title>
+        <id>https://twitter.com/elonmusk/status/1589826678171525121</id>
+        <link href="https://twitter.com/elonmusk/status/1589826678171525121"/>
+        <updated>2022-11-08T03:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @ID_AA_Carmack]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @HeidiBriones 💯]]></title>
         <id>https://twitter.com/elonmusk/status/1589792843849412608</id>
@@ -20,191 +202,6 @@
         <id>https://twitter.com/elonmusk/status/1589791846737522688</id>
         <link href="https://twitter.com/elonmusk/status/1589791846737522688"/>
         <updated>2022-11-08T01:28:07.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re I just hope the servers don’t melt!]]></title>
-        <id>https://twitter.com/elonmusk/status/1589784884666859520</id>
-        <link href="https://twitter.com/elonmusk/status/1589784884666859520"/>
-        <updated>2022-11-08T01:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Re I just hope the servers don’t melt!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter usage is at an all-time high lol]]></title>
-        <id>https://twitter.com/elonmusk/status/1589784134691741696</id>
-        <link href="https://twitter.com/elonmusk/status/1589784134691741696"/>
-        <updated>2022-11-08T00:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Twitter usage is at an all-time high lol]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1589750102339776512</id>
-        <link href="https://twitter.com/elonmusk/status/1589750102339776512"/>
-        <updated>2022-11-07T22:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re And I’m open to the idea of voting Democrat again in the future]]></title>
-        <id>https://twitter.com/elonmusk/status/1589730392420278272</id>
-        <link href="https://twitter.com/elonmusk/status/1589730392420278272"/>
-        <updated>2022-11-07T21:23:55.000Z</updated>
-        <summary type="html"><![CDATA[Re And I’m open to the idea of voting Democrat again in the future]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k 🤣🤣💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1589722839573483520</id>
-        <link href="https://twitter.com/elonmusk/status/1589722839573483520"/>
-        <updated>2022-11-07T20:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k 🤣🤣💯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To be clear, my historical party affiliation has been Independent, with an actual voting history of entirely Democrat until this year]]></title>
-        <id>https://twitter.com/elonmusk/status/1589722050998210561</id>
-        <link href="https://twitter.com/elonmusk/status/1589722050998210561"/>
-        <updated>2022-11-07T20:50:47.000Z</updated>
-        <summary type="html"><![CDATA[To be clear, my historical party affiliation has been Independent, with an actual voting history of entirely Democrat until this year]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MattWallace888 @hankgreen True]]></title>
-        <id>https://twitter.com/elonmusk/status/1589716609132040193</id>
-        <link href="https://twitter.com/elonmusk/status/1589716609132040193"/>
-        <updated>2022-11-07T20:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @MattWallace888 @hankgreen True]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @hankgreen Like most people in America, I agree with some of the Democrat and some of the Republican policies, but not all. However, if executive a...]]></title>
-        <id>https://twitter.com/elonmusk/status/1589714533345812480</id>
-        <link href="https://twitter.com/elonmusk/status/1589714533345812480"/>
-        <updated>2022-11-07T20:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @hankgreen Like most people in America, I agree with some of the Democrat and some of the Republican policies, but not all.
-However, if executive and legislative branches are dominated by *one* party, then we lose balance of power.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: Meet Megafactory, our new Megapack factory in Lathrop, CA 🔋🔋🔋]]></title>
-        <id>https://twitter.com/Tesla/status/1589655011155673088</id>
-        <link href="https://twitter.com/Tesla/status/1589655011155673088"/>
-        <updated>2022-11-07T16:24:23.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Meet Megafactory, our new Megapack factory in Lathrop, CA 🔋🔋🔋]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Hardcore Democrats or Republicans never vote for the other side, so independent voters are the ones who actually decide who’s in charge!]]></title>
-        <id>https://twitter.com/elonmusk/status/1589644018727936001</id>
-        <link href="https://twitter.com/elonmusk/status/1589644018727936001"/>
-        <updated>2022-11-07T15:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Re Hardcore Democrats or Republicans never vote for the other side, so independent voters are the ones who actually decide who’s in charge!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To independent-minded voters: Shared power curbs the worst excesses of both parties, therefore I recommend voting for a Republican Congress, given tha...]]></title>
-        <id>https://twitter.com/elonmusk/status/1589639376186724354</id>
-        <link href="https://twitter.com/elonmusk/status/1589639376186724354"/>
-        <updated>2022-11-07T15:22:16.000Z</updated>
-        <summary type="html"><![CDATA[To independent-minded voters:
-Shared power curbs the worst excesses of both parties, therefore I recommend voting for a Republican Congress, given that the Presidency is Democratic.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re But if Twitter is bird, that’s means … 🤯]]></title>
-        <id>https://twitter.com/elonmusk/status/1589635480135430145</id>
-        <link href="https://twitter.com/elonmusk/status/1589635480135430145"/>
-        <updated>2022-11-07T15:06:47.000Z</updated>
-        <summary type="html"><![CDATA[Re But if Twitter is bird, that’s means … 🤯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Back when birds were real]]></title>
-        <id>https://twitter.com/elonmusk/status/1589634635621076994</id>
-        <link href="https://twitter.com/elonmusk/status/1589634635621076994"/>
-        <updated>2022-11-07T15:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Re Back when birds were real]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How times have changed]]></title>
-        <id>https://twitter.com/elonmusk/status/1589631946644414467</id>
-        <link href="https://twitter.com/elonmusk/status/1589631946644414467"/>
-        <updated>2022-11-07T14:52:44.000Z</updated>
-        <summary type="html"><![CDATA[How times have changed]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TomFitton @Twitter We do]]></title>
-        <id>https://twitter.com/elonmusk/status/1589613451839942657</id>
-        <link href="https://twitter.com/elonmusk/status/1589613451839942657"/>
-        <updated>2022-11-07T13:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @TomFitton @Twitter We do]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter rules will evolve over time, but they’re currently the following:]]></title>
-        <id>https://twitter.com/elonmusk/status/1589609169333948418</id>
-        <link href="https://twitter.com/elonmusk/status/1589609169333948418"/>
-        <updated>2022-11-07T13:22:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitter rules will evolve over time, but they’re currently the following: https://help.twitter.com/en/rules-and-policies/twitter-rules]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: View all destination chargers →]]></title>
-        <id>https://twitter.com/Tesla/status/1589602301802844161</id>
-        <link href="https://twitter.com/Tesla/status/1589602301802844161"/>
-        <updated>2022-11-07T12:54:56.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-View all destination chargers →
-Zack: Waking up to 90% or full with a hotel destination charger for free is just awesome. Don’t see hotels giving free gas. #Tesla @teslacharging]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @greg16676935420 @jack Birds haven’t been real since 1986]]></title>
-        <id>https://twitter.com/elonmusk/status/1589481008893939713</id>
-        <link href="https://twitter.com/elonmusk/status/1589481008893939713"/>
-        <updated>2022-11-07T04:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @greg16676935420 @jack Birds haven’t been real since 1986]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
