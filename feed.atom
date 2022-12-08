@@ -1,26 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T02:19:25.762Z</id>
+    <id>urn:2022-12-08T02:14:51.400Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-07T02:19:25.762Z</updated>
+    <updated>2022-12-08T02:14:51.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re Forwarded from a friend (not sure who came up with this epic question)]]></title>
-        <id>https://twitter.com/elonmusk/status/1600292002792636416</id>
-        <link href="https://twitter.com/elonmusk/status/1600292002792636416"/>
-        <updated>2022-12-07T00:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Re Forwarded from a friend (not sure who came up with this epic question)]]></summary>
+        <title type="html"><![CDATA[Re @ChrisJBakke 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1600591440186179585</id>
+        <link href="https://twitter.com/elonmusk/status/1600591440186179585"/>
+        <updated>2022-12-07T20:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @ChrisJBakke 🤣🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explain AI alignment in style of someone who won’t stop going on tangents to brag about how big pumpkins they grew are]]></title>
-        <id>https://twitter.com/elonmusk/status/1600291764447113217</id>
-        <link href="https://twitter.com/elonmusk/status/1600291764447113217"/>
-        <updated>2022-12-07T00:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Explain AI alignment in style of someone who won’t stop going on tangents to brag about how big pumpkins they grew are]]></summary>
+        <title type="html"><![CDATA[Re @jack Most important data was hidden (from you too) and some may have been deleted, but everything we find will be released]]></title>
+        <id>https://twitter.com/elonmusk/status/1600589878982758400</id>
+        <link href="https://twitter.com/elonmusk/status/1600589878982758400"/>
+        <updated>2022-12-07T20:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @jack Most important data was hidden (from you too) and some may have been deleted, but everything we find will be released]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BoeingAirplanes One of the best aircraft ever]]></title>
+        <id>https://twitter.com/elonmusk/status/1600589258401554432</id>
+        <link href="https://twitter.com/elonmusk/status/1600589258401554432"/>
+        <updated>2022-12-07T20:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @BoeingAirplanes One of the best aircraft ever]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @karpathy 🔥🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1600584400512552961</id>
+        <link href="https://twitter.com/elonmusk/status/1600584400512552961"/>
+        <updated>2022-12-07T20:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @karpathy 🔥🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Teams completed additional vehicle inspections and reviews; rocket and payload are looking good for launch of the @ispace_inc HAKUTO-R miss...]]></title>
+        <id>https://twitter.com/SpaceX/status/1600521784234606593</id>
+        <link href="https://twitter.com/SpaceX/status/1600521784234606593"/>
+        <updated>2022-12-07T16:05:04.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Teams completed additional vehicle inspections and reviews; rocket and payload are looking good for launch of the @ispace_inc HAKUTO-R mission 1 targeted for no earlier than Sunday, December 11 at 2:38 a.m. ET
+ispace_HAKUTO-R: 打上予定日のお知らせ：
+いつも「HAKUTO-R」を応援いただき、ありがとうございます。
+ispaceは、ミッション1の打ち上げ予定日をSpaceXと協議した結果、12月11日（日）16時38分（日本時間）に更新することといたしました。]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh, you know, keeping busy …]]></title>
+        <id>https://twitter.com/elonmusk/status/1600439088560996353</id>
+        <link href="https://twitter.com/elonmusk/status/1600439088560996353"/>
+        <updated>2022-12-07T10:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Oh, you know, keeping busy …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ESYudkowsky To be called AGI, it needs to invent amazing things or discover deeper physics – many humans have done so. I’m not seeing that poten...]]></title>
+        <id>https://twitter.com/elonmusk/status/1600353201626443776</id>
+        <link href="https://twitter.com/elonmusk/status/1600353201626443776"/>
+        <updated>2022-12-07T04:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @ESYudkowsky To be called AGI, it needs to invent amazing things or discover deeper physics – many humans have done so. I’m not seeing that potential yet.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @charliekirk11 Small world …]]></title>
+        <id>https://twitter.com/elonmusk/status/1600320667668582400</id>
+        <link href="https://twitter.com/elonmusk/status/1600320667668582400"/>
+        <updated>2022-12-07T02:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @charliekirk11 Small world …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh, what a tangled web they weave, when first they practice to …]]></title>
+        <id>https://twitter.com/elonmusk/status/1600319218854940673</id>
+        <link href="https://twitter.com/elonmusk/status/1600319218854940673"/>
+        <updated>2022-12-07T02:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Oh, what a tangled web they weave, when first they practice to …]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
@@ -134,76 +208,6 @@ Wikipedia has a non-trivial left-wing bias.
         <link href="https://twitter.com/elonmusk/status/1599838075298861056"/>
         <updated>2022-12-05T18:48:15.000Z</updated>
         <summary type="html"><![CDATA[Re @MarioNawfal Fixed]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @rookisaacman @engineers_feed X Æ A-12 Musk]]></title>
-        <id>https://twitter.com/elonmusk/status/1599837799683067904</id>
-        <link href="https://twitter.com/elonmusk/status/1599837799683067904"/>
-        <updated>2022-12-05T18:47:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @rookisaacman @engineers_feed X Æ A-12 Musk]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RubinReport The ads are also way too big. We’ll fix it this week.]]></title>
-        <id>https://twitter.com/elonmusk/status/1599835876905070593</id>
-        <link href="https://twitter.com/elonmusk/status/1599835876905070593"/>
-        <updated>2022-12-05T18:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @RubinReport The ads are also way too big. We’ll fix it this week.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity Wait, is this true!?]]></title>
-        <id>https://twitter.com/elonmusk/status/1599813298366840842</id>
-        <link href="https://twitter.com/elonmusk/status/1599813298366840842"/>
-        <updated>2022-12-05T17:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity Wait, is this true!?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity In the past, victory would mean that your enemies are no longer around. These days, they’re not only alive & well, but have lots o...]]></title>
-        <id>https://twitter.com/elonmusk/status/1599812881708896259</id>
-        <link href="https://twitter.com/elonmusk/status/1599812881708896259"/>
-        <updated>2022-12-05T17:08:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity In the past, victory would mean that your enemies are no longer around. These days, they’re not only alive & well, but have lots of time on their hands to edit Wikipedia!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Space Ark - 1968 by Japanese artist Shigeru Komatsuzaki (1915-2001)]]></title>
-        <id>https://twitter.com/elonmusk/status/1599672158086889474</id>
-        <link href="https://twitter.com/elonmusk/status/1599672158086889474"/>
-        <updated>2022-12-05T07:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Re Space Ark - 1968 by Japanese artist Shigeru Komatsuzaki (1915-2001)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starship takes beings of Earth to Mars]]></title>
-        <id>https://twitter.com/elonmusk/status/1599671964582391808</id>
-        <link href="https://twitter.com/elonmusk/status/1599671964582391808"/>
-        <updated>2022-12-05T07:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Starship takes beings of Earth to Mars]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CChomp13 🤣💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1599669828478185472</id>
-        <link href="https://twitter.com/elonmusk/status/1599669828478185472"/>
-        <updated>2022-12-05T07:39:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @CChomp13 🤣💯]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
