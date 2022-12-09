@@ -1,213 +1,217 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T02:14:51.400Z</id>
+    <id>urn:2022-12-09T02:15:03.998Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-08T02:14:51.400Z</updated>
+    <updated>2022-12-09T02:15:03.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @ChrisJBakke 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1600591440186179585</id>
-        <link href="https://twitter.com/elonmusk/status/1600591440186179585"/>
-        <updated>2022-12-07T20:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChrisJBakke 🤣🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jack Most important data was hidden (from you too) and some may have been deleted, but everything we find will be released]]></title>
-        <id>https://twitter.com/elonmusk/status/1600589878982758400</id>
-        <link href="https://twitter.com/elonmusk/status/1600589878982758400"/>
-        <updated>2022-12-07T20:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @jack Most important data was hidden (from you too) and some may have been deleted, but everything we find will be released]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BoeingAirplanes One of the best aircraft ever]]></title>
-        <id>https://twitter.com/elonmusk/status/1600589258401554432</id>
-        <link href="https://twitter.com/elonmusk/status/1600589258401554432"/>
-        <updated>2022-12-07T20:33:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @BoeingAirplanes One of the best aircraft ever]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @karpathy 🔥🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1600584400512552961</id>
-        <link href="https://twitter.com/elonmusk/status/1600584400512552961"/>
-        <updated>2022-12-07T20:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @karpathy 🔥🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Teams completed additional vehicle inspections and reviews; rocket and payload are looking good for launch of the @ispace_inc HAKUTO-R miss...]]></title>
-        <id>https://twitter.com/SpaceX/status/1600521784234606593</id>
-        <link href="https://twitter.com/SpaceX/status/1600521784234606593"/>
-        <updated>2022-12-07T16:05:04.000Z</updated>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9's first stage has landed]]></title>
+        <id>https://twitter.com/SpaceX/status/1600983113210875904</id>
+        <link href="https://twitter.com/SpaceX/status/1600983113210875904"/>
+        <updated>2022-12-08T22:38:13.000Z</updated>
         <summary type="html"><![CDATA[RT SpaceX
-Teams completed additional vehicle inspections and reviews; rocket and payload are looking good for launch of the @ispace_inc HAKUTO-R mission 1 targeted for no earlier than Sunday, December 11 at 2:38 a.m. ET
-ispace_HAKUTO-R: 打上予定日のお知らせ：
-いつも「HAKUTO-R」を応援いただき、ありがとうございます。
-ispaceは、ミッション1の打ち上げ予定日をSpaceXと協議した結果、12月11日（日）16時38分（日本時間）に更新することといたしました。]]></summary>
+Falcon 9's first stage has landed]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oh, you know, keeping busy …]]></title>
-        <id>https://twitter.com/elonmusk/status/1600439088560996353</id>
-        <link href="https://twitter.com/elonmusk/status/1600439088560996353"/>
-        <updated>2022-12-07T10:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Oh, you know, keeping busy …]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Stage separation]]></title>
+        <id>https://twitter.com/SpaceX/status/1600982124625989632</id>
+        <link href="https://twitter.com/SpaceX/status/1600982124625989632"/>
+        <updated>2022-12-08T22:34:17.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Stage separation]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ESYudkowsky To be called AGI, it needs to invent amazing things or discover deeper physics – many humans have done so. I’m not seeing that poten...]]></title>
-        <id>https://twitter.com/elonmusk/status/1600353201626443776</id>
-        <link href="https://twitter.com/elonmusk/status/1600353201626443776"/>
-        <updated>2022-12-07T04:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @ESYudkowsky To be called AGI, it needs to invent amazing things or discover deeper physics – many humans have done so. I’m not seeing that potential yet.]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Liftoff!]]></title>
+        <id>https://twitter.com/SpaceX/status/1600980659391983616</id>
+        <link href="https://twitter.com/SpaceX/status/1600980659391983616"/>
+        <updated>2022-12-08T22:28:28.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Liftoff!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @charliekirk11 Small world …]]></title>
-        <id>https://twitter.com/elonmusk/status/1600320667668582400</id>
-        <link href="https://twitter.com/elonmusk/status/1600320667668582400"/>
-        <updated>2022-12-07T02:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @charliekirk11 Small world …]]></summary>
+        <title type="html"><![CDATA[RT 前澤友作@MZDAO: 月旅行のクルーが決まりました！ Crew for Moon Trip Selected!! #dearMoonCrew @dearmoonproject]]></title>
+        <id>https://twitter.com/yousuck2020/status/1600977958638096385</id>
+        <link href="https://twitter.com/yousuck2020/status/1600977958638096385"/>
+        <updated>2022-12-08T22:17:44.000Z</updated>
+        <summary type="html"><![CDATA[RT 前澤友作@MZDAO
+月旅行のクルーが決まりました！
+Crew for Moon Trip Selected!!
+#dearMoonCrew @dearmoonproject https://dearmoon.earth/]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oh, what a tangled web they weave, when first they practice to …]]></title>
-        <id>https://twitter.com/elonmusk/status/1600319218854940673</id>
-        <link href="https://twitter.com/elonmusk/status/1600319218854940673"/>
-        <updated>2022-12-07T02:40:08.000Z</updated>
-        <summary type="html"><![CDATA[Oh, what a tangled web they weave, when first they practice to …]]></summary>
+        <title type="html"><![CDATA[Re @MarioNawfal Yup]]></title>
+        <id>https://twitter.com/elonmusk/status/1600974815745101824</id>
+        <link href="https://twitter.com/elonmusk/status/1600974815745101824"/>
+        <updated>2022-12-08T22:05:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @MarioNawfal Yup]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @EricRWeinstein @bariweiss @mtaibbi Only discovered this on Sunday]]></title>
-        <id>https://twitter.com/elonmusk/status/1600274469104234497</id>
-        <link href="https://twitter.com/elonmusk/status/1600274469104234497"/>
-        <updated>2022-12-06T23:42:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @EricRWeinstein @bariweiss @mtaibbi Only discovered this on Sunday]]></summary>
+        <title type="html"><![CDATA[Re @iliketeslas I continue to oversee both Tesla & SpaceX, but the teams there are so good that often little is needed from me]]></title>
+        <id>https://twitter.com/elonmusk/status/1600964083913588736</id>
+        <link href="https://twitter.com/elonmusk/status/1600964083913588736"/>
+        <updated>2022-12-08T21:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @iliketeslas I continue to oversee both Tesla & SpaceX, but the teams there are so good that often little is needed from me]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TedrickG @sfdbi @KQEDnews So city of SF attacks companies providing beds for tired employees instead of making sure kids are safe from fentanyl. W...]]></title>
-        <id>https://twitter.com/elonmusk/status/1600272617759731712</id>
-        <link href="https://twitter.com/elonmusk/status/1600272617759731712"/>
-        <updated>2022-12-06T23:34:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @TedrickG @sfdbi @KQEDnews So city of SF attacks companies providing beds for tired employees instead of making sure kids are safe from fentanyl. Where are your priorities @LondonBreed!? https://www.sfchronicle.com/bayarea/article/San-Francisco-authorities-investigating-whether-a-17621718.php]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Starlink started providing high-speed, low-latency internet to passengers during flights on the first @flyjsx jet this week!]]></title>
+        <id>https://twitter.com/SpaceX/status/1600953034053275648</id>
+        <link href="https://twitter.com/SpaceX/status/1600953034053275648"/>
+        <updated>2022-12-08T20:38:42.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Starlink started providing high-speed, low-latency internet to passengers during flights on the first @flyjsx jet this week!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @samgabnz @mtaibbi Yes. His explanation was …unconvincing.]]></title>
-        <id>https://twitter.com/elonmusk/status/1600240461070749696</id>
-        <link href="https://twitter.com/elonmusk/status/1600240461070749696"/>
-        <updated>2022-12-06T21:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @samgabnz @mtaibbi Yes. His explanation was …unconvincing.]]></summary>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Macro conditions are difficult: energy in Europe, real estate in China & crazy Fed rates in USA]]></title>
+        <id>https://twitter.com/elonmusk/status/1600945923898556417</id>
+        <link href="https://twitter.com/elonmusk/status/1600945923898556417"/>
+        <updated>2022-12-08T20:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Macro conditions are difficult: energy in Europe, real estate in China & crazy Fed rates in USA]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @mtaibbi In light of concerns about Baker’s possible role in suppression of information important to the public dialogue, he was exited from Twitt...]]></title>
-        <id>https://twitter.com/elonmusk/status/1600237095364096000</id>
-        <link href="https://twitter.com/elonmusk/status/1600237095364096000"/>
-        <updated>2022-12-06T21:13:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @mtaibbi In light of concerns about Baker’s possible role in suppression of information important to the public dialogue, he was exited from Twitter today]]></summary>
+        <title type="html"><![CDATA[Re @SawyerMerritt This capability will save many lives]]></title>
+        <id>https://twitter.com/elonmusk/status/1600944712990396416</id>
+        <link href="https://twitter.com/elonmusk/status/1600944712990396416"/>
+        <updated>2022-12-08T20:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt This capability will save many lives]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @stillgray Most of Earth: “The MSM is biased.” Wikipedia: “Cite MSM source to confirm this claim.” 🤣🤣 Wikipedia has a non-trivial left-wi...]]></title>
-        <id>https://twitter.com/elonmusk/status/1600200000763756544</id>
-        <link href="https://twitter.com/elonmusk/status/1600200000763756544"/>
-        <updated>2022-12-06T18:46:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @stillgray Most of Earth: “The MSM is biased.”
-Wikipedia: “Cite MSM source to confirm this claim.” 🤣🤣
-Wikipedia has a non-trivial left-wing bias.
-@jimmy_wales, what are your thoughts?]]></summary>
+        <title type="html"><![CDATA[Re @RepAdamSchiff @RepMarkTakano False, hate speech impressions are actually down by 1/3 for Twitter now vs prior to acquisition @CommunityNotes]]></title>
+        <id>https://twitter.com/elonmusk/status/1600944225964593152</id>
+        <link href="https://twitter.com/elonmusk/status/1600944225964593152"/>
+        <updated>2022-12-08T20:03:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @RepAdamSchiff @RepMarkTakano False, hate speech impressions are actually down by 1/3 for Twitter now vs prior to acquisition @CommunityNotes]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @karpathy The ratio of total digital to total biological compute is the key metric to watch – it is rising incredibly fast]]></title>
-        <id>https://twitter.com/elonmusk/status/1600080018951921664</id>
-        <link href="https://twitter.com/elonmusk/status/1600080018951921664"/>
-        <updated>2022-12-06T10:49:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @karpathy The ratio of total digital to total biological compute is the key metric to watch – it is rising incredibly fast]]></summary>
+        <title type="html"><![CDATA[Re @SawyerMerritt But the really mind-blowing thing is that this means your phone will work anywhere on Earth, unless blocked by local government!]]></title>
+        <id>https://twitter.com/elonmusk/status/1600942011325902849</id>
+        <link href="https://twitter.com/elonmusk/status/1600942011325902849"/>
+        <updated>2022-12-08T19:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt But the really mind-blowing thing is that this means your phone will work anywhere on Earth, unless blocked by local government!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Jeremiahdalesio @MailOnline 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1600056413501280256</id>
-        <link href="https://twitter.com/elonmusk/status/1600056413501280256"/>
-        <updated>2022-12-06T09:15:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @Jeremiahdalesio @MailOnline 🤣]]></summary>
+        <title type="html"><![CDATA[Re @SawyerMerritt Important to note that this is *total* bandwidth within a cell, so would be divided among all phones. Starlink will be great for tex...]]></title>
+        <id>https://twitter.com/elonmusk/status/1600941548375805953</id>
+        <link href="https://twitter.com/elonmusk/status/1600941548375805953"/>
+        <updated>2022-12-08T19:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt Important to note that this is *total* bandwidth within a cell, so would be divided among all phones. 
+Starlink will be great for text messages, voice calls & low res pics. If only a dozen phones are active, which is true in remote regions, then video will work.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog Bold]]></title>
-        <id>https://twitter.com/elonmusk/status/1600054554166337537</id>
-        <link href="https://twitter.com/elonmusk/status/1600054554166337537"/>
-        <updated>2022-12-06T09:08:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog Bold]]></summary>
+        <title type="html"><![CDATA[Re @SawyerMerritt Tesla Team has done incredibly well, despite extremely difficult times. Could not be more proud of them.]]></title>
+        <id>https://twitter.com/elonmusk/status/1600932080237453312</id>
+        <link href="https://twitter.com/elonmusk/status/1600932080237453312"/>
+        <updated>2022-12-08T19:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt Tesla Team has done incredibly well, despite extremely difficult times. Could not be more proud of them.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TrungTPhan Hmm]]></title>
-        <id>https://twitter.com/elonmusk/status/1599876950729707520</id>
-        <link href="https://twitter.com/elonmusk/status/1599876950729707520"/>
-        <updated>2022-12-05T21:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @TrungTPhan Hmm]]></summary>
+        <title type="html"><![CDATA[Re @EddieZipperer @NadelParis Correct]]></title>
+        <id>https://twitter.com/elonmusk/status/1600908288673005569</id>
+        <link href="https://twitter.com/elonmusk/status/1600908288673005569"/>
+        <updated>2022-12-08T17:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @EddieZipperer @NadelParis Correct]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So many interesting posts on Twitter these days!]]></title>
-        <id>https://twitter.com/elonmusk/status/1599840937298968576</id>
-        <link href="https://twitter.com/elonmusk/status/1599840937298968576"/>
-        <updated>2022-12-05T18:59:37.000Z</updated>
-        <summary type="html"><![CDATA[So many interesting posts on Twitter these days!]]></summary>
+        <title type="html"><![CDATA[Re And with his Twitter badge]]></title>
+        <id>https://twitter.com/elonmusk/status/1600902479259975680</id>
+        <link href="https://twitter.com/elonmusk/status/1600902479259975680"/>
+        <updated>2022-12-08T17:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Re And with his Twitter badge]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @MarioNawfal Fixed]]></title>
-        <id>https://twitter.com/elonmusk/status/1599838075298861056</id>
-        <link href="https://twitter.com/elonmusk/status/1599838075298861056"/>
-        <updated>2022-12-05T18:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @MarioNawfal Fixed]]></summary>
+        <title type="html"><![CDATA[X in beautiful San Francisco]]></title>
+        <id>https://twitter.com/elonmusk/status/1600902278927380480</id>
+        <link href="https://twitter.com/elonmusk/status/1600902278927380480"/>
+        <updated>2022-12-08T17:17:01.000Z</updated>
+        <summary type="html"><![CDATA[X in beautiful San Francisco]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woke v Woke]]></title>
+        <id>https://twitter.com/elonmusk/status/1600788394375753729</id>
+        <link href="https://twitter.com/elonmusk/status/1600788394375753729"/>
+        <updated>2022-12-08T09:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Woke v Woke]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: Configurator now live in Thailand 🇹🇭 →]]></title>
+        <id>https://twitter.com/Tesla/status/1600716715515838466</id>
+        <link href="https://twitter.com/Tesla/status/1600716715515838466"/>
+        <updated>2022-12-08T04:59:39.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+Configurator now live in Thailand 🇹🇭 → https://www.tesla.com/th_th?redirect=no]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: Re]]></title>
+        <id>https://twitter.com/Tesla/status/1600619457491001345</id>
+        <link href="https://twitter.com/Tesla/status/1600619457491001345"/>
+        <updated>2022-12-07T22:33:11.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+Re]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: Delivered our first Tesla Semis last week ✌️]]></title>
+        <id>https://twitter.com/Tesla/status/1600619442328678400</id>
+        <link href="https://twitter.com/Tesla/status/1600619442328678400"/>
+        <updated>2022-12-07T22:33:07.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+Delivered our first Tesla Semis last week ✌️]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
