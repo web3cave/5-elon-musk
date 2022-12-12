@@ -1,210 +1,207 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-11T02:20:28.162Z</id>
+    <id>urn:2022-12-12T02:15:45.107Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-11T02:20:28.162Z</updated>
+    <updated>2022-12-12T02:15:45.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
+        <title type="html"><![CDATA[Re @DrJBhattacharya Thank you for your rigorous adherence to science]]></title>
+        <id>https://twitter.com/elonmusk/status/1602053771604807680</id>
+        <link href="https://twitter.com/elonmusk/status/1602053771604807680"/>
+        <updated>2022-12-11T21:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @DrJBhattacharya Thank you for your rigorous adherence to science]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Anonydamus1 @BillyM2k 👋]]></title>
+        <id>https://twitter.com/elonmusk/status/1602046932905766912</id>
+        <link href="https://twitter.com/elonmusk/status/1602046932905766912"/>
+        <updated>2022-12-11T21:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @Anonydamus1 @BillyM2k 👋]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @nichegamer @BillyM2k @ScammerPayback We are making a lot of progress, but help is always appreciated]]></title>
+        <id>https://twitter.com/elonmusk/status/1602037412456112128</id>
+        <link href="https://twitter.com/elonmusk/status/1602037412456112128"/>
+        <updated>2022-12-11T20:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @nichegamer @BillyM2k @ScammerPayback We are making a lot of progress, but help is always appreciated]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k They will try other methods, but we’re shutting them down as soon as they show up. Twitter will also be moving to prosecute scammers any...]]></title>
+        <id>https://twitter.com/elonmusk/status/1602035168444833792</id>
+        <link href="https://twitter.com/elonmusk/status/1602035168444833792"/>
+        <updated>2022-12-11T20:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k They will try other methods, but we’re shutting them down as soon as they show up.
+Twitter will also be moving to prosecute scammers anywhere on Earth.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k Mostly]]></title>
+        <id>https://twitter.com/elonmusk/status/1602034538607218688</id>
+        <link href="https://twitter.com/elonmusk/status/1602034538607218688"/>
+        <updated>2022-12-11T20:16:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k Mostly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Cool, the bots are so far unable to swarm to the top of my replies!]]></title>
+        <id>https://twitter.com/elonmusk/status/1602032467547856897</id>
+        <link href="https://twitter.com/elonmusk/status/1602032467547856897"/>
+        <updated>2022-12-11T20:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Re Cool, the bots are so far unable to swarm to the top of my replies!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Gfilche Must be done for the future of civilization, without which nothing matters]]></title>
+        <id>https://twitter.com/elonmusk/status/1602028153777451008</id>
+        <link href="https://twitter.com/elonmusk/status/1602028153777451008"/>
+        <updated>2022-12-11T19:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @Gfilche Must be done for the future of civilization, without which nothing matters]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calling all 🤖& 🧌 Please attack me!]]></title>
+        <id>https://twitter.com/elonmusk/status/1602027334751571968</id>
+        <link href="https://twitter.com/elonmusk/status/1602027334751571968"/>
+        <updated>2022-12-11T19:47:35.000Z</updated>
+        <summary type="html"><![CDATA[Calling all 🤖& 🧌
+Please attack me!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @thevivafrei @RitchieTorres Correct]]></title>
+        <id>https://twitter.com/elonmusk/status/1602024488664588288</id>
+        <link href="https://twitter.com/elonmusk/status/1602024488664588288"/>
+        <updated>2022-12-11T19:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @thevivafrei @RitchieTorres Correct]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @bradmcgash @saylor Agreed]]></title>
+        <id>https://twitter.com/elonmusk/status/1602020555976507393</id>
+        <link href="https://twitter.com/elonmusk/status/1602020555976507393"/>
+        <updated>2022-12-11T19:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @bradmcgash @saylor Agreed]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @saylor That’s my guess: small number of humans with large bot/troll armies. We are shutting down IP addresses of known bad actors today. Should h...]]></title>
+        <id>https://twitter.com/elonmusk/status/1602019842999037953</id>
+        <link href="https://twitter.com/elonmusk/status/1602019842999037953"/>
+        <updated>2022-12-11T19:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @saylor That’s my guess: small number of humans with large bot/troll armies. We are shutting down IP addresses of known bad actors today. Should have been done long ago.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stillgray Lmaooo]]></title>
+        <id>https://twitter.com/elonmusk/status/1602017139770109953</id>
+        <link href="https://twitter.com/elonmusk/status/1602017139770109953"/>
+        <updated>2022-12-11T19:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @stillgray Lmaooo]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @GavinSBaker It’s gonna be 🔥🔥]]></title>
+        <id>https://twitter.com/elonmusk/status/1602013466285727744</id>
+        <link href="https://twitter.com/elonmusk/status/1602013466285727744"/>
+        <updated>2022-12-11T18:52:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @GavinSBaker It’s gonna be 🔥🔥]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Jason Yup]]></title>
+        <id>https://twitter.com/elonmusk/status/1602012229972283392</id>
+        <link href="https://twitter.com/elonmusk/status/1602012229972283392"/>
+        <updated>2022-12-11T18:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @Jason Yup]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @GavinSBaker Nature is healing]]></title>
+        <id>https://twitter.com/elonmusk/status/1602009421022113792</id>
+        <link href="https://twitter.com/elonmusk/status/1602009421022113792"/>
+        <updated>2022-12-11T18:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @GavinSBaker Nature is healing]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hope you’re having a lovely Sunday! 😀]]></title>
+        <id>https://twitter.com/elonmusk/status/1602003366703296514</id>
+        <link href="https://twitter.com/elonmusk/status/1602003366703296514"/>
+        <updated>2022-12-11T18:12:21.000Z</updated>
+        <summary type="html"><![CDATA[Hope you’re having a lovely Sunday! 😀]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My pronouns are Prosecute/Fauci]]></title>
+        <id>https://twitter.com/elonmusk/status/1601894132573605888</id>
+        <link href="https://twitter.com/elonmusk/status/1601894132573605888"/>
+        <updated>2022-12-11T10:58:17.000Z</updated>
+        <summary type="html"><![CDATA[My pronouns are Prosecute/Fauci]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @murraymints82 Oh it is coming bigtime …]]></title>
+        <id>https://twitter.com/elonmusk/status/1601886758987104256</id>
+        <link href="https://twitter.com/elonmusk/status/1601886758987104256"/>
+        <updated>2022-12-11T10:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @murraymints82 Oh it is coming bigtime …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now things get spicy 🌶️]]></title>
+        <id>https://twitter.com/elonmusk/status/1601885190824943617</id>
+        <link href="https://twitter.com/elonmusk/status/1601885190824943617"/>
+        <updated>2022-12-11T10:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Now things get spicy 🌶️]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1601668368737906688</id>
-        <link href="https://twitter.com/elonmusk/status/1601668368737906688"/>
-        <updated>2022-12-10T20:01:11.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter is both a social media company and a crime scene]]></title>
-        <id>https://twitter.com/elonmusk/status/1601667312930590721</id>
-        <link href="https://twitter.com/elonmusk/status/1601667312930590721"/>
-        <updated>2022-12-10T19:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Twitter is both a social media company and a crime scene]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @elizableu Looks like Yoel is arguing in favor of children being able to access adult Internet services in his PhD thesis:]]></title>
-        <id>https://twitter.com/elonmusk/status/1601660414743687169</id>
-        <link href="https://twitter.com/elonmusk/status/1601660414743687169"/>
-        <updated>2022-12-10T19:29:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @elizableu Looks like Yoel is arguing in favor of children being able to access adult Internet services in his PhD thesis:]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @elizableu This explains a lot]]></title>
-        <id>https://twitter.com/elonmusk/status/1601658384947638272</id>
-        <link href="https://twitter.com/elonmusk/status/1601658384947638272"/>
-        <updated>2022-12-10T19:21:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @elizableu This explains a lot]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/elonmusk/status/1601625011009179649</id>
-        <link href="https://twitter.com/elonmusk/status/1601625011009179649"/>
-        <updated>2022-12-10T17:08:54.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/i/events/1275806388367720450?s=21&t=JhdADdcIEac2tJjEcRLqDA]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🇲🇦🇲🇦 Congrats Morocco!! 🇲🇦🇲🇦]]></title>
-        <id>https://twitter.com/elonmusk/status/1601624795585486848</id>
-        <link href="https://twitter.com/elonmusk/status/1601624795585486848"/>
-        <updated>2022-12-10T17:08:02.000Z</updated>
-        <summary type="html"><![CDATA[🇲🇦🇲🇦 Congrats Morocco!! 🇲🇦🇲🇦]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @pepesgrandma @tedlieu Interesting, how so?]]></title>
-        <id>https://twitter.com/elonmusk/status/1601491528655855617</id>
-        <link href="https://twitter.com/elonmusk/status/1601491528655855617"/>
-        <updated>2022-12-10T08:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @pepesgrandma @tedlieu Interesting, how so?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TomFitton @realDonaldTrump @Twitter Coming soon …]]></title>
-        <id>https://twitter.com/elonmusk/status/1601490402175234049</id>
-        <link href="https://twitter.com/elonmusk/status/1601490402175234049"/>
-        <updated>2022-12-10T08:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @TomFitton @realDonaldTrump @Twitter Coming soon …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cancelmyfunera1 @SirineAti @coffeetabletsla @tedlieu Yeah]]></title>
-        <id>https://twitter.com/elonmusk/status/1601487248867762177</id>
-        <link href="https://twitter.com/elonmusk/status/1601487248867762177"/>
-        <updated>2022-12-10T08:01:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @cancelmyfunera1 @SirineAti @coffeetabletsla @tedlieu Yeah]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @wintonARK Fate 🖤 Irony]]></title>
-        <id>https://twitter.com/elonmusk/status/1601486922685112321</id>
-        <link href="https://twitter.com/elonmusk/status/1601486922685112321"/>
-        <updated>2022-12-10T08:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @wintonARK Fate 🖤 Irony]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @coffeetabletsla @tedlieu Good po1nt]]></title>
-        <id>https://twitter.com/elonmusk/status/1601485598485016576</id>
-        <link href="https://twitter.com/elonmusk/status/1601485598485016576"/>
-        <updated>2022-12-10T07:54:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @coffeetabletsla @tedlieu Good po1nt]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @tedlieu Hey stop gaslighting me!]]></title>
-        <id>https://twitter.com/elonmusk/status/1601484598734913538</id>
-        <link href="https://twitter.com/elonmusk/status/1601484598734913538"/>
-        <updated>2022-12-10T07:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @tedlieu Hey stop gaslighting me!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @nichegamer It’s almost ready]]></title>
-        <id>https://twitter.com/elonmusk/status/1601482872711307264</id>
-        <link href="https://twitter.com/elonmusk/status/1601482872711307264"/>
-        <updated>2022-12-10T07:44:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @nichegamer It’s almost ready]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DomaineValescia At least! 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1601482227459596288</id>
-        <link href="https://twitter.com/elonmusk/status/1601482227459596288"/>
-        <updated>2022-12-10T07:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @DomaineValescia At least! 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @nichegamer We seriously need long-form tweets!]]></title>
-        <id>https://twitter.com/elonmusk/status/1601482043472302080</id>
-        <link href="https://twitter.com/elonmusk/status/1601482043472302080"/>
-        <updated>2022-12-10T07:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @nichegamer We seriously need long-form tweets!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @sparklingruby Worth a read]]></title>
-        <id>https://twitter.com/elonmusk/status/1601462793063972864</id>
-        <link href="https://twitter.com/elonmusk/status/1601462793063972864"/>
-        <updated>2022-12-10T06:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @sparklingruby Worth a read]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ZacksJerryRig Do I think Trump would have lost anyway? Yes. And, as a reminder, I supported Biden, Hilary and Obama. Nonetheless, election interfe...]]></title>
-        <id>https://twitter.com/elonmusk/status/1601417806666309632</id>
-        <link href="https://twitter.com/elonmusk/status/1601417806666309632"/>
-        <updated>2022-12-10T03:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @ZacksJerryRig Do I think Trump would have lost anyway? Yes. And, as a reminder, I supported Biden, Hilary and Obama.
-Nonetheless, election interference by social media companies obviously undermines the public’s faith in democracy and is wrong.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TomFitton @Twitter @realDonaldTrump Unequivocally true. The evidence is clear and voluminous.]]></title>
-        <id>https://twitter.com/elonmusk/status/1601411486164799488</id>
-        <link href="https://twitter.com/elonmusk/status/1601411486164799488"/>
-        <updated>2022-12-10T03:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @TomFitton @Twitter @realDonaldTrump Unequivocally true. The evidence is clear and voluminous.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ggreenwald With rare exception, the FBI seems to want to do the right thing, but there is no question that Twitter operated as a Democratic Party ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1601411051576172544</id>
-        <link href="https://twitter.com/elonmusk/status/1601411051576172544"/>
-        <updated>2022-12-10T02:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @ggreenwald With rare exception, the FBI seems to want to do the right thing, but there is no question that Twitter operated as a Democratic Party activist machine]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Twitter Files, Part 3 Deplatforming the President]]></title>
-        <id>https://twitter.com/elonmusk/status/1601395677845544960</id>
-        <link href="https://twitter.com/elonmusk/status/1601395677845544960"/>
-        <updated>2022-12-10T01:57:36.000Z</updated>
-        <summary type="html"><![CDATA[The Twitter Files, Part 3
-Deplatforming the President
-Matt Taibbi: 1.     THREAD: The Twitter Files
-THE REMOVAL OF DONALD TRUMP
-Part One: October 2020-January 6th]]></summary>
+        <id>https://twitter.com/elonmusk/status/1601884478745374720</id>
+        <link href="https://twitter.com/elonmusk/status/1601884478745374720"/>
+        <updated>2022-12-11T10:19:55.000Z</updated>
         <author>
             <name>Elon Musk</name>
         </author>
