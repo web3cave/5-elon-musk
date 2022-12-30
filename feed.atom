@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-29T02:08:00.962Z</id>
+    <id>urn:2022-12-30T02:08:00.088Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-29T02:08:00.962Z</updated>
+    <updated>2022-12-30T02:08:00.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Hooters @WallStreetSilv Phew]]></title>
+        <id>https://twitter.com/elonmusk/status/1608478734272847879</id>
+        <link href="https://twitter.com/elonmusk/status/1608478734272847879"/>
+        <updated>2022-12-29T15:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @Hooters @WallStreetSilv Phew]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WallStreetSilv Can’t tell if satire or real]]></title>
+        <id>https://twitter.com/elonmusk/status/1608385658867036160</id>
+        <link href="https://twitter.com/elonmusk/status/1608385658867036160"/>
+        <updated>2022-12-29T08:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @WallStreetSilv Can’t tell if satire or real]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TRHLofficial !!]]></title>
+        <id>https://twitter.com/elonmusk/status/1608370432511717376</id>
+        <link href="https://twitter.com/elonmusk/status/1608370432511717376"/>
+        <updated>2022-12-29T07:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @TRHLofficial !!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Significant backend server architecture changes rolled out. Twitter should feel faster.]]></title>
+        <id>https://twitter.com/elonmusk/status/1608324539779551232</id>
+        <link href="https://twitter.com/elonmusk/status/1608324539779551232"/>
+        <updated>2022-12-29T04:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Significant backend server architecture changes rolled out. Twitter should feel faster.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stillgray !!]]></title>
+        <id>https://twitter.com/elonmusk/status/1608309688302718977</id>
+        <link href="https://twitter.com/elonmusk/status/1608309688302718977"/>
+        <updated>2022-12-29T03:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @stillgray !!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TheRabbitHole84 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1608307192695853056</id>
+        <link href="https://twitter.com/elonmusk/status/1608307192695853056"/>
+        <updated>2022-12-29T03:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheRabbitHole84 🤣🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @disclosetv 🤔]]></title>
+        <id>https://twitter.com/elonmusk/status/1608275499662336002</id>
+        <link href="https://twitter.com/elonmusk/status/1608275499662336002"/>
+        <updated>2022-12-29T01:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @disclosetv 🤔]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @greg16676935420 Works for me]]></title>
+        <id>https://twitter.com/elonmusk/status/1608273870901096454</id>
+        <link href="https://twitter.com/elonmusk/status/1608273870901096454"/>
+        <updated>2022-12-29T01:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @greg16676935420 Works for me]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TeslaAIBot Thanks Optimus 🤖 ♥️]]></title>
+        <id>https://twitter.com/elonmusk/status/1608271343455289345</id>
+        <link href="https://twitter.com/elonmusk/status/1608271343455289345"/>
+        <updated>2022-12-29T01:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @TeslaAIBot Thanks Optimus 🤖 ♥️]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @dogeofficialceo Accurate lol]]></title>
         <id>https://twitter.com/elonmusk/status/1608191997768265728</id>
@@ -106,105 +196,12 @@ Elon Musk: SpaceX Falcon 🚀 team is making excellent progress – aiming for
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @sevensixfive @DanielleFong I’m not cis, you are]]></title>
-        <id>https://twitter.com/elonmusk/status/1608143077910233098</id>
-        <link href="https://twitter.com/elonmusk/status/1608143077910233098"/>
-        <updated>2022-12-28T16:49:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @sevensixfive @DanielleFong I’m not cis, you are]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TheBabylonBee 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1608134412981469187</id>
-        <link href="https://twitter.com/elonmusk/status/1608134412981469187"/>
-        <updated>2022-12-28T16:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheBabylonBee 🤣🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PeterDiamandis The AIs will write each other lots of emails!]]></title>
-        <id>https://twitter.com/elonmusk/status/1608129808042496001</id>
-        <link href="https://twitter.com/elonmusk/status/1608129808042496001"/>
-        <updated>2022-12-28T15:56:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @PeterDiamandis The AIs will write each other lots of emails!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DanielleFong Yeah, I’m not a fan of pronouns when someone is giving every possible visual cue for he or she, but then still insists on telling yo...]]></title>
-        <id>https://twitter.com/elonmusk/status/1608128979839471616</id>
-        <link href="https://twitter.com/elonmusk/status/1608128979839471616"/>
-        <updated>2022-12-28T15:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @DanielleFong Yeah, I’m not a fan of pronouns when someone is giving every possible visual cue for he or she, but then still insists on telling you exactly what you expect. 
-I do support pronouns that aren’t completely obvious based on visual cues.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Z3RO_Y34R @pmarca “Gain-of-function” should be called “bioweapon” research, as the function referred is death! What was the name changed to th...]]></title>
-        <id>https://twitter.com/elonmusk/status/1608124721132105733</id>
-        <link href="https://twitter.com/elonmusk/status/1608124721132105733"/>
-        <updated>2022-12-28T15:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @Z3RO_Y34R @pmarca “Gain-of-function” should be called “bioweapon” research, as the function referred is death! 
-What was the name changed to this time?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congratulations SpaceX Falcon team on 60 successful launches this year!!]]></title>
-        <id>https://twitter.com/elonmusk/status/1608118870107209728</id>
-        <link href="https://twitter.com/elonmusk/status/1608118870107209728"/>
-        <updated>2022-12-28T15:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations SpaceX Falcon team on 60 successful launches this year!!
-SpaceX: Falcon 9 launches 54 Starlink satellites to low-Earth orbit; completes SpaceX’s 60th mission of 2022!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stillgray Free phones to report themselves and they never even call to say hi 😢]]></title>
-        <id>https://twitter.com/elonmusk/status/1608041896525307904</id>
-        <link href="https://twitter.com/elonmusk/status/1608041896525307904"/>
-        <updated>2022-12-28T10:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @stillgray Free phones to report themselves and they never even call to say hi 😢]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JohnnaCrider1 Agreed]]></title>
-        <id>https://twitter.com/elonmusk/status/1608037865073643520</id>
-        <link href="https://twitter.com/elonmusk/status/1608037865073643520"/>
-        <updated>2022-12-28T09:51:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @JohnnaCrider1 Agreed]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stillgray Really?]]></title>
-        <id>https://twitter.com/elonmusk/status/1608037483140325377</id>
-        <link href="https://twitter.com/elonmusk/status/1608037483140325377"/>
-        <updated>2022-12-28T09:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @stillgray Really?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship]]></title>
-        <id>https://twitter.com/SpaceX/status/1608036003251621888</id>
-        <link href="https://twitter.com/SpaceX/status/1608036003251621888"/>
-        <updated>2022-12-28T09:43:53.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship]]></summary>
+        <title type="html"><![CDATA[RT Tesla: S3XY winter testing in New Zealand 🇳🇿❄️]]></title>
+        <id>https://twitter.com/Tesla/status/1608132732873220096</id>
+        <link href="https://twitter.com/Tesla/status/1608132732873220096"/>
+        <updated>2022-12-28T16:08:15.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+S3XY winter testing in New Zealand 🇳🇿❄️]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
