@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-02T02:07:32.723Z</id>
+    <id>urn:2023-01-03T02:06:19.480Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-02T02:07:32.723Z</updated>
+    <updated>2023-01-03T02:06:19.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @jgebbia Bank branches & ATMs too]]></title>
+        <id>https://twitter.com/elonmusk/status/1610068683359129601</id>
+        <link href="https://twitter.com/elonmusk/status/1610068683359129601"/>
+        <updated>2023-01-03T00:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @jgebbia Bank branches & ATMs too]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ShellenbergerMD @ScottPelley @PaulREhrlich Absolutely]]></title>
+        <id>https://twitter.com/elonmusk/status/1610060869760679938</id>
+        <link href="https://twitter.com/elonmusk/status/1610060869760679938"/>
+        <updated>2023-01-02T23:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @ShellenbergerMD @ScottPelley @PaulREhrlich Absolutely]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @AlexEpstein @ScottAdamsSays @60Minutes @ShellenbergerMD @BjornLomborg @BrianGitt @HumanProgress @RitaPanahi @jordanbpeterson Ehrlich despises huma...]]></title>
+        <id>https://twitter.com/elonmusk/status/1609953605582262272</id>
+        <link href="https://twitter.com/elonmusk/status/1609953605582262272"/>
+        <updated>2023-01-02T16:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @AlexEpstein @ScottAdamsSays @60Minutes @ShellenbergerMD @BjornLomborg @BrianGitt @HumanProgress @RitaPanahi @jordanbpeterson Ehrlich despises humanity. Nothing he says should be given the slightest credibility.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jordanbpeterson His “Population Bomb” book might the most damaging anti-human thing ever written]]></title>
+        <id>https://twitter.com/elonmusk/status/1609792813549371393</id>
+        <link href="https://twitter.com/elonmusk/status/1609792813549371393"/>
+        <updated>2023-01-02T06:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @jordanbpeterson His “Population Bomb” book might the most damaging anti-human thing ever written]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stillgray Mostly accurate tbh]]></title>
+        <id>https://twitter.com/elonmusk/status/1609782950354366464</id>
+        <link href="https://twitter.com/elonmusk/status/1609782950354366464"/>
+        <updated>2023-01-02T05:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @stillgray Mostly accurate tbh]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @libsoftiktok 🧐]]></title>
+        <id>https://twitter.com/elonmusk/status/1609754146793738240</id>
+        <link href="https://twitter.com/elonmusk/status/1609754146793738240"/>
+        <updated>2023-01-02T03:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @libsoftiktok 🧐]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pmarca 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1609749104321794049</id>
+        <link href="https://twitter.com/elonmusk/status/1609749104321794049"/>
+        <updated>2023-01-02T03:11:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @pmarca 🤣🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @willdepue lol, but maybe]]></title>
+        <id>https://twitter.com/elonmusk/status/1609747688693862400</id>
+        <link href="https://twitter.com/elonmusk/status/1609747688693862400"/>
+        <updated>2023-01-02T03:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @willdepue lol, but maybe]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gdb Yikes]]></title>
+        <id>https://twitter.com/elonmusk/status/1609680329354399744</id>
+        <link href="https://twitter.com/elonmusk/status/1609680329354399744"/>
+        <updated>2023-01-01T22:37:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @gdb Yikes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @atensnut Later this week]]></title>
         <id>https://twitter.com/elonmusk/status/1609677383703072768</id>
@@ -111,97 +201,6 @@
         <link href="https://twitter.com/elonmusk/status/1609634236138655745"/>
         <updated>2023-01-01T19:34:42.000Z</updated>
         <summary type="html"><![CDATA[Re @BriannaWu Thanks for paying me $8]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @grizzzmint @TheRabbitHole84 Which is, ironically, obviously super racist!]]></title>
-        <id>https://twitter.com/elonmusk/status/1609633967279575040</id>
-        <link href="https://twitter.com/elonmusk/status/1609633967279575040"/>
-        <updated>2023-01-01T19:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @grizzzmint @TheRabbitHole84 Which is, ironically, obviously super racist!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge @mayemusk 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1609632930028195840</id>
-        <link href="https://twitter.com/elonmusk/status/1609632930028195840"/>
-        <updated>2023-01-01T19:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge @mayemusk 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @robinmonotti !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1609632129767596037</id>
-        <link href="https://twitter.com/elonmusk/status/1609632129767596037"/>
-        <updated>2023-01-01T19:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @robinmonotti !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hope you’re having a great day 1 2023! One thing’s for sure, it won’t be boring.]]></title>
-        <id>https://twitter.com/elonmusk/status/1609631955003518977</id>
-        <link href="https://twitter.com/elonmusk/status/1609631955003518977"/>
-        <updated>2023-01-01T19:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Hope you’re having a great day 1 2023!
-One thing’s for sure, it won’t be boring.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog Agreed, update coming in Jan]]></title>
-        <id>https://twitter.com/elonmusk/status/1609313412131037193</id>
-        <link href="https://twitter.com/elonmusk/status/1609313412131037193"/>
-        <updated>2022-12-31T22:19:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog Agreed, update coming in Jan]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jpr007 I’d like to thank the people of Norway again for their incredible support of electric vehicles. Norway rocks!! 🇳🇴]]></title>
-        <id>https://twitter.com/elonmusk/status/1609312363530031107</id>
-        <link href="https://twitter.com/elonmusk/status/1609312363530031107"/>
-        <updated>2022-12-31T22:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @jpr007 I’d like to thank the people of Norway again for their incredible support of electric vehicles. Norway rocks!! 🇳🇴]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ScottAdamsSays @Mediaite Yeah, this is silly. I love your work!]]></title>
-        <id>https://twitter.com/elonmusk/status/1609311085122789377</id>
-        <link href="https://twitter.com/elonmusk/status/1609311085122789377"/>
-        <updated>2022-12-31T22:10:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @ScottAdamsSays @Mediaite Yeah, this is silly. I love your work!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TimRunsHisMouth @ZaleskiLuke Exactly! I am obviously “moderate wing”, except as viewed by the far left.]]></title>
-        <id>https://twitter.com/elonmusk/status/1609310770906673152</id>
-        <link href="https://twitter.com/elonmusk/status/1609310770906673152"/>
-        <updated>2022-12-31T22:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @TimRunsHisMouth @ZaleskiLuke Exactly! I am obviously “moderate wing”, except as viewed by the far left.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @pmarca Piketty is a misanthrope]]></title>
-        <id>https://twitter.com/elonmusk/status/1609303808487874560</id>
-        <link href="https://twitter.com/elonmusk/status/1609303808487874560"/>
-        <updated>2022-12-31T21:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @pmarca Piketty is a misanthrope]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
