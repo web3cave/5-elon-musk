@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T02:10:29.867Z</id>
+    <id>urn:2023-01-05T02:11:33.130Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-04T02:10:29.867Z</updated>
+    <updated>2023-01-05T02:11:33.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @mtaibbi Interesting]]></title>
+        <id>https://twitter.com/elonmusk/status/1610536157133307904</id>
+        <link href="https://twitter.com/elonmusk/status/1610536157133307904"/>
+        <updated>2023-01-04T07:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @mtaibbi Interesting]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NASASpaceflight Seems like our image recognition needs some work!]]></title>
+        <id>https://twitter.com/elonmusk/status/1610482997081542657</id>
+        <link href="https://twitter.com/elonmusk/status/1610482997081542657"/>
+        <updated>2023-01-04T03:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @NASASpaceflight Seems like our image recognition needs some work!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Liz_Wheeler Certainly worth further investigation]]></title>
+        <id>https://twitter.com/elonmusk/status/1610456200910626816</id>
+        <link href="https://twitter.com/elonmusk/status/1610456200910626816"/>
+        <updated>2023-01-04T02:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @Liz_Wheeler Certainly worth further investigation]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 months ago, I was Person of the Year]]></title>
+        <id>https://twitter.com/elonmusk/status/1610454795177062401</id>
+        <link href="https://twitter.com/elonmusk/status/1610454795177062401"/>
+        <updated>2023-01-04T01:55:18.000Z</updated>
+        <summary type="html"><![CDATA[12 months ago, I was Person of the Year]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ShellenbergerMD What has become of @60Minutes?]]></title>
+        <id>https://twitter.com/elonmusk/status/1610446752297144321</id>
+        <link href="https://twitter.com/elonmusk/status/1610446752297144321"/>
+        <updated>2023-01-04T01:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @ShellenbergerMD What has become of @60Minutes?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TheBabylonBee 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1610439779182874624</id>
+        <link href="https://twitter.com/elonmusk/status/1610439779182874624"/>
+        <updated>2023-01-04T00:55:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheBabylonBee 🤣🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Please comment on this matter]]></title>
         <id>https://twitter.com/elonmusk/status/1610434975270342656</id>
@@ -145,67 +205,6 @@ How Twitter Let the Intelligence Community In]]></summary>
         <link href="https://twitter.com/elonmusk/status/1610347500321349634"/>
         <updated>2023-01-03T18:48:57.000Z</updated>
         <summary type="html"><![CDATA[Re @mikeduncan Feels like we are at an inflection point]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jordanbpeterson @CPOntario @PierrePoilievre @JustinTrudeau !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1610340730320429064</id>
-        <link href="https://twitter.com/elonmusk/status/1610340730320429064"/>
-        <updated>2023-01-03T18:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @jordanbpeterson @CPOntario @PierrePoilievre @JustinTrudeau !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @farzyness Messed up!]]></title>
-        <id>https://twitter.com/elonmusk/status/1610311411137384449</id>
-        <link href="https://twitter.com/elonmusk/status/1610311411137384449"/>
-        <updated>2023-01-03T16:25:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @farzyness Messed up!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SciGuySpace Shelby did his best to hold back SpaceX]]></title>
-        <id>https://twitter.com/elonmusk/status/1610303296773799938</id>
-        <link href="https://twitter.com/elonmusk/status/1610303296773799938"/>
-        <updated>2023-01-03T15:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @SciGuySpace Shelby did his best to hold back SpaceX]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Watch Falcon 9 launch 114 spacecraft to orbit →]]></title>
-        <id>https://twitter.com/SpaceX/status/1610286872303144962</id>
-        <link href="https://twitter.com/SpaceX/status/1610286872303144962"/>
-        <updated>2023-01-03T14:48:02.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Watch Falcon 9 launch 114 spacecraft to orbit → http://spacex.com/launches https://twitter.com/i/broadcasts/1ynKOazLvmQJR]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DrKnowItAll16 @Tesla Penalized for making our SUV too mass-efficient? That is bizarre.]]></title>
-        <id>https://twitter.com/elonmusk/status/1610140086464659457</id>
-        <link href="https://twitter.com/elonmusk/status/1610140086464659457"/>
-        <updated>2023-01-03T05:04:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @DrKnowItAll16 @Tesla Penalized for making our SUV too mass-efficient? That is bizarre.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k maybe … maybe we do? 🤔]]></title>
-        <id>https://twitter.com/elonmusk/status/1610135872925564930</id>
-        <link href="https://twitter.com/elonmusk/status/1610135872925564930"/>
-        <updated>2023-01-03T04:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k maybe … maybe we do? 🤔]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
