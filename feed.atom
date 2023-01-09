@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-08T02:15:33.678Z</id>
+    <id>urn:2023-01-09T02:09:40.833Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-08T02:15:33.678Z</updated>
+    <updated>2023-01-09T02:09:40.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I hope that the people of Brazil are able to resolve matters peacefully]]></title>
+        <id>https://twitter.com/elonmusk/status/1612230045493248001</id>
+        <link href="https://twitter.com/elonmusk/status/1612230045493248001"/>
+        <updated>2023-01-08T23:29:31.000Z</updated>
+        <summary type="html"><![CDATA[I hope that the people of Brazil are able to resolve matters peacefully]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Chart by James Stephenson)]]></title>
+        <id>https://twitter.com/elonmusk/status/1612213483625668608</id>
+        <link href="https://twitter.com/elonmusk/status/1612213483625668608"/>
+        <updated>2023-01-08T22:23:42.000Z</updated>
+        <summary type="html"><![CDATA[(Chart by James Stephenson)]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TrungTPhan 🔥🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1612210860654530565</id>
+        <link href="https://twitter.com/elonmusk/status/1612210860654530565"/>
+        <updated>2023-01-08T22:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan 🔥🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @micsolana Step up your game 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1612210592890191876</id>
+        <link href="https://twitter.com/elonmusk/status/1612210592890191876"/>
+        <updated>2023-01-08T22:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @micsolana Step up your game 🤣🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy swipe right/left to move between recommended vs followed tweets rolls out later this week. First part of a much larger UI overhaul. Bookmark butt...]]></title>
+        <id>https://twitter.com/elonmusk/status/1611932793130438656</id>
+        <link href="https://twitter.com/elonmusk/status/1611932793130438656"/>
+        <updated>2023-01-08T03:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Easy swipe right/left to move between recommended vs followed tweets rolls out later this week.
+First part of a much larger UI overhaul.
+Bookmark button (de facto silent like) on Tweet details rolls out a week later.
+Long form tweets early Feb.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog We have a real shot at late February. March launch attempt appears highly likely.]]></title>
+        <id>https://twitter.com/elonmusk/status/1611931024514060289</id>
+        <link href="https://twitter.com/elonmusk/status/1611931024514060289"/>
+        <updated>2023-01-08T03:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog We have a real shot at late February.  March launch attempt appears highly likely.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DavidSacks It will go lower]]></title>
+        <id>https://twitter.com/elonmusk/status/1611922097785159682</id>
+        <link href="https://twitter.com/elonmusk/status/1611922097785159682"/>
+        <updated>2023-01-08T03:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @DavidSacks It will go lower]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PeterDiamandis Risky Business (great movie)]]></title>
+        <id>https://twitter.com/elonmusk/status/1611891871512514560</id>
+        <link href="https://twitter.com/elonmusk/status/1611891871512514560"/>
+        <updated>2023-01-08T01:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @PeterDiamandis Risky Business (great movie)]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1611890665788506112</id>
+        <link href="https://twitter.com/elonmusk/status/1611890665788506112"/>
+        <updated>2023-01-08T01:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @TheBabylonBee 🤣]]></title>
         <id>https://twitter.com/elonmusk/status/1611859911490637826</id>
@@ -108,49 +201,6 @@ Falcon Heavy in the hangar at Launch Complex 39A in Florida]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TrungTPhan !]]></title>
-        <id>https://twitter.com/elonmusk/status/1611775455757217792</id>
-        <link href="https://twitter.com/elonmusk/status/1611775455757217792"/>
-        <updated>2023-01-07T17:23:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @TrungTPhan !]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity Happy days tbh]]></title>
-        <id>https://twitter.com/elonmusk/status/1611774952621101058</id>
-        <link href="https://twitter.com/elonmusk/status/1611774952621101058"/>
-        <updated>2023-01-07T17:21:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity Happy days tbh]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @paulg True]]></title>
-        <id>https://twitter.com/elonmusk/status/1611768982004195330</id>
-        <link href="https://twitter.com/elonmusk/status/1611768982004195330"/>
-        <updated>2023-01-07T16:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @paulg True]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thread on how safe Tesla cars are]]></title>
-        <id>https://twitter.com/elonmusk/status/1611768674653982720</id>
-        <link href="https://twitter.com/elonmusk/status/1611768674653982720"/>
-        <updated>2023-01-07T16:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Thread on how safe Tesla cars are
-Tesla: Safety is the primary design objective for our vehicles. 
-Your Tesla monitors your surroundings, alerting you or taking corrective action if you are at risk of an accident →
- https://www.tesla.com/safety]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Tesla: Safety is the primary design objective for our vehicles. Your Tesla monitors your surroundings, alerting you or taking corrective action if ...]]></title>
         <id>https://twitter.com/Tesla/status/1611767781636055040</id>
         <link href="https://twitter.com/Tesla/status/1611767781636055040"/>
@@ -158,46 +208,6 @@ Your Tesla monitors your surroundings, alerting you or taking corrective action 
         <summary type="html"><![CDATA[RT Tesla
 Safety is the primary design objective for our vehicles. 
 Your Tesla monitors your surroundings, alerting you or taking corrective action if you are at risk of an accident → https://www.tesla.com/safety]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @paulg People on Twitter should like more tweets in general!]]></title>
-        <id>https://twitter.com/elonmusk/status/1611754162248912897</id>
-        <link href="https://twitter.com/elonmusk/status/1611754162248912897"/>
-        <updated>2023-01-07T15:58:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @paulg People on Twitter should like more tweets in general!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k @KevinChunilal Nice]]></title>
-        <id>https://twitter.com/elonmusk/status/1611683216796319744</id>
-        <link href="https://twitter.com/elonmusk/status/1611683216796319744"/>
-        <updated>2023-01-07T11:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k @KevinChunilal Nice]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog @ValerianIlies People still don’t get it]]></title>
-        <id>https://twitter.com/elonmusk/status/1611674157716213761</id>
-        <link href="https://twitter.com/elonmusk/status/1611674157716213761"/>
-        <updated>2023-01-07T10:40:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog @ValerianIlies People still don’t get it]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @_TheRealTony3_ @MercedesBenz @Tesla @SawyerMerritt Good for them]]></title>
-        <id>https://twitter.com/elonmusk/status/1611673521528410115</id>
-        <link href="https://twitter.com/elonmusk/status/1611673521528410115"/>
-        <updated>2023-01-07T10:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @_TheRealTony3_ @MercedesBenz @Tesla @SawyerMerritt Good for them]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
