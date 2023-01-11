@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T02:16:24.303Z</id>
+    <id>urn:2023-01-11T02:12:56.128Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T02:16:24.304Z</updated>
+    <updated>2023-01-11T02:12:56.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All four orbital launch pads fully loaded with rockets for the first time!]]></title>
+        <id>https://twitter.com/elonmusk/status/1612699840571637760</id>
+        <link href="https://twitter.com/elonmusk/status/1612699840571637760"/>
+        <updated>2023-01-10T06:36:19.000Z</updated>
+        <summary type="html"><![CDATA[All four orbital launch pads fully loaded with rockets for the first time!
+
+SpaceX: SpaceX had four rockets on four pads and two Dragons on orbit today—as CRS-26 Dragon departed the @space_station with Crew-5 Dragon still attached to the orbiting lab, Falcon Heavy rolled out of the hangar, two Falcon 9’s readied for launch, and Ship 24 was stacked onto Booster 7]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: SpaceX had four rockets on four pads and two Dragons on orbit today—as CRS-26 Dragon departed the @space_station with Crew-5 Dragon still ...]]></title>
+        <id>https://twitter.com/SpaceX/status/1612698343691673601</id>
+        <link href="https://twitter.com/SpaceX/status/1612698343691673601"/>
+        <updated>2023-01-10T06:30:22.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+SpaceX had four rockets on four pads and two Dragons on orbit today—as CRS-26 Dragon departed the @space_station with Crew-5 Dragon still attached to the orbiting lab, Falcon Heavy rolled out of the hangar, two Falcon 9’s readied for launch, and Ship 24 was stacked onto Booster 7]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Watch Falcon 9 launch the @OneWeb Launch 16 mission to orbit →]]></title>
+        <id>https://twitter.com/SpaceX/status/1612669769668517890</id>
+        <link href="https://twitter.com/SpaceX/status/1612669769668517890"/>
+        <updated>2023-01-10T04:36:49.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Watch Falcon 9 launch the @OneWeb Launch 16 mission to orbit → http://spacex.com/launches https://twitter.com/i/broadcasts/1lDxLnQAgezGm]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @mtaibbi Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1612634875219304448</id>
+        <link href="https://twitter.com/elonmusk/status/1612634875219304448"/>
+        <updated>2023-01-10T02:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @mtaibbi Exactly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Boring Company: Was our privilege to provide transportation for @LVCVA at an amazing @CES convention. Fun Loop stats: average ride time < 2 min...]]></title>
+        <id>https://twitter.com/boringcompany/status/1612634349559742465</id>
+        <link href="https://twitter.com/boringcompany/status/1612634349559742465"/>
+        <updated>2023-01-10T02:16:04.000Z</updated>
+        <summary type="html"><![CDATA[RT The Boring Company
+Was our privilege to provide transportation for @LVCVA at an amazing @CES convention.  
+Fun Loop stats: average ride time < 2 min, average wait time < 10 sec, 94k+ total passengers, 10k+ passengers to/from Resorts World, and average Q4 LVCC Customer Experience Score > 4.9/5.0!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT SpaceX: Ship 24 stacked on Super Heavy Booster 7 at Starbase in Texas]]></title>
         <id>https://twitter.com/SpaceX/status/1612601348234817536</id>
@@ -33,21 +89,6 @@ All cargo is loaded, the hatch is closed, and Dragon is ready for an on-time dep
         <link href="https://twitter.com/elonmusk/status/1612546345629261845"/>
         <updated>2023-01-09T20:26:23.000Z</updated>
         <summary type="html"><![CDATA[Re @TrungTPhan That is dedication]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Twitter Files. Some conspiracies are actually true.]]></title>
-        <id>https://twitter.com/elonmusk/status/1612544141866729473</id>
-        <link href="https://twitter.com/elonmusk/status/1612544141866729473"/>
-        <updated>2023-01-09T20:17:37.000Z</updated>
-        <summary type="html"><![CDATA[More Twitter Files. 
-Some conspiracies are actually true.
-
-Alex Berenson: 1/ My first #TwitterFiles report: how @scottgottliebmd - a top Pfizer board member - used the same Twitter lobbyist as the White House to suppress debate on Covid vaccines, INCLUDING FROM A FELLOW HEAD OF @US_FDA!
-Thanks @elonmusk for opening these files.
- https://alexberenson.substack.com/p/from-the-twitter-files-pfizer-board]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
@@ -173,49 +214,6 @@ Twitter will continue to recommend brevity in tweets.]]></summary>
         <link href="https://twitter.com/elonmusk/status/1612230045493248001"/>
         <updated>2023-01-08T23:29:31.000Z</updated>
         <summary type="html"><![CDATA[I hope that the people of Brazil are able to resolve matters peacefully]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Chart by James Stephenson)]]></title>
-        <id>https://twitter.com/elonmusk/status/1612213483625668608</id>
-        <link href="https://twitter.com/elonmusk/status/1612213483625668608"/>
-        <updated>2023-01-08T22:23:42.000Z</updated>
-        <summary type="html"><![CDATA[(Chart by James Stephenson)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TrungTPhan 🔥🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1612210860654530565</id>
-        <link href="https://twitter.com/elonmusk/status/1612210860654530565"/>
-        <updated>2023-01-08T22:13:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @TrungTPhan 🔥🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @micsolana Step up your game 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1612210592890191876</id>
-        <link href="https://twitter.com/elonmusk/status/1612210592890191876"/>
-        <updated>2023-01-08T22:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Re @micsolana Step up your game 🤣🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy swipe right/left to move between recommended vs followed tweets rolls out later this week. First part of a much larger UI overhaul. Bookmark butt...]]></title>
-        <id>https://twitter.com/elonmusk/status/1611932793130438656</id>
-        <link href="https://twitter.com/elonmusk/status/1611932793130438656"/>
-        <updated>2023-01-08T03:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Easy swipe right/left to move between recommended vs followed tweets rolls out later this week.
-First part of a much larger UI overhaul.
-Bookmark button (de facto silent like) on Tweet details rolls out a week later.
-Long form tweets early Feb.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
