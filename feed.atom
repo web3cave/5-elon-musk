@@ -1,216 +1,213 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-12T02:11:49.882Z</id>
+    <id>urn:2023-01-13T02:16:36.829Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-12T02:11:49.882Z</updated>
+    <updated>2023-01-13T02:16:36.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @JohnnaCrider1 Few realize this consciously]]></title>
+        <id>https://twitter.com/elonmusk/status/1613670664011157507</id>
+        <link href="https://twitter.com/elonmusk/status/1613670664011157507"/>
+        <updated>2023-01-12T22:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @JohnnaCrider1 Few realize this consciously]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Matt Taibbi: The latest #TwitterFiles expose as a total lie a major Russiagate story — that the #ReleaseTheMemo hashtag was fueled by Russian bots...]]></title>
+        <id>https://twitter.com/mtaibbi/status/1613621714063134731</id>
+        <link href="https://twitter.com/mtaibbi/status/1613621714063134731"/>
+        <updated>2023-01-12T19:39:30.000Z</updated>
+        <summary type="html"><![CDATA[RT Matt Taibbi
+The latest #TwitterFiles expose as a total lie a major Russiagate story — that the #ReleaseTheMemo hashtag was fueled by Russian bots:
+
+Matt Taibbi: 1.THREAD: Twitter Files #14
+THE RUSSIAGATE LIES
+One: The Fake Tale of Russian Bots and the #ReleaseTheMemo Hashtag]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @neontaster Resistance is futile]]></title>
+        <id>https://twitter.com/elonmusk/status/1613588216749363200</id>
+        <link href="https://twitter.com/elonmusk/status/1613588216749363200"/>
+        <updated>2023-01-12T17:26:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @neontaster Resistance is futile]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NASASpaceflight That’s a good guess]]></title>
+        <id>https://twitter.com/elonmusk/status/1613580049114071041</id>
+        <link href="https://twitter.com/elonmusk/status/1613580049114071041"/>
+        <updated>2023-01-12T16:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @NASASpaceflight That’s a good guess]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Re Team are stepping into a series of tests prior to Starship's first flight test in the weeks ahead, including full stack wet dress rehear...]]></title>
+        <id>https://twitter.com/SpaceX/status/1613568779216359424</id>
+        <link href="https://twitter.com/SpaceX/status/1613568779216359424"/>
+        <updated>2023-01-12T16:09:10.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Re Team are stepping into a series of tests prior to Starship's first flight test in the weeks ahead, including full stack wet dress rehearsals and hold down firing of Booster 7's 33 Raptor engines]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: More pics of Starship fully stacked on the orbital launch pad at Starbase →]]></title>
+        <id>https://twitter.com/SpaceX/status/1613568616078921733</id>
+        <link href="https://twitter.com/SpaceX/status/1613568616078921733"/>
+        <updated>2023-01-12T16:08:31.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+More pics of Starship fully stacked on the orbital launch pad at Starbase → http://flickr.com/spacex]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MuskUniversity Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1613553795228893184</id>
+        <link href="https://twitter.com/elonmusk/status/1613553795228893184"/>
+        <updated>2023-01-12T15:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity Exactly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @weirdterrifying Ancient Egypt was 🔥🔥]]></title>
+        <id>https://twitter.com/elonmusk/status/1613553454655614976</id>
+        <link href="https://twitter.com/elonmusk/status/1613553454655614976"/>
+        <updated>2023-01-12T15:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @weirdterrifying Ancient Egypt was 🔥🔥]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @johnkrausphotos @lexfridman @MrBeast Ok]]></title>
+        <id>https://twitter.com/elonmusk/status/1613546654107598849</id>
+        <link href="https://twitter.com/elonmusk/status/1613546654107598849"/>
+        <updated>2023-01-12T14:41:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @johnkrausphotos @lexfridman @MrBeast Ok]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @LuehWai @JamesMelville Maiden America?]]></title>
+        <id>https://twitter.com/elonmusk/status/1613544165824135173</id>
+        <link href="https://twitter.com/elonmusk/status/1613544165824135173"/>
+        <updated>2023-01-12T14:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @LuehWai @JamesMelville Maiden America?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JamesMelville Sigh]]></title>
+        <id>https://twitter.com/elonmusk/status/1613543968247275520</id>
+        <link href="https://twitter.com/elonmusk/status/1613543968247275520"/>
+        <updated>2023-01-12T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @JamesMelville Sigh]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starship launch attempt soon]]></title>
+        <id>https://twitter.com/elonmusk/status/1613537584231362561</id>
+        <link href="https://twitter.com/elonmusk/status/1613537584231362561"/>
+        <updated>2023-01-12T14:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Starship launch attempt soon]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @LucasFoxNews No kidding …]]></title>
+        <id>https://twitter.com/elonmusk/status/1613536524456595457</id>
+        <link href="https://twitter.com/elonmusk/status/1613536524456595457"/>
+        <updated>2023-01-12T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @LucasFoxNews No kidding …]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Snowden Most people have no idea that Reality Winner is a real person. Fate 🖤 irony.]]></title>
+        <id>https://twitter.com/elonmusk/status/1613425104872177665</id>
+        <link href="https://twitter.com/elonmusk/status/1613425104872177665"/>
+        <updated>2023-01-12T06:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @Snowden Most people have no idea that Reality Winner is a real person. Fate 🖤 irony.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TheRabbitHole84 @WallStreetSilv Maybe we should spend less time on social media … ?]]></title>
+        <id>https://twitter.com/elonmusk/status/1613417131563167746</id>
+        <link href="https://twitter.com/elonmusk/status/1613417131563167746"/>
+        <updated>2023-01-12T06:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheRabbitHole84 @WallStreetSilv Maybe we should spend less time on social media … ?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Tesmanian_com Starlink in aircraft feels the same as a high speed connection on the ground]]></title>
+        <id>https://twitter.com/elonmusk/status/1613416693283553280</id>
+        <link href="https://twitter.com/elonmusk/status/1613416693283553280"/>
+        <updated>2023-01-12T06:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @Tesmanian_com Starlink in aircraft feels the same as a high speed connection on the ground]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WallStreetSilv Demolition Man movie is becoming real]]></title>
+        <id>https://twitter.com/elonmusk/status/1613353227633950721</id>
+        <link href="https://twitter.com/elonmusk/status/1613353227633950721"/>
+        <updated>2023-01-12T01:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @WallStreetSilv Demolition Man movie is becoming real]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ShellenbergerMD Constitutional violation]]></title>
+        <id>https://twitter.com/elonmusk/status/1613343181378301952</id>
+        <link href="https://twitter.com/elonmusk/status/1613343181378301952"/>
+        <updated>2023-01-12T01:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @ShellenbergerMD Constitutional violation]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WillManidis This a major problem. Adderall is just low-grade speed & greatly amplifies your inner a**hole!]]></title>
+        <id>https://twitter.com/elonmusk/status/1613336585642323968</id>
+        <link href="https://twitter.com/elonmusk/status/1613336585642323968"/>
+        <updated>2023-01-12T00:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @WillManidis This a major problem. Adderall is just low-grade speed & greatly amplifies your inner a**hole!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @DrJBhattacharya This problem is extremely prevalent in academia]]></title>
         <id>https://twitter.com/elonmusk/status/1613324821710143489</id>
         <link href="https://twitter.com/elonmusk/status/1613324821710143489"/>
         <updated>2023-01-11T23:59:46.000Z</updated>
         <summary type="html"><![CDATA[Re @DrJBhattacharya This problem is extremely prevalent in academia]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EvaFoxU Please be cautious about writing articles citing “unnamed sources”, as they are frequently false]]></title>
-        <id>https://twitter.com/elonmusk/status/1613280300917993472</id>
-        <link href="https://twitter.com/elonmusk/status/1613280300917993472"/>
-        <updated>2023-01-11T21:02:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvaFoxU Please be cautious about writing articles citing “unnamed sources”, as they are frequently false]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt @Tesla Great work by Tesla Team!]]></title>
-        <id>https://twitter.com/elonmusk/status/1613279934633627648</id>
-        <link href="https://twitter.com/elonmusk/status/1613279934633627648"/>
-        <updated>2023-01-11T21:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt @Tesla Great work by Tesla Team!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WOLF_Financial 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1613261332937314304</id>
-        <link href="https://twitter.com/elonmusk/status/1613261332937314304"/>
-        <updated>2023-01-11T19:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @WOLF_Financial 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k 🎯]]></title>
-        <id>https://twitter.com/elonmusk/status/1613261205484994562</id>
-        <link href="https://twitter.com/elonmusk/status/1613261205484994562"/>
-        <updated>2023-01-11T19:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k 🎯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @tyromper 💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1613251045068787713</id>
-        <link href="https://twitter.com/elonmusk/status/1613251045068787713"/>
-        <updated>2023-01-11T19:06:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @tyromper 💯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some things that your party tells you are false and some things that the other party says are true]]></title>
-        <id>https://twitter.com/elonmusk/status/1613249758256328705</id>
-        <link href="https://twitter.com/elonmusk/status/1613249758256328705"/>
-        <updated>2023-01-11T19:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Some things that your party tells you are false and some things that the other party says are true]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @slashdot This seems extortionately high. It also isn’t clear whether, all things considered, a second booster helps or hurts.]]></title>
-        <id>https://twitter.com/elonmusk/status/1613249298594136064</id>
-        <link href="https://twitter.com/elonmusk/status/1613249298594136064"/>
-        <updated>2023-01-11T18:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @slashdot This seems extortionately high. It also isn’t clear whether, all things considered, a second booster helps or hurts.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: View from the recovery vessel as Dragon returned to Earth]]></title>
-        <id>https://twitter.com/SpaceX/status/1613218207682416645</id>
-        <link href="https://twitter.com/SpaceX/status/1613218207682416645"/>
-        <updated>2023-01-11T16:56:07.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-View from the recovery vessel as Dragon returned to Earth]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stillgray Good question]]></title>
-        <id>https://twitter.com/elonmusk/status/1613186800012656641</id>
-        <link href="https://twitter.com/elonmusk/status/1613186800012656641"/>
-        <updated>2023-01-11T14:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @stillgray Good question]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge Yes, I don’t like it either.]]></title>
-        <id>https://twitter.com/elonmusk/status/1613165730895400962</id>
-        <link href="https://twitter.com/elonmusk/status/1613165730895400962"/>
-        <updated>2023-01-11T13:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge Yes, I don’t like it either.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: Model S & Model Y received the highest overall safety scores among every vehicle tested by EuroNCAP in 2022]]></title>
-        <id>https://twitter.com/Tesla/status/1613115502003425281</id>
-        <link href="https://twitter.com/Tesla/status/1613115502003425281"/>
-        <updated>2023-01-11T10:08:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Model S & Model Y received the highest overall safety scores among every vehicle tested by EuroNCAP in 2022]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All four orbital launch pads fully loaded with rockets for the first time!]]></title>
-        <id>https://twitter.com/elonmusk/status/1612699840571637760</id>
-        <link href="https://twitter.com/elonmusk/status/1612699840571637760"/>
-        <updated>2023-01-10T06:36:19.000Z</updated>
-        <summary type="html"><![CDATA[All four orbital launch pads fully loaded with rockets for the first time!
-
-SpaceX: SpaceX had four rockets on four pads and two Dragons on orbit today—as CRS-26 Dragon departed the @space_station with Crew-5 Dragon still attached to the orbiting lab, Falcon Heavy rolled out of the hangar, two Falcon 9’s readied for launch, and Ship 24 was stacked onto Booster 7]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: SpaceX had four rockets on four pads and two Dragons on orbit today—as CRS-26 Dragon departed the @space_station with Crew-5 Dragon still ...]]></title>
-        <id>https://twitter.com/SpaceX/status/1612698343691673601</id>
-        <link href="https://twitter.com/SpaceX/status/1612698343691673601"/>
-        <updated>2023-01-10T06:30:22.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-SpaceX had four rockets on four pads and two Dragons on orbit today—as CRS-26 Dragon departed the @space_station with Crew-5 Dragon still attached to the orbiting lab, Falcon Heavy rolled out of the hangar, two Falcon 9’s readied for launch, and Ship 24 was stacked onto Booster 7]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Watch Falcon 9 launch the @OneWeb Launch 16 mission to orbit →]]></title>
-        <id>https://twitter.com/SpaceX/status/1612669769668517890</id>
-        <link href="https://twitter.com/SpaceX/status/1612669769668517890"/>
-        <updated>2023-01-10T04:36:49.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Watch Falcon 9 launch the @OneWeb Launch 16 mission to orbit → http://spacex.com/launches https://twitter.com/i/broadcasts/1lDxLnQAgezGm]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @mtaibbi Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1612634875219304448</id>
-        <link href="https://twitter.com/elonmusk/status/1612634875219304448"/>
-        <updated>2023-01-10T02:18:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @mtaibbi Exactly]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Boring Company: Was our privilege to provide transportation for @LVCVA at an amazing @CES convention. Fun Loop stats: average ride time < 2 min...]]></title>
-        <id>https://twitter.com/boringcompany/status/1612634349559742465</id>
-        <link href="https://twitter.com/boringcompany/status/1612634349559742465"/>
-        <updated>2023-01-10T02:16:04.000Z</updated>
-        <summary type="html"><![CDATA[RT The Boring Company
-Was our privilege to provide transportation for @LVCVA at an amazing @CES convention.  
-Fun Loop stats: average ride time < 2 min, average wait time < 10 sec, 94k+ total passengers, 10k+ passengers to/from Resorts World, and average Q4 LVCC Customer Experience Score > 4.9/5.0!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Ship 24 stacked on Super Heavy Booster 7 at Starbase in Texas]]></title>
-        <id>https://twitter.com/SpaceX/status/1612601348234817536</id>
-        <link href="https://twitter.com/SpaceX/status/1612601348234817536"/>
-        <updated>2023-01-10T00:04:56.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Ship 24 stacked on Super Heavy Booster 7 at Starbase in Texas]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: All cargo is loaded, the hatch is closed, and Dragon is ready for an on-time departure from the @space_station at 5:05 p.m. ET. Watch live ...]]></title>
-        <id>https://twitter.com/SpaceX/status/1612566392548782080</id>
-        <link href="https://twitter.com/SpaceX/status/1612566392548782080"/>
-        <updated>2023-01-09T21:46:02.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-All cargo is loaded, the hatch is closed, and Dragon is ready for an on-time departure from the @space_station at 5:05 p.m. ET. Watch live → http://nasa.gov/nasalive]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TrungTPhan That is dedication]]></title>
-        <id>https://twitter.com/elonmusk/status/1612546345629261845</id>
-        <link href="https://twitter.com/elonmusk/status/1612546345629261845"/>
-        <updated>2023-01-09T20:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @TrungTPhan That is dedication]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
