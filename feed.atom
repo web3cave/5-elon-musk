@@ -1,10 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T02:16:36.829Z</id>
+    <id>urn:2023-01-14T02:04:38.618Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-13T02:16:36.829Z</updated>
+    <updated>2023-01-14T02:04:38.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @ggreenwald Please post what you received on Twitter]]></title>
+        <id>https://twitter.com/elonmusk/status/1614018301591703553</id>
+        <link href="https://twitter.com/elonmusk/status/1614018301591703553"/>
+        <updated>2023-01-13T21:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @ggreenwald Please post what you received on Twitter]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter will publish tweet recommendation code & make account/tweet status visible no later than next month. Transparency builds trust.]]></title>
+        <id>https://twitter.com/elonmusk/status/1613995936585519104</id>
+        <link href="https://twitter.com/elonmusk/status/1613995936585519104"/>
+        <updated>2023-01-13T20:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Twitter will publish tweet recommendation code & make account/tweet status visible no later than next month.
+Transparency builds trust.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k 💯]]></title>
+        <id>https://twitter.com/elonmusk/status/1613992069458194432</id>
+        <link href="https://twitter.com/elonmusk/status/1613992069458194432"/>
+        <updated>2023-01-13T20:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k 💯]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MarceloPLima They will be]]></title>
+        <id>https://twitter.com/elonmusk/status/1613941389112541185</id>
+        <link href="https://twitter.com/elonmusk/status/1613941389112541185"/>
+        <updated>2023-01-13T16:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @MarceloPLima They will be]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @nathan_garner_ Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1613933342742974464</id>
+        <link href="https://twitter.com/elonmusk/status/1613933342742974464"/>
+        <updated>2023-01-13T16:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @nathan_garner_ Yes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[virtue rises with the sun]]></title>
+        <id>https://twitter.com/elonmusk/status/1613932601882054658</id>
+        <link href="https://twitter.com/elonmusk/status/1613932601882054658"/>
+        <updated>2023-01-13T16:14:52.000Z</updated>
+        <summary type="html"><![CDATA[virtue rises with the sun]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @patrickbetdavid @joerogan @BretWeinstein Great clip!]]></title>
+        <id>https://twitter.com/elonmusk/status/1613921284064448513</id>
+        <link href="https://twitter.com/elonmusk/status/1613921284064448513"/>
+        <updated>2023-01-13T15:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @patrickbetdavid @joerogan @BretWeinstein Great clip!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bookmark button moving to tweet details page, fixing image length crop & other minor bug fixes next week]]></title>
+        <id>https://twitter.com/elonmusk/status/1613900363652009992</id>
+        <link href="https://twitter.com/elonmusk/status/1613900363652009992"/>
+        <updated>2023-01-13T14:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Bookmark button moving to tweet details page, fixing image length crop & other minor bug fixes next week]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: Re Tesla owners collectively saved $2B+ in 2022 ⚡️]]></title>
+        <id>https://twitter.com/Tesla/status/1613894897701896192</id>
+        <link href="https://twitter.com/Tesla/status/1613894897701896192"/>
+        <updated>2023-01-13T13:45:02.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+Re Tesla owners collectively saved $2B+ in 2022 ⚡️]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla: View your charging history & savings for the full year in the Tesla app]]></title>
+        <id>https://twitter.com/Tesla/status/1613894894203838464</id>
+        <link href="https://twitter.com/Tesla/status/1613894894203838464"/>
+        <updated>2023-01-13T13:45:02.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla
+View your charging history & savings for the full year in the Tesla app]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MichaelPSenger @DrJBhattacharya Precisely]]></title>
+        <id>https://twitter.com/elonmusk/status/1613717964376903680</id>
+        <link href="https://twitter.com/elonmusk/status/1613717964376903680"/>
+        <updated>2023-01-13T02:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @MichaelPSenger @DrJBhattacharya Precisely]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SpaceX @Space_Station Much higher dynamic range camera needed to see the stars!]]></title>
+        <id>https://twitter.com/elonmusk/status/1613712570833330177</id>
+        <link href="https://twitter.com/elonmusk/status/1613712570833330177"/>
+        <updated>2023-01-13T01:40:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @SpaceX @Space_Station Much higher dynamic range camera needed to see the stars!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: BREAKING: Tesla Is US Brand with Lowest Maintenance Cost for its Cars with 10 years of Use, Model S Is #1 ⁦@elonmusk...]]></title>
+        <id>https://twitter.com/teslaownersSV/status/1613708275564052483</id>
+        <link href="https://twitter.com/teslaownersSV/status/1613708275564052483"/>
+        <updated>2023-01-13T01:23:28.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
+BREAKING: Tesla Is US Brand with Lowest Maintenance Cost for its Cars with 10 years of Use, Model S Is #1 ⁦@elonmusk⁩ https://www.tesmanian.com/blogs/tesmanian-blog/tesla-has-become-the-brand-with-the-lowest-maintenance-cost-for-its-cars-in-10-years-of-use]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @JohnnaCrider1 Few realize this consciously]]></title>
         <id>https://twitter.com/elonmusk/status/1613670664011157507</id>
@@ -78,136 +212,6 @@ More pics of Starship fully stacked on the orbital launch pad at Starbase → 
         <link href="https://twitter.com/elonmusk/status/1613553795228893184"/>
         <updated>2023-01-12T15:09:37.000Z</updated>
         <summary type="html"><![CDATA[Re @MuskUniversity Exactly]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @weirdterrifying Ancient Egypt was 🔥🔥]]></title>
-        <id>https://twitter.com/elonmusk/status/1613553454655614976</id>
-        <link href="https://twitter.com/elonmusk/status/1613553454655614976"/>
-        <updated>2023-01-12T15:08:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @weirdterrifying Ancient Egypt was 🔥🔥]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @johnkrausphotos @lexfridman @MrBeast Ok]]></title>
-        <id>https://twitter.com/elonmusk/status/1613546654107598849</id>
-        <link href="https://twitter.com/elonmusk/status/1613546654107598849"/>
-        <updated>2023-01-12T14:41:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @johnkrausphotos @lexfridman @MrBeast Ok]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @LuehWai @JamesMelville Maiden America?]]></title>
-        <id>https://twitter.com/elonmusk/status/1613544165824135173</id>
-        <link href="https://twitter.com/elonmusk/status/1613544165824135173"/>
-        <updated>2023-01-12T14:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @LuehWai @JamesMelville Maiden America?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JamesMelville Sigh]]></title>
-        <id>https://twitter.com/elonmusk/status/1613543968247275520</id>
-        <link href="https://twitter.com/elonmusk/status/1613543968247275520"/>
-        <updated>2023-01-12T14:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @JamesMelville Sigh]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starship launch attempt soon]]></title>
-        <id>https://twitter.com/elonmusk/status/1613537584231362561</id>
-        <link href="https://twitter.com/elonmusk/status/1613537584231362561"/>
-        <updated>2023-01-12T14:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Starship launch attempt soon]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @LucasFoxNews No kidding …]]></title>
-        <id>https://twitter.com/elonmusk/status/1613536524456595457</id>
-        <link href="https://twitter.com/elonmusk/status/1613536524456595457"/>
-        <updated>2023-01-12T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @LucasFoxNews No kidding …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Snowden Most people have no idea that Reality Winner is a real person. Fate 🖤 irony.]]></title>
-        <id>https://twitter.com/elonmusk/status/1613425104872177665</id>
-        <link href="https://twitter.com/elonmusk/status/1613425104872177665"/>
-        <updated>2023-01-12T06:38:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @Snowden Most people have no idea that Reality Winner is a real person. Fate 🖤 irony.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TheRabbitHole84 @WallStreetSilv Maybe we should spend less time on social media … ?]]></title>
-        <id>https://twitter.com/elonmusk/status/1613417131563167746</id>
-        <link href="https://twitter.com/elonmusk/status/1613417131563167746"/>
-        <updated>2023-01-12T06:06:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheRabbitHole84 @WallStreetSilv Maybe we should spend less time on social media … ?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Tesmanian_com Starlink in aircraft feels the same as a high speed connection on the ground]]></title>
-        <id>https://twitter.com/elonmusk/status/1613416693283553280</id>
-        <link href="https://twitter.com/elonmusk/status/1613416693283553280"/>
-        <updated>2023-01-12T06:04:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @Tesmanian_com Starlink in aircraft feels the same as a high speed connection on the ground]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WallStreetSilv Demolition Man movie is becoming real]]></title>
-        <id>https://twitter.com/elonmusk/status/1613353227633950721</id>
-        <link href="https://twitter.com/elonmusk/status/1613353227633950721"/>
-        <updated>2023-01-12T01:52:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @WallStreetSilv Demolition Man movie is becoming real]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ShellenbergerMD Constitutional violation]]></title>
-        <id>https://twitter.com/elonmusk/status/1613343181378301952</id>
-        <link href="https://twitter.com/elonmusk/status/1613343181378301952"/>
-        <updated>2023-01-12T01:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @ShellenbergerMD Constitutional violation]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WillManidis This a major problem. Adderall is just low-grade speed & greatly amplifies your inner a**hole!]]></title>
-        <id>https://twitter.com/elonmusk/status/1613336585642323968</id>
-        <link href="https://twitter.com/elonmusk/status/1613336585642323968"/>
-        <updated>2023-01-12T00:46:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @WillManidis This a major problem. Adderall is just low-grade speed & greatly amplifies your inner a**hole!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DrJBhattacharya This problem is extremely prevalent in academia]]></title>
-        <id>https://twitter.com/elonmusk/status/1613324821710143489</id>
-        <link href="https://twitter.com/elonmusk/status/1613324821710143489"/>
-        <updated>2023-01-11T23:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @DrJBhattacharya This problem is extremely prevalent in academia]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
