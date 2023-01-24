@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T02:09:35.583Z</id>
+    <id>urn:2023-01-24T02:09:59.513Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-23T02:09:35.583Z</updated>
+    <updated>2023-01-24T02:09:59.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @alx That turned out to be um … inaccurate]]></title>
+        <id>https://twitter.com/elonmusk/status/1617562247567663104</id>
+        <link href="https://twitter.com/elonmusk/status/1617562247567663104"/>
+        <updated>2023-01-23T16:37:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @alx That turned out to be um … inaccurate]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JonErlichman Good thread]]></title>
+        <id>https://twitter.com/elonmusk/status/1617561156264263680</id>
+        <link href="https://twitter.com/elonmusk/status/1617561156264263680"/>
+        <updated>2023-01-23T16:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @JonErlichman Good thread]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @billysteeler85 @NicoleBehnam That too]]></title>
+        <id>https://twitter.com/elonmusk/status/1617405134098812934</id>
+        <link href="https://twitter.com/elonmusk/status/1617405134098812934"/>
+        <updated>2023-01-23T06:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @billysteeler85 @NicoleBehnam That too]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NicoleBehnam I don’t like the taste or effects of most alcohol, but there is something quite beautiful about red wine in a fine glass]]></title>
+        <id>https://twitter.com/elonmusk/status/1617403816034594817</id>
+        <link href="https://twitter.com/elonmusk/status/1617403816034594817"/>
+        <updated>2023-01-23T06:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @NicoleBehnam I don’t like the taste or effects of most alcohol, but there is something quite beautiful about red wine in a fine glass]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MarioNawfal It can summarized with one emoji: 😴]]></title>
+        <id>https://twitter.com/elonmusk/status/1617399939801415681</id>
+        <link href="https://twitter.com/elonmusk/status/1617399939801415681"/>
+        <updated>2023-01-23T05:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @MarioNawfal It can summarized with one emoji: 😴]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @unusual_whales !]]></title>
+        <id>https://twitter.com/elonmusk/status/1617386889912131584</id>
+        <link href="https://twitter.com/elonmusk/status/1617386889912131584"/>
+        <updated>2023-01-23T05:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @unusual_whales !]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Maybe one day]]></title>
+        <id>https://twitter.com/elonmusk/status/1617386805350776832</id>
+        <link href="https://twitter.com/elonmusk/status/1617386805350776832"/>
+        <updated>2023-01-23T05:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Maybe one day]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SmokeAwayyy Big year for AI]]></title>
+        <id>https://twitter.com/elonmusk/status/1617386342224101377</id>
+        <link href="https://twitter.com/elonmusk/status/1617386342224101377"/>
+        <updated>2023-01-23T04:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @SmokeAwayyy Big year for AI]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NicoleBehnam 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1617385276703387648</id>
+        <link href="https://twitter.com/elonmusk/status/1617385276703387648"/>
+        <updated>2023-01-23T04:54:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @NicoleBehnam 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MuskUniversity Major respect for the makers]]></title>
+        <id>https://twitter.com/elonmusk/status/1617348296024158209</id>
+        <link href="https://twitter.com/elonmusk/status/1617348296024158209"/>
+        <updated>2023-01-23T02:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity Major respect for the makers]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @WallStreetSilv @SRSroccoReport No change in copper production is required for the transition to sustainable energy. Lithium refinement needs to in...]]></title>
         <id>https://twitter.com/elonmusk/status/1617298326650785792</id>
@@ -102,108 +202,6 @@ Lithium refinement needs to increase dramatically, but lithium ore itself is ext
         <link href="https://twitter.com/elonmusk/status/1617017972278824961"/>
         <updated>2023-01-22T04:35:01.000Z</updated>
         <summary type="html"><![CDATA[Re @TheRabbitHole84 !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillFOXLA @FoxNews Where have they *not* found classified documents? That might be a shorter list.]]></title>
-        <id>https://twitter.com/elonmusk/status/1616986629423632385</id>
-        <link href="https://twitter.com/elonmusk/status/1616986629423632385"/>
-        <updated>2023-01-22T02:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillFOXLA @FoxNews Where have they *not* found classified documents? That might be a shorter list.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DrNickA True]]></title>
-        <id>https://twitter.com/elonmusk/status/1616955534879645696</id>
-        <link href="https://twitter.com/elonmusk/status/1616955534879645696"/>
-        <updated>2023-01-22T00:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @DrNickA True]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ashleevance]]></title>
-        <id>https://twitter.com/elonmusk/status/1616951140339560448</id>
-        <link href="https://twitter.com/elonmusk/status/1616951140339560448"/>
-        <updated>2023-01-22T00:09:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @ashleevance]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WallStreetSilv @CommunityNotes We are going to great lengths to avoid the Wikipedia left wing editorial control problem. By the same token, Commun...]]></title>
-        <id>https://twitter.com/elonmusk/status/1616950415735808001</id>
-        <link href="https://twitter.com/elonmusk/status/1616950415735808001"/>
-        <updated>2023-01-22T00:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @WallStreetSilv @CommunityNotes We are going to great lengths to avoid the Wikipedia left wing editorial control problem. By the same token, Community Notes cannot be biased towards the right either. Maximizing for truth is the goal.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JonErlichman Always liked that design]]></title>
-        <id>https://twitter.com/elonmusk/status/1616949045507035136</id>
-        <link href="https://twitter.com/elonmusk/status/1616949045507035136"/>
-        <updated>2023-01-22T00:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @JonErlichman Always liked that design]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ahmadtariq07 @Fidias0 True]]></title>
-        <id>https://twitter.com/elonmusk/status/1616931317022855169</id>
-        <link href="https://twitter.com/elonmusk/status/1616931317022855169"/>
-        <updated>2023-01-21T22:50:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @ahmadtariq07 @Fidias0 True]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤗]]></title>
-        <id>https://twitter.com/elonmusk/status/1616930908115984384</id>
-        <link href="https://twitter.com/elonmusk/status/1616930908115984384"/>
-        <updated>2023-01-21T22:49:04.000Z</updated>
-        <summary type="html"><![CDATA[🤗
-
-Fidias: We are definitely living in a simulation @elonmusk ! Happy National Hugging Day everyone]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jgebbia 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1616930286704689153</id>
-        <link href="https://twitter.com/elonmusk/status/1616930286704689153"/>
-        <updated>2023-01-21T22:46:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @jgebbia 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WallStreetSilv @dogeofficialceo @TheRabbitHole84 @WholeMarsBlog @BillyM2k lmao]]></title>
-        <id>https://twitter.com/elonmusk/status/1616880543924355073</id>
-        <link href="https://twitter.com/elonmusk/status/1616880543924355073"/>
-        <updated>2023-01-21T19:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @WallStreetSilv @dogeofficialceo @TheRabbitHole84 @WholeMarsBlog @BillyM2k lmao]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @tyromper Yeah, we’re thinking hard about this]]></title>
-        <id>https://twitter.com/elonmusk/status/1616865290142507009</id>
-        <link href="https://twitter.com/elonmusk/status/1616865290142507009"/>
-        <updated>2023-01-21T18:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @tyromper Yeah, we’re thinking hard about this]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
