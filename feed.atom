@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-03T02:18:39.269Z</id>
+    <id>urn:2023-02-04T02:07:40.014Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-03T02:18:39.269Z</updated>
+    <updated>2023-02-04T02:07:40.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_doge @Tesla @mayemusk @SpaceX Truth is stranger than fiction]]></title>
+        <id>https://twitter.com/elonmusk/status/1621626697320923136</id>
+        <link href="https://twitter.com/elonmusk/status/1621626697320923136"/>
+        <updated>2023-02-03T21:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge @Tesla @mayemusk @SpaceX Truth is stranger than fiction]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_doge @mayemusk @Tesla @Twitter More to come on this front. Twitter needs to be where a creator is most highly rewarded for their time & talent.]]></title>
+        <id>https://twitter.com/elonmusk/status/1621555189806399488</id>
+        <link href="https://twitter.com/elonmusk/status/1621555189806399488"/>
+        <updated>2023-02-03T17:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge @mayemusk @Tesla @Twitter More to come on this front. Twitter needs to be where a creator is most highly rewarded for their time & talent.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @firesideint Twitter’s legacy Blue Verified is unfortunately deeply corrupted, so will sunset in a few months]]></title>
+        <id>https://twitter.com/elonmusk/status/1621546844882079744</id>
+        <link href="https://twitter.com/elonmusk/status/1621546844882079744"/>
+        <updated>2023-02-03T16:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @firesideint Twitter’s legacy Blue Verified is unfortunately deeply corrupted, so will sunset in a few months]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re To be eligible, the account must be a subscriber to Twitter Blue Verified]]></title>
+        <id>https://twitter.com/elonmusk/status/1621544996167122944</id>
+        <link href="https://twitter.com/elonmusk/status/1621544996167122944"/>
+        <updated>2023-02-03T16:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Re To be eligible, the account must be a subscriber to Twitter Blue Verified]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starting today, Twitter will share ad revenue with creators for ads that appear in their reply threads]]></title>
+        <id>https://twitter.com/elonmusk/status/1621544497388875777</id>
+        <link href="https://twitter.com/elonmusk/status/1621544497388875777"/>
+        <updated>2023-02-03T16:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Starting today, Twitter will share ad revenue with creators for ads that appear in their reply threads]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @mtaibbi Wow]]></title>
+        <id>https://twitter.com/elonmusk/status/1621532990676533249</id>
+        <link href="https://twitter.com/elonmusk/status/1621532990676533249"/>
+        <updated>2023-02-03T15:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @mtaibbi Wow]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PepitoTheCat @BillyM2k @ericnakagawa I guess we could give all Verified users access to the API for posts like this]]></title>
+        <id>https://twitter.com/elonmusk/status/1621426702294609921</id>
+        <link href="https://twitter.com/elonmusk/status/1621426702294609921"/>
+        <updated>2023-02-03T08:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @PepitoTheCat @BillyM2k @ericnakagawa I guess we could give all Verified users access to the API for posts like this]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ShantMM 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1621397472756256770</id>
+        <link href="https://twitter.com/elonmusk/status/1621397472756256770"/>
+        <updated>2023-02-03T06:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @ShantMM 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @WholeMarsBlog Sucks that I had to sell so much Tesla stock to do so (sigh)]]></title>
         <id>https://twitter.com/elonmusk/status/1621298953819131905</id>
@@ -124,87 +204,6 @@ SpaceX: Falcon 9 launched its 200th successful mission, and delivered another 
         <link href="https://twitter.com/elonmusk/status/1621183130928558080"/>
         <updated>2023-02-02T16:25:53.000Z</updated>
         <summary type="html"><![CDATA[Re @AwakenWithJP Very effective]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DrJBhattacharya Wow]]></title>
-        <id>https://twitter.com/elonmusk/status/1621180934736461829</id>
-        <link href="https://twitter.com/elonmusk/status/1621180934736461829"/>
-        <updated>2023-02-02T16:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @DrJBhattacharya Wow]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xfoobar 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1621072222013235200</id>
-        <link href="https://twitter.com/elonmusk/status/1621072222013235200"/>
-        <updated>2023-02-02T09:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xfoobar 🤣🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Rainmaker1973 Humanity takes up very little of Earth’s surface area – you can fit the entire population of Earth in New York City on one floor (...]]></title>
-        <id>https://twitter.com/elonmusk/status/1621061554371436544</id>
-        <link href="https://twitter.com/elonmusk/status/1621061554371436544"/>
-        <updated>2023-02-02T08:22:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @Rainmaker1973 Humanity takes up very little of Earth’s surface area – you can fit the entire population of Earth in New York City on one floor (@waitbutwhy) https://waitbutwhy.com/2015/03/7-3-billion-people-one-building.html]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TheBabylonBee 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1621060036863868928</id>
-        <link href="https://twitter.com/elonmusk/status/1621060036863868928"/>
-        <updated>2023-02-02T08:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheBabylonBee 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship]]></title>
-        <id>https://twitter.com/SpaceX/status/1621057797021659137</id>
-        <link href="https://twitter.com/SpaceX/status/1621057797021659137"/>
-        <updated>2023-02-02T08:07:51.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jakeshieldsajj 🔥🔥]]></title>
-        <id>https://twitter.com/elonmusk/status/1621028346112131073</id>
-        <link href="https://twitter.com/elonmusk/status/1621028346112131073"/>
-        <updated>2023-02-02T06:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @jakeshieldsajj 🔥🔥]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TrungTPhan It’s coming]]></title>
-        <id>https://twitter.com/elonmusk/status/1621025885125222402</id>
-        <link href="https://twitter.com/elonmusk/status/1621025885125222402"/>
-        <updated>2023-02-02T06:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @TrungTPhan It’s coming]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re This helped identify some issues with the system. Should be addressed by next week.]]></title>
-        <id>https://twitter.com/elonmusk/status/1621025421637857280</id>
-        <link href="https://twitter.com/elonmusk/status/1621025421637857280"/>
-        <updated>2023-02-02T05:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Re This helped identify some issues with the system. Should be addressed by next week.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
