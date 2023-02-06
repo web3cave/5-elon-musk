@@ -1,206 +1,211 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T02:18:28.344Z</id>
+    <id>urn:2023-02-06T02:09:04.389Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-05T02:18:28.344Z</updated>
+    <updated>2023-02-06T02:09:04.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV V11 has been tougher than expected, as it is a significant rearchitecture of NNs, plus many more NNs replacing C++. Hoping to ship v...]]></title>
-        <id>https://twitter.com/elonmusk/status/1622000758617939969</id>
-        <link href="https://twitter.com/elonmusk/status/1622000758617939969"/>
-        <updated>2023-02-04T22:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV V11 has been tougher than expected, as  it is a significant rearchitecture of NNs, plus many more NNs replacing C++. Hoping to ship v11.3 end of week.]]></summary>
+        <title type="html"><![CDATA[Re @SPACEdotcom !]]></title>
+        <id>https://twitter.com/elonmusk/status/1622386236991148034</id>
+        <link href="https://twitter.com/elonmusk/status/1622386236991148034"/>
+        <updated>2023-02-06T00:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @SPACEdotcom !]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @cb_doge 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1621999974161547267</id>
-        <link href="https://twitter.com/elonmusk/status/1621999974161547267"/>
-        <updated>2023-02-04T22:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge 🤣]]></summary>
+        <title type="html"><![CDATA[Re @TitterTakeover @Shopify @tobi @ptraughber @Twitter @ShopifyRebels Thanks @shopify!]]></title>
+        <id>https://twitter.com/elonmusk/status/1622375485362651137</id>
+        <link href="https://twitter.com/elonmusk/status/1622375485362651137"/>
+        <updated>2023-02-05T23:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @TitterTakeover @Shopify @tobi @ptraughber @Twitter @ShopifyRebels Thanks @shopify!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Teslaconomics Very hard car to build, as it is unlike any other, but, as stated publicly, Cybertruck production starts this year]]></title>
-        <id>https://twitter.com/elonmusk/status/1621999771677245444</id>
-        <link href="https://twitter.com/elonmusk/status/1621999771677245444"/>
-        <updated>2023-02-04T22:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslaconomics Very hard car to build, as it is unlike any other, but, as stated publicly, Cybertruck production starts this year]]></summary>
+        <title type="html"><![CDATA[Re @disclosetv @TwitterSupport We think we fixed this bug today. Please lmk if you’re still seeing it.]]></title>
+        <id>https://twitter.com/elonmusk/status/1622375212397240322</id>
+        <link href="https://twitter.com/elonmusk/status/1622375212397240322"/>
+        <updated>2023-02-05T23:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @disclosetv @TwitterSupport We think we fixed this bug today. Please lmk if you’re still seeing it.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/elonmusk/status/1621998713806721025</id>
-        <link href="https://twitter.com/elonmusk/status/1621998713806721025"/>
-        <updated>2023-02-04T22:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Re]]></summary>
+        <title type="html"><![CDATA[Re @DriveTeslaca * attempt to launch in March. Success is far from certain, but excitement is guaranteed.]]></title>
+        <id>https://twitter.com/elonmusk/status/1622373225438089216</id>
+        <link href="https://twitter.com/elonmusk/status/1622373225438089216"/>
+        <updated>2023-02-05T23:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @DriveTeslaca * attempt to launch in March. Success is far from certain, but excitement is guaranteed.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @dogeofficialceo 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1621998592985632769</id>
-        <link href="https://twitter.com/elonmusk/status/1621998592985632769"/>
-        <updated>2023-02-04T22:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @dogeofficialceo 🤣]]></summary>
+        <title type="html"><![CDATA[Re @ATabarrok 😂]]></title>
+        <id>https://twitter.com/elonmusk/status/1622372713401651202</id>
+        <link href="https://twitter.com/elonmusk/status/1622372713401651202"/>
+        <updated>2023-02-05T23:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @ATabarrok 😂]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TeslaOwnersEBay If remaining tests go well, we will attempt a Starship launch next month]]></title>
-        <id>https://twitter.com/elonmusk/status/1621998434289942529</id>
-        <link href="https://twitter.com/elonmusk/status/1621998434289942529"/>
-        <updated>2023-02-04T22:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @TeslaOwnersEBay If remaining tests go well, we will attempt a Starship launch next month]]></summary>
+        <title type="html"><![CDATA[Re @unusual_whales To be extra clear, Twitter is definitely not financially healthy yet, but is trending to be so. Lots of work still needed to get th...]]></title>
+        <id>https://twitter.com/elonmusk/status/1622372516080635905</id>
+        <link href="https://twitter.com/elonmusk/status/1622372516080635905"/>
+        <updated>2023-02-05T23:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @unusual_whales To be extra clear, Twitter is definitely not financially healthy yet, but is trending to be so. Lots of work still needed to get there.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[420]]></title>
-        <id>https://twitter.com/elonmusk/status/1621997242268766212</id>
-        <link href="https://twitter.com/elonmusk/status/1621997242268766212"/>
-        <updated>2023-02-04T22:20:52.000Z</updated>
-        <summary type="html"><![CDATA[420]]></summary>
+        <title type="html"><![CDATA[Re @igorsushko !]]></title>
+        <id>https://twitter.com/elonmusk/status/1622318847641411584</id>
+        <link href="https://twitter.com/elonmusk/status/1622318847641411584"/>
+        <updated>2023-02-05T19:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @igorsushko !]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Actually happened to me]]></title>
-        <id>https://twitter.com/elonmusk/status/1621996414124310528</id>
-        <link href="https://twitter.com/elonmusk/status/1621996414124310528"/>
-        <updated>2023-02-04T22:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Actually happened to me]]></summary>
+        <title type="html"><![CDATA[RT Andrea Stroppa 🐺 Claudius Nero's Legion 🐺: Starlink funziona perfettamente. TIM ha numerosi problemi e non funziona in molte zone del paese. ...]]></title>
+        <id>https://twitter.com/andst7/status/1622309335811375106</id>
+        <link href="https://twitter.com/andst7/status/1622309335811375106"/>
+        <updated>2023-02-05T19:01:01.000Z</updated>
+        <summary type="html"><![CDATA[RT Andrea Stroppa 🐺 Claudius Nero's Legion 🐺
+Starlink funziona perfettamente. TIM ha numerosi problemi e non funziona in molte zone del paese. È un buon momento per passare a Starlink, sopratutto per chi vive fuori dalle grandi città. Ordina su
+
+Elon Musk: @westcoastbill Just posted
+ http://Starlink.com]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ordered “How to Scam” book months ago but still not arrived. Starting to think it could be … but no I’m sure it’s coming soon.]]></title>
-        <id>https://twitter.com/elonmusk/status/1621991249254223878</id>
-        <link href="https://twitter.com/elonmusk/status/1621991249254223878"/>
-        <updated>2023-02-04T21:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Ordered “How to Scam” book months ago but still not arrived. Starting to think it could be … but no I’m sure it’s coming soon.]]></summary>
+        <title type="html"><![CDATA[Re @MichaelCoudrey We would love to. Just waiting for government approvals.]]></title>
+        <id>https://twitter.com/elonmusk/status/1622308918159343623</id>
+        <link href="https://twitter.com/elonmusk/status/1622308918159343623"/>
+        <updated>2023-02-05T18:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @MichaelCoudrey We would love to. Just waiting for government approvals.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Risks of training on your own data set]]></title>
-        <id>https://twitter.com/elonmusk/status/1621988107603116033</id>
-        <link href="https://twitter.com/elonmusk/status/1621988107603116033"/>
-        <updated>2023-02-04T21:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Risks of training on your own data set]]></summary>
+        <title type="html"><![CDATA[Re @westcoastbill Just posted]]></title>
+        <id>https://twitter.com/elonmusk/status/1622308152380198918</id>
+        <link href="https://twitter.com/elonmusk/status/1622308152380198918"/>
+        <updated>2023-02-05T18:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @westcoastbill Just posted http://Starlink.com]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Neuro_Skeptic That it lacks wit]]></title>
-        <id>https://twitter.com/elonmusk/status/1621976370447278082</id>
-        <link href="https://twitter.com/elonmusk/status/1621976370447278082"/>
-        <updated>2023-02-04T20:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @Neuro_Skeptic That it lacks wit]]></summary>
+        <title type="html"><![CDATA[Disponibile in Italia!]]></title>
+        <id>https://twitter.com/elonmusk/status/1622307425226313729</id>
+        <link href="https://twitter.com/elonmusk/status/1622307425226313729"/>
+        <updated>2023-02-05T18:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Disponibile in Italia! http://Starlink.com]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @OriolVinyalsML @ylecun Petty tech beefs are one of the reasons I like this site 😂]]></title>
-        <id>https://twitter.com/elonmusk/status/1621975270755278851</id>
-        <link href="https://twitter.com/elonmusk/status/1621975270755278851"/>
-        <updated>2023-02-04T20:53:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @OriolVinyalsML @ylecun Petty tech beefs are one of the reasons I like this site 😂]]></summary>
+        <title type="html"><![CDATA[Re @zerohedge Wow]]></title>
+        <id>https://twitter.com/elonmusk/status/1622306810337050627</id>
+        <link href="https://twitter.com/elonmusk/status/1622306810337050627"/>
+        <updated>2023-02-05T18:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @zerohedge Wow]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @micsolana 😂]]></title>
-        <id>https://twitter.com/elonmusk/status/1621974601008926722</id>
-        <link href="https://twitter.com/elonmusk/status/1621974601008926722"/>
-        <updated>2023-02-04T20:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @micsolana 😂]]></summary>
+        <title type="html"><![CDATA[Re @cb_doge I’m worried about me too :(]]></title>
+        <id>https://twitter.com/elonmusk/status/1622305392213590024</id>
+        <link href="https://twitter.com/elonmusk/status/1622305392213590024"/>
+        <updated>2023-02-05T18:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge I’m worried about me too :(]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @cb_doge 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1621886041245237253</id>
-        <link href="https://twitter.com/elonmusk/status/1621886041245237253"/>
-        <updated>2023-02-04T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge 🤣]]></summary>
+        <title type="html"><![CDATA[Re @Wealth_Theory @gummibear737 @WSJ Daily user count & total user minutes are still strong, but engagement on some accounts is weirdly low]]></title>
+        <id>https://twitter.com/elonmusk/status/1622304978487361537</id>
+        <link href="https://twitter.com/elonmusk/status/1622304978487361537"/>
+        <updated>2023-02-05T18:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @Wealth_Theory @gummibear737 @WSJ Daily user count & total user minutes are still strong, but engagement on some accounts is weirdly low]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @d4t4wr4ngl3r 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1621881994375299073</id>
-        <link href="https://twitter.com/elonmusk/status/1621881994375299073"/>
-        <updated>2023-02-04T14:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @d4t4wr4ngl3r 🤣🤣]]></summary>
+        <title type="html"><![CDATA[Re @WSJ Thank you for supporting Twitter ♥️♥️]]></title>
+        <id>https://twitter.com/elonmusk/status/1622303205106356227</id>
+        <link href="https://twitter.com/elonmusk/status/1622303205106356227"/>
+        <updated>2023-02-05T18:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @WSJ Thank you for supporting Twitter ♥️♥️]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @BillyM2k @cb_doge 🤣 it’s a fair cop]]></title>
-        <id>https://twitter.com/elonmusk/status/1621881617978429440</id>
-        <link href="https://twitter.com/elonmusk/status/1621881617978429440"/>
-        <updated>2023-02-04T14:41:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k @cb_doge 🤣 it’s a fair cop]]></summary>
+        <title type="html"><![CDATA[Re @gummibear737 @WSJ We’ve found & corrected some smaller issues, but there is something fundamental that we haven’t uncovered yet. Top priority fo...]]></title>
+        <id>https://twitter.com/elonmusk/status/1622302030948622344</id>
+        <link href="https://twitter.com/elonmusk/status/1622302030948622344"/>
+        <updated>2023-02-05T18:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @gummibear737 @WSJ We’ve found & corrected some smaller issues, but there is something fundamental that we haven’t uncovered yet. Top priority for Twitter this week.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TheJackForge 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1621793704175362050</id>
-        <link href="https://twitter.com/elonmusk/status/1621793704175362050"/>
-        <updated>2023-02-04T08:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheJackForge 🤣]]></summary>
+        <title type="html"><![CDATA[Re @teslaownersSV @WSJ Similar]]></title>
+        <id>https://twitter.com/elonmusk/status/1622301419276476417</id>
+        <link href="https://twitter.com/elonmusk/status/1622301419276476417"/>
+        <updated>2023-02-05T18:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV @WSJ Similar]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @tobi !]]></title>
-        <id>https://twitter.com/elonmusk/status/1621719831249567744</id>
-        <link href="https://twitter.com/elonmusk/status/1621719831249567744"/>
-        <updated>2023-02-04T03:58:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @tobi !]]></summary>
+        <title type="html"><![CDATA[Re @WSJ Last 3 months were extremely tough, as had to save Twitter from bankruptcy, while fulfilling essential Tesla & SpaceX duties. Wouldn’t wish t...]]></title>
+        <id>https://twitter.com/elonmusk/status/1622299765848395779</id>
+        <link href="https://twitter.com/elonmusk/status/1622299765848395779"/>
+        <updated>2023-02-05T18:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @WSJ Last 3 months were extremely tough, as had to save Twitter from bankruptcy, while fulfilling essential Tesla & SpaceX duties. Wouldn’t wish that pain on anyone.
+Twitter still has challenges, but is now trending to breakeven if we keep at it. Public support is much appreciated!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TrungTPhan 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1621719712429129728</id>
-        <link href="https://twitter.com/elonmusk/status/1621719712429129728"/>
-        <updated>2023-02-04T03:58:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @TrungTPhan 🤣]]></summary>
+        <title type="html"><![CDATA[Re @ScottAdamsSays Documentaries are dangerous in this way. That said, MJ clearly had major issues. No documentary needed for that.]]></title>
+        <id>https://twitter.com/elonmusk/status/1622262145390972929</id>
+        <link href="https://twitter.com/elonmusk/status/1622262145390972929"/>
+        <updated>2023-02-05T15:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @ScottAdamsSays Documentaries are dangerous in this way. That said, MJ clearly had major issues. No documentary needed for that.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TheBabylonBee 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1621689064293339136</id>
-        <link href="https://twitter.com/elonmusk/status/1621689064293339136"/>
-        <updated>2023-02-04T01:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheBabylonBee 🤣]]></summary>
+        <title type="html"><![CDATA[Re @PepitoTheCat @BillyM2k @ericnakagawa Responding to feedback, Twitter will enable a light, write-only API for bots providing good content that is f...]]></title>
+        <id>https://twitter.com/elonmusk/status/1622082025166442505</id>
+        <link href="https://twitter.com/elonmusk/status/1622082025166442505"/>
+        <updated>2023-02-05T03:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @PepitoTheCat @BillyM2k @ericnakagawa Responding to feedback, Twitter will enable a light, write-only API for bots providing good content that is free]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
