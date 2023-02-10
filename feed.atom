@@ -1,210 +1,217 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T02:16:17.371Z</id>
+    <id>urn:2023-02-10T02:20:18.066Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T02:16:17.371Z</updated>
+    <updated>2023-02-10T02:20:18.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Team turned off 1 engine just before start & 1 stopped itself, so 31 engines fired overall. But still enough engines to reach orbit!]]></title>
+        <id>https://twitter.com/elonmusk/status/1623793909959901184</id>
+        <link href="https://twitter.com/elonmusk/status/1623793909959901184"/>
+        <updated>2023-02-09T21:20:11.000Z</updated>
+        <summary type="html"><![CDATA[Team turned off 1 engine just before start & 1 stopped itself, so 31 engines fired overall.
+But still enough engines to reach orbit!
+
+SpaceX: First static fire attempt of 33 Raptor engines on Booster 7
+ https://twitter.com/i/broadcasts/1BdGYygbWbAGX]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: First static fire attempt of 33 Raptor engines on Booster 7]]></title>
+        <id>https://twitter.com/SpaceX/status/1623790980028829696</id>
+        <link href="https://twitter.com/SpaceX/status/1623790980028829696"/>
+        <updated>2023-02-09T21:08:32.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+First static fire attempt of 33 Raptor engines on Booster 7 https://twitter.com/i/broadcasts/1BdGYygbWbAGX]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: 33 Raptor engine static fire attempt soon]]></title>
+        <id>https://twitter.com/SpaceX/status/1623789193888698368</id>
+        <link href="https://twitter.com/SpaceX/status/1623789193888698368"/>
+        <updated>2023-02-09T21:01:27.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+33 Raptor engine static fire attempt soon]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attempting Starship 33 engine static fire]]></title>
+        <id>https://twitter.com/elonmusk/status/1623788874899292161</id>
+        <link href="https://twitter.com/elonmusk/status/1623788874899292161"/>
+        <updated>2023-02-09T21:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Attempting Starship 33 engine static fire
+
+Chris Bergin - NSF: Booster 7's been loaded (partial) for the test. Now we wait for the T-10 minute siren.
+ https://www.youtube.com/watch?v=2kG4AbAcia0]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k Yes!]]></title>
+        <id>https://twitter.com/elonmusk/status/1623774520673972224</id>
+        <link href="https://twitter.com/elonmusk/status/1623774520673972224"/>
+        <updated>2023-02-09T20:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k Yes!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Shibetoshi Nakamoto: dude bookmarks are an awesome twitter feature, especially when preparing for a twitter spaces where you want to talk about par...]]></title>
+        <id>https://twitter.com/BillyM2k/status/1623756715782193153</id>
+        <link href="https://twitter.com/BillyM2k/status/1623756715782193153"/>
+        <updated>2023-02-09T18:52:23.000Z</updated>
+        <summary type="html"><![CDATA[RT Shibetoshi Nakamoto
+dude bookmarks are an awesome twitter feature, especially when preparing for a twitter spaces where you want to talk about particular tweets]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Too many journalists want to shape your opinion, rather than inform you]]></title>
+        <id>https://twitter.com/elonmusk/status/1623755509596835840</id>
+        <link href="https://twitter.com/elonmusk/status/1623755509596835840"/>
+        <updated>2023-02-09T18:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Too many journalists want to shape your opinion, rather than inform you]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TrungTPhan It’s legit day 3 at this point]]></title>
+        <id>https://twitter.com/elonmusk/status/1623749114524766208</id>
+        <link href="https://twitter.com/elonmusk/status/1623749114524766208"/>
+        <updated>2023-02-09T18:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan It’s legit day 3 at this point]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TrungTPhan 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1623748915328872454</id>
+        <link href="https://twitter.com/elonmusk/status/1623748915328872454"/>
+        <updated>2023-02-09T18:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Starlink is now available in Iceland →]]></title>
+        <id>https://twitter.com/SpaceX/status/1623671522819989504</id>
+        <link href="https://twitter.com/SpaceX/status/1623671522819989504"/>
+        <updated>2023-02-09T13:13:52.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Starlink is now available in Iceland → http://starlink.com/map]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @B_Morrows Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1623598676416561152</id>
+        <link href="https://twitter.com/elonmusk/status/1623598676416561152"/>
+        <updated>2023-02-09T08:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @B_Morrows Exactly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Rainmaker1973 That engine performed an incredible number of transformations to match Mach number!]]></title>
+        <id>https://twitter.com/elonmusk/status/1623596834685091840</id>
+        <link href="https://twitter.com/elonmusk/status/1623596834685091840"/>
+        <updated>2023-02-09T08:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 That engine performed an incredible number of transformations to match Mach number!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/elonmusk/status/1623591862912294912</id>
+        <link href="https://twitter.com/elonmusk/status/1623591862912294912"/>
+        <updated>2023-02-09T07:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://en.m.wikipedia.org/wiki/The_Lives_of_Others]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recommendation algorithm should be fixed tomorrow]]></title>
+        <id>https://twitter.com/elonmusk/status/1623590508433125376</id>
+        <link href="https://twitter.com/elonmusk/status/1623590508433125376"/>
+        <updated>2023-02-09T07:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Recommendation algorithm should be fixed tomorrow]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Woke Stasi felt the heat today 🔥]]></title>
+        <id>https://twitter.com/elonmusk/status/1623589561103421440</id>
+        <link href="https://twitter.com/elonmusk/status/1623589561103421440"/>
+        <updated>2023-02-09T07:48:10.000Z</updated>
+        <summary type="html"><![CDATA[The Woke Stasi felt the heat today 🔥]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @ZubyMusic Multiple internal & external issues simultaneously today. Should be fully back on track later tonight.]]></title>
+        <id>https://twitter.com/elonmusk/status/1623548027612057602</id>
+        <link href="https://twitter.com/elonmusk/status/1623548027612057602"/>
+        <updated>2023-02-09T05:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @ZubyMusic Multiple internal & external issues simultaneously today. Should be fully back on track later tonight.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JonathanTurley Since he placed many of them there himself, he would indeed not be “surprised” lmao]]></title>
+        <id>https://twitter.com/elonmusk/status/1623547231940018177</id>
+        <link href="https://twitter.com/elonmusk/status/1623547231940018177"/>
+        <updated>2023-02-09T04:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @JonathanTurley Since he placed many of them there himself, he would indeed not be “surprised” lmao]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k My pet theory is that too much Adderall is making people grumpy 😂]]></title>
+        <id>https://twitter.com/elonmusk/status/1623544699083694081</id>
+        <link href="https://twitter.com/elonmusk/status/1623544699083694081"/>
+        <updated>2023-02-09T04:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k My pet theory is that too much Adderall is making people grumpy 😂 https://www.nbcnews.com/news/amp/rcna66766]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter has been informed by the Turkish government that access will be reenabled shortly]]></title>
+        <id>https://twitter.com/elonmusk/status/1623470635078012928</id>
+        <link href="https://twitter.com/elonmusk/status/1623470635078012928"/>
+        <updated>2023-02-08T23:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Twitter has been informed by the Turkish government that access will be reenabled shortly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @JonathanTurley Very concerning]]></title>
         <id>https://twitter.com/elonmusk/status/1623419151321817088</id>
         <link href="https://twitter.com/elonmusk/status/1623419151321817088"/>
         <updated>2023-02-08T20:31:02.000Z</updated>
         <summary type="html"><![CDATA[Re @JonathanTurley Very concerning]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog True]]></title>
-        <id>https://twitter.com/elonmusk/status/1623407154819641345</id>
-        <link href="https://twitter.com/elonmusk/status/1623407154819641345"/>
-        <updated>2023-02-08T19:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog True]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @FonsDK We are reaching out to understand more]]></title>
-        <id>https://twitter.com/elonmusk/status/1623406984736444416</id>
-        <link href="https://twitter.com/elonmusk/status/1623406984736444416"/>
-        <updated>2023-02-08T19:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @FonsDK We are reaching out to understand more]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Lukewearechange Not a completely unblemished record]]></title>
-        <id>https://twitter.com/elonmusk/status/1623385726112104449</id>
-        <link href="https://twitter.com/elonmusk/status/1623385726112104449"/>
-        <updated>2023-02-08T18:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @Lukewearechange Not a completely unblemished record]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @charliebilello How times have changed]]></title>
-        <id>https://twitter.com/elonmusk/status/1623384733471358977</id>
-        <link href="https://twitter.com/elonmusk/status/1623384733471358977"/>
-        <updated>2023-02-08T18:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @charliebilello How times have changed]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1623382375584632834</id>
-        <link href="https://twitter.com/elonmusk/status/1623382375584632834"/>
-        <updated>2023-02-08T18:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog 🤣🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog FSD 11.3 is close to limited release. Just drove it through SF & LA yesterday. Probably 11.3.2 is able to go wide.]]></title>
-        <id>https://twitter.com/elonmusk/status/1623381526431023105</id>
-        <link href="https://twitter.com/elonmusk/status/1623381526431023105"/>
-        <updated>2023-02-08T18:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog FSD 11.3 is close to limited release. Just drove it through SF & LA yesterday. Probably 11.3.2 is able to go wide.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Sawyer Merritt: NEWS: The @Tesla Model Y was the best selling vehicle overall in California in 2022, surpassing the Toyota Camry. Tesla has also mo...]]></title>
-        <id>https://twitter.com/SawyerMerritt/status/1623358387810336768</id>
-        <link href="https://twitter.com/SawyerMerritt/status/1623358387810336768"/>
-        <updated>2023-02-08T16:29:34.000Z</updated>
-        <summary type="html"><![CDATA[RT Sawyer Merritt
-NEWS: The @Tesla Model Y was the best selling vehicle overall in California in 2022, surpassing the Toyota Camry. Tesla has also moved up to #2 in brand popularity. 1 out of every 10 vehicles sold in CA is now a Tesla. Model 3 was the 2nd best selling vehicle in CA. @elonmusk]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @farzyness 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1623238667987832834</id>
-        <link href="https://twitter.com/elonmusk/status/1623238667987832834"/>
-        <updated>2023-02-08T08:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @farzyness 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @unusual_whales Cracks me up every time 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1623216683237396481</id>
-        <link href="https://twitter.com/elonmusk/status/1623216683237396481"/>
-        <updated>2023-02-08T07:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @unusual_whales Cracks me up every time 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @engineers_feed Voxel size of the simulation]]></title>
-        <id>https://twitter.com/elonmusk/status/1623190177991561219</id>
-        <link href="https://twitter.com/elonmusk/status/1623190177991561219"/>
-        <updated>2023-02-08T05:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @engineers_feed Voxel size of the simulation]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @engineers_feed Arguably, the practical limit of pi is the number of digits required to measure radius of the universe in units of Planck length]]></title>
-        <id>https://twitter.com/elonmusk/status/1623189990015369216</id>
-        <link href="https://twitter.com/elonmusk/status/1623189990015369216"/>
-        <updated>2023-02-08T05:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @engineers_feed Arguably, the practical limit of pi is the number of digits required to measure radius of the universe in units of Planck length https://simple.m.wikipedia.org/wiki/Planck_length]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @AutismCapital Plausible]]></title>
-        <id>https://twitter.com/elonmusk/status/1623187046943580160</id>
-        <link href="https://twitter.com/elonmusk/status/1623187046943580160"/>
-        <updated>2023-02-08T05:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @AutismCapital Plausible]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎯]]></title>
-        <id>https://twitter.com/elonmusk/status/1623182547373985793</id>
-        <link href="https://twitter.com/elonmusk/status/1623182547373985793"/>
-        <updated>2023-02-08T04:50:51.000Z</updated>
-        <summary type="html"><![CDATA[🎯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Plan 3, the path to a fully sustainable energy future for Earth will be presented on March 1. The future is bright!]]></title>
-        <id>https://twitter.com/elonmusk/status/1623152067547394050</id>
-        <link href="https://twitter.com/elonmusk/status/1623152067547394050"/>
-        <updated>2023-02-08T02:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Master Plan 3, the path to a fully sustainable energy future for Earth will be presented on March 1. 
-The future is bright!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://twitter.com/elonmusk/status/1623125279773446145</id>
-        <link href="https://twitter.com/elonmusk/status/1623125279773446145"/>
-        <updated>2023-02-08T01:03:17.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: A SpaceX Starlink está agora disponível em todo o Brasil, permitindo que os clientes solicitem o serviço em todo o país →]]></title>
-        <id>https://twitter.com/SpaceX/status/1623119475972227072</id>
-        <link href="https://twitter.com/SpaceX/status/1623119475972227072"/>
-        <updated>2023-02-08T00:40:13.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-A SpaceX Starlink está agora disponível em todo o Brasil, permitindo que os clientes solicitem o serviço em todo o país → http://starlink.com/map]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @iamirishdave @MKBHD 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1623106997490163713</id>
-        <link href="https://twitter.com/elonmusk/status/1623106997490163713"/>
-        <updated>2023-02-07T23:50:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @iamirishdave @MKBHD 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @KanekoaTheGreat Wow, Stengel is explicitly saying that GEC is deceiving the American public! That’s what “propaganda” means. What he forgot to ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1623059025075261443</id>
-        <link href="https://twitter.com/elonmusk/status/1623059025075261443"/>
-        <updated>2023-02-07T20:40:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @KanekoaTheGreat Wow, Stengel is explicitly saying that GEC is deceiving the American public! That’s what “propaganda” means.
-What he forgot to mention is that GEC was used to sway US elections. @DOJPH]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ggreenwald Based bias]]></title>
-        <id>https://twitter.com/elonmusk/status/1623031211269718018</id>
-        <link href="https://twitter.com/elonmusk/status/1623031211269718018"/>
-        <updated>2023-02-07T18:49:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @ggreenwald Based bias]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
