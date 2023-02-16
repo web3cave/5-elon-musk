@@ -1,206 +1,217 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T02:18:25.837Z</id>
+    <id>urn:2023-02-16T02:16:42.958Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-15T02:18:25.838Z</updated>
+    <updated>2023-02-16T02:16:42.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @cb_doge @alifarhat79 High mileage club]]></title>
-        <id>https://twitter.com/elonmusk/status/1625665801805262848</id>
-        <link href="https://twitter.com/elonmusk/status/1625665801805262848"/>
-        <updated>2023-02-15T01:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge @alifarhat79 High mileage club]]></summary>
+        <title type="html"><![CDATA[Re @stevenmarkryan Good question]]></title>
+        <id>https://twitter.com/elonmusk/status/1626029097506963456</id>
+        <link href="https://twitter.com/elonmusk/status/1626029097506963456"/>
+        <updated>2023-02-16T01:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @stevenmarkryan Good question]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @hikingskiing A lot has happened in ten years]]></title>
-        <id>https://twitter.com/elonmusk/status/1625657077250277376</id>
-        <link href="https://twitter.com/elonmusk/status/1625657077250277376"/>
-        <updated>2023-02-15T00:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @hikingskiing A lot has happened in ten years]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @YoungBudgeteer @Jarrad_Hicks @abidc @anothercohen @chefcowboyardee That’s how I do it]]></title>
-        <id>https://twitter.com/elonmusk/status/1625655479165935616</id>
-        <link href="https://twitter.com/elonmusk/status/1625655479165935616"/>
-        <updated>2023-02-15T00:37:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @YoungBudgeteer @Jarrad_Hicks @abidc @anothercohen @chefcowboyardee That’s how I do it]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @alifarhat79 Damn, that’s impressive bus driving!]]></title>
-        <id>https://twitter.com/elonmusk/status/1625654117443182593</id>
-        <link href="https://twitter.com/elonmusk/status/1625654117443182593"/>
-        <updated>2023-02-15T00:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @alifarhat79 Damn, that’s impressive bus driving!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge @runews Haha exactly. I don’t even follow them and still I see their articles!]]></title>
-        <id>https://twitter.com/elonmusk/status/1625588142240862208</id>
-        <link href="https://twitter.com/elonmusk/status/1625588142240862208"/>
-        <updated>2023-02-14T20:09:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge @runews Haha exactly. I don’t even follow them and still I see their articles!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @monitoringbias Science-fiction ftw]]></title>
-        <id>https://twitter.com/elonmusk/status/1625582733316726784</id>
-        <link href="https://twitter.com/elonmusk/status/1625582733316726784"/>
-        <updated>2023-02-14T19:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @monitoringbias Science-fiction ftw]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @runews Just like other media lol]]></title>
-        <id>https://twitter.com/elonmusk/status/1625581905478553600</id>
-        <link href="https://twitter.com/elonmusk/status/1625581905478553600"/>
-        <updated>2023-02-14T19:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @runews Just like other media lol]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k I get all my opinions from Twitter]]></title>
-        <id>https://twitter.com/elonmusk/status/1625581158972162048</id>
-        <link href="https://twitter.com/elonmusk/status/1625581158972162048"/>
-        <updated>2023-02-14T19:42:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k I get all my opinions from Twitter]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WallStreetSilv Low birth rates lead to ghost cities and, eventually, ghost civilizations]]></title>
-        <id>https://twitter.com/elonmusk/status/1625580694494928897</id>
-        <link href="https://twitter.com/elonmusk/status/1625580694494928897"/>
-        <updated>2023-02-14T19:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @WallStreetSilv Low birth rates lead to ghost cities and, eventually, ghost civilizations]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @minliangtan Turns out we just needed to blow on the cartridge]]></title>
-        <id>https://twitter.com/elonmusk/status/1625557187321020416</id>
-        <link href="https://twitter.com/elonmusk/status/1625557187321020416"/>
-        <updated>2023-02-14T18:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @minliangtan Turns out we just needed to blow on the cartridge]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog There’s no substitute for good judgment]]></title>
-        <id>https://twitter.com/elonmusk/status/1625547430472343553</id>
-        <link href="https://twitter.com/elonmusk/status/1625547430472343553"/>
-        <updated>2023-02-14T17:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog There’s no substitute for good judgment]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WallStreetSilv A worthy goal @cb_doge!]]></title>
-        <id>https://twitter.com/elonmusk/status/1625540224150552576</id>
-        <link href="https://twitter.com/elonmusk/status/1625540224150552576"/>
-        <updated>2023-02-14T16:59:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @WallStreetSilv A worthy goal @cb_doge!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge 🍦 😋]]></title>
-        <id>https://twitter.com/elonmusk/status/1625539368671940609</id>
-        <link href="https://twitter.com/elonmusk/status/1625539368671940609"/>
-        <updated>2023-02-14T16:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge 🍦 😋]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SciGuySpace This year should average around 400 tons of useful mass to orbit per quarter]]></title>
-        <id>https://twitter.com/elonmusk/status/1625536488422404097</id>
-        <link href="https://twitter.com/elonmusk/status/1625536488422404097"/>
-        <updated>2023-02-14T16:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Re @SciGuySpace This year should average around 400 tons of useful mass to orbit per quarter]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TrungTPhan @Airbnb]]></title>
-        <id>https://twitter.com/elonmusk/status/1625535032436883456</id>
-        <link href="https://twitter.com/elonmusk/status/1625535032436883456"/>
-        <updated>2023-02-14T16:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @TrungTPhan @Airbnb]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k Nice]]></title>
-        <id>https://twitter.com/elonmusk/status/1625534022691745792</id>
-        <link href="https://twitter.com/elonmusk/status/1625534022691745792"/>
-        <updated>2023-02-14T16:34:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k Nice]]></summary>
+        <title type="html"><![CDATA[Re @POTUS @Tesla Thank you, Tesla is happy to support other EVs via our Supercharger network]]></title>
+        <id>https://twitter.com/elonmusk/status/1625999082924957698</id>
+        <link href="https://twitter.com/elonmusk/status/1625999082924957698"/>
+        <updated>2023-02-15T23:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @POTUS @Tesla Thank you, Tesla is happy to support other EVs via our Supercharger network]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Re @BillyM2k 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1625533395525849088</id>
-        <link href="https://twitter.com/elonmusk/status/1625533395525849088"/>
-        <updated>2023-02-14T16:32:17.000Z</updated>
+        <id>https://twitter.com/elonmusk/status/1625976178275422208</id>
+        <link href="https://twitter.com/elonmusk/status/1625976178275422208"/>
+        <updated>2023-02-15T21:51:44.000Z</updated>
         <summary type="html"><![CDATA[Re @BillyM2k 🤣🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @libsoftiktok My English grandmother taught me that it is disrespectful to use pronouns and that one should always use the person’s name]]></title>
-        <id>https://twitter.com/elonmusk/status/1625533122845753344</id>
-        <link href="https://twitter.com/elonmusk/status/1625533122845753344"/>
-        <updated>2023-02-14T16:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @libsoftiktok My English grandmother taught me that it is disrespectful to use pronouns and that one should always use the person’s name]]></summary>
+        <title type="html"><![CDATA[Tesla Superchargers almost everywhere]]></title>
+        <id>https://twitter.com/elonmusk/status/1625970749755502592</id>
+        <link href="https://twitter.com/elonmusk/status/1625970749755502592"/>
+        <updated>2023-02-15T21:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Tesla Superchargers almost everywhere
+
+Tesla Charging: Our US network will more than double by the end of 2024 to support our growing Tesla fleet and new EV customers]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog @GretaThunberg Twilight]]></title>
-        <id>https://twitter.com/elonmusk/status/1625531218426212353</id>
-        <link href="https://twitter.com/elonmusk/status/1625531218426212353"/>
-        <updated>2023-02-14T16:23:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog @GretaThunberg Twilight]]></summary>
+        <title type="html"><![CDATA[Are you singularity? Don’t be lonely, find a date!]]></title>
+        <id>https://twitter.com/elonmusk/status/1625969493137833984</id>
+        <link href="https://twitter.com/elonmusk/status/1625969493137833984"/>
+        <updated>2023-02-15T21:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Are you singularity? Don’t be lonely, find a date!
+
+Tesla: Find your perfect match 🤖💞]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[♥️♥️ Happy Valentine’s Day ♥️♥️]]></title>
-        <id>https://twitter.com/elonmusk/status/1625530964884729856</id>
-        <link href="https://twitter.com/elonmusk/status/1625530964884729856"/>
-        <updated>2023-02-14T16:22:37.000Z</updated>
-        <summary type="html"><![CDATA[♥️♥️ Happy Valentine’s Day ♥️♥️]]></summary>
+        <title type="html"><![CDATA[Re Interesting]]></title>
+        <id>https://twitter.com/elonmusk/status/1625954968611213312</id>
+        <link href="https://twitter.com/elonmusk/status/1625954968611213312"/>
+        <updated>2023-02-15T20:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Re Interesting https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ESYudkowsky Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1625951893200732160</id>
+        <link href="https://twitter.com/elonmusk/status/1625951893200732160"/>
+        <updated>2023-02-15T20:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @ESYudkowsky Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[True]]></title>
+        <id>https://twitter.com/elonmusk/status/1625951319755460608</id>
+        <link href="https://twitter.com/elonmusk/status/1625951319755460608"/>
+        <updated>2023-02-15T20:12:58.000Z</updated>
+        <summary type="html"><![CDATA[True
+
+Glenn Greenwald: The corporate media's ability to -- overnight -- turn anyone who dissents in anyway into some sort of fascist or even Hitler-like figure, and then have millions of their followers go around mindlessly repeating it, is both impressive and chilling:
+ https://twitter.com/MythinformedMKE/status/1625505017900974082]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dogeofficialceo 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1625949039354331139</id>
+        <link href="https://twitter.com/elonmusk/status/1625949039354331139"/>
+        <updated>2023-02-15T20:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @dogeofficialceo 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Might need a bit more polish …]]></title>
+        <id>https://twitter.com/elonmusk/status/1625936009841213440</id>
+        <link href="https://twitter.com/elonmusk/status/1625936009841213440"/>
+        <updated>2023-02-15T19:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Might need a bit more polish … https://simonwillison.net/2023/Feb/15/bing/]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @hoppar_app @SpaceX @DJSnM @spacex360 @SpaceXStarship @StarshipGazer @NASASpaceflight @Erdayastronaut @MarcusHouse @FelixSchlang @ErcXspace Pretty ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1625932922586013697</id>
+        <link href="https://twitter.com/elonmusk/status/1625932922586013697"/>
+        <updated>2023-02-15T18:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @hoppar_app @SpaceX @DJSnM @spacex360 @SpaceXStarship @StarshipGazer @NASASpaceflight @Erdayastronaut @MarcusHouse @FelixSchlang @ErcXspace Pretty close to what we’re aiming for]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @alx This tiny candle of consciousness we have on Earth might be all there is]]></title>
+        <id>https://twitter.com/elonmusk/status/1625794605370466304</id>
+        <link href="https://twitter.com/elonmusk/status/1625794605370466304"/>
+        <updated>2023-02-15T09:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @alx This tiny candle of consciousness we have on Earth might be all there is]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @alx Seemed like the right venue]]></title>
+        <id>https://twitter.com/elonmusk/status/1625792943541092357</id>
+        <link href="https://twitter.com/elonmusk/status/1625792943541092357"/>
+        <updated>2023-02-15T09:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @alx Seemed like the right venue]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Absolutely]]></title>
+        <id>https://twitter.com/elonmusk/status/1625735640800440320</id>
+        <link href="https://twitter.com/elonmusk/status/1625735640800440320"/>
+        <updated>2023-02-15T05:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Absolutely
+
+ALX 🇺🇸: BREAKING: @ElonMusk says he recommends Government officials and leaders should speak in their own voices:
+“I think people should speak in their own voice. I would encourage CEOs, legislators, to speak authentically.. Do the tweets yourself and convey your message directly”]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_doge 😎]]></title>
+        <id>https://twitter.com/elonmusk/status/1625732221482192896</id>
+        <link href="https://twitter.com/elonmusk/status/1625732221482192896"/>
+        <updated>2023-02-15T05:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge 😎]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DogeDesigner: The Twitter Board of Directors is 🔥 @elonmusk]]></title>
+        <id>https://twitter.com/cb_doge/status/1625720658801078272</id>
+        <link href="https://twitter.com/cb_doge/status/1625720658801078272"/>
+        <updated>2023-02-15T04:56:24.000Z</updated>
+        <summary type="html"><![CDATA[RT DogeDesigner
+The Twitter Board of Directors is 🔥 @elonmusk]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k He is perfect for the job 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1625697431299190784</id>
+        <link href="https://twitter.com/elonmusk/status/1625697431299190784"/>
+        <updated>2023-02-15T03:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k He is perfect for the job 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[And has 🔥🔥 style]]></title>
+        <id>https://twitter.com/elonmusk/status/1625696836886614018</id>
+        <link href="https://twitter.com/elonmusk/status/1625696836886614018"/>
+        <updated>2023-02-15T03:21:44.000Z</updated>
+        <summary type="html"><![CDATA[And has 🔥🔥 style]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He’s great with numbers!]]></title>
+        <id>https://twitter.com/elonmusk/status/1625696554467344384</id>
+        <link href="https://twitter.com/elonmusk/status/1625696554467344384"/>
+        <updated>2023-02-15T03:20:37.000Z</updated>
+        <summary type="html"><![CDATA[He’s great with numbers!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re So much better than that other guy!]]></title>
+        <id>https://twitter.com/elonmusk/status/1625696076127936512</id>
+        <link href="https://twitter.com/elonmusk/status/1625696076127936512"/>
+        <updated>2023-02-15T03:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Re So much better than that other guy!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
