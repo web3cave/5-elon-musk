@@ -1,209 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T02:28:14.650Z</id>
+    <id>urn:2023-03-02T02:23:06.784Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T02:28:14.650Z</updated>
+    <updated>2023-03-02T02:23:06.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @RepThomasMassie 🥇]]></title>
-        <id>https://twitter.com/elonmusk/status/1630719610755375104</id>
-        <link href="https://twitter.com/elonmusk/status/1630719610755375104"/>
-        <updated>2023-03-01T00:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @RepThomasMassie 🥇]]></summary>
+        <title type="html"><![CDATA[Re @stevenmarkryan Bus voltage raised from 12V to 48V drops copper usage by ~4X]]></title>
+        <id>https://twitter.com/elonmusk/status/1631062128147693573</id>
+        <link href="https://twitter.com/elonmusk/status/1631062128147693573"/>
+        <updated>2023-03-01T22:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @stevenmarkryan Bus voltage raised from 12V to 48V drops copper usage by ~4X]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WSJ @WSJopinion Good]]></title>
-        <id>https://twitter.com/elonmusk/status/1630699974261370899</id>
-        <link href="https://twitter.com/elonmusk/status/1630699974261370899"/>
-        <updated>2023-02-28T22:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @WSJ @WSJopinion Good]]></summary>
+        <title type="html"><![CDATA[Re @stevenmarkryan lol]]></title>
+        <id>https://twitter.com/elonmusk/status/1631060708715577348</id>
+        <link href="https://twitter.com/elonmusk/status/1631060708715577348"/>
+        <updated>2023-03-01T22:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @stevenmarkryan lol]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Periodic reminder to try using Twitter Lists. Will greatly improve your experience.]]></title>
-        <id>https://twitter.com/elonmusk/status/1630698427053899778</id>
-        <link href="https://twitter.com/elonmusk/status/1630698427053899778"/>
-        <updated>2023-02-28T22:36:16.000Z</updated>
-        <summary type="html"><![CDATA[Periodic reminder to try using Twitter Lists. Will greatly improve your experience.]]></summary>
+        <title type="html"><![CDATA[Re @ImMeme0 @KeithOlbermann @SenMikeLee @BasedMikeLee Olbermann posting from his dog account was epic]]></title>
+        <id>https://twitter.com/elonmusk/status/1631059721368076289</id>
+        <link href="https://twitter.com/elonmusk/status/1631059721368076289"/>
+        <updated>2023-03-01T22:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @ImMeme0 @KeithOlbermann @SenMikeLee @BasedMikeLee Olbermann posting from his dog account was epic]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @jamesdouma Accurate]]></title>
-        <id>https://twitter.com/elonmusk/status/1630680068417630214</id>
-        <link href="https://twitter.com/elonmusk/status/1630680068417630214"/>
-        <updated>2023-02-28T21:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @jamesdouma Accurate]]></summary>
+        <title type="html"><![CDATA[Re Detailed whitepaper with calculations & assumptions to be released by Tesla shortly]]></title>
+        <id>https://twitter.com/elonmusk/status/1631055720153006080</id>
+        <link href="https://twitter.com/elonmusk/status/1631055720153006080"/>
+        <updated>2023-03-01T22:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Re Detailed whitepaper with calculations & assumptions to be released by Tesla shortly]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut Yeah]]></title>
-        <id>https://twitter.com/elonmusk/status/1630676928934952963</id>
-        <link href="https://twitter.com/elonmusk/status/1630676928934952963"/>
-        <updated>2023-02-28T21:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut Yeah]]></summary>
+        <title type="html"><![CDATA[https://t.co/PHv5nGLZGe]]></title>
+        <id>https://twitter.com/elonmusk/status/1631055228089794560</id>
+        <link href="https://twitter.com/elonmusk/status/1631055228089794560"/>
+        <updated>2023-03-01T22:14:04.000Z</updated>
+        <summary type="html"><![CDATA[https://t.co/PHv5nGLZGe]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @O42nl @kirillgroshkov Tesla does INT8 inference. Way more efficient than FP16, but took us a lot of effort to overcome quantization errors.]]></title>
-        <id>https://twitter.com/elonmusk/status/1630657812530339855</id>
-        <link href="https://twitter.com/elonmusk/status/1630657812530339855"/>
-        <updated>2023-02-28T19:54:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @O42nl @kirillgroshkov Tesla does INT8 inference. Way more efficient than FP16, but took us a lot of effort to overcome quantization errors.]]></summary>
+        <title type="html"><![CDATA[Re @DavidSacks Accurate]]></title>
+        <id>https://twitter.com/elonmusk/status/1631053352200024064</id>
+        <link href="https://twitter.com/elonmusk/status/1631053352200024064"/>
+        <updated>2023-03-01T22:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @DavidSacks Accurate]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ajtourville @ulalaunch @SpaceX Wow, 9 years ago. Amazingly, the US was dependent on Russian engines for national security missions back then!]]></title>
-        <id>https://twitter.com/elonmusk/status/1630656914466938881</id>
-        <link href="https://twitter.com/elonmusk/status/1630656914466938881"/>
-        <updated>2023-02-28T19:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @ajtourville @ulalaunch @SpaceX Wow, 9 years ago. Amazingly, the US was dependent on Russian engines for national security missions back then!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut Raptor start is now reliable on the test stand under most conditions. Now we’re working on dynamically adapting the start sequence...]]></title>
-        <id>https://twitter.com/elonmusk/status/1630654820565614593</id>
-        <link href="https://twitter.com/elonmusk/status/1630654820565614593"/>
-        <updated>2023-02-28T19:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut Raptor start is now reliable on the test stand under most conditions. 
-Now we’re working on dynamically adapting the start sequence based on increasingly difficult propellant inlet pressures & temps. 
-Operating with low pressure, “warm” liquid oxygen is particularly important.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Tesmanian_com Kind words from @Toyota]]></title>
-        <id>https://twitter.com/elonmusk/status/1630652376087404554</id>
-        <link href="https://twitter.com/elonmusk/status/1630652376087404554"/>
-        <updated>2023-02-28T19:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @Tesmanian_com Kind words from @Toyota]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Erdayastronaut Raptor start sequence is 🤯🤯]]></title>
-        <id>https://twitter.com/elonmusk/status/1630651042055462922</id>
-        <link href="https://twitter.com/elonmusk/status/1630651042055462922"/>
-        <updated>2023-02-28T19:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @Erdayastronaut Raptor start sequence is 🤯🤯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: Tesla Investor Day streaming live on Twitter & YouTube at 3pm CT tomorrow]]></title>
-        <id>https://twitter.com/Tesla/status/1630647924198613004</id>
-        <link href="https://twitter.com/Tesla/status/1630647924198613004"/>
-        <updated>2023-02-28T19:15:35.000Z</updated>
+        <title type="html"><![CDATA[RT Tesla: Tesla’s purpose is to accelerate the world’s transition to sustainable energy Today, we’re unveiling Master Plan 3—the path to a fully r...]]></title>
+        <id>https://twitter.com/Tesla/status/1631044675451645952</id>
+        <link href="https://twitter.com/Tesla/status/1631044675451645952"/>
+        <updated>2023-03-01T21:32:08.000Z</updated>
         <summary type="html"><![CDATA[RT Tesla
-Tesla Investor Day streaming live on Twitter & YouTube at 3pm CT tomorrow]]></summary>
+Tesla’s purpose is to accelerate the world’s transition to sustainable energy 
+Today, we’re unveiling Master Plan 3—the path to a fully renewable energy future for 🌎 https://t.co/fsJ7qDpdqF]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ZubyMusic Looking into it]]></title>
-        <id>https://twitter.com/elonmusk/status/1630643095002857476</id>
-        <link href="https://twitter.com/elonmusk/status/1630643095002857476"/>
-        <updated>2023-02-28T18:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @ZubyMusic Looking into it]]></summary>
+        <title type="html"><![CDATA[…]]></title>
+        <id>https://twitter.com/elonmusk/status/1631042709141037056</id>
+        <link href="https://twitter.com/elonmusk/status/1631042709141037056"/>
+        <updated>2023-03-01T21:24:19.000Z</updated>
+        <summary type="html"><![CDATA[…
+
+Tesla: Tesla Investor Day https://twitter.com/i/broadcasts/1ynJOaWDYYzKR]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://t.co/4raodvAzSy]]></title>
-        <id>https://twitter.com/elonmusk/status/1630640058507116553</id>
-        <link href="https://twitter.com/elonmusk/status/1630640058507116553"/>
-        <updated>2023-02-28T18:44:20.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/4raodvAzSy]]></summary>
+        <title type="html"><![CDATA[You’re not gonna believe this, but we’re running a little late! Presentation starts in ~5 mins.]]></title>
+        <id>https://twitter.com/elonmusk/status/1631040406115823618</id>
+        <link href="https://twitter.com/elonmusk/status/1631040406115823618"/>
+        <updated>2023-03-01T21:15:10.000Z</updated>
+        <summary type="html"><![CDATA[You’re not gonna believe this, but we’re running a little late! 
+Presentation starts in ~5 mins.
+
+Tesla: Tesla Investor Day streaming live on Twitter & YouTube at 3pm CT tomorrow]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @BillyM2k 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1630632602913652756</id>
-        <link href="https://twitter.com/elonmusk/status/1630632602913652756"/>
-        <updated>2023-02-28T18:14:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k 🤣]]></summary>
+        <title type="html"><![CDATA[Re @quantumVerd @Twitter @Tesla obv]]></title>
+        <id>https://twitter.com/elonmusk/status/1631033881079197696</id>
+        <link href="https://twitter.com/elonmusk/status/1631033881079197696"/>
+        <updated>2023-03-01T20:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @quantumVerd @Twitter @Tesla obv]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @AttilaTheLund You are right]]></title>
-        <id>https://twitter.com/elonmusk/status/1630632405185843210</id>
-        <link href="https://twitter.com/elonmusk/status/1630632405185843210"/>
-        <updated>2023-02-28T18:13:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @AttilaTheLund You are right]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k @Dexerto 😂]]></title>
+        <id>https://twitter.com/elonmusk/status/1631033350746955777</id>
+        <link href="https://twitter.com/elonmusk/status/1631033350746955777"/>
+        <updated>2023-03-01T20:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @Dexerto 😂]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BasedAI]]></title>
-        <id>https://twitter.com/elonmusk/status/1630624962225553430</id>
-        <link href="https://twitter.com/elonmusk/status/1630624962225553430"/>
-        <updated>2023-02-28T17:44:21.000Z</updated>
-        <summary type="html"><![CDATA[BasedAI]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k His best work imo]]></title>
+        <id>https://twitter.com/elonmusk/status/1631032856616026112</id>
+        <link href="https://twitter.com/elonmusk/status/1631032856616026112"/>
+        <updated>2023-03-01T20:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k His best work imo]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Not_the_Bee @TheBabylonBee !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1630611599370203138</id>
-        <link href="https://twitter.com/elonmusk/status/1630611599370203138"/>
-        <updated>2023-02-28T16:51:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @Not_the_Bee @TheBabylonBee !!]]></summary>
+        <title type="html"><![CDATA[Re @catturd2 His personal account (@BasedMikeLee) was incorrectly flagged as impersonation, which is not totally crazy, since it is based]]></title>
+        <id>https://twitter.com/elonmusk/status/1631030915810967552</id>
+        <link href="https://twitter.com/elonmusk/status/1631030915810967552"/>
+        <updated>2023-03-01T20:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @catturd2 His personal account (@BasedMikeLee) was incorrectly flagged as impersonation, which is not totally crazy, since it is based]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @AlphaSignalAI Absolutely]]></title>
-        <id>https://twitter.com/elonmusk/status/1630610998460555264</id>
-        <link href="https://twitter.com/elonmusk/status/1630610998460555264"/>
-        <updated>2023-02-28T16:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @AlphaSignalAI Absolutely]]></summary>
+        <title type="html"><![CDATA[Re @pmarca Once you acknowledge that alcohol is poison, it’s fine to drink a little. The trade is a small amount of health for an even smaller amount...]]></title>
+        <id>https://twitter.com/elonmusk/status/1631012111101972486</id>
+        <link href="https://twitter.com/elonmusk/status/1631012111101972486"/>
+        <updated>2023-03-01T19:22:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @pmarca Once you acknowledge that alcohol is poison, it’s fine to drink a little. The trade is a small amount of health for an even smaller amount of fun, but that’s not crazy to do once in a while with friends.
+Alcohol is a legacy drug.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Noahpinion We have made large construction projects almost illegal]]></title>
-        <id>https://twitter.com/elonmusk/status/1630485729225703426</id>
-        <link href="https://twitter.com/elonmusk/status/1630485729225703426"/>
-        <updated>2023-02-28T08:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @Noahpinion We have made large construction projects almost illegal]]></summary>
+        <title type="html"><![CDATA[Re @neontaster 🔥🔥]]></title>
+        <id>https://twitter.com/elonmusk/status/1630829002112811009</id>
+        <link href="https://twitter.com/elonmusk/status/1630829002112811009"/>
+        <updated>2023-03-01T07:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @neontaster 🔥🔥]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @cb_doge Anubis]]></title>
-        <id>https://twitter.com/elonmusk/status/1630482637340004356</id>
-        <link href="https://twitter.com/elonmusk/status/1630482637340004356"/>
-        <updated>2023-02-28T08:18:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge Anubis]]></summary>
+        <title type="html"><![CDATA[Re @Rainmaker1973 Intense]]></title>
+        <id>https://twitter.com/elonmusk/status/1630828537870524416</id>
+        <link href="https://twitter.com/elonmusk/status/1630828537870524416"/>
+        <updated>2023-03-01T07:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 Intense]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EvaFoxU 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1630827383602450432</id>
+        <link href="https://twitter.com/elonmusk/status/1630827383602450432"/>
+        <updated>2023-03-01T07:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SawyerMerritt 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1630825219429396480</id>
+        <link href="https://twitter.com/elonmusk/status/1630825219429396480"/>
+        <updated>2023-03-01T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do you call an infinite gear ratio? All torque, no action.]]></title>
+        <id>https://twitter.com/elonmusk/status/1630816472984330241</id>
+        <link href="https://twitter.com/elonmusk/status/1630816472984330241"/>
+        <updated>2023-03-01T06:25:20.000Z</updated>
+        <summary type="html"><![CDATA[What do you call an infinite gear ratio?
+All torque, no action.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TeslaAIBot Photo filters are so misleading 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1630722888448856070</id>
+        <link href="https://twitter.com/elonmusk/status/1630722888448856070"/>
+        <updated>2023-03-01T00:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @TeslaAIBot Photo filters are so misleading 🤣🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
