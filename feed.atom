@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T03:51:22.607Z</id>
+    <id>urn:2023-03-04T02:14:03.303Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T03:51:22.607Z</updated>
+    <updated>2023-03-04T02:14:03.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[169 mT to orbit this year so far]]></title>
+        <id>https://twitter.com/elonmusk/status/1631746850054352897</id>
+        <link href="https://twitter.com/elonmusk/status/1631746850054352897"/>
+        <updated>2023-03-03T20:02:20.000Z</updated>
+        <summary type="html"><![CDATA[169 mT to orbit this year so far]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Stage 1 to stage 2 mass ratio is too high on Falcon 9, necessitating a long entry burn. This is fixed on Starship.]]></title>
+        <id>https://twitter.com/elonmusk/status/1631730183698001920</id>
+        <link href="https://twitter.com/elonmusk/status/1631730183698001920"/>
+        <updated>2023-03-03T18:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Re Stage 1 to stage 2 mass ratio is too high on Falcon 9, necessitating a long entry burn. This is fixed on Starship.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another launch https://twitter.com/spacex/status/1631723243680964608]]></title>
+        <id>https://twitter.com/elonmusk/status/1631725881378082816</id>
+        <link href="https://twitter.com/elonmusk/status/1631725881378082816"/>
+        <updated>2023-03-03T18:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Another launch https://twitter.com/spacex/status/1631723243680964608
+
+SpaceX: Watch Falcon 9 launch 51 Starlink satellites to orbit → http://spacex.com/launches https://twitter.com/i/broadcasts/1zqJVPADnrMKB]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I used to be in crypto, but now I got interested in AI"]]></title>
+        <id>https://twitter.com/elonmusk/status/1631720134636367872</id>
+        <link href="https://twitter.com/elonmusk/status/1631720134636367872"/>
+        <updated>2023-03-03T18:16:10.000Z</updated>
+        <summary type="html"><![CDATA[“I used to be in crypto, but now I got interested in AI"]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Cernovich @JackPosobiec That is the goal]]></title>
+        <id>https://twitter.com/elonmusk/status/1631706036292952064</id>
+        <link href="https://twitter.com/elonmusk/status/1631706036292952064"/>
+        <updated>2023-03-03T17:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @Cernovich @JackPosobiec That is the goal]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: More pics of Dragon and Crew-6 approaching the @space_station this morning https://t.co/G06pguu9No]]></title>
+        <id>https://twitter.com/SpaceX/status/1631642124264550400</id>
+        <link href="https://twitter.com/SpaceX/status/1631642124264550400"/>
+        <updated>2023-03-03T13:06:11.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+More pics of Dragon and Crew-6 approaching the @space_station this morning https://t.co/G06pguu9No]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Teslaconomics So many NN’s, the visualizer tool crashes trying to render them]]></title>
         <id>https://twitter.com/elonmusk/status/1631269653442961409</id>
@@ -151,67 +214,6 @@ https://amp.cnn.com/cnn/2023/03/01/asia/japan-births-2022-record-low-intl-hnk/in
         <summary type="html"><![CDATA[RT NASA
 Go for launch!
 Watch #Crew6 blast off to the @Space_Station in @SpaceX's Dragon Endeavour spacecraft. The upcoming launch attempt is scheduled for 12:34am ET (0534 UTC) on Thursday, March 2. https://twitter.com/i/broadcasts/1MnGnpaqRbwxO]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MKBHD Interesting]]></title>
-        <id>https://twitter.com/elonmusk/status/1631081153024217091</id>
-        <link href="https://twitter.com/elonmusk/status/1631081153024217091"/>
-        <updated>2023-03-01T23:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @MKBHD Interesting]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: We produced our 4 millionth vehicle at Giga Texas today ✌ https://t.co/YMxb4zX5WB]]></title>
-        <id>https://twitter.com/Tesla/status/1631075083018989568</id>
-        <link href="https://twitter.com/Tesla/status/1631075083018989568"/>
-        <updated>2023-03-01T23:32:58.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-We produced our 4 millionth vehicle at Giga Texas today ✌ https://t.co/YMxb4zX5WB]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stevenmarkryan Bus voltage raised from 12V to 48V drops copper usage by ~4X]]></title>
-        <id>https://twitter.com/elonmusk/status/1631062128147693573</id>
-        <link href="https://twitter.com/elonmusk/status/1631062128147693573"/>
-        <updated>2023-03-01T22:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @stevenmarkryan Bus voltage raised from 12V to 48V drops copper usage by ~4X]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stevenmarkryan lol]]></title>
-        <id>https://twitter.com/elonmusk/status/1631060708715577348</id>
-        <link href="https://twitter.com/elonmusk/status/1631060708715577348"/>
-        <updated>2023-03-01T22:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @stevenmarkryan lol]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ImMeme0 @KeithOlbermann @SenMikeLee @BasedMikeLee Olbermann posting from his dog account was epic]]></title>
-        <id>https://twitter.com/elonmusk/status/1631059721368076289</id>
-        <link href="https://twitter.com/elonmusk/status/1631059721368076289"/>
-        <updated>2023-03-01T22:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @ImMeme0 @KeithOlbermann @SenMikeLee @BasedMikeLee Olbermann posting from his dog account was epic]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Detailed whitepaper with calculations & assumptions to be released by Tesla shortly]]></title>
-        <id>https://twitter.com/elonmusk/status/1631055720153006080</id>
-        <link href="https://twitter.com/elonmusk/status/1631055720153006080"/>
-        <updated>2023-03-01T22:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Re Detailed whitepaper with calculations & assumptions to be released by Tesla shortly]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
