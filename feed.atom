@@ -1,219 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T02:14:03.303Z</id>
+    <id>urn:2023-03-05T02:31:25.804Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-04T02:14:03.303Z</updated>
+    <updated>2023-03-05T02:31:25.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[169 mT to orbit this year so far]]></title>
-        <id>https://twitter.com/elonmusk/status/1631746850054352897</id>
-        <link href="https://twitter.com/elonmusk/status/1631746850054352897"/>
-        <updated>2023-03-03T20:02:20.000Z</updated>
-        <summary type="html"><![CDATA[169 mT to orbit this year so far]]></summary>
+        <title type="html"><![CDATA[Re @Resist_05 I’m super pro climate, but we definitely don’t need to put farmers out of work to solve climate change. Not at all.]]></title>
+        <id>https://twitter.com/elonmusk/status/1632113740807061504</id>
+        <link href="https://twitter.com/elonmusk/status/1632113740807061504"/>
+        <updated>2023-03-04T20:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @Resist_05 I’m super pro climate, but we definitely don’t need to put farmers out of work to solve climate change. Not at all.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Stage 1 to stage 2 mass ratio is too high on Falcon 9, necessitating a long entry burn. This is fixed on Starship.]]></title>
-        <id>https://twitter.com/elonmusk/status/1631730183698001920</id>
-        <link href="https://twitter.com/elonmusk/status/1631730183698001920"/>
-        <updated>2023-03-03T18:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Re Stage 1 to stage 2 mass ratio is too high on Falcon 9, necessitating a long entry burn. This is fixed on Starship.]]></summary>
+        <title type="html"><![CDATA[https://t.co/Gegpl5sjHT]]></title>
+        <id>https://twitter.com/elonmusk/status/1632111188153606147</id>
+        <link href="https://twitter.com/elonmusk/status/1632111188153606147"/>
+        <updated>2023-03-04T20:10:05.000Z</updated>
+        <summary type="html"><![CDATA[https://t.co/Gegpl5sjHT]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Another launch https://twitter.com/spacex/status/1631723243680964608]]></title>
-        <id>https://twitter.com/elonmusk/status/1631725881378082816</id>
-        <link href="https://twitter.com/elonmusk/status/1631725881378082816"/>
-        <updated>2023-03-03T18:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Another launch https://twitter.com/spacex/status/1631723243680964608
+        <title type="html"><![CDATA[Re @CatherinScience @ZubyMusic 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1632111154498531328</id>
+        <link href="https://twitter.com/elonmusk/status/1632111154498531328"/>
+        <updated>2023-03-04T20:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @CatherinScience @ZubyMusic 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DanielHadas2 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1632110681225920515</id>
+        <link href="https://twitter.com/elonmusk/status/1632110681225920515"/>
+        <updated>2023-03-04T20:08:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @DanielHadas2 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ZubyMusic But at least we give a megaphone]]></title>
+        <id>https://twitter.com/elonmusk/status/1632109482305110017</id>
+        <link href="https://twitter.com/elonmusk/status/1632109482305110017"/>
+        <updated>2023-03-04T20:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @ZubyMusic But at least we give a megaphone]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @andst7 V true]]></title>
+        <id>https://twitter.com/elonmusk/status/1632109305846538241</id>
+        <link href="https://twitter.com/elonmusk/status/1632109305846538241"/>
+        <updated>2023-03-04T20:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @andst7 V true]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @paulg Terrible]]></title>
+        <id>https://twitter.com/elonmusk/status/1632109154205675520</id>
+        <link href="https://twitter.com/elonmusk/status/1632109154205675520"/>
+        <updated>2023-03-04T20:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @paulg Terrible]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Vegas And cool @boringcompany underground road tunnels!]]></title>
+        <id>https://twitter.com/elonmusk/status/1632108425134981122</id>
+        <link href="https://twitter.com/elonmusk/status/1632108425134981122"/>
+        <updated>2023-03-04T19:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @Vegas And cool @boringcompany underground road tunnels!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Rainmaker1973 Science found another ancient glyph https://www.sciencealert.com/penis-satellite-space-google-maps-australia-marree-man-geoglyph/amp]]></title>
+        <id>https://twitter.com/elonmusk/status/1632107309991067651</id>
+        <link href="https://twitter.com/elonmusk/status/1632107309991067651"/>
+        <updated>2023-03-04T19:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 Science found another ancient glyph
+https://www.sciencealert.com/penis-satellite-space-google-maps-australia-marree-man-geoglyph/amp]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @CommunityNotes 😂]]></title>
+        <id>https://twitter.com/elonmusk/status/1632097491809181696</id>
+        <link href="https://twitter.com/elonmusk/status/1632097491809181696"/>
+        <updated>2023-03-04T19:15:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @CommunityNotes 😂]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ZubyMusic !!]]></title>
+        <id>https://twitter.com/elonmusk/status/1632072126168440832</id>
+        <link href="https://twitter.com/elonmusk/status/1632072126168440832"/>
+        <updated>2023-03-04T17:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @ZubyMusic !!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @mkapor @TheRealFreada @CommunityNotes Literally nothing is evenly distributed by zip code, except having a zip code]]></title>
+        <id>https://twitter.com/elonmusk/status/1632071986703921152</id>
+        <link href="https://twitter.com/elonmusk/status/1632071986703921152"/>
+        <updated>2023-03-04T17:34:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @mkapor @TheRealFreada @CommunityNotes Literally nothing is evenly distributed by zip code, except having a zip code]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TheChiefNerd @rustyrockets @billmaher @joerogan Russell Brand is 🔥🔥]]></title>
+        <id>https://twitter.com/elonmusk/status/1632067924390293504</id>
+        <link href="https://twitter.com/elonmusk/status/1632067924390293504"/>
+        <updated>2023-03-04T17:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheChiefNerd @rustyrockets @billmaher @joerogan Russell Brand is 🔥🔥]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @andst7 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1632065341651054592</id>
+        <link href="https://twitter.com/elonmusk/status/1632065341651054592"/>
+        <updated>2023-03-04T17:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @andst7 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @mkapor @TheRealFreada What is your basis for claiming genius is evenly distributed by zip code? This is false. @CommunityNotes]]></title>
+        <id>https://twitter.com/elonmusk/status/1632064747964121090</id>
+        <link href="https://twitter.com/elonmusk/status/1632064747964121090"/>
+        <updated>2023-03-04T17:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @mkapor @TheRealFreada What is your basis for claiming genius is evenly distributed by zip code? This is false.
+@CommunityNotes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k @boardroom @MSU_Basketball @michiganstateu @Money23Green WoW]]></title>
+        <id>https://twitter.com/elonmusk/status/1632061483579330560</id>
+        <link href="https://twitter.com/elonmusk/status/1632061483579330560"/>
+        <updated>2023-03-04T16:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @boardroom @MSU_Basketball @michiganstateu @Money23Green WoW]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We should defund the GEC]]></title>
+        <id>https://twitter.com/elonmusk/status/1632060356930555904</id>
+        <link href="https://twitter.com/elonmusk/status/1632060356930555904"/>
+        <updated>2023-03-04T16:48:05.000Z</updated>
+        <summary type="html"><![CDATA[We should defund the GEC
 
-SpaceX: Watch Falcon 9 launch 51 Starlink satellites to orbit → http://spacex.com/launches https://twitter.com/i/broadcasts/1zqJVPADnrMKB]]></summary>
+Jonathan Turley: An old saying maintains that you do not have to find a trout in your glass to know someone is watering down the milk. This week Americans found a veritable school of trout in their milk... https://thehill.com/opinion/judiciary/3883931-twitter-discloses-another-possible-government-censorship-effort/]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“I used to be in crypto, but now I got interested in AI"]]></title>
-        <id>https://twitter.com/elonmusk/status/1631720134636367872</id>
-        <link href="https://twitter.com/elonmusk/status/1631720134636367872"/>
-        <updated>2023-03-03T18:16:10.000Z</updated>
-        <summary type="html"><![CDATA[“I used to be in crypto, but now I got interested in AI"]]></summary>
+        <title type="html"><![CDATA[Re @Rainmaker1973 17k rpm rotor – wow]]></title>
+        <id>https://twitter.com/elonmusk/status/1632058319144665088</id>
+        <link href="https://twitter.com/elonmusk/status/1632058319144665088"/>
+        <updated>2023-03-04T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rainmaker1973 17k rpm rotor – wow]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Cernovich @JackPosobiec That is the goal]]></title>
-        <id>https://twitter.com/elonmusk/status/1631706036292952064</id>
-        <link href="https://twitter.com/elonmusk/status/1631706036292952064"/>
-        <updated>2023-03-03T17:20:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @Cernovich @JackPosobiec That is the goal]]></summary>
+        <title type="html"><![CDATA[Something should be done https://t.co/17mp4XdMI0]]></title>
+        <id>https://twitter.com/elonmusk/status/1632017143498788867</id>
+        <link href="https://twitter.com/elonmusk/status/1632017143498788867"/>
+        <updated>2023-03-04T13:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Something should be done https://t.co/17mp4XdMI0]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: More pics of Dragon and Crew-6 approaching the @space_station this morning https://t.co/G06pguu9No]]></title>
-        <id>https://twitter.com/SpaceX/status/1631642124264550400</id>
-        <link href="https://twitter.com/SpaceX/status/1631642124264550400"/>
-        <updated>2023-03-03T13:06:11.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-More pics of Dragon and Crew-6 approaching the @space_station this morning https://t.co/G06pguu9No]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslaconomics So many NN’s, the visualizer tool crashes trying to render them]]></title>
-        <id>https://twitter.com/elonmusk/status/1631269653442961409</id>
-        <link href="https://twitter.com/elonmusk/status/1631269653442961409"/>
-        <updated>2023-03-02T12:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslaconomics So many NN’s, the visualizer tool crashes trying to render them]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RichardDawkins This is insane]]></title>
-        <id>https://twitter.com/elonmusk/status/1631257681473294338</id>
-        <link href="https://twitter.com/elonmusk/status/1631257681473294338"/>
-        <updated>2023-03-02T11:38:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @RichardDawkins This is insane]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k 🤣💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1631202637184991237</id>
-        <link href="https://twitter.com/elonmusk/status/1631202637184991237"/>
-        <updated>2023-03-02T07:59:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k 🤣💯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ability of Twitter advertising to reach the most influential people in the world is often not fully appreciated. While a few other social networks...]]></title>
-        <id>https://twitter.com/elonmusk/status/1631199184203182080</id>
-        <link href="https://twitter.com/elonmusk/status/1631199184203182080"/>
-        <updated>2023-03-02T07:46:06.000Z</updated>
-        <summary type="html"><![CDATA[The ability of Twitter advertising to reach the most influential people in the world is often not fully appreciated.
-While a few other social networks are technically bigger, Twitter is where the writers & leaders spend their time.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslaconomics Cybertruck cruisers will be next-level. Designed for Bladerunner.]]></title>
-        <id>https://twitter.com/elonmusk/status/1631194410552803328</id>
-        <link href="https://twitter.com/elonmusk/status/1631194410552803328"/>
-        <updated>2023-03-02T07:27:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslaconomics Cybertruck cruisers will be next-level. Designed for Bladerunner.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Liftoff of Crew-6! https://t.co/BucEYeIIFe]]></title>
-        <id>https://twitter.com/SpaceX/status/1631166308288172032</id>
-        <link href="https://twitter.com/SpaceX/status/1631166308288172032"/>
-        <updated>2023-03-02T05:35:28.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Liftoff of Crew-6! https://t.co/BucEYeIIFe]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT NASA: Rocket fueling has started and all systems remain GO for launch. NASA’s @SpaceX #Crew6 mission is set to lift off at 12:34am ET (0534 UTC). ...]]></title>
-        <id>https://twitter.com/NASA/status/1631158408245125122</id>
-        <link href="https://twitter.com/NASA/status/1631158408245125122"/>
-        <updated>2023-03-02T05:04:04.000Z</updated>
-        <summary type="html"><![CDATA[RT NASA
-Rocket fueling has started and all systems remain GO for launch.
-NASA’s @SpaceX #Crew6 mission is set to lift off at 12:34am ET (0534 UTC). The countdown continues. https://twitter.com/i/broadcasts/1MnGnpaqRbwxO]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Crew-6 is go for launch https://t.co/GEm1MZJIAt]]></title>
-        <id>https://twitter.com/SpaceX/status/1631154951316733952</id>
-        <link href="https://twitter.com/SpaceX/status/1631154951316733952"/>
-        <updated>2023-03-02T04:50:20.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Crew-6 is go for launch https://t.co/GEm1MZJIAt]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: Watch Falcon 9 launch Dragon and Crew-6 to the @space_station → http://spacex.com/launches https://twitter.com/i/broadcasts/1kvJpmQYLmDxE]]></title>
-        <id>https://twitter.com/SpaceX/status/1631150797219307521</id>
-        <link href="https://twitter.com/SpaceX/status/1631150797219307521"/>
-        <updated>2023-03-02T04:33:50.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Watch Falcon 9 launch Dragon and Crew-6 to the @space_station → http://spacex.com/launches https://twitter.com/i/broadcasts/1kvJpmQYLmDxE]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twice as many people died in Japan last year as were born. Population freefall. Rest of the world is trending to follow. https://amp.cnn.com/cnn/2023/...]]></title>
-        <id>https://twitter.com/elonmusk/status/1631126559015747585</id>
-        <link href="https://twitter.com/elonmusk/status/1631126559015747585"/>
-        <updated>2023-03-02T02:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Twice as many people died in Japan last year as were born. Population freefall.
-Rest of the world is trending to follow.
-https://amp.cnn.com/cnn/2023/03/01/asia/japan-births-2022-record-low-intl-hnk/index.html]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @FonsDK Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1631122553258274818</id>
-        <link href="https://twitter.com/elonmusk/status/1631122553258274818"/>
-        <updated>2023-03-02T02:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @FonsDK Exactly]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @lrocket Wow]]></title>
-        <id>https://twitter.com/elonmusk/status/1631122359556947973</id>
-        <link href="https://twitter.com/elonmusk/status/1631122359556947973"/>
-        <updated>2023-03-02T02:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @lrocket Wow]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @kylegriffin1 Good for @LillyPad!]]></title>
-        <id>https://twitter.com/elonmusk/status/1631116559941771265</id>
-        <link href="https://twitter.com/elonmusk/status/1631116559941771265"/>
-        <updated>2023-03-02T02:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @kylegriffin1 Good for @LillyPad!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT NASA: Go for launch! Watch #Crew6 blast off to the @Space_Station in @SpaceX's Dragon Endeavour spacecraft. The upcoming launch attempt is schedule...]]></title>
-        <id>https://twitter.com/NASA/status/1631108570723803136</id>
-        <link href="https://twitter.com/NASA/status/1631108570723803136"/>
-        <updated>2023-03-02T01:46:02.000Z</updated>
-        <summary type="html"><![CDATA[RT NASA
-Go for launch!
-Watch #Crew6 blast off to the @Space_Station in @SpaceX's Dragon Endeavour spacecraft. The upcoming launch attempt is scheduled for 12:34am ET (0534 UTC) on Thursday, March 2. https://twitter.com/i/broadcasts/1MnGnpaqRbwxO]]></summary>
+        <title type="html"><![CDATA[Re @pmarca Very few Americans seem to realize the severity of the situation]]></title>
+        <id>https://twitter.com/elonmusk/status/1632015912927674368</id>
+        <link href="https://twitter.com/elonmusk/status/1632015912927674368"/>
+        <updated>2023-03-04T13:51:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @pmarca Very few Americans seem to realize the severity of the situation]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
