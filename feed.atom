@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T01:59:15.354Z</id>
+    <id>urn:2023-03-22T02:01:54.974Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-21T01:59:15.354Z</updated>
+    <updated>2023-03-22T02:01:54.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @TwitterSafety This is a critical distinction. It’s obviously trivial for a single person to create 10k bot accounts on one computer, each of whic...]]></title>
+        <id>https://twitter.com/elonmusk/status/1638295996278136832</id>
+        <link href="https://twitter.com/elonmusk/status/1638295996278136832"/>
+        <updated>2023-03-21T21:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @TwitterSafety This is a critical distinction. It’s obviously trivial for a single person to create 10k bot accounts on one computer, each of which is tweeting slurs that are written to avoid text string detection. What matters is whether those tweets are actually shown to real users.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Twitter Safety: We recently partnered with @Sprinklr for an independent assessment of hate speech on Twitter, which we’ve been sharing data on pub...]]></title>
+        <id>https://twitter.com/TwitterSafety/status/1638255718540165121</id>
+        <link href="https://twitter.com/TwitterSafety/status/1638255718540165121"/>
+        <updated>2023-03-21T19:06:15.000Z</updated>
+        <summary type="html"><![CDATA[RT Twitter Safety
+We recently partnered with @Sprinklr for an independent assessment of hate speech on Twitter, which we’ve been sharing data on publicly for several months.
+Sprinklr’s AI-powered model found that the reach of hate speech on Twitter is even lower than our own model quantified 🧵]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @howstuff_works 😋]]></title>
+        <id>https://twitter.com/elonmusk/status/1638248469352841216</id>
+        <link href="https://twitter.com/elonmusk/status/1638248469352841216"/>
+        <updated>2023-03-21T18:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @howstuff_works 😋]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ashleevance Nice doors]]></title>
+        <id>https://twitter.com/elonmusk/status/1638229535903846400</id>
+        <link href="https://twitter.com/elonmusk/status/1638229535903846400"/>
+        <updated>2023-03-21T17:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @ashleevance Nice doors]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslaconomics Looking into it]]></title>
+        <id>https://twitter.com/elonmusk/status/1638225702079299584</id>
+        <link href="https://twitter.com/elonmusk/status/1638225702079299584"/>
+        <updated>2023-03-21T17:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslaconomics Looking into it]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Follow @HelpfulNotes to read highly rated @CommunityNotes]]></title>
         <id>https://twitter.com/elonmusk/status/1637992716679127042</id>
@@ -152,57 +204,6 @@ View from the second stage following last week's launch of SES-18 and SES-19 to 
         <link href="https://twitter.com/elonmusk/status/1637872698503077901"/>
         <updated>2023-03-20T17:44:16.000Z</updated>
         <summary type="html"><![CDATA[https://t.co/6LaLFNxZ9T]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @CollinRugg Inevitable. US diplomacy skill is bronze tier.]]></title>
-        <id>https://twitter.com/elonmusk/status/1637870226552283149</id>
-        <link href="https://twitter.com/elonmusk/status/1637870226552283149"/>
-        <updated>2023-03-20T17:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @CollinRugg Inevitable. US diplomacy skill is bronze tier.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RRRMovie @Teslalightshows @Tesla ♥️♥️]]></title>
-        <id>https://twitter.com/elonmusk/status/1637864234070466585</id>
-        <link href="https://twitter.com/elonmusk/status/1637864234070466585"/>
-        <updated>2023-03-20T17:10:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @RRRMovie @Teslalightshows @Tesla ♥️♥️]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge There appears to be zero self-awareness among legacy media that they behave like an NPC drone collective 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1637864049307430914</id>
-        <link href="https://twitter.com/elonmusk/status/1637864049307430914"/>
-        <updated>2023-03-20T17:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge There appears to be zero self-awareness among legacy media that they behave like an NPC drone collective 🤣🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SciGuySpace Provided there is no serious launch anomaly, SpaceX will deliver 80% of Earth’s payload to orbit this year. Not counting Starship.]]></title>
-        <id>https://twitter.com/elonmusk/status/1637856860190433284</id>
-        <link href="https://twitter.com/elonmusk/status/1637856860190433284"/>
-        <updated>2023-03-20T16:41:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @SciGuySpace Provided there is no serious launch anomaly, SpaceX will deliver 80% of Earth’s payload to orbit this year.
-Not counting Starship.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TheBabylonBee 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1637852178046959618</id>
-        <link href="https://twitter.com/elonmusk/status/1637852178046959618"/>
-        <updated>2023-03-20T16:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheBabylonBee 🤣🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
