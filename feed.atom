@@ -1,199 +1,214 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T01:58:45.977Z</id>
+    <id>urn:2023-04-13T01:57:32.097Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-12T01:58:45.977Z</updated>
+    <updated>2023-04-13T01:57:32.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @supermariomovie Many people I know love it!]]></title>
-        <id>https://twitter.com/elonmusk/status/1645884857518792704</id>
-        <link href="https://twitter.com/elonmusk/status/1645884857518792704"/>
-        <updated>2023-04-11T20:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @supermariomovie Many people I know love it!]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k @ZubyMusic Currently stuck in Apple App Store approval process, so button works on web & Android, but not yet iOS]]></title>
+        <id>https://twitter.com/elonmusk/status/1646279398935650304</id>
+        <link href="https://twitter.com/elonmusk/status/1646279398935650304"/>
+        <updated>2023-04-12T22:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @ZubyMusic Currently stuck in Apple App Store approval process, so button works on web & Android, but not yet iOS]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: Teams are focused on launch readiness ahead of Starship’s first integrated flight test as soon as next week, pending regulatory approval ...]]></title>
-        <id>https://twitter.com/SpaceX/status/1645875678657810439</id>
-        <link href="https://twitter.com/SpaceX/status/1645875678657810439"/>
-        <updated>2023-04-11T19:45:15.000Z</updated>
+        <title type="html"><![CDATA[Re @alx 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1646272713957445632</id>
+        <link href="https://twitter.com/elonmusk/status/1646272713957445632"/>
+        <updated>2023-04-12T22:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @alx 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cb_doge @dvorahfr I will pay a million Dogecoin for proof of this mine’s existence!]]></title>
+        <id>https://twitter.com/elonmusk/status/1646272562488569857</id>
+        <link href="https://twitter.com/elonmusk/status/1646272562488569857"/>
+        <updated>2023-04-12T22:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge @dvorahfr I will pay a million Dogecoin for proof of this mine’s existence!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @zerohedge Wow]]></title>
+        <id>https://twitter.com/elonmusk/status/1646262172727775234</id>
+        <link href="https://twitter.com/elonmusk/status/1646262172727775234"/>
+        <updated>2023-04-12T21:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @zerohedge Wow]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ZubyMusic @ChrissieMayr Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1646262084878090240</id>
+        <link href="https://twitter.com/elonmusk/status/1646262084878090240"/>
+        <updated>2023-04-12T21:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @ZubyMusic @ChrissieMayr Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @zerohedge Buffett is earning crazy money from his Treasury bills]]></title>
+        <id>https://twitter.com/elonmusk/status/1646261487051350016</id>
+        <link href="https://twitter.com/elonmusk/status/1646261487051350016"/>
+        <updated>2023-04-12T21:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @zerohedge Buffett is earning crazy money from his Treasury bills]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Jason @BBCWorld Unreal]]></title>
+        <id>https://twitter.com/elonmusk/status/1646260798342451200</id>
+        <link href="https://twitter.com/elonmusk/status/1646260798342451200"/>
+        <updated>2023-04-12T21:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @Jason @BBCWorld Unreal]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Starlink ahora está disponible en El Salvador → http://starlink.com/map https://twitter.com/i/web/status/1646260782940975104]]></title>
+        <id>https://twitter.com/SpaceX/status/1646260782940975104</id>
+        <link href="https://twitter.com/SpaceX/status/1646260782940975104"/>
+        <updated>2023-04-12T21:15:31.000Z</updated>
         <summary type="html"><![CDATA[RT SpaceX
-Teams are focused on launch readiness ahead of Starship’s first integrated flight test as soon as next week, pending regulatory approval – no launch rehearsal this week http://spacex.com/launches/ https://t.co/ovYUQgAjAc]]></summary>
+Starlink ahora está disponible en El Salvador → http://starlink.com/map https://twitter.com/i/web/status/1646260782940975104]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @micsolana So inspiring to see that they have their priorities right]]></title>
-        <id>https://twitter.com/elonmusk/status/1645871954694672386</id>
-        <link href="https://twitter.com/elonmusk/status/1645871954694672386"/>
-        <updated>2023-04-11T19:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @micsolana So inspiring to see that they have their priorities right]]></summary>
+        <title type="html"><![CDATA[Re @NPR Hello?]]></title>
+        <id>https://twitter.com/elonmusk/status/1646260326009303041</id>
+        <link href="https://twitter.com/elonmusk/status/1646260326009303041"/>
+        <updated>2023-04-12T21:13:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @NPR Hello?
+
+Mike - CyberOwners.com: @elonmusk it's not taken down yet
+https://www.npr.org/about-npr/178660742/public-radio-finances https://t.co/mOKpjjOLzh]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ChrisJBakke 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1645865883456393216</id>
-        <link href="https://twitter.com/elonmusk/status/1645865883456393216"/>
-        <updated>2023-04-11T19:06:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChrisJBakke 🤣]]></summary>
+        <title type="html"><![CDATA[Re @TeslaTruckClub 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1646260108819828736</id>
+        <link href="https://twitter.com/elonmusk/status/1646260108819828736"/>
+        <updated>2023-04-12T21:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @TeslaTruckClub 🤣🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Final date for removing legacy Blue checks is 4/20]]></title>
-        <id>https://twitter.com/elonmusk/status/1645863107175284738</id>
-        <link href="https://twitter.com/elonmusk/status/1645863107175284738"/>
-        <updated>2023-04-11T18:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Final date for removing legacy Blue checks is 4/20]]></summary>
+        <title type="html"><![CDATA[Re @medicgordus Good find]]></title>
+        <id>https://twitter.com/elonmusk/status/1646259942624743425</id>
+        <link href="https://twitter.com/elonmusk/status/1646259942624743425"/>
+        <updated>2023-04-12T21:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @medicgordus Good find]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @MuskUniversity Yeah]]></title>
-        <id>https://twitter.com/elonmusk/status/1645862256826290176</id>
-        <link href="https://twitter.com/elonmusk/status/1645862256826290176"/>
-        <updated>2023-04-11T18:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @MuskUniversity Yeah]]></summary>
+        <title type="html"><![CDATA[Re @DrJBhattacharya Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1646258684820062208</id>
+        <link href="https://twitter.com/elonmusk/status/1646258684820062208"/>
+        <updated>2023-04-12T21:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @DrJBhattacharya Exactly]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Liv_Boeree @micsolana It’s super easy to get Fentanyl *right now*. People buy it in open air drug markets in SF and take it right in front of you...]]></title>
-        <id>https://twitter.com/elonmusk/status/1645860430789873664</id>
-        <link href="https://twitter.com/elonmusk/status/1645860430789873664"/>
-        <updated>2023-04-11T18:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @Liv_Boeree @micsolana It’s super easy to get Fentanyl *right now*. People buy it in open air drug markets in SF and take it right in front of you in broad daylight! They don’t even try to hide. I see this almost every time I drive to Twitter.
-Just as with alcohol prohibition, people didn’t actually… https://twitter.com/i/web/status/1645860430789873664]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k @unusual_whales Tough sledding until spring next year is my best guess]]></title>
+        <id>https://twitter.com/elonmusk/status/1646236606368718848</id>
+        <link href="https://twitter.com/elonmusk/status/1646236606368718848"/>
+        <updated>2023-04-12T19:39:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k @unusual_whales Tough sledding until spring next year is my best guess]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: Falcon Heavy in the hangar at Launch Complex 39A https://t.co/7la68mjfVD]]></title>
-        <id>https://twitter.com/SpaceX/status/1645806285550669827</id>
-        <link href="https://twitter.com/SpaceX/status/1645806285550669827"/>
-        <updated>2023-04-11T15:09:30.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Falcon Heavy in the hangar at Launch Complex 39A https://t.co/7la68mjfVD]]></summary>
+        <title type="html"><![CDATA[Re @BBCWorld I do say in the interview that I have a lot of respect for the @BBC. No organization is perfect, or course, but the BBC overall quite goo...]]></title>
+        <id>https://twitter.com/elonmusk/status/1646230633562378240</id>
+        <link href="https://twitter.com/elonmusk/status/1646230633562378240"/>
+        <updated>2023-04-12T19:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @BBCWorld I do say in the interview that I have a lot of respect for the @BBC. No organization is perfect, or course, but the BBC overall quite good.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @rawsalerts @ellagirwin @stillgray @nicksortor We are going to re-examine this policy]]></title>
-        <id>https://twitter.com/elonmusk/status/1645693519561113600</id>
-        <link href="https://twitter.com/elonmusk/status/1645693519561113600"/>
-        <updated>2023-04-11T07:41:25.000Z</updated>
-        <summary type="html"><![CDATA[Re @rawsalerts @ellagirwin @stillgray @nicksortor We are going to re-examine this policy]]></summary>
+        <title type="html"><![CDATA[Re Guess they won’t mind losing Federal funding in that case 🤷‍♂️]]></title>
+        <id>https://twitter.com/elonmusk/status/1646228701984747521</id>
+        <link href="https://twitter.com/elonmusk/status/1646228701984747521"/>
+        <updated>2023-04-12T19:08:02.000Z</updated>
+        <summary type="html"><![CDATA[Re Guess they won’t mind losing Federal funding in that case 🤷‍♂️]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X]]></title>
-        <id>https://twitter.com/elonmusk/status/1645684041264529408</id>
-        <link href="https://twitter.com/elonmusk/status/1645684041264529408"/>
-        <updated>2023-04-11T07:03:45.000Z</updated>
-        <summary type="html"><![CDATA[X]]></summary>
+        <title type="html"><![CDATA[🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1646228474628280326</id>
+        <link href="https://twitter.com/elonmusk/status/1646228474628280326"/>
+        <updated>2023-04-12T19:07:08.000Z</updated>
+        <summary type="html"><![CDATA[🤣🤣
+
+The Babylon Bee: National Public Radio Denies Being National Or Public https://buff.ly/40525Nl https://t.co/toOq8nbxGn]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @mgsiegler People give up reporting crime when no action is taken or the criminal is immediately released. They actually call it “catch and releas...]]></title>
-        <id>https://twitter.com/elonmusk/status/1645682382958399490</id>
-        <link href="https://twitter.com/elonmusk/status/1645682382958399490"/>
-        <updated>2023-04-11T06:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @mgsiegler People give up reporting crime when no action is taken or the criminal is immediately released. They actually call it “catch and release”.]]></summary>
+        <title type="html"><![CDATA[NPR literally said “Federal funding is essential to public radio” on their own website (now taken down). What hypocrites! https://t.co/kYAXW0zpyl]]></title>
+        <id>https://twitter.com/elonmusk/status/1646228065071292416</id>
+        <link href="https://twitter.com/elonmusk/status/1646228065071292416"/>
+        <updated>2023-04-12T19:05:30.000Z</updated>
+        <summary type="html"><![CDATA[NPR literally said “Federal funding is essential to public radio” on their own website (now taken down). 
+What hypocrites! https://t.co/kYAXW0zpyl]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @disclosetv Phew]]></title>
-        <id>https://twitter.com/elonmusk/status/1645674201792262145</id>
-        <link href="https://twitter.com/elonmusk/status/1645674201792262145"/>
-        <updated>2023-04-11T06:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @disclosetv Phew]]></summary>
+        <title type="html"><![CDATA[Re Defund @NPR]]></title>
+        <id>https://twitter.com/elonmusk/status/1646225313503019009</id>
+        <link href="https://twitter.com/elonmusk/status/1646225313503019009"/>
+        <updated>2023-04-12T18:54:34.000Z</updated>
+        <summary type="html"><![CDATA[Re Defund @NPR]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @0xgaut Not totally wrong. Slept on a friend’s couch last weekend.]]></title>
-        <id>https://twitter.com/elonmusk/status/1645674124289933312</id>
-        <link href="https://twitter.com/elonmusk/status/1645674124289933312"/>
-        <updated>2023-04-11T06:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xgaut Not totally wrong. Slept on a friend’s couch last weekend.]]></summary>
+        <title type="html"><![CDATA[https://t.co/krmcbhutr0]]></title>
+        <id>https://twitter.com/elonmusk/status/1646225066345234437</id>
+        <link href="https://twitter.com/elonmusk/status/1646225066345234437"/>
+        <updated>2023-04-12T18:53:35.000Z</updated>
+        <summary type="html"><![CDATA[https://t.co/krmcbhutr0]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @westcoastbill Indeed]]></title>
-        <id>https://twitter.com/elonmusk/status/1645673834723561472</id>
-        <link href="https://twitter.com/elonmusk/status/1645673834723561472"/>
-        <updated>2023-04-11T06:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @westcoastbill Indeed]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @iamharaldur 💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1645673009108357121</id>
-        <link href="https://twitter.com/elonmusk/status/1645673009108357121"/>
-        <updated>2023-04-11T06:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @iamharaldur 💯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WallStreetSilv Big problem]]></title>
-        <id>https://twitter.com/elonmusk/status/1645631773643259904</id>
-        <link href="https://twitter.com/elonmusk/status/1645631773643259904"/>
-        <updated>2023-04-11T03:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @WallStreetSilv Big problem]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @KanekoaTheGreat Good question]]></title>
-        <id>https://twitter.com/elonmusk/status/1645626887123894273</id>
-        <link href="https://twitter.com/elonmusk/status/1645626887123894273"/>
-        <updated>2023-04-11T03:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @KanekoaTheGreat Good question]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @amuse @96hoya Downtown SF looks like a zombie apocalypse. People who’ve not been there have no idea.]]></title>
-        <id>https://twitter.com/elonmusk/status/1645589870100840449</id>
-        <link href="https://twitter.com/elonmusk/status/1645589870100840449"/>
-        <updated>2023-04-11T00:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @amuse @96hoya Downtown SF looks like a zombie apocalypse. People who’ve not been there have no idea.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JTLonsdale The court proceedings will hopefully illuminate this matter]]></title>
-        <id>https://twitter.com/elonmusk/status/1645588846393061376</id>
-        <link href="https://twitter.com/elonmusk/status/1645588846393061376"/>
-        <updated>2023-04-11T00:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @JTLonsdale The court proceedings will hopefully illuminate this matter]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k This will make some people upset, but I need to emphasize that accelerating synthetic mRNA technology was another silver lining. It is a ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1646220824192630784</id>
+        <link href="https://twitter.com/elonmusk/status/1646220824192630784"/>
+        <updated>2023-04-12T18:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k This will make some people upset, but I need to emphasize that accelerating synthetic mRNA technology was another silver lining. It is a revolution in medicine, like going from analog to digital.
+The Covid mRNA vaccine dosage level was too high and having a zillion booster shots… https://twitter.com/i/web/status/1646220824192630784]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
