@@ -1,206 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T02:04:45.752Z</id>
+    <id>urn:2023-04-17T01:59:48.756Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-16T02:04:45.752Z</updated>
+    <updated>2023-04-17T01:59:48.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: Starship fully stacked at Starbase https://t.co/UW4V3ZRcLR]]></title>
-        <id>https://twitter.com/SpaceX/status/1647366817361596416</id>
-        <link href="https://twitter.com/SpaceX/status/1647366817361596416"/>
-        <updated>2023-04-15T22:30:30.000Z</updated>
+        <title type="html"><![CDATA[Re @waitbutwhy @SpaceX We will try]]></title>
+        <id>https://twitter.com/elonmusk/status/1647736242363068418</id>
+        <link href="https://twitter.com/elonmusk/status/1647736242363068418"/>
+        <updated>2023-04-16T22:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @waitbutwhy @SpaceX We will try]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @GailAlfarATX Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1647734447591112704</id>
+        <link href="https://twitter.com/elonmusk/status/1647734447591112704"/>
+        <updated>2023-04-16T22:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @GailAlfarATX Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Starship's flight test window opens at 7:00 a.m. CT tomorrow; a live webcast will begin ~45 minutes before liftoff → http://spacex.com/lau...]]></title>
+        <id>https://twitter.com/SpaceX/status/1647655398957268992</id>
+        <link href="https://twitter.com/SpaceX/status/1647655398957268992"/>
+        <updated>2023-04-16T17:37:13.000Z</updated>
         <summary type="html"><![CDATA[RT SpaceX
-Starship fully stacked at Starbase https://t.co/UW4V3ZRcLR]]></summary>
+Starship's flight test window opens at 7:00 a.m. CT tomorrow; a live webcast will begin ~45 minutes before liftoff → http://spacex.com/launches/mission/?missionId=starship-flight-test https://t.co/mBGaFNwhaU]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ShitpostGate 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1647355027151896576</id>
-        <link href="https://twitter.com/elonmusk/status/1647355027151896576"/>
-        <updated>2023-04-15T21:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @ShitpostGate 🤣]]></summary>
+        <title type="html"><![CDATA[Re @robbystarbuck @USNavy !]]></title>
+        <id>https://twitter.com/elonmusk/status/1647638991892627456</id>
+        <link href="https://twitter.com/elonmusk/status/1647638991892627456"/>
+        <updated>2023-04-16T16:32:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @robbystarbuck @USNavy !]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @KnowledgeArchiv Yes]]></title>
-        <id>https://twitter.com/elonmusk/status/1647353787835637763</id>
-        <link href="https://twitter.com/elonmusk/status/1647353787835637763"/>
-        <updated>2023-04-15T21:38:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @KnowledgeArchiv Yes]]></summary>
+        <title type="html"><![CDATA[Re @DrLoupis In any event, good manners require using the person’s name, not their pronoun, when referring to them]]></title>
+        <id>https://twitter.com/elonmusk/status/1647638617286758400</id>
+        <link href="https://twitter.com/elonmusk/status/1647638617286758400"/>
+        <updated>2023-04-16T16:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @DrLoupis In any event, good manners require using the person’s name, not their pronoun, when referring to them]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @shellenberger True. Wish it wasn’t.]]></title>
-        <id>https://twitter.com/elonmusk/status/1647352347608207360</id>
-        <link href="https://twitter.com/elonmusk/status/1647352347608207360"/>
-        <updated>2023-04-15T21:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @shellenberger True. Wish it wasn’t.]]></summary>
+        <title type="html"><![CDATA[Re @SawyerMerritt I subscribed]]></title>
+        <id>https://twitter.com/elonmusk/status/1647635519872942081</id>
+        <link href="https://twitter.com/elonmusk/status/1647635519872942081"/>
+        <updated>2023-04-16T16:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt I subscribed]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @KnowledgeArchiv Tolkien barely survived. Bolitho too. Both born in South Africa, almost to die in trenches for nothing.]]></title>
-        <id>https://twitter.com/elonmusk/status/1647352121363161088</id>
-        <link href="https://twitter.com/elonmusk/status/1647352121363161088"/>
-        <updated>2023-04-15T21:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @KnowledgeArchiv Tolkien barely survived. Bolitho too. 
-Both born in South Africa, 
-almost to die in trenches 
-for nothing.]]></summary>
+        <title type="html"><![CDATA[Re @alifarhat79 You’re welcome, now if only you were the actual head of the Fed!]]></title>
+        <id>https://twitter.com/elonmusk/status/1647629364282945536</id>
+        <link href="https://twitter.com/elonmusk/status/1647629364282945536"/>
+        <updated>2023-04-16T15:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @alifarhat79 You’re welcome, now if only you were the actual head of the Fed!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yay! Nice work Dragon Team! https://twitter.com/spacex/status/1647343795103764480]]></title>
-        <id>https://twitter.com/elonmusk/status/1647349297220812802</id>
-        <link href="https://twitter.com/elonmusk/status/1647349297220812802"/>
-        <updated>2023-04-15T21:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Yay! Nice work Dragon Team! https://twitter.com/spacex/status/1647343795103764480
-
-SpaceX: Splashdown of Dragon confirmed, completing SpaceX’s 27th cargo resupply mission to the @space_station!]]></summary>
+        <title type="html"><![CDATA[Re @alifarhat79 🤣🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1647629163698765825</id>
+        <link href="https://twitter.com/elonmusk/status/1647629163698765825"/>
+        <updated>2023-04-16T15:52:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @alifarhat79 🤣🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ChoooCole @TRHLofficial Well said]]></title>
-        <id>https://twitter.com/elonmusk/status/1647348953959071744</id>
-        <link href="https://twitter.com/elonmusk/status/1647348953959071744"/>
-        <updated>2023-04-15T21:19:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @ChoooCole @TRHLofficial Well said]]></summary>
+        <title type="html"><![CDATA[Launch attempt tomorrow https://t.co/czFsQ53Xsa]]></title>
+        <id>https://twitter.com/elonmusk/status/1647629006089461761</id>
+        <link href="https://twitter.com/elonmusk/status/1647629006089461761"/>
+        <updated>2023-04-16T15:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Launch attempt tomorrow https://t.co/czFsQ53Xsa]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Also the plot of Deus Ex https://t.co/MhL5zLJQfn]]></title>
-        <id>https://twitter.com/elonmusk/status/1647345410162450432</id>
-        <link href="https://twitter.com/elonmusk/status/1647345410162450432"/>
-        <updated>2023-04-15T21:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Also the plot of Deus Ex https://t.co/MhL5zLJQfn]]></summary>
+        <title type="html"><![CDATA[Re @TRHLofficial Absolutely]]></title>
+        <id>https://twitter.com/elonmusk/status/1647627793730002945</id>
+        <link href="https://twitter.com/elonmusk/status/1647627793730002945"/>
+        <updated>2023-04-16T15:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @TRHLofficial Absolutely]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @PeterDiamandis Probably people would]]></title>
-        <id>https://twitter.com/elonmusk/status/1647344011659870208</id>
-        <link href="https://twitter.com/elonmusk/status/1647344011659870208"/>
-        <updated>2023-04-15T20:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @PeterDiamandis Probably people would]]></summary>
+        <title type="html"><![CDATA[Re @alifarhat79 I subscribed]]></title>
+        <id>https://twitter.com/elonmusk/status/1647627671231246342</id>
+        <link href="https://twitter.com/elonmusk/status/1647627671231246342"/>
+        <updated>2023-04-16T15:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @alifarhat79 I subscribed]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: Dragon’s four main parachutes have deployed]]></title>
-        <id>https://twitter.com/SpaceX/status/1647343027248037888</id>
-        <link href="https://twitter.com/SpaceX/status/1647343027248037888"/>
-        <updated>2023-04-15T20:55:58.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-Dragon’s four main parachutes have deployed]]></summary>
+        <title type="html"><![CDATA[Re @stillgray It’s felt like that for a long time]]></title>
+        <id>https://twitter.com/elonmusk/status/1647622922381545473</id>
+        <link href="https://twitter.com/elonmusk/status/1647622922381545473"/>
+        <updated>2023-04-16T15:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @stillgray It’s felt like that for a long time]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💯 https://twitter.com/teslaownerssv/status/1647327385342320640]]></title>
-        <id>https://twitter.com/elonmusk/status/1647339741610926080</id>
-        <link href="https://twitter.com/elonmusk/status/1647339741610926080"/>
-        <updated>2023-04-15T20:42:55.000Z</updated>
-        <summary type="html"><![CDATA[💯 https://twitter.com/teslaownerssv/status/1647327385342320640
-
-Tesla Owners Silicon Valley: Starlink provides internet to the most remote areas. There is still a huge population without internet. Internet allows access to information and education. @elonmusk @SpaceX https://t.co/IGtF8TaBvS]]></summary>
+        <title type="html"><![CDATA[Re @DrLoupis Pronouns are virtue-signaling, so inevitably, as with all virtue-signaling, they will be used as a shield by bad humans]]></title>
+        <id>https://twitter.com/elonmusk/status/1647617916391522305</id>
+        <link href="https://twitter.com/elonmusk/status/1647617916391522305"/>
+        <updated>2023-04-16T15:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @DrLoupis Pronouns are virtue-signaling, so inevitably, as with all virtue-signaling, they will be used as a shield by bad humans]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I will do a Starship Spaces at 6pm CT tomorrow for subscribers only]]></title>
-        <id>https://twitter.com/elonmusk/status/1647339528833896449</id>
-        <link href="https://twitter.com/elonmusk/status/1647339528833896449"/>
-        <updated>2023-04-15T20:42:04.000Z</updated>
-        <summary type="html"><![CDATA[I will do a Starship Spaces at 6pm CT tomorrow for subscribers only]]></summary>
+        <title type="html"><![CDATA[Re @dailystoic I mean … one does control what happens a little]]></title>
+        <id>https://twitter.com/elonmusk/status/1647610803242127362</id>
+        <link href="https://twitter.com/elonmusk/status/1647610803242127362"/>
+        <updated>2023-04-16T14:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @dailystoic I mean … one does control what happens a little]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creators in Japan, Canada, Australia and New Zealand can now enable subscriptions on this platform. Our goal is to maximize the prosperity of creators...]]></title>
-        <id>https://twitter.com/elonmusk/status/1647339015132299264</id>
-        <link href="https://twitter.com/elonmusk/status/1647339015132299264"/>
-        <updated>2023-04-15T20:40:01.000Z</updated>
-        <summary type="html"><![CDATA[Creators in Japan, Canada, Australia and New Zealand can now enable subscriptions on this platform. 
-Our goal is to maximize the prosperity of creators!]]></summary>
+        <title type="html"><![CDATA[Re @johnkrausphotos I subscribed!]]></title>
+        <id>https://twitter.com/elonmusk/status/1647610092974399491</id>
+        <link href="https://twitter.com/elonmusk/status/1647610092974399491"/>
+        <updated>2023-04-16T14:37:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @johnkrausphotos I subscribed!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @GavinSBaker @FutureJurvetson @MarcRandolph Fermi’s Paradox troubles me greatly]]></title>
-        <id>https://twitter.com/elonmusk/status/1647337952375349249</id>
-        <link href="https://twitter.com/elonmusk/status/1647337952375349249"/>
-        <updated>2023-04-15T20:35:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @GavinSBaker @FutureJurvetson @MarcRandolph Fermi’s Paradox troubles me greatly]]></summary>
+        <title type="html"><![CDATA[Re @Apoctoz Send a BBC boss with 3 mini bosses]]></title>
+        <id>https://twitter.com/elonmusk/status/1647606267668463620</id>
+        <link href="https://twitter.com/elonmusk/status/1647606267668463620"/>
+        <updated>2023-04-16T14:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @Apoctoz Send a BBC boss with 3 mini bosses]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @tsrandall Tom, we’re not “starting a price war”, we’re just lowering prices to enable affordability at scale]]></title>
-        <id>https://twitter.com/elonmusk/status/1647337392268021761</id>
-        <link href="https://twitter.com/elonmusk/status/1647337392268021761"/>
-        <updated>2023-04-15T20:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @tsrandall Tom, we’re not “starting a price war”, we’re just lowering prices to enable affordability at scale]]></summary>
+        <title type="html"><![CDATA[Re @Apoctoz Next time, they should send a better NPC!]]></title>
+        <id>https://twitter.com/elonmusk/status/1647605837534298112</id>
+        <link href="https://twitter.com/elonmusk/status/1647605837534298112"/>
+        <updated>2023-04-16T14:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @Apoctoz Next time, they should send a better NPC!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @levelsio Those were sick when they came out]]></title>
-        <id>https://twitter.com/elonmusk/status/1647337157529604096</id>
-        <link href="https://twitter.com/elonmusk/status/1647337157529604096"/>
-        <updated>2023-04-15T20:32:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @levelsio Those were sick when they came out]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @krishnanrohit I knew it was futile, but “let the record show …”]]></title>
-        <id>https://twitter.com/elonmusk/status/1647336832781402112</id>
-        <link href="https://twitter.com/elonmusk/status/1647336832781402112"/>
-        <updated>2023-04-15T20:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @krishnanrohit I knew it was futile, but “let the record show …”]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @krishnanrohit 🤣🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1647336728943030273</id>
-        <link href="https://twitter.com/elonmusk/status/1647336728943030273"/>
-        <updated>2023-04-15T20:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @krishnanrohit 🤣🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @alx @gatewaypundit 🧐]]></title>
-        <id>https://twitter.com/elonmusk/status/1647333471709446144</id>
-        <link href="https://twitter.com/elonmusk/status/1647333471709446144"/>
-        <updated>2023-04-15T20:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @alx @gatewaypundit 🧐]]></summary>
+        <title type="html"><![CDATA[Re @ShitpostGate Makes sense]]></title>
+        <id>https://twitter.com/elonmusk/status/1647604417296998400</id>
+        <link href="https://twitter.com/elonmusk/status/1647604417296998400"/>
+        <updated>2023-04-16T14:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @ShitpostGate Makes sense]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
