@@ -1,157 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T02:01:36.918Z</id>
+    <id>urn:2023-04-20T01:57:54.854Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-19T02:01:36.918Z</updated>
+    <updated>2023-04-20T01:57:54.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @Lukewearechange Reminds me of Fallout]]></title>
-        <id>https://twitter.com/elonmusk/status/1648455076678356993</id>
-        <link href="https://twitter.com/elonmusk/status/1648455076678356993"/>
-        <updated>2023-04-18T22:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @Lukewearechange Reminds me of Fallout]]></summary>
+        <title type="html"><![CDATA[Re @ExplainThisBob I love Bob]]></title>
+        <id>https://twitter.com/elonmusk/status/1648794727238492162</id>
+        <link href="https://twitter.com/elonmusk/status/1648794727238492162"/>
+        <updated>2023-04-19T21:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @ExplainThisBob I love Bob]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @nypost !]]></title>
-        <id>https://twitter.com/elonmusk/status/1648454564075696131</id>
-        <link href="https://twitter.com/elonmusk/status/1648454564075696131"/>
-        <updated>2023-04-18T22:32:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @nypost !]]></summary>
+        <title type="html"><![CDATA[Re @krassenstein @TitterDaily I’m open to ideas, but ripping off the Twitter database, demonetizing it (removing ads) and then selling our data to ot...]]></title>
+        <id>https://twitter.com/elonmusk/status/1648793947806871556</id>
+        <link href="https://twitter.com/elonmusk/status/1648793947806871556"/>
+        <updated>2023-04-19T21:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @krassenstein @TitterDaily I’m open to ideas, but ripping off the Twitter database, demonetizing it (removing ads) and then selling our data to others isn’t a winning solution]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @US_FDA Why?]]></title>
-        <id>https://twitter.com/elonmusk/status/1648454119773065219</id>
-        <link href="https://twitter.com/elonmusk/status/1648454119773065219"/>
-        <updated>2023-04-18T22:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @US_FDA Why?]]></summary>
+        <title type="html"><![CDATA[Re @TheRabbitHole84 @jonesville Very rapid increase!]]></title>
+        <id>https://twitter.com/elonmusk/status/1648792196479328257</id>
+        <link href="https://twitter.com/elonmusk/status/1648792196479328257"/>
+        <updated>2023-04-19T20:54:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheRabbitHole84 @jonesville Very rapid increase!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @KanekoaTheGreat Yup]]></title>
-        <id>https://twitter.com/elonmusk/status/1648452518425559040</id>
-        <link href="https://twitter.com/elonmusk/status/1648452518425559040"/>
-        <updated>2023-04-18T22:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @KanekoaTheGreat Yup]]></summary>
+        <title type="html"><![CDATA[Re @_Escapekey_ @DrAseemMalhotra !!]]></title>
+        <id>https://twitter.com/elonmusk/status/1648790737524256769</id>
+        <link href="https://twitter.com/elonmusk/status/1648790737524256769"/>
+        <updated>2023-04-19T20:48:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @_Escapekey_ @DrAseemMalhotra !!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @KanekoaTheGreat Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1648437523453181959</id>
-        <link href="https://twitter.com/elonmusk/status/1648437523453181959"/>
-        <updated>2023-04-18T21:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @KanekoaTheGreat Exactly]]></summary>
+        <title type="html"><![CDATA[Re @DrAseemMalhotra Why did they do that?]]></title>
+        <id>https://twitter.com/elonmusk/status/1648790587196276736</id>
+        <link href="https://twitter.com/elonmusk/status/1648790587196276736"/>
+        <updated>2023-04-19T20:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @DrAseemMalhotra Why did they do that?]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @johnkrausphotos Cool!]]></title>
-        <id>https://twitter.com/elonmusk/status/1648433972664483840</id>
-        <link href="https://twitter.com/elonmusk/status/1648433972664483840"/>
-        <updated>2023-04-18T21:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @johnkrausphotos Cool!]]></summary>
+        <title type="html"><![CDATA[Re @DrJBhattacharya They should at least have mentioned that the clinical trials didn’t check for transmission-blocking]]></title>
+        <id>https://twitter.com/elonmusk/status/1648790015571382276</id>
+        <link href="https://twitter.com/elonmusk/status/1648790015571382276"/>
+        <updated>2023-04-19T20:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @DrJBhattacharya They should at least have mentioned that the clinical trials didn’t check for transmission-blocking]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Jason @Reddit They’re right]]></title>
-        <id>https://twitter.com/elonmusk/status/1648414079470452737</id>
-        <link href="https://twitter.com/elonmusk/status/1648414079470452737"/>
-        <updated>2023-04-18T19:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @Jason @Reddit They’re right]]></summary>
+        <title type="html"><![CDATA[Re @TrungTPhan Wow]]></title>
+        <id>https://twitter.com/elonmusk/status/1648787284429352964</id>
+        <link href="https://twitter.com/elonmusk/status/1648787284429352964"/>
+        <updated>2023-04-19T20:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan Wow]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @glennbeck Fringe benefit 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1648413523855261696</id>
-        <link href="https://twitter.com/elonmusk/status/1648413523855261696"/>
-        <updated>2023-04-18T19:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @glennbeck Fringe benefit 🤣]]></summary>
+        <title type="html"><![CDATA[Re @MattWallace888 Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1648786114604421120</id>
+        <link href="https://twitter.com/elonmusk/status/1648786114604421120"/>
+        <updated>2023-04-19T20:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @MattWallace888 Exactly]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TitterDaily Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1648398256555151360</id>
-        <link href="https://twitter.com/elonmusk/status/1648398256555151360"/>
-        <updated>2023-04-18T18:49:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @TitterDaily Exactly]]></summary>
+        <title type="html"><![CDATA[Re @JonErlichman Baby me]]></title>
+        <id>https://twitter.com/elonmusk/status/1648785813474344963</id>
+        <link href="https://twitter.com/elonmusk/status/1648785813474344963"/>
+        <updated>2023-04-19T20:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @JonErlichman Baby me]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TitterDaily Seriously 🤦‍♂️]]></title>
-        <id>https://twitter.com/elonmusk/status/1648397560745275392</id>
-        <link href="https://twitter.com/elonmusk/status/1648397560745275392"/>
-        <updated>2023-04-18T18:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @TitterDaily Seriously 🤦‍♂️]]></summary>
+        <title type="html"><![CDATA[Re @TitterDaily They trained illegally using Twitter data. Lawsuit time.]]></title>
+        <id>https://twitter.com/elonmusk/status/1648784955655192577</id>
+        <link href="https://twitter.com/elonmusk/status/1648784955655192577"/>
+        <updated>2023-04-19T20:25:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @TitterDaily They trained illegally using Twitter data. Lawsuit time.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @dogeofficialceo 🙌]]></title>
-        <id>https://twitter.com/elonmusk/status/1648397270654525451</id>
-        <link href="https://twitter.com/elonmusk/status/1648397270654525451"/>
-        <updated>2023-04-18T18:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @dogeofficialceo 🙌]]></summary>
+        <title type="html"><![CDATA[Re @ToscaMusk @mayemusk Happy birthday, Love E!]]></title>
+        <id>https://twitter.com/elonmusk/status/1648738803480133668</id>
+        <link href="https://twitter.com/elonmusk/status/1648738803480133668"/>
+        <updated>2023-04-19T17:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @ToscaMusk @mayemusk Happy birthday, Love E!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Tesla: Tesla Q1 Earnings Call and Q&A → https://twitter.com/i/broadcasts/1vAGRAERqmaKl]]></title>
-        <id>https://twitter.com/Tesla/status/1648355635980009472</id>
-        <link href="https://twitter.com/Tesla/status/1648355635980009472"/>
-        <updated>2023-04-18T15:59:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Tesla Q1 Earnings Call and Q&A → https://twitter.com/i/broadcasts/1vAGRAERqmaKl]]></summary>
+        <title type="html"><![CDATA[Re @TrevorMahlmann Big boy]]></title>
+        <id>https://twitter.com/elonmusk/status/1648700824120434692</id>
+        <link href="https://twitter.com/elonmusk/status/1648700824120434692"/>
+        <updated>2023-04-19T14:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrevorMahlmann Big boy]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @gregg_re Lmaoooo]]></title>
-        <id>https://twitter.com/elonmusk/status/1648347161958940674</id>
-        <link href="https://twitter.com/elonmusk/status/1648347161958940674"/>
-        <updated>2023-04-18T15:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @gregg_re Lmaoooo]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/0AeVWNBP3t]]></title>
+        <id>https://twitter.com/SpaceX/status/1648698125614477312</id>
+        <link href="https://twitter.com/SpaceX/status/1648698125614477312"/>
+        <updated>2023-04-19T14:40:39.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/0AeVWNBP3t]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @GRDecter 🥜]]></title>
-        <id>https://twitter.com/elonmusk/status/1648346238457135104</id>
-        <link href="https://twitter.com/elonmusk/status/1648346238457135104"/>
-        <updated>2023-04-18T15:22:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @GRDecter 🥜]]></summary>
+        <title type="html"><![CDATA[Re @MattWallace888 Absolutely]]></title>
+        <id>https://twitter.com/elonmusk/status/1648696585704943616</id>
+        <link href="https://twitter.com/elonmusk/status/1648696585704943616"/>
+        <updated>2023-04-19T14:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @MattWallace888 Absolutely]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @PirateWires You could charge more than $2!]]></title>
-        <id>https://twitter.com/elonmusk/status/1648341035167227904</id>
-        <link href="https://twitter.com/elonmusk/status/1648341035167227904"/>
-        <updated>2023-04-18T15:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @PirateWires You could charge more than $2!]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Liftoff! https://t.co/G967Qn865f]]></title>
+        <id>https://twitter.com/SpaceX/status/1648695960657334275</id>
+        <link href="https://twitter.com/SpaceX/status/1648695960657334275"/>
+        <updated>2023-04-19T14:32:02.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Liftoff! https://t.co/G967Qn865f]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Watch Falcon 9 launch 21 Starlink satellites to orbit → http://spacex.com/launches https://twitter.com/i/broadcasts/1kvJpmanZVZxE]]></title>
+        <id>https://twitter.com/SpaceX/status/1648694181311942656</id>
+        <link href="https://twitter.com/SpaceX/status/1648694181311942656"/>
+        <updated>2023-04-19T14:24:58.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Watch Falcon 9 launch 21 Starlink satellites to orbit → http://spacex.com/launches https://twitter.com/i/broadcasts/1kvJpmanZVZxE]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wsbsinaloa @DailyLoud 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1648692735379927040</id>
+        <link href="https://twitter.com/elonmusk/status/1648692735379927040"/>
+        <updated>2023-04-19T14:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @wsbsinaloa @DailyLoud 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WhiteHouse Given Federal expenditures, it is a matter of when, not if, we default]]></title>
+        <id>https://twitter.com/elonmusk/status/1648691889846071296</id>
+        <link href="https://twitter.com/elonmusk/status/1648691889846071296"/>
+        <updated>2023-04-19T14:15:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @WhiteHouse Given Federal expenditures, it is a matter of when, not if, we default]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
