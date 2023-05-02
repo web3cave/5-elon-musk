@@ -1,202 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T02:01:13.274Z</id>
+    <id>urn:2023-05-02T01:58:54.231Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-01T02:01:13.274Z</updated>
+    <updated>2023-05-02T01:58:54.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: Watch Falcon Heavy launch @ViasatInc’s ViaSat-3 Americas mission to orbit → http://spacex.com/launches https://twitter.com/i/broadcasts/1...]]></title>
-        <id>https://twitter.com/SpaceX/status/1652828307019419648</id>
-        <link href="https://twitter.com/SpaceX/status/1652828307019419648"/>
-        <updated>2023-05-01T00:12:31.000Z</updated>
+        <title type="html"><![CDATA[Re @0xgaut Twitter screen time is usually more than people think]]></title>
+        <id>https://twitter.com/elonmusk/status/1653157149495664641</id>
+        <link href="https://twitter.com/elonmusk/status/1653157149495664641"/>
+        <updated>2023-05-01T21:59:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xgaut Twitter screen time is usually more than people think]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WallStreetSilv Chainmail armor making a comeback!]]></title>
+        <id>https://twitter.com/elonmusk/status/1653156320353169408</id>
+        <link href="https://twitter.com/elonmusk/status/1653156320353169408"/>
+        <updated>2023-05-01T21:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @WallStreetSilv Chainmail armor making a comeback!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @all_in_tok @Jason @theallinpod Absolutely. Same for Twitter.]]></title>
+        <id>https://twitter.com/elonmusk/status/1653143725730672640</id>
+        <link href="https://twitter.com/elonmusk/status/1653143725730672640"/>
+        <updated>2023-05-01T21:05:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @all_in_tok @Jason @theallinpod Absolutely. Same for Twitter.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SawyerMerritt @Tesla @Apple The @apple account would have many more followers if it posted content]]></title>
+        <id>https://twitter.com/elonmusk/status/1653127649143693323</id>
+        <link href="https://twitter.com/elonmusk/status/1653127649143693323"/>
+        <updated>2023-05-01T20:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @SawyerMerritt @Tesla @Apple The @apple account would have many more followers if it posted content]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EdKrassen @krassenstein Worth subscribing, even if you don’t agree with viewpoint!]]></title>
+        <id>https://twitter.com/elonmusk/status/1653098326668066816</id>
+        <link href="https://twitter.com/elonmusk/status/1653098326668066816"/>
+        <updated>2023-05-01T18:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @EdKrassen @krassenstein Worth subscribing, even if you don’t agree with viewpoint!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DavidSacks Absolutely]]></title>
+        <id>https://twitter.com/elonmusk/status/1653096543220555786</id>
+        <link href="https://twitter.com/elonmusk/status/1653096543220555786"/>
+        <updated>2023-05-01T17:58:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @DavidSacks Absolutely]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TrungTPhan If this keeps going, making new music will be illegal!]]></title>
+        <id>https://twitter.com/elonmusk/status/1653096396944203780</id>
+        <link href="https://twitter.com/elonmusk/status/1653096396944203780"/>
+        <updated>2023-05-01T17:57:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @TrungTPhan If this keeps going, making new music will be illegal!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TheBabylonBee 😂]]></title>
+        <id>https://twitter.com/elonmusk/status/1653085083807498282</id>
+        <link href="https://twitter.com/elonmusk/status/1653085083807498282"/>
+        <updated>2023-05-01T17:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheBabylonBee 😂]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @eldsjal Will try it!]]></title>
+        <id>https://twitter.com/elonmusk/status/1653084902659702805</id>
+        <link href="https://twitter.com/elonmusk/status/1653084902659702805"/>
+        <updated>2023-05-01T17:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @eldsjal Will try it!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Scobleizer The warning a bit too sensitive]]></title>
+        <id>https://twitter.com/elonmusk/status/1653084792664080410</id>
+        <link href="https://twitter.com/elonmusk/status/1653084792664080410"/>
+        <updated>2023-05-01T17:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @Scobleizer The warning a bit too sensitive]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BillyM2k Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1653084494826553370</id>
+        <link href="https://twitter.com/elonmusk/status/1653084494826553370"/>
+        <updated>2023-05-01T17:10:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Even benign dependency on AI/Automation is dangerous to civilization if taken so far that we eventually forget how the machines work]]></title>
+        <id>https://twitter.com/elonmusk/status/1653076512646610958</id>
+        <link href="https://twitter.com/elonmusk/status/1653076512646610958"/>
+        <updated>2023-05-01T16:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Re Even benign dependency on AI/Automation is dangerous to civilization if taken so far that we eventually forget how the machines work]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worth reading The Machine Stops by EM Forster if you haven’t already https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf]]></title>
+        <id>https://twitter.com/elonmusk/status/1653075645138710528</id>
+        <link href="https://twitter.com/elonmusk/status/1653075645138710528"/>
+        <updated>2023-05-01T16:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Worth reading The Machine Stops by EM Forster if you haven’t already
+https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla Charging: How it started: How it's going: https://t.co/oBCIGwNEnk]]></title>
+        <id>https://twitter.com/TeslaCharging/status/1653067774586134529</id>
+        <link href="https://twitter.com/TeslaCharging/status/1653067774586134529"/>
+        <updated>2023-05-01T16:04:04.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Charging
+How it started:                                              How it's going: https://t.co/oBCIGwNEnk]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT SpaceX: Falcon Heavy launches @ViasatInc’s ViaSat-3 Americas mission to orbit https://t.co/H87z3rmuBp]]></title>
+        <id>https://twitter.com/SpaceX/status/1653034898196955136</id>
+        <link href="https://twitter.com/SpaceX/status/1653034898196955136"/>
+        <updated>2023-05-01T13:53:26.000Z</updated>
         <summary type="html"><![CDATA[RT SpaceX
-Watch Falcon Heavy launch @ViasatInc’s ViaSat-3 Americas mission to orbit → http://spacex.com/launches  https://twitter.com/i/broadcasts/1MnGnpNXZZyxO]]></summary>
+Falcon Heavy launches @ViasatInc’s ViaSat-3 Americas mission to orbit https://t.co/H87z3rmuBp]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT SpaceX: T-1 hour until Falcon Heavy's launch of @ViasatInc’s ViaSat-3 Americas mission; weather is 95% favorable for liftoff at 8:26 p.m. ET → ht...]]></title>
-        <id>https://twitter.com/SpaceX/status/1652817138099585025</id>
-        <link href="https://twitter.com/SpaceX/status/1652817138099585025"/>
-        <updated>2023-04-30T23:28:08.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-T-1 hour until Falcon Heavy's launch of @ViasatInc’s ViaSat-3 Americas mission; weather is 95% favorable for liftoff at 8:26 p.m. ET → http://spacex.com/launches/mission/?missionId=ViaSat-3-Americas https://t.co/Odwdm4FB6D]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @andst7 Over half a decade ago]]></title>
-        <id>https://twitter.com/elonmusk/status/1652794979217993730</id>
-        <link href="https://twitter.com/elonmusk/status/1652794979217993730"/>
-        <updated>2023-04-30T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @andst7 Over half a decade ago]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: Model Y AWD is the most efficient electric SUV ever built https://t.co/q7iseDodPT]]></title>
-        <id>https://twitter.com/Tesla/status/1652778025606598657</id>
-        <link href="https://twitter.com/Tesla/status/1652778025606598657"/>
-        <updated>2023-04-30T20:52:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Model Y AWD is the most efficient electric SUV ever built https://t.co/q7iseDodPT]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TheBabylonBee 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1652769130729054208</id>
-        <link href="https://twitter.com/elonmusk/status/1652769130729054208"/>
-        <updated>2023-04-30T20:17:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @TheBabylonBee 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog 11.4.1 is promising]]></title>
-        <id>https://twitter.com/elonmusk/status/1652717957355642882</id>
-        <link href="https://twitter.com/elonmusk/status/1652717957355642882"/>
-        <updated>2023-04-30T16:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog 11.4.1 is promising]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://t.co/qcsSFT2YyV]]></title>
-        <id>https://twitter.com/elonmusk/status/1652709146389561344</id>
-        <link href="https://twitter.com/elonmusk/status/1652709146389561344"/>
-        <updated>2023-04-30T16:19:01.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/qcsSFT2YyV]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cb_doge Tesla self-driving is by far the most advanced real world AI]]></title>
-        <id>https://twitter.com/elonmusk/status/1652708566577364993</id>
-        <link href="https://twitter.com/elonmusk/status/1652708566577364993"/>
-        <updated>2023-04-30T16:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge Tesla self-driving is by far the most advanced real world AI]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @eldsjal This is becoming a serious scaling challenge]]></title>
-        <id>https://twitter.com/elonmusk/status/1652702360257306624</id>
-        <link href="https://twitter.com/elonmusk/status/1652702360257306624"/>
-        <updated>2023-04-30T15:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @eldsjal This is becoming a serious scaling challenge]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SpaceX: All systems and weather are looking good for tonight's Falcon Heavy launch of @ViasatInc's ViaSat-3 Americas mission → http://spacex.com/l...]]></title>
-        <id>https://twitter.com/SpaceX/status/1652702299884761088</id>
-        <link href="https://twitter.com/SpaceX/status/1652702299884761088"/>
-        <updated>2023-04-30T15:51:48.000Z</updated>
-        <summary type="html"><![CDATA[RT SpaceX
-All systems and weather are looking good for tonight's Falcon Heavy launch of @ViasatInc's ViaSat-3 Americas mission → http://spacex.com/launches/mission/?missionId=ViaSat-3-Americas https://t.co/7QxxecydXo]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ValueAnalyst1 It is becoming harder for people to get car loans in the US, even when their credit is good. Understandable that banks are slow to e...]]></title>
-        <id>https://twitter.com/elonmusk/status/1652701540531027970</id>
-        <link href="https://twitter.com/elonmusk/status/1652701540531027970"/>
-        <updated>2023-04-30T15:48:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @ValueAnalyst1 It is becoming harder for people to get car loans in the US, even when their credit is good. 
-Understandable that banks are slow to extend credit when they’re trying to avoid bankruptcy themselves!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @EngineeringInsd Cool :)]]></title>
-        <id>https://twitter.com/elonmusk/status/1652696609694658560</id>
-        <link href="https://twitter.com/elonmusk/status/1652696609694658560"/>
-        <updated>2023-04-30T15:29:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @EngineeringInsd Cool :)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @GuyDealership @realEstateTrent You should upload your podcasts to this platform]]></title>
-        <id>https://twitter.com/elonmusk/status/1652692958880079878</id>
-        <link href="https://twitter.com/elonmusk/status/1652692958880079878"/>
-        <updated>2023-04-30T15:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @GuyDealership @realEstateTrent You should upload your podcasts to this platform]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Rainmaker1973 High time humanity had a moonbase]]></title>
-        <id>https://twitter.com/elonmusk/status/1652594815031181314</id>
-        <link href="https://twitter.com/elonmusk/status/1652594815031181314"/>
-        <updated>2023-04-30T08:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @Rainmaker1973 High time humanity had a moonbase]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k lol they should keep doing it all day]]></title>
-        <id>https://twitter.com/elonmusk/status/1652588951964622848</id>
-        <link href="https://twitter.com/elonmusk/status/1652588951964622848"/>
-        <updated>2023-04-30T08:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k lol they should keep doing it all day]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://t.co/PoRcUYqa6b]]></title>
-        <id>https://twitter.com/elonmusk/status/1652580317058813954</id>
-        <link href="https://twitter.com/elonmusk/status/1652580317058813954"/>
-        <updated>2023-04-30T07:47:05.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/PoRcUYqa6b]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Rainmaker1973 Shannon was incredible. His work will stand for eternity.]]></title>
-        <id>https://twitter.com/elonmusk/status/1652576868992950277</id>
-        <link href="https://twitter.com/elonmusk/status/1652576868992950277"/>
-        <updated>2023-04-30T07:33:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @Rainmaker1973 Shannon was incredible. His work will stand for eternity.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @LHSummers @federalreserve @DavidWestin @BloombergTV Between, Tesla, Starlink & Twitter, I may have more real-time global economic data in one head...]]></title>
-        <id>https://twitter.com/elonmusk/status/1652563050132635648</id>
-        <link href="https://twitter.com/elonmusk/status/1652563050132635648"/>
-        <updated>2023-04-30T06:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @LHSummers @federalreserve @DavidWestin @BloombergTV Between, Tesla, Starlink & Twitter, I may have more real-time global economic data in one head than anyone ever]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: Your Tesla can automatically navigate to destinations based on your calendar https://t.co/geWybKMpbF]]></title>
-        <id>https://twitter.com/Tesla/status/1651575609783361540</id>
-        <link href="https://twitter.com/Tesla/status/1651575609783361540"/>
-        <updated>2023-04-27T13:14:44.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-Your Tesla can automatically navigate to destinations based on your calendar https://t.co/geWybKMpbF]]></summary>
+        <title type="html"><![CDATA[Falcon Heavy https://t.co/g6Ix8RLgVS]]></title>
+        <id>https://twitter.com/elonmusk/status/1652911737794883586</id>
+        <link href="https://twitter.com/elonmusk/status/1652911737794883586"/>
+        <updated>2023-05-01T05:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Falcon Heavy https://t.co/g6Ix8RLgVS]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
