@@ -1,226 +1,191 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T01:58:01.983Z</id>
+    <id>urn:2023-05-11T01:58:41.273Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-10T01:58:01.983Z</updated>
+    <updated>2023-05-11T01:58:41.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[With latest version of app, you can DM reply to any message in the thread (not just most recent) and use any emoji reaction. Release of encrypted DMs ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1656084243905384449</id>
-        <link href="https://twitter.com/elonmusk/status/1656084243905384449"/>
-        <updated>2023-05-09T23:50:26.000Z</updated>
-        <summary type="html"><![CDATA[With latest version of app, you can DM reply to any message in the thread (not just most recent) and use any emoji reaction. 
-Release of encrypted DMs V1.0 should happen tomorrow. This will grow in sophistication rapidly. The acid test is that I could not see your DMs even if… https://twitter.com/i/web/status/1656084243905384449]]></summary>
+        <title type="html"><![CDATA[Re @stclairashley !]]></title>
+        <id>https://twitter.com/elonmusk/status/1656418351265251328</id>
+        <link href="https://twitter.com/elonmusk/status/1656418351265251328"/>
+        <updated>2023-05-10T21:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @stclairashley !]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On this platform, unlike the one-way street of broadcast, people are able to interact, critique and refute whatever is said. And, of course, anything ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1656079504778092544</id>
-        <link href="https://twitter.com/elonmusk/status/1656079504778092544"/>
-        <updated>2023-05-09T23:31:37.000Z</updated>
-        <summary type="html"><![CDATA[On this platform, unlike the one-way street of broadcast, people are able to interact, critique and refute whatever is said. 
-And, of course, anything misleading will get @CommunityNotes. 
-I also want to be clear that we have not signed a deal of any kind whatsoever. Tucker is… https://twitter.com/i/web/status/1656079504778092544
-
-Tucker Carlson: We’re back. https://t.co/sG5t9gr60O]]></summary>
+        <title type="html"><![CDATA[Re @Teslaconomics Cool!]]></title>
+        <id>https://twitter.com/elonmusk/status/1656416824953806848</id>
+        <link href="https://twitter.com/elonmusk/status/1656416824953806848"/>
+        <updated>2023-05-10T21:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslaconomics Cool!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @EdKrassen @TuckerCarlson On this platform, unlike the one-way street of broadcast, people are able to interact, critique and refute whatever he or...]]></title>
-        <id>https://twitter.com/elonmusk/status/1656077408511086593</id>
-        <link href="https://twitter.com/elonmusk/status/1656077408511086593"/>
-        <updated>2023-05-09T23:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @EdKrassen @TuckerCarlson On this platform, unlike the one-way street of broadcast, people are able to interact, critique and refute whatever he or anyone may say. 
-And, of course, anything misleading will get @CommunityNotes. 
-I also want to be clear that we have not signed a deal of any kind… https://twitter.com/i/web/status/1656077408511086593]]></summary>
+        <title type="html"><![CDATA[Re @WholeMarsBlog As mentioned earlier, v11.4.1 has major architectural improvements. It’s actually much more than a point release. Should arguably b...]]></title>
+        <id>https://twitter.com/elonmusk/status/1656416107237105665</id>
+        <link href="https://twitter.com/elonmusk/status/1656416107237105665"/>
+        <updated>2023-05-10T21:49:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog As mentioned earlier, v11.4.1 has major architectural improvements. It’s actually much more than a point release. Should arguably be v12.0, but that’s reserved for when FSD is fully AI from video in to control out.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @JackPosobiec Coming]]></title>
-        <id>https://twitter.com/elonmusk/status/1656073505748963329</id>
-        <link href="https://twitter.com/elonmusk/status/1656073505748963329"/>
-        <updated>2023-05-09T23:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @JackPosobiec Coming]]></summary>
+        <title type="html"><![CDATA[Re @TitterDaily @WholeMarsBlog Twitter is an accelerant for X]]></title>
+        <id>https://twitter.com/elonmusk/status/1656414999462711296</id>
+        <link href="https://twitter.com/elonmusk/status/1656414999462711296"/>
+        <updated>2023-05-10T21:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @TitterDaily @WholeMarsBlog Twitter is an accelerant for X]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TRHLofficial It might all be true, but such an incongruent set of claims deserves extreme scrutiny]]></title>
-        <id>https://twitter.com/elonmusk/status/1655992402463821824</id>
-        <link href="https://twitter.com/elonmusk/status/1655992402463821824"/>
-        <updated>2023-05-09T17:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @TRHLofficial It might all be true, but such an incongruent set of claims deserves extreme scrutiny]]></summary>
+        <title type="html"><![CDATA[Re @alliekmiller @verge 🤣🤣 same]]></title>
+        <id>https://twitter.com/elonmusk/status/1656414114036723712</id>
+        <link href="https://twitter.com/elonmusk/status/1656414114036723712"/>
+        <updated>2023-05-10T21:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @alliekmiller @verge 🤣🤣 same]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Not_the_Bee 😬]]></title>
-        <id>https://twitter.com/elonmusk/status/1655979413022834709</id>
-        <link href="https://twitter.com/elonmusk/status/1655979413022834709"/>
-        <updated>2023-05-09T16:53:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @Not_the_Bee 😬]]></summary>
+        <title type="html"><![CDATA[RT Community Notes: Contributors’ time is valuable, and best spent reviewing high quality notes. Today we’re making the number of notes one can writ...]]></title>
+        <id>https://twitter.com/CommunityNotes/status/1656399451894718464</id>
+        <link href="https://twitter.com/CommunityNotes/status/1656399451894718464"/>
+        <updated>2023-05-10T20:42:58.000Z</updated>
+        <summary type="html"><![CDATA[RT Community Notes
+Contributors’ time is valuable, and best spent reviewing high quality notes. Today we’re making the number of notes one can write in 24h proportional to their track record. The more helpful notes you’ve written, the more you can write. If you hit your limit, you’ll see this: https://t.co/aKr2kJH6SS]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @MarcusHouse Awesome 😃]]></title>
-        <id>https://twitter.com/elonmusk/status/1655978983207338001</id>
-        <link href="https://twitter.com/elonmusk/status/1655978983207338001"/>
-        <updated>2023-05-09T16:52:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @MarcusHouse Awesome 😃]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9’s first stage has landed on the Of Course I Still Love You droneship https://t.co/wL2qRtrYxI]]></title>
+        <id>https://twitter.com/SpaceX/status/1656393245767913473</id>
+        <link href="https://twitter.com/SpaceX/status/1656393245767913473"/>
+        <updated>2023-05-10T20:18:18.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Falcon 9’s first stage has landed on the Of Course I Still Love You droneship https://t.co/wL2qRtrYxI]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yup]]></title>
-        <id>https://twitter.com/elonmusk/status/1655978502187778073</id>
-        <link href="https://twitter.com/elonmusk/status/1655978502187778073"/>
-        <updated>2023-05-09T16:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Yup
-
-CarDealershipGuy: Hot take:
-@Twitter can become the world's number-one podcast platform in LESS than 90 days.
-Posting the @CDG_Podcast directly on Twitter grew my active listeners by *400%* in 1 week.
-Why? Because people can listen without going to another platform.
-Here are 5 critical… https://twitter.com/i/web/status/1655977349530243074]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Liftoff! https://t.co/ZQmhx4Nynn]]></title>
+        <id>https://twitter.com/SpaceX/status/1656391094303866881</id>
+        <link href="https://twitter.com/SpaceX/status/1656391094303866881"/>
+        <updated>2023-05-10T20:09:45.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Liftoff! https://t.co/ZQmhx4Nynn]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TRHLofficial Didn’t the story come from @bellingcat, which literally specializes in psychological operations? I don’t want to hurt their feeling...]]></title>
-        <id>https://twitter.com/elonmusk/status/1655977617583898637</id>
-        <link href="https://twitter.com/elonmusk/status/1655977617583898637"/>
-        <updated>2023-05-09T16:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @TRHLofficial Didn’t the story come from @bellingcat, which literally specializes in psychological operations?
-I don’t want to hurt their feelings, but this is either the weirdest story ever or a very bad psyop!]]></summary>
+        <title type="html"><![CDATA[RT Tesla Europe: S3XY vehicles 🤝 hot engineers 🥵 Our field quality engineers head to Dubai at the hottest time of the year for extreme heat & du...]]></title>
+        <id>https://twitter.com/teslaeurope/status/1656348593677008901</id>
+        <link href="https://twitter.com/teslaeurope/status/1656348593677008901"/>
+        <updated>2023-05-10T17:20:52.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Europe
+S3XY vehicles 🤝 hot engineers 🥵
+Our field quality engineers head to Dubai at the hottest time of the year for extreme heat & durability testing—temperatures reach over 50°C https://t.co/ijxGJXW5ki]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Starlink: First passenger rail service in the world to adopt Starlink! 🛰️🚆]]></title>
-        <id>https://twitter.com/Starlink/status/1655976360509329408</id>
-        <link href="https://twitter.com/Starlink/status/1655976360509329408"/>
-        <updated>2023-05-09T16:41:45.000Z</updated>
-        <summary type="html"><![CDATA[RT Starlink
-First passenger rail service in the world to adopt Starlink! 🛰️🚆
-
-Brightline: We're excited to announce our collaboration with SpaceX's @Starlink to bring cutting-edge satellite technology to our trains, enhancing the guest experience & setting the stage for a better-connected passenger rail service worldwide.
-Read all about it here http://bit.ly/3NT3rIf https://t.co/HXttP1YBSZ]]></summary>
+        <title type="html"><![CDATA[https://t.co/4s6HwnCY74]]></title>
+        <id>https://twitter.com/elonmusk/status/1656326406618619910</id>
+        <link href="https://twitter.com/elonmusk/status/1656326406618619910"/>
+        <updated>2023-05-10T15:52:43.000Z</updated>
+        <summary type="html"><![CDATA[https://t.co/4s6HwnCY74]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @LibertyCappy @TRHLofficial Absolutely! America should be recruiting like a pro sports team, not making it insanely difficult for super talented pe...]]></title>
-        <id>https://twitter.com/elonmusk/status/1655976041129574411</id>
-        <link href="https://twitter.com/elonmusk/status/1655976041129574411"/>
-        <updated>2023-05-09T16:40:29.000Z</updated>
-        <summary type="html"><![CDATA[Re @LibertyCappy @TRHLofficial Absolutely! America should be recruiting like a pro sports team, not making it insanely difficult for super talented people to become citizens.]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1656325798805262337</id>
+        <link href="https://twitter.com/elonmusk/status/1656325798805262337"/>
+        <updated>2023-05-10T15:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @fentasyl There is great danger to media stoking the fires of hatred]]></title>
-        <id>https://twitter.com/elonmusk/status/1655975453436280847</id>
-        <link href="https://twitter.com/elonmusk/status/1655975453436280847"/>
-        <updated>2023-05-09T16:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @fentasyl There is great danger to media stoking the fires of hatred]]></summary>
+        <title type="html"><![CDATA[Re @BillyM2k Someone just normal would be great]]></title>
+        <id>https://twitter.com/elonmusk/status/1656325619301642240</id>
+        <link href="https://twitter.com/elonmusk/status/1656325619301642240"/>
+        <updated>2023-05-10T15:49:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @BillyM2k Someone just normal would be great]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @KTmBoyle @a16z Great!]]></title>
-        <id>https://twitter.com/elonmusk/status/1655974890212556807</id>
-        <link href="https://twitter.com/elonmusk/status/1655974890212556807"/>
-        <updated>2023-05-09T16:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @KTmBoyle @a16z Great!]]></summary>
+        <title type="html"><![CDATA[Re @paulg !!]]></title>
+        <id>https://twitter.com/elonmusk/status/1656314717739319297</id>
+        <link href="https://twitter.com/elonmusk/status/1656314717739319297"/>
+        <updated>2023-05-10T15:06:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @paulg !!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DimaZeniuk @Starlink @SpaceX @SpaceXStarlink @kerrikgray @JaneidyEve @Inelonwetrust__ @1stMarsColonist @helloitstanya98 @dvorahfr @captainarve @an...]]></title>
-        <id>https://twitter.com/elonmusk/status/1655974827113447427</id>
-        <link href="https://twitter.com/elonmusk/status/1655974827113447427"/>
-        <updated>2023-05-09T16:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @DimaZeniuk @Starlink @SpaceX @SpaceXStarlink @kerrikgray @JaneidyEve @Inelonwetrust__ @1stMarsColonist @helloitstanya98 @dvorahfr @captainarve @andst7 Cool]]></summary>
+        <title type="html"><![CDATA[Re @ZubyMusic Upgrades are coming]]></title>
+        <id>https://twitter.com/elonmusk/status/1656314604006576128</id>
+        <link href="https://twitter.com/elonmusk/status/1656314604006576128"/>
+        <updated>2023-05-10T15:05:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @ZubyMusic Upgrades are coming]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @cb_doge X]]></title>
-        <id>https://twitter.com/elonmusk/status/1655974645990916096</id>
-        <link href="https://twitter.com/elonmusk/status/1655974645990916096"/>
-        <updated>2023-05-09T16:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge X]]></summary>
+        <title type="html"><![CDATA[Re @stevenmarkryan Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1656314371864395778</id>
+        <link href="https://twitter.com/elonmusk/status/1656314371864395778"/>
+        <updated>2023-05-10T15:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @stevenmarkryan Yes]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trust nothing, not even nothing]]></title>
-        <id>https://twitter.com/elonmusk/status/1655974471101042690</id>
-        <link href="https://twitter.com/elonmusk/status/1655974471101042690"/>
-        <updated>2023-05-09T16:34:15.000Z</updated>
-        <summary type="html"><![CDATA[Trust nothing, not even nothing]]></summary>
+        <title type="html"><![CDATA[Re @GavinSBaker True]]></title>
+        <id>https://twitter.com/elonmusk/status/1656314323558629376</id>
+        <link href="https://twitter.com/elonmusk/status/1656314323558629376"/>
+        <updated>2023-05-10T15:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @GavinSBaker True]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @gannonbreslin Yeah. Or that WhatsApp founders left Meta/Facebook in disgust, started #deletefacebook campaign & made major contributions to buildi...]]></title>
-        <id>https://twitter.com/elonmusk/status/1655971825665409024</id>
-        <link href="https://twitter.com/elonmusk/status/1655971825665409024"/>
-        <updated>2023-05-09T16:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @gannonbreslin Yeah. 
-Or that WhatsApp founders left Meta/Facebook in disgust, started #deletefacebook campaign & made major contributions to building Signal. 
-What they learned about Facebook & changes to WhatsApp obviously disturbed them greatly.]]></summary>
+        <title type="html"><![CDATA[Re @KanekoaTheGreat The list of who didn’t might be shorter]]></title>
+        <id>https://twitter.com/elonmusk/status/1656314148542906370</id>
+        <link href="https://twitter.com/elonmusk/status/1656314148542906370"/>
+        <updated>2023-05-10T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @KanekoaTheGreat The list of who didn’t might be shorter]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re [correction: @wsj trailed by several years]]]></title>
-        <id>https://twitter.com/elonmusk/status/1655970274351644679</id>
-        <link href="https://twitter.com/elonmusk/status/1655970274351644679"/>
-        <updated>2023-05-09T16:17:34.000Z</updated>
-        <summary type="html"><![CDATA[Re [correction: @wsj trailed by several years]]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Remarkable how @nytimes, @latimes & @washingtonpost moved in lockstep, with @WSJ trailing by ~6 months]]></title>
-        <id>https://twitter.com/elonmusk/status/1655970038484959240</id>
-        <link href="https://twitter.com/elonmusk/status/1655970038484959240"/>
-        <updated>2023-05-09T16:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Re Remarkable how @nytimes, @latimes & @washingtonpost moved in lockstep, with @WSJ trailing by ~6 months]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @historyinmemes Highly recommend visiting. Ancient Rome was remarkably advanced in technology & colorful in decor.]]></title>
-        <id>https://twitter.com/elonmusk/status/1655969448421883914</id>
-        <link href="https://twitter.com/elonmusk/status/1655969448421883914"/>
-        <updated>2023-05-09T16:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @historyinmemes Highly recommend visiting. Ancient Rome was remarkably advanced in technology & colorful in decor.]]></summary>
+        <title type="html"><![CDATA[Re @0xgaut 🤣 😬]]></title>
+        <id>https://twitter.com/elonmusk/status/1656313881722253312</id>
+        <link href="https://twitter.com/elonmusk/status/1656313881722253312"/>
+        <updated>2023-05-10T15:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xgaut 🤣 😬]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
