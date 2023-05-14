@@ -1,210 +1,178 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T01:57:07.498Z</id>
+    <id>urn:2023-05-14T02:03:23.949Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-13T01:57:07.498Z</updated>
+    <updated>2023-05-14T02:03:23.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @ray4tesla Looks familiar]]></title>
-        <id>https://twitter.com/elonmusk/status/1657167210308308993</id>
-        <link href="https://twitter.com/elonmusk/status/1657167210308308993"/>
-        <updated>2023-05-12T23:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @ray4tesla Looks familiar]]></summary>
+        <title type="html"><![CDATA[Re @WallStreetSilv Someone should go ask them]]></title>
+        <id>https://twitter.com/elonmusk/status/1657545520523476992</id>
+        <link href="https://twitter.com/elonmusk/status/1657545520523476992"/>
+        <updated>2023-05-14T00:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @WallStreetSilv Someone should go ask them]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Austen The @boringcompany wasn’t even trying hard to achieve 4500 pax/hr. Could easily do >10k/hr.]]></title>
-        <id>https://twitter.com/elonmusk/status/1657166583528321024</id>
-        <link href="https://twitter.com/elonmusk/status/1657166583528321024"/>
-        <updated>2023-05-12T23:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @Austen The @boringcompany wasn’t even trying  hard to achieve 4500 pax/hr. Could easily do >10k/hr.]]></summary>
+        <title type="html"><![CDATA[Re @JonErlichman It was love at first sight for me & computers tbh]]></title>
+        <id>https://twitter.com/elonmusk/status/1657545276037423105</id>
+        <link href="https://twitter.com/elonmusk/status/1657545276037423105"/>
+        <updated>2023-05-14T00:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @JonErlichman It was love at first sight for me & computers tbh]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt When will they learn … sigh]]></title>
-        <id>https://twitter.com/elonmusk/status/1657151486001057793</id>
-        <link href="https://twitter.com/elonmusk/status/1657151486001057793"/>
-        <updated>2023-05-12T22:31:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt When will they learn … sigh]]></summary>
+        <title type="html"><![CDATA[Re @MuskUniversity Entropy, entropy, No escaping That for me.]]></title>
+        <id>https://twitter.com/elonmusk/status/1657544882527825921</id>
+        <link href="https://twitter.com/elonmusk/status/1657544882527825921"/>
+        <updated>2023-05-14T00:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @MuskUniversity Entropy, entropy, 
+No escaping
+That for me.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @cb_doge lol]]></title>
-        <id>https://twitter.com/elonmusk/status/1657151174947254273</id>
-        <link href="https://twitter.com/elonmusk/status/1657151174947254273"/>
-        <updated>2023-05-12T22:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge lol]]></summary>
+        <title type="html"><![CDATA[Re @MattWallace888 @libsoftiktok Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1657543305146630146</id>
+        <link href="https://twitter.com/elonmusk/status/1657543305146630146"/>
+        <updated>2023-05-14T00:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @MattWallace888 @libsoftiktok Yeah]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @chazman @aelluswamy Nice]]></title>
-        <id>https://twitter.com/elonmusk/status/1657142337846542336</id>
-        <link href="https://twitter.com/elonmusk/status/1657142337846542336"/>
-        <updated>2023-05-12T21:54:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @chazman @aelluswamy Nice]]></summary>
+        <title type="html"><![CDATA[Re @thackerpd @mattyglesias This is par for the course for all Internet companies – we are just going to be clear that it’s happening, unlike the ot...]]></title>
+        <id>https://twitter.com/elonmusk/status/1657542562020835328</id>
+        <link href="https://twitter.com/elonmusk/status/1657542562020835328"/>
+        <updated>2023-05-14T00:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @thackerpd @mattyglesias This is par for the course for all Internet companies – we are just going to be clear that it’s happening, unlike the others]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Starlink: When you have Starlink on your ship, not only can you stay connected while on the vast majority of the Earth’s oceans and seas, but appa...]]></title>
-        <id>https://twitter.com/Starlink/status/1657135111505317888</id>
-        <link href="https://twitter.com/Starlink/status/1657135111505317888"/>
-        <updated>2023-05-12T21:26:13.000Z</updated>
-        <summary type="html"><![CDATA[RT Starlink
-When you have Starlink on your ship, not only can you stay connected while on the vast majority of the Earth’s oceans and seas, but apparently it’s also easier to find sunken treasure 🏴‍☠️🦜→ http://www.yachtworld.com/research/yacht-wifi-revolutionizes-sunken-treasure-discovery/]]></summary>
+        <title type="html"><![CDATA[Re @astro_greek Maybe we’re in an alien soap opera and just need to keep the ratings high so we don’t get cancelled … ?]]></title>
+        <id>https://twitter.com/elonmusk/status/1657542134042357761</id>
+        <link href="https://twitter.com/elonmusk/status/1657542134042357761"/>
+        <updated>2023-05-14T00:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @astro_greek Maybe we’re in an alien soap opera and just need to keep the ratings high so we don’t get cancelled … ?]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Austen Haha 💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1657109631985127425</id>
-        <link href="https://twitter.com/elonmusk/status/1657109631985127425"/>
-        <updated>2023-05-12T19:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @Austen Haha 💯]]></summary>
+        <title type="html"><![CDATA[Re @astro_greek He makes a strong case for computers being way smarter than humans]]></title>
+        <id>https://twitter.com/elonmusk/status/1657541540112154625</id>
+        <link href="https://twitter.com/elonmusk/status/1657541540112154625"/>
+        <updated>2023-05-14T00:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @astro_greek He makes a strong case for computers being way smarter than humans]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @EvasTeslaSPlaid @WSJ @Tesla Obviously, bringing on Linda allows me to devote more time to Tesla, which is exactly what I will be doing!]]></title>
-        <id>https://twitter.com/elonmusk/status/1657108798480470018</id>
-        <link href="https://twitter.com/elonmusk/status/1657108798480470018"/>
-        <updated>2023-05-12T19:41:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @EvasTeslaSPlaid @WSJ @Tesla Obviously, bringing on Linda allows me to devote more time to Tesla, which is exactly what I will be doing!]]></summary>
+        <title type="html"><![CDATA[Re @EvaFoxU 🔥🔥]]></title>
+        <id>https://twitter.com/elonmusk/status/1657540601024241665</id>
+        <link href="https://twitter.com/elonmusk/status/1657540601024241665"/>
+        <updated>2023-05-14T00:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU 🔥🔥]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @SullyCNBC Thanks Brian!]]></title>
-        <id>https://twitter.com/elonmusk/status/1657108436130369536</id>
-        <link href="https://twitter.com/elonmusk/status/1657108436130369536"/>
-        <updated>2023-05-12T19:40:13.000Z</updated>
-        <summary type="html"><![CDATA[Re @SullyCNBC Thanks Brian!]]></summary>
+        <title type="html"><![CDATA[Re @Culture_Crit I hope so!]]></title>
+        <id>https://twitter.com/elonmusk/status/1657538658654732289</id>
+        <link href="https://twitter.com/elonmusk/status/1657538658654732289"/>
+        <updated>2023-05-14T00:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @Culture_Crit I hope so!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DrJimFan 😂]]></title>
-        <id>https://twitter.com/elonmusk/status/1657108231402168320</id>
-        <link href="https://twitter.com/elonmusk/status/1657108231402168320"/>
-        <updated>2023-05-12T19:39:24.000Z</updated>
-        <summary type="html"><![CDATA[Re @DrJimFan 😂]]></summary>
+        <title type="html"><![CDATA[Re @KTmBoyle Angelic]]></title>
+        <id>https://twitter.com/elonmusk/status/1657537416670879750</id>
+        <link href="https://twitter.com/elonmusk/status/1657537416670879750"/>
+        <updated>2023-05-14T00:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @KTmBoyle Angelic]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog Well said]]></title>
-        <id>https://twitter.com/elonmusk/status/1657108111415730183</id>
-        <link href="https://twitter.com/elonmusk/status/1657108111415730183"/>
-        <updated>2023-05-12T19:38:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog Well said]]></summary>
+        <title type="html"><![CDATA[Re @dogeofficialceo 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1657516086458298370</id>
+        <link href="https://twitter.com/elonmusk/status/1657516086458298370"/>
+        <updated>2023-05-13T22:40:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @dogeofficialceo 🤣]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @jk_rowling 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1657106269432582144</id>
-        <link href="https://twitter.com/elonmusk/status/1657106269432582144"/>
-        <updated>2023-05-12T19:31:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @jk_rowling 🤣]]></summary>
+        <title type="html"><![CDATA[Re @cb_doge Something like that]]></title>
+        <id>https://twitter.com/elonmusk/status/1657473954372636675</id>
+        <link href="https://twitter.com/elonmusk/status/1657473954372636675"/>
+        <updated>2023-05-13T19:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @cb_doge Something like that]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @BillboardChris @lindayacc I hear your concerns, but don’t judge too early. I am adamant about defending free speech, even if it means losing mone...]]></title>
-        <id>https://twitter.com/elonmusk/status/1657106200075599874</id>
-        <link href="https://twitter.com/elonmusk/status/1657106200075599874"/>
-        <updated>2023-05-12T19:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillboardChris @lindayacc I hear your concerns, but don’t judge too early. I am adamant about defending free speech, even if it means losing money.]]></summary>
+        <title type="html"><![CDATA[Extremely destructive if accurate https://t.co/qofFxBM29E]]></title>
+        <id>https://twitter.com/elonmusk/status/1657469848429948928</id>
+        <link href="https://twitter.com/elonmusk/status/1657469848429948928"/>
+        <updated>2023-05-13T19:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Extremely destructive if accurate https://t.co/qofFxBM29E]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @TrungTPhan !]]></title>
-        <id>https://twitter.com/elonmusk/status/1657104472890560512</id>
-        <link href="https://twitter.com/elonmusk/status/1657104472890560512"/>
-        <updated>2023-05-12T19:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @TrungTPhan !]]></summary>
+        <title type="html"><![CDATA[Re @krassenstein @mattyglesias We could post what the government in Turkey sent us. Will do.]]></title>
+        <id>https://twitter.com/elonmusk/status/1657428707995181058</id>
+        <link href="https://twitter.com/elonmusk/status/1657428707995181058"/>
+        <updated>2023-05-13T16:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @krassenstein @mattyglesias We could post what the government in Turkey sent us. Will do.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As soon as @LindaYacc is ready, we will do a Spaces where you can ask us anything]]></title>
-        <id>https://twitter.com/elonmusk/status/1657104375284903937</id>
-        <link href="https://twitter.com/elonmusk/status/1657104375284903937"/>
-        <updated>2023-05-12T19:24:05.000Z</updated>
-        <summary type="html"><![CDATA[As soon as @LindaYacc is ready, we will do a Spaces where you can ask us anything]]></summary>
+        <title type="html"><![CDATA[Re @GailAlfarATX Coming]]></title>
+        <id>https://twitter.com/elonmusk/status/1657426432497270793</id>
+        <link href="https://twitter.com/elonmusk/status/1657426432497270793"/>
+        <updated>2023-05-13T16:43:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @GailAlfarATX Coming]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @cb_doge 🎯]]></title>
-        <id>https://twitter.com/elonmusk/status/1657103865035231237</id>
-        <link href="https://twitter.com/elonmusk/status/1657103865035231237"/>
-        <updated>2023-05-12T19:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge 🎯]]></summary>
+        <title type="html"><![CDATA[Re @WallStreetSilv 🤔]]></title>
+        <id>https://twitter.com/elonmusk/status/1657425557552865286</id>
+        <link href="https://twitter.com/elonmusk/status/1657425557552865286"/>
+        <updated>2023-05-13T16:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @WallStreetSilv 🤔]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DavidSacks Isn’t California required to keep some portion of excess tax receipts in a “rainy day” fund?]]></title>
-        <id>https://twitter.com/elonmusk/status/1657103646872715265</id>
-        <link href="https://twitter.com/elonmusk/status/1657103646872715265"/>
-        <updated>2023-05-12T19:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @DavidSacks Isn’t California required to keep some portion of excess tax receipts in a “rainy day” fund?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog Seriously!!]]></title>
-        <id>https://twitter.com/elonmusk/status/1657103094952640513</id>
-        <link href="https://twitter.com/elonmusk/status/1657103094952640513"/>
-        <updated>2023-05-12T19:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog Seriously!!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Subscriptions: You asked (loudly), we listened. We’ve reduced the signup flow for creators from 27 steps to just 4. It’s never been easier to ear...]]></title>
-        <id>https://twitter.com/Subscriptions/status/1657073688632762368</id>
-        <link href="https://twitter.com/Subscriptions/status/1657073688632762368"/>
-        <updated>2023-05-12T17:22:08.000Z</updated>
-        <summary type="html"><![CDATA[RT Subscriptions
-You asked (loudly), we listened.
-We’ve reduced the signup flow for creators from 27 steps to just 4.
-It’s never been easier to earn a living on Twitter. Tap on “Monetization” in settings to apply today.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @zerohedge Wow]]></title>
-        <id>https://twitter.com/elonmusk/status/1657071422479667202</id>
-        <link href="https://twitter.com/elonmusk/status/1657071422479667202"/>
-        <updated>2023-05-12T17:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @zerohedge Wow]]></summary>
+        <title type="html"><![CDATA[Re @mattyglesias Did your brain fall out of your head, Yglesias? The choice is have Twitter throttled in its entirety or limit access to some tweets. ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1657422401754259461</id>
+        <link href="https://twitter.com/elonmusk/status/1657422401754259461"/>
+        <updated>2023-05-13T16:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @mattyglesias Did your brain fall out of your head, Yglesias? The choice is have Twitter throttled in its entirety or limit access to some tweets. Which one do you want?]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
