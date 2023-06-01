@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-31T02:21:11.088Z</id>
+    <id>urn:2023-06-01T02:45:29.230Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-31T02:21:11.088Z</updated>
+    <updated>2023-06-01T02:45:29.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -195,20 +195,6 @@ Blane: Terrific 500 mile journey from Bradford to Glenfinnan and back. 3 super
         <updated>2023-05-29T17:21:44.000Z</updated>
         <summary type="html"><![CDATA[RT SpaceX
 Dragon and the Ax-2 astronauts are set to depart the @space_station tomorrow at 11:05 a.m. ET → http://spacex.com/launches/mission/?missionId=ax-2 https://t.co/nJMDQRo5CE]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Starlink: A escala em que a Starlink está conectando aqueles que antes não estavam conectados ou tinham acesso não confiável à Internet contin...]]></title>
-        <id>https://twitter.com/Starlink/status/1661787087971164161</id>
-        <link href="https://twitter.com/Starlink/status/1661787087971164161"/>
-        <updated>2023-05-25T17:31:30.000Z</updated>
-        <summary type="html"><![CDATA[RT Starlink
-A escala em que a Starlink está conectando aqueles que antes não estavam conectados ou tinham acesso não confiável à Internet continua a crescer a cada dia
-De escolas em áreas remotas a comunidades em toda a Amazônia, a Starlink está conectando mais de 50 mil clientes no Brasil!… https://twitter.com/i/web/status/1661787087971164161
-
-NILTON FREIRE: Instalação de antena da STARLINK. @elonmusk. Tapauá - Amazonas - Brasil. https://t.co/fkjZRtyXFS]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
