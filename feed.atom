@@ -1,212 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-06T02:23:01.190Z</id>
+    <id>urn:2023-06-07T02:22:42.308Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-06T02:23:01.190Z</updated>
+    <updated>2023-06-07T02:22:42.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @aramogha Wow!]]></title>
-        <id>https://twitter.com/elonmusk/status/1665819455664840706</id>
-        <link href="https://twitter.com/elonmusk/status/1665819455664840706"/>
-        <updated>2023-06-05T20:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @aramogha Wow!]]></summary>
+        <title type="html"><![CDATA[Re @JacobMyth @MattWalshBlog Maybe total user-seconds of screen time]]></title>
+        <id>https://twitter.com/elonmusk/status/1666263296939380736</id>
+        <link href="https://twitter.com/elonmusk/status/1666263296939380736"/>
+        <updated>2023-06-07T01:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @JacobMyth @MattWalshBlog Maybe total user-seconds of screen time]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @shellenberger @RobertKennedyJr 💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1665798234948739077</id>
-        <link href="https://twitter.com/elonmusk/status/1665798234948739077"/>
-        <updated>2023-06-05T19:10:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @shellenberger @RobertKennedyJr 💯]]></summary>
+        <title type="html"><![CDATA[Re @MattWalshBlog That said, it simply counts if you saw the post on the X/Twitter app or via web browser, not how long you watched]]></title>
+        <id>https://twitter.com/elonmusk/status/1666262874619084813</id>
+        <link href="https://twitter.com/elonmusk/status/1666262874619084813"/>
+        <updated>2023-06-07T01:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @MattWalshBlog That said, it simply counts if you saw the post on the X/Twitter app or via web browser, not how long you watched]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.]]></title>
-        <id>https://twitter.com/elonmusk/status/1665797367747026948</id>
-        <link href="https://twitter.com/elonmusk/status/1665797367747026948"/>
-        <updated>2023-06-05T19:06:56.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
+        <title type="html"><![CDATA[Re @MattWalshBlog Correct]]></title>
+        <id>https://twitter.com/elonmusk/status/1666262242088632321</id>
+        <link href="https://twitter.com/elonmusk/status/1666262242088632321"/>
+        <updated>2023-06-07T01:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @MattWalshBlog Correct]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On now]]></title>
-        <id>https://twitter.com/elonmusk/status/1665788623797600258</id>
-        <link href="https://twitter.com/elonmusk/status/1665788623797600258"/>
-        <updated>2023-06-05T18:32:11.000Z</updated>
-        <summary type="html"><![CDATA[On now
+        <title type="html"><![CDATA[Re @MattWalshBlog View count is actually understated, as it does not include anything from our API, for example tweets you see in Google search result...]]></title>
+        <id>https://twitter.com/elonmusk/status/1666261622023680003</id>
+        <link href="https://twitter.com/elonmusk/status/1666261622023680003"/>
+        <updated>2023-06-07T01:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @MattWalshBlog View count is actually understated, as it does not include anything from our API, for example tweets you see in Google search results or on Bloomberg terminals]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @monitoringbias 🤣]]></title>
+        <id>https://twitter.com/elonmusk/status/1666261187091218432</id>
+        <link href="https://twitter.com/elonmusk/status/1666261187091218432"/>
+        <updated>2023-06-07T01:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @monitoringbias 🤣]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @krassenstein 💯 👏]]></title>
+        <id>https://twitter.com/elonmusk/status/1666259182478057472</id>
+        <link href="https://twitter.com/elonmusk/status/1666259182478057472"/>
+        <updated>2023-06-07T01:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @krassenstein 💯 👏]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stclairashley I will follow them if they post their shows on this platform]]></title>
+        <id>https://twitter.com/elonmusk/status/1666258370137825280</id>
+        <link href="https://twitter.com/elonmusk/status/1666258370137825280"/>
+        <updated>2023-06-07T01:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @stclairashley I will follow them if they post their shows on this platform]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @krassenstein Community Notes plus user comments will be great for correcting or adding context]]></title>
+        <id>https://twitter.com/elonmusk/status/1666253417780592640</id>
+        <link href="https://twitter.com/elonmusk/status/1666253417780592640"/>
+        <updated>2023-06-07T01:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @krassenstein Community Notes plus user comments will be great for correcting or adding context]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Neuralink: We currently have over 20 of our latest generation implants that have passed the 5-year mark of accelerated aging on benchtop (and still...]]></title>
+        <id>https://twitter.com/neuralink/status/1666248950431760384</id>
+        <link href="https://twitter.com/neuralink/status/1666248950431760384"/>
+        <updated>2023-06-07T01:01:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Neuralink
+We currently have over 20 of our latest generation implants that have passed the 5-year mark of accelerated aging on benchtop (and still going!) 5⃣🚀 #techtuesday https://t.co/cA16Hje8dd]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TitterDaily @GerberKawasaki Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1666245379317288963</id>
+        <link href="https://twitter.com/elonmusk/status/1666245379317288963"/>
+        <updated>2023-06-07T00:47:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @TitterDaily @GerberKawasaki Exactly]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @teslaownersSV Cool]]></title>
+        <id>https://twitter.com/elonmusk/status/1666242350178263040</id>
+        <link href="https://twitter.com/elonmusk/status/1666242350178263040"/>
+        <updated>2023-06-07T00:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @teslaownersSV Cool]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @westcoastbill 🦾]]></title>
+        <id>https://twitter.com/elonmusk/status/1666234691945365510</id>
+        <link href="https://twitter.com/elonmusk/status/1666234691945365510"/>
+        <updated>2023-06-07T00:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @westcoastbill 🦾]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TitterDaily No restrictions on this platform!]]></title>
+        <id>https://twitter.com/elonmusk/status/1666232490866999300</id>
+        <link href="https://twitter.com/elonmusk/status/1666232490866999300"/>
+        <updated>2023-06-06T23:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @TitterDaily No restrictions on this platform!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would be great to have shows from all parts of the political spectrum on this platform!]]></title>
+        <id>https://twitter.com/elonmusk/status/1666232126172176384</id>
+        <link href="https://twitter.com/elonmusk/status/1666232126172176384"/>
+        <updated>2023-06-06T23:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Would be great to have shows from all parts of the political spectrum on this platform!
 
-Elon Musk: https://twitter.com/i/spaces/1PlJQpmkngnGE]]></summary>
+Tucker Carlson: Ep. 1 https://t.co/O7CdPjF830]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/i/spaces/1PlJQpmkngnGE]]></title>
-        <id>https://twitter.com/elonmusk/status/1665784889008873476</id>
-        <link href="https://twitter.com/elonmusk/status/1665784889008873476"/>
-        <updated>2023-06-05T18:17:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1PlJQpmkngnGE]]></summary>
+        <title type="html"><![CDATA[Re @TRHLofficial And/or simply attracted to same sex]]></title>
+        <id>https://twitter.com/elonmusk/status/1666110445256671233</id>
+        <link href="https://twitter.com/elonmusk/status/1666110445256671233"/>
+        <updated>2023-06-06T15:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @TRHLofficial And/or simply attracted to same sex]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An example of great interaction between brands 😂 @McDonalds @AXE https://t.co/krnQ0g5N7T]]></title>
-        <id>https://twitter.com/elonmusk/status/1665781992653291521</id>
-        <link href="https://twitter.com/elonmusk/status/1665781992653291521"/>
-        <updated>2023-06-05T18:05:50.000Z</updated>
-        <summary type="html"><![CDATA[An example of great interaction between brands 😂 @McDonalds @AXE https://t.co/krnQ0g5N7T]]></summary>
+        <title type="html"><![CDATA[Re @TRHLofficial Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1666109737648128000</id>
+        <link href="https://twitter.com/elonmusk/status/1666109737648128000"/>
+        <updated>2023-06-06T15:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @TRHLofficial Yeah]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Scobleizer 😂]]></title>
-        <id>https://twitter.com/elonmusk/status/1665777757068972032</id>
-        <link href="https://twitter.com/elonmusk/status/1665777757068972032"/>
-        <updated>2023-06-05T17:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @Scobleizer 😂]]></summary>
+        <title type="html"><![CDATA[Re @MdBreathe @RobertKennedyJr Antidepressants & many other medications are significantly overprescribed in America]]></title>
+        <id>https://twitter.com/elonmusk/status/1666109446873919496</id>
+        <link href="https://twitter.com/elonmusk/status/1666109446873919496"/>
+        <updated>2023-06-06T15:47:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @MdBreathe @RobertKennedyJr Antidepressants & many other medications are significantly overprescribed in America]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @shellenberger Good question]]></title>
-        <id>https://twitter.com/elonmusk/status/1665777528227725313</id>
-        <link href="https://twitter.com/elonmusk/status/1665777528227725313"/>
-        <updated>2023-06-05T17:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @shellenberger Good question]]></summary>
+        <title type="html"><![CDATA[Re @ray4tesla ♥️♥️]]></title>
+        <id>https://twitter.com/elonmusk/status/1666101650258272257</id>
+        <link href="https://twitter.com/elonmusk/status/1666101650258272257"/>
+        <updated>2023-06-06T15:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @ray4tesla ♥️♥️]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @GuyDealership !]]></title>
-        <id>https://twitter.com/elonmusk/status/1665770280411701251</id>
-        <link href="https://twitter.com/elonmusk/status/1665770280411701251"/>
-        <updated>2023-06-05T17:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @GuyDealership !]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Teslaconomics Yeah]]></title>
-        <id>https://twitter.com/elonmusk/status/1665767487705587714</id>
-        <link href="https://twitter.com/elonmusk/status/1665767487705587714"/>
-        <updated>2023-06-05T17:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Re @Teslaconomics Yeah]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @teslaownersSV 💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1665766864209813508</id>
-        <link href="https://twitter.com/elonmusk/status/1665766864209813508"/>
-        <updated>2023-06-05T17:05:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @teslaownersSV 💯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: I still hear tons of friends just coming on Twitter for information. You should consider sharing your voice and contri...]]></title>
-        <id>https://twitter.com/teslaownersSV/status/1665766361883369472</id>
-        <link href="https://twitter.com/teslaownersSV/status/1665766361883369472"/>
-        <updated>2023-06-05T17:03:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
-I still hear tons of friends just coming on Twitter for information. You should consider sharing your voice and contributing more to this epic platform.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @McDonalds 😂]]></title>
-        <id>https://twitter.com/elonmusk/status/1665765483633623041</id>
-        <link href="https://twitter.com/elonmusk/status/1665765483633623041"/>
-        <updated>2023-06-05T17:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @McDonalds 😂]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cstanley This kind of interaction by companies is awesome]]></title>
-        <id>https://twitter.com/elonmusk/status/1665765247850782722</id>
-        <link href="https://twitter.com/elonmusk/status/1665765247850782722"/>
-        <updated>2023-06-05T16:59:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @cstanley This kind of interaction by companies is awesome]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @stats_feed This platform ranks much higher when assessed by total user-hours per month]]></title>
-        <id>https://twitter.com/elonmusk/status/1665762166559866887</id>
-        <link href="https://twitter.com/elonmusk/status/1665762166559866887"/>
-        <updated>2023-06-05T16:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @stats_feed This platform ranks much higher when assessed by total user-hours per month]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Noahpinion This will accelerate, as high interest rates make homes less affordable]]></title>
-        <id>https://twitter.com/elonmusk/status/1665761394652839936</id>
-        <link href="https://twitter.com/elonmusk/status/1665761394652839936"/>
-        <updated>2023-06-05T16:43:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @Noahpinion This will accelerate, as high interest rates make homes less affordable]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @zerohedge !]]></title>
-        <id>https://twitter.com/elonmusk/status/1665760814874099725</id>
-        <link href="https://twitter.com/elonmusk/status/1665760814874099725"/>
-        <updated>2023-06-05T16:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @zerohedge !]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RyanGirdusky !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1665760266468970499</id>
-        <link href="https://twitter.com/elonmusk/status/1665760266468970499"/>
-        <updated>2023-06-05T16:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @RyanGirdusky !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WholeMarsBlog More than people realize]]></title>
-        <id>https://twitter.com/elonmusk/status/1665760175205097472</id>
-        <link href="https://twitter.com/elonmusk/status/1665760175205097472"/>
-        <updated>2023-06-05T16:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @WholeMarsBlog More than people realize]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jhall Tesla aspires to be as helpful as possible to other car companies. We made all our patents freely available several years ago. Now, we are e...]]></title>
-        <id>https://twitter.com/elonmusk/status/1665756914611806208</id>
-        <link href="https://twitter.com/elonmusk/status/1665756914611806208"/>
-        <updated>2023-06-05T16:26:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @jhall Tesla aspires to be as helpful as possible to other car companies.
-We made all our patents freely available several years ago.
-Now, we are enabling other companies to use our Supercharger network.
-Also happy to license Autopilot/FSD or other Tesla technology.]]></summary>
+        <title type="html"><![CDATA[Re @shellenberger Trend is bad]]></title>
+        <id>https://twitter.com/elonmusk/status/1666101413355704322</id>
+        <link href="https://twitter.com/elonmusk/status/1666101413355704322"/>
+        <updated>2023-06-06T15:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @shellenberger Trend is bad]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
