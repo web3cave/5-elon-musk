@@ -1,189 +1,206 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-27T02:26:30.598Z</id>
+    <id>urn:2023-06-28T02:24:49.000Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-27T02:26:30.598Z</updated>
+    <updated>2023-06-28T02:24:49.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @MarioNawfal Interesting]]></title>
-        <id>https://twitter.com/elonmusk/status/1673474049689767938</id>
-        <link href="https://twitter.com/elonmusk/status/1673474049689767938"/>
-        <updated>2023-06-26T23:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @MarioNawfal Interesting]]></summary>
+        <title type="html"><![CDATA[Re @mnovendstern Sigh]]></title>
+        <id>https://twitter.com/elonmusk/status/1673837207843643392</id>
+        <link href="https://twitter.com/elonmusk/status/1673837207843643392"/>
+        <updated>2023-06-27T23:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @mnovendstern Sigh]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DavidSacks @stillgray That was a crazy and cruel thing for him to say. If those kids wanted to be at the front lines, they wouldn’t need to be co...]]></title>
-        <id>https://twitter.com/elonmusk/status/1673452846182969344</id>
-        <link href="https://twitter.com/elonmusk/status/1673452846182969344"/>
-        <updated>2023-06-26T22:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @DavidSacks @stillgray That was a crazy and cruel thing for him to say. If those kids wanted to be at the front lines, they wouldn’t need to be conscripted.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MarioNawfal Interesting]]></title>
-        <id>https://twitter.com/elonmusk/status/1673451260073349121</id>
-        <link href="https://twitter.com/elonmusk/status/1673451260073349121"/>
-        <updated>2023-06-26T22:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @MarioNawfal Interesting]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MarkovMagnifico 🤣]]></title>
-        <id>https://twitter.com/elonmusk/status/1673428857817276416</id>
-        <link href="https://twitter.com/elonmusk/status/1673428857817276416"/>
-        <updated>2023-06-26T20:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @MarkovMagnifico 🤣]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JamesEsses Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1673428509379665927</id>
-        <link href="https://twitter.com/elonmusk/status/1673428509379665927"/>
-        <updated>2023-06-26T20:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @JamesEsses Exactly]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fanaticism is always a function of repressed doubt – Dune]]></title>
-        <id>https://twitter.com/elonmusk/status/1673428147650326528</id>
-        <link href="https://twitter.com/elonmusk/status/1673428147650326528"/>
-        <updated>2023-06-26T20:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Fanaticism is always a function of repressed doubt – Dune]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @AngelaBelcamino Payouts should start happening within a few weeks]]></title>
-        <id>https://twitter.com/elonmusk/status/1673425092909363200</id>
-        <link href="https://twitter.com/elonmusk/status/1673425092909363200"/>
-        <updated>2023-06-26T20:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @AngelaBelcamino Payouts should start happening within a few weeks]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @AlexAIDaily Yeah]]></title>
-        <id>https://twitter.com/elonmusk/status/1673424892983668759</id>
-        <link href="https://twitter.com/elonmusk/status/1673424892983668759"/>
-        <updated>2023-06-26T20:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @AlexAIDaily Yeah]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DailyMailUK Extremely disturbing]]></title>
-        <id>https://twitter.com/elonmusk/status/1673424566117363714</id>
-        <link href="https://twitter.com/elonmusk/status/1673424566117363714"/>
-        <updated>2023-06-26T20:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @DailyMailUK Extremely disturbing]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @robkhenderson Odd]]></title>
-        <id>https://twitter.com/elonmusk/status/1673422783211008017</id>
-        <link href="https://twitter.com/elonmusk/status/1673422783211008017"/>
-        <updated>2023-06-26T20:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @robkhenderson Odd]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Of course, not all products & services are glamorous, but still there is a true value proposition for anything useful/enjoyable]]></title>
-        <id>https://twitter.com/elonmusk/status/1673403935690727445</id>
-        <link href="https://twitter.com/elonmusk/status/1673403935690727445"/>
-        <updated>2023-06-26T18:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Re Of course, not all products & services are glamorous, but still there is a true value proposition for anything useful/enjoyable]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Ads” like this where you learn or are entertained are great, as they’re effectively content. Consider Vogue Magazine, which consists mostly of “a...]]></title>
-        <id>https://twitter.com/elonmusk/status/1673402963757244420</id>
-        <link href="https://twitter.com/elonmusk/status/1673402963757244420"/>
-        <updated>2023-06-26T18:48:51.000Z</updated>
-        <summary type="html"><![CDATA[“Ads” like this where you learn or are entertained are great, as they’re effectively content.
-Consider Vogue Magazine, which consists mostly of “advertisements”, but they’re so beautiful that they’re worth seeing in & of themselves. https://twitter.com/dior/status/1672704161589211139
+        <title type="html"><![CDATA[Prelude to Mars]]></title>
+        <id>https://twitter.com/elonmusk/status/1673832186796179456</id>
+        <link href="https://twitter.com/elonmusk/status/1673832186796179456"/>
+        <updated>2023-06-27T23:14:26.000Z</updated>
+        <summary type="html"><![CDATA[Prelude to Mars
 
-Dior: A majorly important story for #DiorSummer24 http://on.dior.com/mensummer2024-yt, learn how his research in the archives led Kim Jones to breathe fresh life into tweed and the wealth of ensuing creative possibilities it provided. https://t.co/T98ZcQ4Qin]]></summary>
+SpaceX: Additional views from yesterday’s Ship 25 static fire https://t.co/dwdVETLJsV]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @shellenberger @WHO @galexybrane !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1673398244129251339</id>
-        <link href="https://twitter.com/elonmusk/status/1673398244129251339"/>
-        <updated>2023-06-26T18:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @shellenberger @WHO @galexybrane !!]]></summary>
+        <title type="html"><![CDATA[Watch the entire first episode on this platform. Great move by Apple! Note, you can Airplay from your iPhone to TV to watch on a big screen.]]></title>
+        <id>https://twitter.com/elonmusk/status/1673831774038949888</id>
+        <link href="https://twitter.com/elonmusk/status/1673831774038949888"/>
+        <updated>2023-06-27T23:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Watch the entire first episode on this platform. Great move by Apple!
+Note, you can Airplay from your iPhone to TV to watch on a big screen.
+
+Apple TV: 3 days until the #Silo finale. 
+Here’s the entire first episode. https://t.co/lIcTXCQ9D6]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @cb_doge Pretty accurate list. For several of the product “releases”, the basics were already in place & we just fixed the broken parts.]]></title>
-        <id>https://twitter.com/elonmusk/status/1673397893099560981</id>
-        <link href="https://twitter.com/elonmusk/status/1673397893099560981"/>
-        <updated>2023-06-26T18:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @cb_doge Pretty accurate list. For several of the product “releases”, the basics were already in place & we just fixed the broken parts.]]></summary>
+        <title type="html"><![CDATA[Re @munkdebate @tegmark @ylecun @MelMitchell1 Interesting]]></title>
+        <id>https://twitter.com/elonmusk/status/1673831367367598083</id>
+        <link href="https://twitter.com/elonmusk/status/1673831367367598083"/>
+        <updated>2023-06-27T23:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @munkdebate @tegmark @ylecun @MelMitchell1 Interesting]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DavidSacks Worrisome]]></title>
-        <id>https://twitter.com/elonmusk/status/1673396079218270232</id>
-        <link href="https://twitter.com/elonmusk/status/1673396079218270232"/>
-        <updated>2023-06-26T18:21:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @DavidSacks Worrisome]]></summary>
+        <title type="html"><![CDATA[Re @RobertMSterling @WholeMarsBlog @nytimes Pretty much only time I see NYT articles is when they’re mentioned here. Their readership, especially use...]]></title>
+        <id>https://twitter.com/elonmusk/status/1673726440284495872</id>
+        <link href="https://twitter.com/elonmusk/status/1673726440284495872"/>
+        <updated>2023-06-27T16:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @RobertMSterling @WholeMarsBlog @nytimes Pretty much only time I see NYT articles is when they’re mentioned here. Their readership, especially user-minutes per day, is tiny compared to this platform.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @GundamIsHere This is utter bs. It won’t make a difference to climate change.]]></title>
-        <id>https://twitter.com/elonmusk/status/1673279849551503363</id>
-        <link href="https://twitter.com/elonmusk/status/1673279849551503363"/>
-        <updated>2023-06-26T10:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @GundamIsHere This is utter bs. It won’t make a difference to climate change.]]></summary>
+        <title type="html"><![CDATA[RT Tesla Charging: Welcome Volvo owners to Superchargers across North America⚡️ Details about the North American Charging Standard (NACS) → https:/...]]></title>
+        <id>https://twitter.com/TeslaCharging/status/1673715275521310720</id>
+        <link href="https://twitter.com/TeslaCharging/status/1673715275521310720"/>
+        <updated>2023-06-27T15:29:52.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Charging
+Welcome Volvo owners to Superchargers across North America⚡️       
+Details about the North American Charging Standard (NACS) → 
+https://tesla.com/blog/opening-north-american-charging-standard]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Not_the_Bee !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1673279444557918211</id>
-        <link href="https://twitter.com/elonmusk/status/1673279444557918211"/>
-        <updated>2023-06-26T10:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @Not_the_Bee !!]]></summary>
+        <title type="html"><![CDATA[Re @TheChiefNerd !]]></title>
+        <id>https://twitter.com/elonmusk/status/1673689462952394753</id>
+        <link href="https://twitter.com/elonmusk/status/1673689462952394753"/>
+        <updated>2023-06-27T13:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @TheChiefNerd !]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @bpoppenheimer True]]></title>
-        <id>https://twitter.com/elonmusk/status/1673279245139816466</id>
-        <link href="https://twitter.com/elonmusk/status/1673279245139816466"/>
-        <updated>2023-06-26T10:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @bpoppenheimer True]]></summary>
+        <title type="html"><![CDATA[Re @InfographicTony @MarcusHouse @FelixSchlang @considercosmos @GregScott_photo @LunarCaveman @SpaceX @SpacesFuture @TJ_Cooney @LabPadre @Erdayastrona...]]></title>
+        <id>https://twitter.com/elonmusk/status/1673684418974609410</id>
+        <link href="https://twitter.com/elonmusk/status/1673684418974609410"/>
+        <updated>2023-06-27T13:27:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @InfographicTony @MarcusHouse @FelixSchlang @considercosmos @GregScott_photo @LunarCaveman @SpaceX @SpacesFuture @TJ_Cooney @LabPadre @Erdayastronaut Three center Raptors of Booster will fire at ~50% thrust during hot staging]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jordanbpeterson !!]]></title>
+        <id>https://twitter.com/elonmusk/status/1673683896066555905</id>
+        <link href="https://twitter.com/elonmusk/status/1673683896066555905"/>
+        <updated>2023-06-27T13:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @jordanbpeterson !!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @zerohedge Looks like one is a college student (who wants to join the govt) and another is maybe an Antifa member, but nonetheless a probable false...]]></title>
+        <id>https://twitter.com/elonmusk/status/1673683343169159168</id>
+        <link href="https://twitter.com/elonmusk/status/1673683343169159168"/>
+        <updated>2023-06-27T13:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @zerohedge Looks like one is a college student (who wants to join the govt) and another is maybe an Antifa member, but nonetheless a probable false flag situation
+@CommunityNotes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @upholdreality Interesting]]></title>
+        <id>https://twitter.com/elonmusk/status/1673678371077734402</id>
+        <link href="https://twitter.com/elonmusk/status/1673678371077734402"/>
+        <updated>2023-06-27T13:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @upholdreality Interesting]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://t.co/BDjXS0Qjhk]]></title>
+        <id>https://twitter.com/elonmusk/status/1673587083267518465</id>
+        <link href="https://twitter.com/elonmusk/status/1673587083267518465"/>
+        <updated>2023-06-27T07:00:29.000Z</updated>
+        <summary type="html"><![CDATA[https://t.co/BDjXS0Qjhk]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @profstonge Nuclear is fine]]></title>
+        <id>https://twitter.com/elonmusk/status/1673585691438063618</id>
+        <link href="https://twitter.com/elonmusk/status/1673585691438063618"/>
+        <updated>2023-06-27T06:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @profstonge Nuclear is fine]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Version 12 won’t be beta]]></title>
+        <id>https://twitter.com/elonmusk/status/1673584536167301122</id>
+        <link href="https://twitter.com/elonmusk/status/1673584536167301122"/>
+        <updated>2023-06-27T06:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Version 12 won’t be beta]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslaconomics Not as profound as AGI, but certainly profound]]></title>
+        <id>https://twitter.com/elonmusk/status/1673581648951009280</id>
+        <link href="https://twitter.com/elonmusk/status/1673581648951009280"/>
+        <updated>2023-06-27T06:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslaconomics Not as profound as AGI, but certainly profound]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @art_pleb @lloydblankfein yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1673580905779146752</id>
+        <link href="https://twitter.com/elonmusk/status/1673580905779146752"/>
+        <updated>2023-06-27T06:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @art_pleb @lloydblankfein yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NASASpaceflight Looks good so far]]></title>
+        <id>https://twitter.com/elonmusk/status/1673580231217618946</id>
+        <link href="https://twitter.com/elonmusk/status/1673580231217618946"/>
+        <updated>2023-06-27T06:33:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @NASASpaceflight Looks good so far]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EvaFoxU Always err on the side of internalizing responsibility]]></title>
+        <id>https://twitter.com/elonmusk/status/1673571067091202048</id>
+        <link href="https://twitter.com/elonmusk/status/1673571067091202048"/>
+        <updated>2023-06-27T05:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU Always err on the side of internalizing responsibility]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @stoolpresidente Yeah, this is silly]]></title>
+        <id>https://twitter.com/elonmusk/status/1673570482648489984</id>
+        <link href="https://twitter.com/elonmusk/status/1673570482648489984"/>
+        <updated>2023-06-27T05:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @stoolpresidente Yeah, this is silly]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
