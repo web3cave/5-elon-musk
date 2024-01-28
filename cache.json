@@ -6,193 +6,203 @@
       "siteUrl": "https://twitter.com/elonmusk",
       "articles": [
         {
-          "id": "https://twitter.com/elonmusk/status/1750705931506102449",
+          "id": "https://twitter.com/elonmusk/status/1751283405499629607",
+          "author": "Elon Musk",
+          "description": "Re @nypost Wow",
+          "link": "https://twitter.com/elonmusk/status/1751283405499629607",
+          "publishedOn": "2024-01-27T16:37:55.000Z",
+          "wordCount": null,
+          "title": "Re @nypost Wow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751281613550317695",
+          "author": "Elon Musk",
+          "description": "Re @latifnasser Interesting thread",
+          "link": "https://twitter.com/elonmusk/status/1751281613550317695",
+          "publishedOn": "2024-01-27T16:30:48.000Z",
+          "wordCount": null,
+          "title": "Re @latifnasser Interesting thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751280189177303505",
+          "author": "Elon Musk",
+          "description": "Re @garrytan Yes",
+          "link": "https://twitter.com/elonmusk/status/1751280189177303505",
+          "publishedOn": "2024-01-27T16:25:08.000Z",
+          "wordCount": null,
+          "title": "Re @garrytan Yes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751279957202870768",
+          "author": "Elon Musk",
+          "description": "Re @Not_the_Bee Inevitable",
+          "link": "https://twitter.com/elonmusk/status/1751279957202870768",
+          "publishedOn": "2024-01-27T16:24:13.000Z",
+          "wordCount": null,
+          "title": "Re @Not_the_Bee Inevitable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751283441398669671",
+          "author": "Elon Musk",
+          "description": "RT DogeDesigner\nEveryone can be a citizen journalist.\nYou just need a mobile, internet connectivity and 𝕏 app.",
+          "link": "https://twitter.com/elonmusk/status/1751283441398669671",
+          "publishedOn": "2024-01-27T13:28:24.000Z",
+          "wordCount": null,
+          "title": "RT DogeDesigner: Everyone can be a citizen journalist. You just need a mobile, internet connectivity and 𝕏 app.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751167413733786067",
+          "author": "Elon Musk",
+          "description": "Re @PhysInHistory 🎯",
+          "link": "https://twitter.com/elonmusk/status/1751167413733786067",
+          "publishedOn": "2024-01-27T08:57:01.000Z",
+          "wordCount": null,
+          "title": "Re @PhysInHistory 🎯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751165819919233410",
+          "author": "Elon Musk",
+          "description": "That is undeniable at this point\n\nDavid Sacks: Biden’s policy is open borders. Everything else is noise.",
+          "link": "https://twitter.com/elonmusk/status/1751165819919233410",
+          "publishedOn": "2024-01-27T08:50:41.000Z",
+          "wordCount": null,
+          "title": "That is undeniable at this point",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751155151086174629",
+          "author": "Elon Musk",
+          "description": "Re @eldsjal Very concerning",
+          "link": "https://twitter.com/elonmusk/status/1751155151086174629",
+          "publishedOn": "2024-01-27T08:08:17.000Z",
+          "wordCount": null,
+          "title": "Re @eldsjal Very concerning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751148938395079143",
+          "author": "Elon Musk",
+          "description": "Re @DavidSacks @realJeremyCarl @Not_the_Bee @POTUS Yes",
+          "link": "https://twitter.com/elonmusk/status/1751148938395079143",
+          "publishedOn": "2024-01-27T07:43:36.000Z",
+          "wordCount": null,
+          "title": "Re @DavidSacks @realJeremyCarl @Not_the_Bee @POTUS Yes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751131578514784274",
+          "author": "Elon Musk",
+          "description": "Re @icreatelife 🤗",
+          "link": "https://twitter.com/elonmusk/status/1751131578514784274",
+          "publishedOn": "2024-01-27T06:34:37.000Z",
+          "wordCount": null,
+          "title": "Re @icreatelife 🤗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751123972031140170",
+          "author": "Elon Musk",
+          "description": "Re @libsoftiktok @LexRich5Schools True",
+          "link": "https://twitter.com/elonmusk/status/1751123972031140170",
+          "publishedOn": "2024-01-27T06:04:23.000Z",
+          "wordCount": null,
+          "title": "Re @libsoftiktok @LexRich5Schools True",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751086177828970616",
+          "author": "Elon Musk",
+          "description": "Re @EndWokeness 🤔",
+          "link": "https://twitter.com/elonmusk/status/1751086177828970616",
+          "publishedOn": "2024-01-27T03:34:13.000Z",
+          "wordCount": null,
+          "title": "Re @EndWokeness 🤔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751085894927331710",
+          "author": "Elon Musk",
+          "description": "Re @Not_the_Bee @POTUS Building a wall is a red herring. No wall is needed to fix this situation. \nBorder Patrol is being instructed to facilitate illegal entry at scale into the United States.\nThe fundamental problem is that anyone can claim asylum with zero proof, which means all of Earth can come…",
+          "link": "https://twitter.com/elonmusk/status/1751085894927331710",
+          "publishedOn": "2024-01-27T03:33:05.000Z",
+          "wordCount": null,
+          "title": "Re @Not_the_Bee @POTUS Building a wall is a red herring. No wall is needed to fix this situation. Border Patrol is being instructed to facilitate ille...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751085291308200052",
+          "author": "Elon Musk",
+          "description": "Re @POTUS No laws need to be passed. All that is needed is an executive order to require proof before granting an asylum hearing. That is how it used to be.",
+          "link": "https://twitter.com/elonmusk/status/1751085291308200052",
+          "publishedOn": "2024-01-27T03:30:41.000Z",
+          "wordCount": null,
+          "title": "Re @POTUS No laws need to be passed. All that is needed is an executive order to require proof before granting an asylum hearing. That is how it used ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751073277760446971",
+          "author": "Elon Musk",
+          "description": "Re @DavidSacks Exactly",
+          "link": "https://twitter.com/elonmusk/status/1751073277760446971",
+          "publishedOn": "2024-01-27T02:42:57.000Z",
+          "wordCount": null,
+          "title": "Re @DavidSacks Exactly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1751036045154717972",
+          "author": "Elon Musk",
+          "description": "Re @MrBeast Wow",
+          "link": "https://twitter.com/elonmusk/status/1751036045154717972",
+          "publishedOn": "2024-01-27T00:15:00.000Z",
+          "wordCount": null,
+          "title": "Re @MrBeast Wow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1750998868861308963",
           "author": "Elon Musk",
           "description": "Re @SawyerMerritt There are gigantic differences in the effectiveness of R&D spending between companies",
-          "link": "https://twitter.com/elonmusk/status/1750705931506102449",
+          "link": "https://twitter.com/elonmusk/status/1750998868861308963",
           "publishedOn": "2024-01-26T21:47:16.000Z",
           "wordCount": null,
           "title": "Re @SawyerMerritt There are gigantic differences in the effectiveness of R&D spending between companies",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/elonmusk/status/1750997454512881839",
+          "id": "https://twitter.com/elonmusk/status/1750997546007183488",
           "author": "Elon Musk",
           "description": "Re @shaunmmaguire 🎯",
-          "link": "https://twitter.com/elonmusk/status/1750997454512881839",
+          "link": "https://twitter.com/elonmusk/status/1750997546007183488",
           "publishedOn": "2024-01-26T21:42:01.000Z",
           "wordCount": null,
           "title": "Re @shaunmmaguire 🎯",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/elonmusk/status/1750991746035835216",
+          "id": "https://twitter.com/elonmusk/status/1750997413920154011",
           "author": "Elon Musk",
           "description": "Re @WhatsupFranks @SawyerMerritt Yes",
-          "link": "https://twitter.com/elonmusk/status/1750991746035835216",
+          "link": "https://twitter.com/elonmusk/status/1750997413920154011",
           "publishedOn": "2024-01-26T21:41:30.000Z",
           "wordCount": null,
           "title": "Re @WhatsupFranks @SawyerMerritt Yes",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/elonmusk/status/1750991746035835216",
+          "id": "https://twitter.com/elonmusk/status/1750997027922567324",
           "author": "Elon Musk",
-          "description": "Re @SawyerMerritt The governor is correct that this is a Dojo Supercomputer, but $500M, while obviously a large sum of money, is only equivalent to a 10k H100 system from Nvidia.\nTesla will spend more than that on Nvidia hardware this year. The table stakes for being competitive in AI are at… https://twitter.com/i/web/status/1750997027922567324",
-          "link": "https://twitter.com/elonmusk/status/1750991746035835216",
+          "description": "Re @SawyerMerritt The governor is correct that this is a Dojo Supercomputer, but $500M, while obviously a large sum of money, is only equivalent to a 10k H100 system from Nvidia.\nTesla will spend more than that on Nvidia hardware this year. The table stakes for being competitive in AI are at…",
+          "link": "https://twitter.com/elonmusk/status/1750997027922567324",
           "publishedOn": "2024-01-26T21:39:58.000Z",
           "wordCount": null,
           "title": "Re @SawyerMerritt The governor is correct that this is a Dojo Supercomputer, but $500M, while obviously a large sum of money, is only equivalent to a ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750995501560807465",
-          "author": "Elon Musk",
-          "description": "xAI is not raising capital and I have had no conversations with anyone in this regard\n\nX News Daily: NEWS: The Financial Times has reported that @xAI is seeking investments up to $6BN, for a valuation of 20BN.\nNote: Elon has generally denied the numerous recent reports claiming that xAI is raising money.",
-          "link": "https://twitter.com/elonmusk/status/1750995501560807465",
-          "publishedOn": "2024-01-26T21:33:54.000Z",
-          "wordCount": null,
-          "title": "xAI is not raising capital and I have had no conversations with anyone in this regard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750890128493424911",
-          "author": "Elon Musk",
-          "description": "Re @scottastevenson Wow",
-          "link": "https://twitter.com/elonmusk/status/1750890128493424911",
-          "publishedOn": "2024-01-26T19:37:42.000Z",
-          "wordCount": null,
-          "title": "Re @scottastevenson Wow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750965742021841250",
-          "author": "Elon Musk",
-          "description": "Extremely concerning\n\nBill Ackman: Please read the below letter. I find the @FBI agents’ message irrefutable and extremely concerning. \nIt is shocking that @POTUS is fighting Texas’ attempt to protect our southern border. \nWhy aren’t Federal agents protecting our border rather than fighting to keep the border…",
-          "link": "https://twitter.com/elonmusk/status/1750965742021841250",
-          "publishedOn": "2024-01-26T19:35:38.000Z",
-          "wordCount": null,
-          "title": "Extremely concerning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750914842272403694",
-          "author": "Elon Musk",
-          "description": "Re @BillyM2k 💯",
-          "link": "https://twitter.com/elonmusk/status/1750914842272403694",
-          "publishedOn": "2024-01-26T19:33:14.000Z",
-          "wordCount": null,
-          "title": "Re @BillyM2k 💯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750899738205937760",
-          "author": "Elon Musk",
-          "description": "Re @kaitlancollins !!",
-          "link": "https://twitter.com/elonmusk/status/1750899738205937760",
-          "publishedOn": "2024-01-26T19:31:05.000Z",
-          "wordCount": null,
-          "title": "Re @kaitlancollins !!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750550361192927349",
-          "author": "Elon Musk",
-          "description": "Re @Geiger_Capital Exactly",
-          "link": "https://twitter.com/elonmusk/status/1750550361192927349",
-          "publishedOn": "2024-01-26T18:10:21.000Z",
-          "wordCount": null,
-          "title": "Re @Geiger_Capital Exactly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750857262132813981",
-          "author": "Elon Musk",
-          "description": "Re @BillAckman @POTUS Absolutely",
-          "link": "https://twitter.com/elonmusk/status/1750857262132813981",
-          "publishedOn": "2024-01-26T18:09:30.000Z",
-          "wordCount": null,
-          "title": "Re @BillAckman @POTUS Absolutely",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750936272884146610",
-          "author": "Elon Musk",
-          "description": "Re @BillyM2k 🔥😂",
-          "link": "https://twitter.com/elonmusk/status/1750936272884146610",
-          "publishedOn": "2024-01-26T18:08:57.000Z",
-          "wordCount": null,
-          "title": "Re @BillyM2k 🔥😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750967085469929909",
-          "author": "Elon Musk",
-          "description": "RT Eva McMillan ♥️\nPepsiCo says its Tesla Semi\nsurpassed 1,000 miles in single-day haul. 🔥 @Tesla @elonmusk",
-          "link": "https://twitter.com/elonmusk/status/1750967085469929909",
-          "publishedOn": "2024-01-26T11:30:31.000Z",
-          "wordCount": null,
-          "title": "RT Eva McMillan ♥️: PepsiCo says its Tesla Semi surpassed 1,000 miles in single-day haul. 🔥 @Tesla @elonmusk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750713777522085997",
-          "author": "Elon Musk",
-          "description": "Re @TheBabylonBee 😂",
-          "link": "https://twitter.com/elonmusk/status/1750713777522085997",
-          "publishedOn": "2024-01-26T07:24:31.000Z",
-          "wordCount": null,
-          "title": "Re @TheBabylonBee 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750605760617189676",
-          "author": "Elon Musk",
-          "description": "Re @MattWalshBlog Interesting",
-          "link": "https://twitter.com/elonmusk/status/1750605760617189676",
-          "publishedOn": "2024-01-26T07:16:35.000Z",
-          "wordCount": null,
-          "title": "Re @MattWalshBlog Interesting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750701782509003094",
-          "author": "Elon Musk",
-          "description": "Re @alx Exactly",
-          "link": "https://twitter.com/elonmusk/status/1750701782509003094",
-          "publishedOn": "2024-01-26T02:07:28.000Z",
-          "wordCount": null,
-          "title": "Re @alx Exactly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750666662444155309",
-          "author": "Elon Musk",
-          "description": "Re @WR4NYGov My estimate of the probability of success at the beginning of both Tesla and SpaceX was less than 10%.\nThe reason people telling me we would probably fail didn’t dissuade me was that I already agreed with them!",
-          "link": "https://twitter.com/elonmusk/status/1750666662444155309",
-          "publishedOn": "2024-01-26T01:48:17.000Z",
-          "wordCount": null,
-          "title": "Re @WR4NYGov My estimate of the probability of success at the beginning of both Tesla and SpaceX was less than 10%. The reason people telling me we wo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750514088700973480",
-          "author": "Elon Musk",
-          "description": "Re @netcapgirl 😂",
-          "link": "https://twitter.com/elonmusk/status/1750514088700973480",
-          "publishedOn": "2024-01-26T01:31:17.000Z",
-          "wordCount": null,
-          "title": "Re @netcapgirl 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/elonmusk/status/1750688366356484173",
-          "author": "Elon Musk",
-          "description": "Re @WallStreetSilv That number may be closer to 20 million",
-          "link": "https://twitter.com/elonmusk/status/1750688366356484173",
-          "publishedOn": "2024-01-26T01:17:44.000Z",
-          "wordCount": null,
-          "title": "Re @WallStreetSilv That number may be closer to 20 million",
           "imageUrl": null
         }
       ]
