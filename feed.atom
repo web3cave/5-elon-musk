@@ -1,210 +1,203 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-09T01:58:04.903Z</id>
+    <id>urn:2024-07-10T01:58:03.095Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-09T01:58:04.903Z</updated>
+    <updated>2024-07-10T01:58:03.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @TurkeyBeaver Looks familiar]]></title>
-        <id>https://twitter.com/elonmusk/status/1810459761797742623</id>
-        <link href="https://x.com/elonmusk/status/1810459761797742623"/>
-        <updated>2024-07-08T23:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @TurkeyBeaver Looks familiar]]></summary>
+        <title type="html"><![CDATA[Re @OptimoPrincipi @SoterioPolitics Ridiculous]]></title>
+        <id>https://twitter.com/elonmusk/status/1810799735009386587</id>
+        <link href="https://x.com/elonmusk/status/1810799735009386587"/>
+        <updated>2024-07-09T22:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @OptimoPrincipi @SoterioPolitics Ridiculous]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla has a Semi 😉]]></title>
-        <id>https://twitter.com/elonmusk/status/1810454369000727022</id>
-        <link href="https://x.com/elonmusk/status/1810454369000727022"/>
-        <updated>2024-07-08T23:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Tesla has a Semi 😉
+        <title type="html"><![CDATA[Re @ImtiazMadmood As expected]]></title>
+        <id>https://twitter.com/elonmusk/status/1810765936695390477</id>
+        <link href="https://x.com/elonmusk/status/1810765936695390477"/>
+        <updated>2024-07-09T20:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @ImtiazMadmood As expected]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dinkin_flickaa Cool]]></title>
+        <id>https://twitter.com/elonmusk/status/1810765511686603169</id>
+        <link href="https://x.com/elonmusk/status/1810765511686603169"/>
+        <updated>2024-07-09T19:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @dinkin_flickaa Cool]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EndWokeness !]]></title>
+        <id>https://twitter.com/elonmusk/status/1810765440895066128</id>
+        <link href="https://x.com/elonmusk/status/1810765440895066128"/>
+        <updated>2024-07-09T19:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @EndWokeness !]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @America1stLegal !!]]></title>
+        <id>https://twitter.com/elonmusk/status/1810765339124453539</id>
+        <link href="https://x.com/elonmusk/status/1810765339124453539"/>
+        <updated>2024-07-09T19:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @America1stLegal !!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TeslaTomMY1 @jimcramer Amazing 😂]]></title>
+        <id>https://twitter.com/elonmusk/status/1810765125286252956</id>
+        <link href="https://x.com/elonmusk/status/1810765125286252956"/>
+        <updated>2024-07-09T19:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @TeslaTomMY1 @jimcramer Amazing 😂]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @farzyness 😂]]></title>
+        <id>https://twitter.com/elonmusk/status/1810761374525456569</id>
+        <link href="https://x.com/elonmusk/status/1810761374525456569"/>
+        <updated>2024-07-09T19:42:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @farzyness 😂]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MarioNawfal Starship V3 should be capable of close to 200 tons of payload when operating as a tanker]]></title>
+        <id>https://twitter.com/elonmusk/status/1810727898631819514</id>
+        <link href="https://x.com/elonmusk/status/1810727898631819514"/>
+        <updated>2024-07-09T17:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @MarioNawfal Starship V3 should be capable of close to 200 tons of payload when operating as a tanker]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @xDaily xAI contracted for 24k H100s from Oracle and Grok 2 trained on those. Grok 2 is going through finetuning and bug fixes. Probably ready to r...]]></title>
+        <id>https://twitter.com/elonmusk/status/1810727394631950752</id>
+        <link href="https://x.com/elonmusk/status/1810727394631950752"/>
+        <updated>2024-07-09T17:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @xDaily xAI contracted for 24k H100s from Oracle and Grok 2 trained on those. Grok 2 is going through finetuning and bug fixes. Probably ready to release next month.
+ xAI is building the 100k H100 system itself for fastest time to completion. Aiming to begin training later this month.…]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dinkin_flickaa Not bad. I think long press for 1.5X, another for 2X, another for back to 1X]]></title>
+        <id>https://twitter.com/elonmusk/status/1810724778564587921</id>
+        <link href="https://x.com/elonmusk/status/1810724778564587921"/>
+        <updated>2024-07-09T17:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @dinkin_flickaa Not bad. I think long press for 1.5X, another for 2X, another for back to 1X]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EvaFoxU Sounds great]]></title>
+        <id>https://twitter.com/elonmusk/status/1810724337298854127</id>
+        <link href="https://x.com/elonmusk/status/1810724337298854127"/>
+        <updated>2024-07-09T17:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @EvaFoxU Sounds great]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WholeMarsBlog Absolutely]]></title>
+        <id>https://twitter.com/elonmusk/status/1810724188769907044</id>
+        <link href="https://x.com/elonmusk/status/1810724188769907044"/>
+        <updated>2024-07-09T17:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @WholeMarsBlog Absolutely]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dhaval_shroff 🎯]]></title>
+        <id>https://twitter.com/elonmusk/status/1810723929998131323</id>
+        <link href="https://x.com/elonmusk/status/1810723929998131323"/>
+        <updated>2024-07-09T17:13:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @dhaval_shroff 🎯]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @PeterDiamandis Synthetic, validated against reality by humanoid robots]]></title>
+        <id>https://twitter.com/elonmusk/status/1810721623340896267</id>
+        <link href="https://x.com/elonmusk/status/1810721623340896267"/>
+        <updated>2024-07-09T17:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @PeterDiamandis Synthetic, validated against reality by humanoid robots]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @joerogan @netflix Cool]]></title>
+        <id>https://twitter.com/elonmusk/status/1810717888732438868</id>
+        <link href="https://x.com/elonmusk/status/1810717888732438868"/>
+        <updated>2024-07-09T16:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @joerogan @netflix Cool]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Farzad: Here’s the official Texas voter registration form for federal elections. Nowhere in the form does one have to prove that they’re a citize...]]></title>
+        <id>https://twitter.com/elonmusk/status/1810718279561855149</id>
+        <link href="https://x.com/elonmusk/status/1810718279561855149"/>
+        <updated>2024-07-09T16:44:28.000Z</updated>
+        <summary type="html"><![CDATA[RT Farzad
+Here’s the official Texas voter registration form for federal elections.
+Nowhere in the form does one have to prove that they’re a citizen - all they have to do is click ‘Yes’.
+Why is the most important part of democracy - voting - not bulletproof?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @GordonGekko420 Haha wow]]></title>
+        <id>https://twitter.com/elonmusk/status/1810714410618417428</id>
+        <link href="https://x.com/elonmusk/status/1810714410618417428"/>
+        <updated>2024-07-09T16:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @GordonGekko420 Haha wow]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who are these “activists”?]]></title>
+        <id>https://twitter.com/elonmusk/status/1810711659423428871</id>
+        <link href="https://x.com/elonmusk/status/1810711659423428871"/>
+        <updated>2024-07-09T16:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Who are these “activists”?
 
-Tesla:]]></summary>
+Not the Bee: Activists oppose California bill that makes child prostitution a felony. Their reason? "LGBTQ people ... are more likely to be charged with sex offenses"
+https://notthebee.com/t048c]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When combined with mail-in ballots, the system is *designed* to make it impossible to prove fraud. Mail-in and drop box ballots should not be allowed,...]]></title>
-        <id>https://twitter.com/elonmusk/status/1810454245109571615</id>
-        <link href="https://x.com/elonmusk/status/1810454245109571615"/>
-        <updated>2024-07-08T23:21:43.000Z</updated>
-        <summary type="html"><![CDATA[When combined with mail-in ballots, the system is *designed* to make it impossible to prove fraud.
-Mail-in and drop box ballots should not be allowed, as cameras on the in-person voting stations would at least prevent large-scale fraud by counting how many people showed up vs…]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @WallStreetApes !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1810450277503316414</id>
-        <link href="https://x.com/elonmusk/status/1810450277503316414"/>
-        <updated>2024-07-08T23:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @WallStreetApes !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @RobertMSterling Boeing pays them off with advertising money]]></title>
-        <id>https://twitter.com/elonmusk/status/1810425324766687570</id>
-        <link href="https://x.com/elonmusk/status/1810425324766687570"/>
-        <updated>2024-07-08T21:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @RobertMSterling Boeing pays them off with advertising money]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SawyerMerritt …]]></title>
-        <id>https://twitter.com/elonmusk/status/1810423084194689073</id>
-        <link href="https://x.com/elonmusk/status/1810423084194689073"/>
-        <updated>2024-07-08T21:17:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @SawyerMerritt …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @StephenM 💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1810422655259959510</id>
-        <link href="https://x.com/elonmusk/status/1810422655259959510"/>
-        <updated>2024-07-08T21:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @StephenM 💯]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ggreenwald Yup]]></title>
-        <id>https://twitter.com/elonmusk/status/1810422285842694539</id>
-        <link href="https://x.com/elonmusk/status/1810422285842694539"/>
-        <updated>2024-07-08T21:14:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @ggreenwald Yup]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BasedMikeLee !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1810421358247256566</id>
-        <link href="https://x.com/elonmusk/status/1810421358247256566"/>
-        <updated>2024-07-08T21:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @BasedMikeLee !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillyM2k True]]></title>
-        <id>https://twitter.com/elonmusk/status/1810420801965056140</id>
-        <link href="https://x.com/elonmusk/status/1810420801965056140"/>
-        <updated>2024-07-08T21:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillyM2k True]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @BillMelugin_ !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1810420704518799656</id>
-        <link href="https://x.com/elonmusk/status/1810420704518799656"/>
-        <updated>2024-07-08T21:08:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @BillMelugin_ !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Henrik_Palmgren !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1810420286795194415</id>
-        <link href="https://x.com/elonmusk/status/1810420286795194415"/>
-        <updated>2024-07-08T21:06:47.000Z</updated>
-        <summary type="html"><![CDATA[Re @Henrik_Palmgren !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @libsoftiktok !!]]></title>
-        <id>https://twitter.com/elonmusk/status/1810417288316641367</id>
-        <link href="https://x.com/elonmusk/status/1810417288316641367"/>
-        <updated>2024-07-08T20:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Re @libsoftiktok !!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Molson_Hart Common story. For my friends (excluding me lol), average is ~1, where 2.1 is replacement rate]]></title>
-        <id>https://twitter.com/elonmusk/status/1810378640145920379</id>
-        <link href="https://x.com/elonmusk/status/1810378640145920379"/>
-        <updated>2024-07-08T18:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @Molson_Hart Common story. For my friends (excluding me lol), average is ~1, where 2.1 is replacement rate]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DogeDesigner:]]></title>
-        <id>https://twitter.com/elonmusk/status/1810422034956234896</id>
-        <link href="https://x.com/elonmusk/status/1810422034956234896"/>
-        <updated>2024-07-08T18:19:38.000Z</updated>
-        <summary type="html"><![CDATA[RT DogeDesigner]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @IMAO_ Yeah!]]></title>
-        <id>https://twitter.com/elonmusk/status/1810378191896514811</id>
-        <link href="https://x.com/elonmusk/status/1810378191896514811"/>
-        <updated>2024-07-08T18:19:30.000Z</updated>
-        <summary type="html"><![CDATA[Re @IMAO_ Yeah!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Toby Pohlen: I like our mission statement "understand the universe". To me, “universe” is a metaphor for “everything”, meaning the AI’s knowle...]]></title>
-        <id>https://twitter.com/elonmusk/status/1810378743107694797</id>
-        <link href="https://x.com/elonmusk/status/1810378743107694797"/>
-        <updated>2024-07-08T18:19:22.000Z</updated>
-        <summary type="html"><![CDATA[RT Toby Pohlen
-I like our mission statement "understand the universe".
-To me, “universe” is a metaphor for “everything”, meaning the AI’s knowledge should be all-encompassing. “understand” means that we not only build AI for humans, but specifically to advance human understanding.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Great idea!!]]></title>
-        <id>https://twitter.com/elonmusk/status/1810377948811481340</id>
-        <link href="https://x.com/elonmusk/status/1810377948811481340"/>
-        <updated>2024-07-08T18:18:32.000Z</updated>
-        <summary type="html"><![CDATA[Great idea!!
-
-stevenmarkryan: @elonmusk Warren Buffet proposed a great solution.
-You just pass a law that says that any time there's a deficit of more than 3% of GDP, all sitting members of Congress are ineligible for re-election.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Steve Jurvetson: To counter the big pharma-funded-FUD on MDMA therapy, experts from the VA and 15 universities who actually know something about th...]]></title>
-        <id>https://twitter.com/elonmusk/status/1810421975552295405</id>
-        <link href="https://x.com/elonmusk/status/1810421975552295405"/>
-        <updated>2024-07-08T16:18:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Steve Jurvetson
-To counter the big pharma-funded-FUD on MDMA therapy, experts from the VA and 15 universities who actually know something about the topic have just responded. Based on all of the data and the science, they recommend FDA approval on August 11.
-  👉 https://www.scientiststatementonptsd.com
-
-
-Steve Jurvetson: In the face of our nation’s mental health crisis, it would be a shame not to approve the most efficacious mental health drug ever to come before the FDA.
-(And the next best is 54 years old now — lithium for bipolar)]]></summary>
+        <title type="html"><![CDATA[Re @jordanbpeterson How annoying]]></title>
+        <id>https://twitter.com/elonmusk/status/1810710933922091037</id>
+        <link href="https://x.com/elonmusk/status/1810710933922091037"/>
+        <updated>2024-07-09T16:21:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @jordanbpeterson How annoying]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
