@@ -1,8 +1,214 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T01:57:54.480Z</id>
+    <id>urn:2024-07-20T01:55:28.927Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T01:57:54.480Z</updated>
+    <updated>2024-07-20T01:55:28.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Rob_2628 But same skill tree? If same tree, then you could unlock almost all skills.]]></title>
+        <id>https://twitter.com/elonmusk/status/1814407470531653894</id>
+        <link href="https://x.com/elonmusk/status/1814407470531653894"/>
+        <updated>2024-07-19T21:10:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rob_2628 But same skill tree? If same tree, then you could unlock almost all skills.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @AshleyDCan Yeah, there should be a max age. Founders just didn’t expect anyone to live that long back then!]]></title>
+        <id>https://twitter.com/elonmusk/status/1814370308041724246</id>
+        <link href="https://x.com/elonmusk/status/1814370308041724246"/>
+        <updated>2024-07-19T18:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @AshleyDCan Yeah, there should be a max age. 
+Founders just didn’t expect anyone to live that long back then!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @FutureJurvetson Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1814370036183654699</id>
+        <link href="https://x.com/elonmusk/status/1814370036183654699"/>
+        <updated>2024-07-19T18:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @FutureJurvetson Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ChoooCole 🎯]]></title>
+        <id>https://twitter.com/elonmusk/status/1814369185268453541</id>
+        <link href="https://x.com/elonmusk/status/1814369185268453541"/>
+        <updated>2024-07-19T18:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @ChoooCole 🎯]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @TONYxTWO !]]></title>
+        <id>https://twitter.com/elonmusk/status/1814368987523768524</id>
+        <link href="https://x.com/elonmusk/status/1814368987523768524"/>
+        <updated>2024-07-19T18:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @TONYxTWO !]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @HSajwanization @X Yup]]></title>
+        <id>https://twitter.com/elonmusk/status/1814368738101154221</id>
+        <link href="https://x.com/elonmusk/status/1814368738101154221"/>
+        <updated>2024-07-19T18:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @HSajwanization @X Yup]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jk_rowling @JolyonMaugham @GoodLawProject Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1814368453123551359</id>
+        <link href="https://x.com/elonmusk/status/1814368453123551359"/>
+        <updated>2024-07-19T18:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @jk_rowling @JolyonMaugham @GoodLawProject Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @UpdatingOnRome For sure]]></title>
+        <id>https://twitter.com/elonmusk/status/1814368314090807584</id>
+        <link href="https://x.com/elonmusk/status/1814368314090807584"/>
+        <updated>2024-07-19T18:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @UpdatingOnRome For sure]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Teslaconomics Cool]]></title>
+        <id>https://twitter.com/elonmusk/status/1814367416324874612</id>
+        <link href="https://x.com/elonmusk/status/1814367416324874612"/>
+        <updated>2024-07-19T18:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Re @Teslaconomics Cool]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💯]]></title>
+        <id>https://twitter.com/elonmusk/status/1814366864715178165</id>
+        <link href="https://x.com/elonmusk/status/1814366864715178165"/>
+        <updated>2024-07-19T18:29:04.000Z</updated>
+        <summary type="html"><![CDATA[💯
+
+Christopher Stanley: This is a wake up reminder that you shouldn’t have an internet connected privileged binary running on your production systems. What was a bad update could have easily been a massive adversary backdoor. A third party vendor will always be the weakest link. Isolate critical systems]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @RuiHuang_art Cool]]></title>
+        <id>https://twitter.com/elonmusk/status/1814366762818748843</id>
+        <link href="https://x.com/elonmusk/status/1814366762818748843"/>
+        <updated>2024-07-19T18:28:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @RuiHuang_art Cool]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MarioNawfal This is harder than it may seem. ISS has pretty low max thrust limits, as the solar arrays are very floppy, but requires a high total ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1814366082385224060</id>
+        <link href="https://x.com/elonmusk/status/1814366082385224060"/>
+        <updated>2024-07-19T18:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @MarioNawfal This is harder than it may seem. ISS has pretty low max thrust limits, as the solar arrays are very floppy, but requires a high total impulse to deorbit with precision.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congratulations PM @NarendraModi on being the most followed world leader!]]></title>
+        <id>https://twitter.com/elonmusk/status/1814354894326739057</id>
+        <link href="https://x.com/elonmusk/status/1814354894326739057"/>
+        <updated>2024-07-19T17:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations PM @NarendraModi on being the most followed world leader!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💯]]></title>
+        <id>https://twitter.com/elonmusk/status/1814347534233444645</id>
+        <link href="https://x.com/elonmusk/status/1814347534233444645"/>
+        <updated>2024-07-19T17:12:15.000Z</updated>
+        <summary type="html"><![CDATA[💯
+
+⚡️🌙: perhaps the solution to fragile critical infrastructure is not “single b2b saas company with kernel access”]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @mazemoore Max Boot is a dick]]></title>
+        <id>https://twitter.com/elonmusk/status/1814347207941955869</id>
+        <link href="https://x.com/elonmusk/status/1814347207941955869"/>
+        <updated>2024-07-19T17:10:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @mazemoore Max Boot is a dick]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Culture_Crit Beautiful streetlights are so worth it]]></title>
+        <id>https://twitter.com/elonmusk/status/1814346945940336850</id>
+        <link href="https://x.com/elonmusk/status/1814346945940336850"/>
+        <updated>2024-07-19T17:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @Culture_Crit Beautiful streetlights are so worth it]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @growing_daniel We’re going to render the gun as it should be rendered on all devices. The water pistol is dumb & ugly.]]></title>
+        <id>https://twitter.com/elonmusk/status/1814346769821581791</id>
+        <link href="https://x.com/elonmusk/status/1814346769821581791"/>
+        <updated>2024-07-19T17:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @growing_daniel We’re going to render the gun as it should be rendered on all devices. 
+The water pistol is dumb & ugly.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ajtourville Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1814346473611338035</id>
+        <link href="https://x.com/elonmusk/status/1814346473611338035"/>
+        <updated>2024-07-19T17:08:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @ajtourville Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @WesternLensman Pumping his fist after being shot was amazing]]></title>
+        <id>https://twitter.com/elonmusk/status/1814346341486584135</id>
+        <link href="https://x.com/elonmusk/status/1814346341486584135"/>
+        <updated>2024-07-19T17:07:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @WesternLensman Pumping his fist after being shot was amazing]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @growing_daniel 😂]]></title>
+        <id>https://twitter.com/elonmusk/status/1814343271277051905</id>
+        <link href="https://x.com/elonmusk/status/1814343271277051905"/>
+        <updated>2024-07-19T16:55:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @growing_daniel 😂]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
 </feed>
