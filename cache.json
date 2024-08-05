@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @Elon Musk",
+      "feedUrl": "https://rsshub.app/twitter/user/elonmusk",
+      "siteUrl": "https://x.com/elonmusk",
+      "articles": [
+        {
+          "id": "https://twitter.com/elonmusk/status/1820243406381298014",
+          "author": "Elon Musk",
+          "description": "Re @NWSTwinCities This should not be happening. Will investigate.",
+          "link": "https://x.com/elonmusk/status/1820243406381298014",
+          "publishedOn": "2024-08-04T23:40:21.000Z",
+          "wordCount": 6,
+          "title": "Re @NWSTwinCities This should not be happening. Will investigate.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820231380309004399",
+          "author": "Elon Musk",
+          "description": "Re @ajtourville 🔥",
+          "link": "https://x.com/elonmusk/status/1820231380309004399",
+          "publishedOn": "2024-08-04T22:52:33.000Z",
+          "wordCount": 6,
+          "title": "Re @ajtourville 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820231019758256545",
+          "author": "Elon Musk",
+          "description": "Re @WholeMarsBlog Yup",
+          "link": "https://x.com/elonmusk/status/1820231019758256545",
+          "publishedOn": "2024-08-04T22:51:08.000Z",
+          "wordCount": 6,
+          "title": "Re @WholeMarsBlog Yup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820229823517597995",
+          "author": "Elon Musk",
+          "description": "Re @Teslaconomics Cool",
+          "link": "https://x.com/elonmusk/status/1820229823517597995",
+          "publishedOn": "2024-08-04T22:46:22.000Z",
+          "wordCount": 6,
+          "title": "Re @Teslaconomics Cool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820221188666482865",
+          "author": "Elon Musk",
+          "description": "Re @johnkrausphotos Beautiful shot",
+          "link": "https://x.com/elonmusk/status/1820221188666482865",
+          "publishedOn": "2024-08-04T22:12:04.000Z",
+          "wordCount": 6,
+          "title": "Re @johnkrausphotos Beautiful shot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820221050904359331",
+          "author": "Elon Musk",
+          "description": "😬",
+          "link": "https://x.com/elonmusk/status/1820221050904359331",
+          "publishedOn": "2024-08-04T22:11:31.000Z",
+          "wordCount": 6,
+          "title": "😬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820220681167982882",
+          "author": "Elon Musk",
+          "description": "Re @BillyM2k 😂",
+          "link": "https://x.com/elonmusk/status/1820220681167982882",
+          "publishedOn": "2024-08-04T22:10:03.000Z",
+          "wordCount": 6,
+          "title": "Re @BillyM2k 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820220515942044093",
+          "author": "Elon Musk",
+          "description": "Re @nypost 🤦‍♂️",
+          "link": "https://x.com/elonmusk/status/1820220515942044093",
+          "publishedOn": "2024-08-04T22:09:23.000Z",
+          "wordCount": 6,
+          "title": "Re @nypost 🤦‍♂️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820207187664195958",
+          "author": "Elon Musk",
+          "description": "Re @yusufdikec I do look forward to visiting Istanbul. It is one of the great cities of the world.",
+          "link": "https://x.com/elonmusk/status/1820207187664195958",
+          "publishedOn": "2024-08-04T21:16:26.000Z",
+          "wordCount": 6,
+          "title": "Re @yusufdikec I do look forward to visiting Istanbul. It is one of the great cities of the world.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820206703763157152",
+          "author": "Elon Musk",
+          "description": "Re @Rob_2628 Druid still feeble (sigh)",
+          "link": "https://x.com/elonmusk/status/1820206703763157152",
+          "publishedOn": "2024-08-04T21:14:30.000Z",
+          "wordCount": 6,
+          "title": "Re @Rob_2628 Druid still feeble (sigh)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820206318134632625",
+          "author": "Elon Musk",
+          "description": "Re @yusufdikec Robots will hit the center of the bullseye every time",
+          "link": "https://x.com/elonmusk/status/1820206318134632625",
+          "publishedOn": "2024-08-04T21:12:58.000Z",
+          "wordCount": 6,
+          "title": "Re @yusufdikec Robots will hit the center of the bullseye every time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820170096234397946",
+          "author": "Elon Musk",
+          "description": "Re @iam_smx All 5 boys super happy",
+          "link": "https://x.com/elonmusk/status/1820170096234397946",
+          "publishedOn": "2024-08-04T18:49:02.000Z",
+          "wordCount": 6,
+          "title": "Re @iam_smx All 5 boys super happy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820124685381591377",
+          "author": "Elon Musk",
+          "description": "Re @TrungTPhan He is clearly expecting a correction of some kind or otherwise simply cannot see better investments than Treasury bills. \nThe Fed needs to drop rates. They have been foolish not to have done so already.",
+          "link": "https://x.com/elonmusk/status/1820124685381591377",
+          "publishedOn": "2024-08-04T15:48:35.000Z",
+          "wordCount": 6,
+          "title": "Re @TrungTPhan He is clearly expecting a correction of some kind or otherwise simply cannot see better investments than Treasury bills. The Fed needs ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820124208283701699",
+          "author": "Elon Musk",
+          "description": "Re @Liv_Boeree If incompatible cultures are brought together without assimilation, conflict is inevitable",
+          "link": "https://x.com/elonmusk/status/1820124208283701699",
+          "publishedOn": "2024-08-04T15:46:42.000Z",
+          "wordCount": 6,
+          "title": "Re @Liv_Boeree If incompatible cultures are brought together without assimilation, conflict is inevitable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820152598894199152",
+          "author": "Elon Musk",
+          "description": "RT DogeDesigner\nSpaceX’s mission is to extend consciousness to Mars and then the stars.",
+          "link": "https://x.com/elonmusk/status/1820152598894199152",
+          "publishedOn": "2024-08-04T12:30:00.000Z",
+          "wordCount": 6,
+          "title": "RT DogeDesigner: SpaceX’s mission is to extend consciousness to Mars and then the stars.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820029383954063433",
+          "author": "Elon Musk",
+          "description": "Re @GadSaad Looking forward to your new book",
+          "link": "https://x.com/elonmusk/status/1820029383954063433",
+          "publishedOn": "2024-08-04T09:29:54.000Z",
+          "wordCount": 6,
+          "title": "Re @GadSaad Looking forward to your new book",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820028269405622744",
+          "author": "Elon Musk",
+          "description": "Re @realnikohouse Absolutely",
+          "link": "https://x.com/elonmusk/status/1820028269405622744",
+          "publishedOn": "2024-08-04T09:25:28.000Z",
+          "wordCount": 6,
+          "title": "Re @realnikohouse Absolutely",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820022578649481323",
+          "author": "Elon Musk",
+          "description": "Re @MarioNawfal It is an often overlooked major issue",
+          "link": "https://x.com/elonmusk/status/1820022578649481323",
+          "publishedOn": "2024-08-04T09:02:51.000Z",
+          "wordCount": 6,
+          "title": "Re @MarioNawfal It is an often overlooked major issue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820021232286228886",
+          "author": "Elon Musk",
+          "description": "Re @MikeBenzCyber 💯",
+          "link": "https://x.com/elonmusk/status/1820021232286228886",
+          "publishedOn": "2024-08-04T08:57:30.000Z",
+          "wordCount": 6,
+          "title": "Re @MikeBenzCyber 💯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1820020594160869515",
+          "author": "Elon Musk",
+          "description": "RT SpaceX\nFalcon 9 lands on the Of Course I Still Love You droneship, completing this booster’s sixth mission",
+          "link": "https://x.com/elonmusk/status/1820020594160869515",
+          "publishedOn": "2024-08-04T07:33:05.000Z",
+          "wordCount": 6,
+          "title": "RT SpaceX: Falcon 9 lands on the Of Course I Still Love You droneship, completing this booster’s sixth mission",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
