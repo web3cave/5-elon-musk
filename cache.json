@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @Elon Musk",
+      "feedUrl": "https://rsshub.app/twitter/user/elonmusk",
+      "siteUrl": "https://x.com/elonmusk",
+      "articles": [
+        {
+          "id": "https://twitter.com/elonmusk/status/1823865674206220399",
+          "author": "Elon Musk",
+          "description": "Re @Benioff @JMilei Cool",
+          "link": "https://x.com/elonmusk/status/1823865674206220399",
+          "publishedOn": "2024-08-14T23:33:57.000Z",
+          "wordCount": 6,
+          "title": "Re @Benioff @JMilei Cool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823865610570490270",
+          "author": "Elon Musk",
+          "description": "Re @MarioNawfal $277B cash reserves is wild. \nThat will change as the T-bill return drops.",
+          "link": "https://x.com/elonmusk/status/1823865610570490270",
+          "publishedOn": "2024-08-14T23:33:42.000Z",
+          "wordCount": 6,
+          "title": "Re @MarioNawfal $277B cash reserves is wild. That will change as the T-bill return drops.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823865251680674110",
+          "author": "Elon Musk",
+          "description": "Re @TesLatino @cybertruck Cool",
+          "link": "https://x.com/elonmusk/status/1823865251680674110",
+          "publishedOn": "2024-08-14T23:32:16.000Z",
+          "wordCount": 6,
+          "title": "Re @TesLatino @cybertruck Cool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823864693427200177",
+          "author": "Elon Musk",
+          "description": "Re @MaryTilesTexas Cool",
+          "link": "https://x.com/elonmusk/status/1823864693427200177",
+          "publishedOn": "2024-08-14T23:30:03.000Z",
+          "wordCount": 6,
+          "title": "Re @MaryTilesTexas Cool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823864579405107538",
+          "author": "Elon Musk",
+          "description": "Re @cb_doge 💯",
+          "link": "https://x.com/elonmusk/status/1823864579405107538",
+          "publishedOn": "2024-08-14T23:29:36.000Z",
+          "wordCount": 6,
+          "title": "Re @cb_doge 💯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823864180400906326",
+          "author": "Elon Musk",
+          "description": "😂\n\nSir Doge of the Coin ⚔️: Grok is so fun! 😂",
+          "link": "https://x.com/elonmusk/status/1823864180400906326",
+          "publishedOn": "2024-08-14T23:28:01.000Z",
+          "wordCount": 6,
+          "title": "😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823853354721972241",
+          "author": "Elon Musk",
+          "description": "Re @RochesterRadar @JMilei 🔥",
+          "link": "https://x.com/elonmusk/status/1823853354721972241",
+          "publishedOn": "2024-08-14T22:44:59.000Z",
+          "wordCount": 6,
+          "title": "Re @RochesterRadar @JMilei 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823850981320482888",
+          "author": "Elon Musk",
+          "description": "Re @jasondebolt And we’re super open to criticism!\nGoal is to make this the free speech public square for all views, not just right-biased. \nBut it would be hypocritical of me to be a free speech advocate and then not exercise my own right to free speech!",
+          "link": "https://x.com/elonmusk/status/1823850981320482888",
+          "publishedOn": "2024-08-14T22:35:34.000Z",
+          "wordCount": 6,
+          "title": "Re @jasondebolt And we’re super open to criticism! Goal is to make this the free speech public square for all views, not just right-biased. But it wo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823834587627475258",
+          "author": "Elon Musk",
+          "description": "Re @WholeMarsBlog Any car company that fails to solve self-driving will die",
+          "link": "https://x.com/elonmusk/status/1823834587627475258",
+          "publishedOn": "2024-08-14T21:30:25.000Z",
+          "wordCount": 6,
+          "title": "Re @WholeMarsBlog Any car company that fails to solve self-driving will die",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823834323298214267",
+          "author": "Elon Musk",
+          "description": "Re @WesternLensman Exactly. \nMark Cuban is a giant 💩 in human form.",
+          "link": "https://x.com/elonmusk/status/1823834323298214267",
+          "publishedOn": "2024-08-14T21:29:22.000Z",
+          "wordCount": 6,
+          "title": "Re @WesternLensman Exactly. Mark Cuban is a giant 💩 in human form.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823834116170904063",
+          "author": "Elon Musk",
+          "description": "Re @markpinc Walz is the worst",
+          "link": "https://x.com/elonmusk/status/1823834116170904063",
+          "publishedOn": "2024-08-14T21:28:33.000Z",
+          "wordCount": 6,
+          "title": "Re @markpinc Walz is the worst",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823833912554217837",
+          "author": "Elon Musk",
+          "description": "Re @Lauren_Southern Much work indeed. And it’s far worse in Europe. People really believe the media there!",
+          "link": "https://x.com/elonmusk/status/1823833912554217837",
+          "publishedOn": "2024-08-14T21:27:44.000Z",
+          "wordCount": 6,
+          "title": "Re @Lauren_Southern Much work indeed. And it’s far worse in Europe. People really believe the media there!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823833556520722694",
+          "author": "Elon Musk",
+          "description": "Re @MarioNawfal !",
+          "link": "https://x.com/elonmusk/status/1823833556520722694",
+          "publishedOn": "2024-08-14T21:26:19.000Z",
+          "wordCount": 6,
+          "title": "Re @MarioNawfal !",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823833451684143346",
+          "author": "Elon Musk",
+          "description": "Re @cb_doge Beautiful detail",
+          "link": "https://x.com/elonmusk/status/1823833451684143346",
+          "publishedOn": "2024-08-14T21:25:54.000Z",
+          "wordCount": 6,
+          "title": "Re @cb_doge Beautiful detail",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823833376182427747",
+          "author": "Elon Musk",
+          "description": "RT DogeDesigner\nThis image was generated by AI using Grok.",
+          "link": "https://x.com/elonmusk/status/1823833376182427747",
+          "publishedOn": "2024-08-14T21:12:34.000Z",
+          "wordCount": 6,
+          "title": "RT DogeDesigner: This image was generated by AI using Grok.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823829873636598141",
+          "author": "Elon Musk",
+          "description": "Re @tsarnick",
+          "link": "https://x.com/elonmusk/status/1823829873636598141",
+          "publishedOn": "2024-08-14T21:11:41.000Z",
+          "wordCount": 6,
+          "title": "Re @tsarnick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823829223267848479",
+          "author": "Elon Musk",
+          "description": "Re @MAstronomers Terminus",
+          "link": "https://x.com/elonmusk/status/1823829223267848479",
+          "publishedOn": "2024-08-14T21:09:06.000Z",
+          "wordCount": 6,
+          "title": "Re @MAstronomers Terminus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823828864474513497",
+          "author": "Elon Musk",
+          "description": "Most American-made car in America \n https://x.com/i/grok/share/sSKQx9jLu34CxAzNdYPMQ7KOX",
+          "link": "https://x.com/elonmusk/status/1823828864474513497",
+          "publishedOn": "2024-08-14T21:07:41.000Z",
+          "wordCount": 6,
+          "title": "Most American-made car in America https://x.com/i/grok/share/sSKQx9jLu34CxAzNdYPMQ7KOX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823827556052922833",
+          "author": "Elon Musk",
+          "description": "Re @kylaschwaberow Cool",
+          "link": "https://x.com/elonmusk/status/1823827556052922833",
+          "publishedOn": "2024-08-14T21:02:29.000Z",
+          "wordCount": 6,
+          "title": "Re @kylaschwaberow Cool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1823826738444726334",
+          "author": "Elon Musk",
+          "description": "Re @fchollet Carnot efficiency limit of intelligence",
+          "link": "https://x.com/elonmusk/status/1823826738444726334",
+          "publishedOn": "2024-08-14T20:59:14.000Z",
+          "wordCount": 6,
+          "title": "Re @fchollet Carnot efficiency limit of intelligence",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
