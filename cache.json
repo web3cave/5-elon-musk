@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @Elon Musk",
+      "feedUrl": "https://rsshub.app/twitter/user/elonmusk",
+      "siteUrl": "https://x.com/elonmusk",
+      "articles": [
+        {
+          "id": "https://twitter.com/elonmusk/status/1828793639998513181",
+          "author": "Elon Musk",
+          "description": "Re @MarioNawfal That’s a crime in Germany? Jeez.",
+          "link": "https://x.com/elonmusk/status/1828793639998513181",
+          "publishedOn": "2024-08-28T13:55:55.000Z",
+          "wordCount": 6,
+          "title": "Re @MarioNawfal That’s a crime in Germany? Jeez.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828792606446469535",
+          "author": "Elon Musk",
+          "description": "Re @SciGuySpace Now we figure out what went wrong to drive the landing failure rate far above 1 in a thousand, then 1 in 10 thousand … 1 in a milion, etc",
+          "link": "https://x.com/elonmusk/status/1828792606446469535",
+          "publishedOn": "2024-08-28T13:51:49.000Z",
+          "wordCount": 6,
+          "title": "Re @SciGuySpace Now we figure out what went wrong to drive the landing failure rate far above 1 in a thousand, then 1 in 10 thousand … 1 in a milion,...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828791949412700257",
+          "author": "Elon Musk",
+          "description": "Re @NicoleShanahan Yes",
+          "link": "https://x.com/elonmusk/status/1828791949412700257",
+          "publishedOn": "2024-08-28T13:49:12.000Z",
+          "wordCount": 6,
+          "title": "Re @NicoleShanahan Yes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828791860912890107",
+          "author": "Elon Musk",
+          "description": "Re @iamyesyouareno Wow",
+          "link": "https://x.com/elonmusk/status/1828791860912890107",
+          "publishedOn": "2024-08-28T13:48:51.000Z",
+          "wordCount": 6,
+          "title": "Re @iamyesyouareno Wow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828659181064274274",
+          "author": "Elon Musk",
+          "description": "Re @alex_avoigt 😂",
+          "link": "https://x.com/elonmusk/status/1828659181064274274",
+          "publishedOn": "2024-08-28T05:01:38.000Z",
+          "wordCount": 6,
+          "title": "Re @alex_avoigt 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828658920082071690",
+          "author": "Elon Musk",
+          "description": "Re @stillgray 🤣🤣",
+          "link": "https://x.com/elonmusk/status/1828658920082071690",
+          "publishedOn": "2024-08-28T05:00:36.000Z",
+          "wordCount": 6,
+          "title": "Re @stillgray 🤣🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828658217959710946",
+          "author": "Elon Musk",
+          "description": "Re @mike_clemmons @ashleevance 🤷‍♂️",
+          "link": "https://x.com/elonmusk/status/1828658217959710946",
+          "publishedOn": "2024-08-28T04:57:48.000Z",
+          "wordCount": 6,
+          "title": "Re @mike_clemmons @ashleevance 🤷‍♂️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828652377064296498",
+          "author": "Elon Musk",
+          "description": "Re @Jason Yeah",
+          "link": "https://x.com/elonmusk/status/1828652377064296498",
+          "publishedOn": "2024-08-28T04:34:36.000Z",
+          "wordCount": 6,
+          "title": "Re @Jason Yeah",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828650264263323963",
+          "author": "Elon Musk",
+          "description": "Re @emollick Tesla can do something similar with real world video",
+          "link": "https://x.com/elonmusk/status/1828650264263323963",
+          "publishedOn": "2024-08-28T04:26:12.000Z",
+          "wordCount": 6,
+          "title": "Re @emollick Tesla can do something similar with real world video",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828649870183240105",
+          "author": "Elon Musk",
+          "description": "Re @MarioNawfal Serious tonnage",
+          "link": "https://x.com/elonmusk/status/1828649870183240105",
+          "publishedOn": "2024-08-28T04:24:38.000Z",
+          "wordCount": 6,
+          "title": "Re @MarioNawfal Serious tonnage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828649457291837921",
+          "author": "Elon Musk",
+          "description": "Re @BenjaminDEKR !",
+          "link": "https://x.com/elonmusk/status/1828649457291837921",
+          "publishedOn": "2024-08-28T04:22:59.000Z",
+          "wordCount": 6,
+          "title": "Re @BenjaminDEKR !",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828649168849486003",
+          "author": "Elon Musk",
+          "description": "Re @BasedMikeLee Why isn’t it being attached?",
+          "link": "https://x.com/elonmusk/status/1828649168849486003",
+          "publishedOn": "2024-08-28T04:21:51.000Z",
+          "wordCount": 6,
+          "title": "Re @BasedMikeLee Why isn’t it being attached?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828648034160238820",
+          "author": "Elon Musk",
+          "description": "Re @WR4NYGov We could have launched and it would have been fine, but safety is paramount, so better to check all systems again",
+          "link": "https://x.com/elonmusk/status/1828648034160238820",
+          "publishedOn": "2024-08-28T04:17:20.000Z",
+          "wordCount": 6,
+          "title": "Re @WR4NYGov We could have launched and it would have been fine, but safety is paramount, so better to check all systems again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828617452462240133",
+          "author": "Elon Musk",
+          "description": "Re @SawyerMerritt Holy smokes!",
+          "link": "https://x.com/elonmusk/status/1828617452462240133",
+          "publishedOn": "2024-08-28T02:15:49.000Z",
+          "wordCount": 6,
+          "title": "Re @SawyerMerritt Holy smokes!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828617264918049141",
+          "author": "Elon Musk",
+          "description": "Re @SawyerMerritt @ajtourville 😂",
+          "link": "https://x.com/elonmusk/status/1828617264918049141",
+          "publishedOn": "2024-08-28T02:15:04.000Z",
+          "wordCount": 6,
+          "title": "Re @SawyerMerritt @ajtourville 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828616020182892946",
+          "author": "Elon Musk",
+          "description": "Re @KamalaHarris Unless you increase the supply of new homes, this just raises the price by $25k and does nothing for affordability",
+          "link": "https://x.com/elonmusk/status/1828616020182892946",
+          "publishedOn": "2024-08-28T02:10:07.000Z",
+          "wordCount": 6,
+          "title": "Re @KamalaHarris Unless you increase the supply of new homes, this just raises the price by $25k and does nothing for affordability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828615688019214508",
+          "author": "Elon Musk",
+          "description": "Re @stillgray @KamalaHarris Great point 🤔",
+          "link": "https://x.com/elonmusk/status/1828615688019214508",
+          "publishedOn": "2024-08-28T02:08:48.000Z",
+          "wordCount": 6,
+          "title": "Re @stillgray @KamalaHarris Great point 🤔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828615268525842435",
+          "author": "Elon Musk",
+          "description": "Re @itsmarkmoran You will have a lot of company, as millions of people are doing some version of this 😂",
+          "link": "https://x.com/elonmusk/status/1828615268525842435",
+          "publishedOn": "2024-08-28T02:07:08.000Z",
+          "wordCount": 6,
+          "title": "Re @itsmarkmoran You will have a lot of company, as millions of people are doing some version of this 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828527049541108055",
+          "author": "Elon Musk",
+          "description": "Re @ajtourville @Starlink After thinking it through, SpaceX Starlink will provide emergency services access for mobile phones for people in distress for free.\nThis applies worldwide, subject to approval by country governments. \nCan’t have a situation where someone dies because they forgot or were unable…",
+          "link": "https://x.com/elonmusk/status/1828527049541108055",
+          "publishedOn": "2024-08-27T20:16:35.000Z",
+          "wordCount": 6,
+          "title": "Re @ajtourville @Starlink After thinking it through, SpaceX Starlink will provide emergency services access for mobile phones for people in distress f...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1828673659105362315",
+          "author": "Elon Musk",
+          "description": "RT xAI\n🚀 New Grok features in 𝕏 10.56 (iOS)\n• Image generation prompt suggestions\n• Improved model selector\n• Edit your prompt with a long press\n• Select text by long pressing on a Grok response\nUpdate your 𝕏 app to version 10.56 in the App Store to get these features. Only…",
+          "link": "https://x.com/elonmusk/status/1828673659105362315",
+          "publishedOn": "2024-08-27T15:44:46.000Z",
+          "wordCount": 6,
+          "title": "RT xAI: 🚀 New Grok features in 𝕏 10.56 (iOS) • Image generation prompt suggestions • Improved model selector • Edit your prompt with a long p...",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
