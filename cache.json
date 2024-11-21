@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Twitter @Elon Musk",
-      "feedUrl": "https://rsshub.app/twitter/user/elonmusk",
-      "siteUrl": "https://x.com/elonmusk",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
