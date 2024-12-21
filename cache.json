@@ -1,4 +1,512 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Twitter @Elon Musk",
+      "feedUrl": "https://rsshub.app/twitter/user/elonmusk",
+      "siteUrl": "https://x.com/elonmusk",
+      "articles": [
+        {
+          "id": "https://twitter.com/elonmusk/status/1870258448606372098",
+          "author": "Elon Musk",
+          "description": "Wow, this is insane. \nWhoever refused to extradite a murderer deserves to be punished severely!\n\nIan Miles Cheong: BREAKING: According to reports from UAE and Saudi Arabian 𝕏 users, the perpetrator of the Christmas market attack in Magdeburg, Germany is a fugitive from Saudi Arabia.\nThe German government refused to extradite him despite requests from the Saudi government, citing human",
+          "link": "https://x.com/elonmusk/status/1870258448606372098",
+          "publishedOn": "2024-12-21T00:02:16.000Z",
+          "wordCount": 6,
+          "title": "Wow, this is insane. Whoever refused to extradite a murderer deserves to be punished severely!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870258113418297755",
+          "author": "Elon Musk",
+          "description": "Re @brettmoulton24 Yeah",
+          "link": "https://x.com/elonmusk/status/1870258113418297755",
+          "publishedOn": "2024-12-21T00:00:56.000Z",
+          "wordCount": 6,
+          "title": "Re @brettmoulton24 Yeah",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870256916993060927",
+          "author": "Elon Musk",
+          "description": "Re @GadSaad ❤️",
+          "link": "https://x.com/elonmusk/status/1870256916993060927",
+          "publishedOn": "2024-12-20T23:56:11.000Z",
+          "wordCount": 6,
+          "title": "Re @GadSaad ❤️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870256820343701593",
+          "author": "Elon Musk",
+          "description": "Re @AdrianDittmann Yes",
+          "link": "https://x.com/elonmusk/status/1870256820343701593",
+          "publishedOn": "2024-12-20T23:55:48.000Z",
+          "wordCount": 6,
+          "title": "Re @AdrianDittmann Yes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870256558602629292",
+          "author": "Elon Musk",
+          "description": "Re @SpeakerJohnson 🇺🇸🇺🇸",
+          "link": "https://x.com/elonmusk/status/1870256558602629292",
+          "publishedOn": "2024-12-20T23:54:45.000Z",
+          "wordCount": 6,
+          "title": "Re @SpeakerJohnson 🇺🇸🇺🇸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870256283980300507",
+          "author": "Elon Musk",
+          "description": "Your actions turned a bill that weighed pounds into a bill that weighed ounces!\nYou are the media now.\nVOX POPULI\nVOX DEI\n\nEric Daugherty: We have to be clear here.\nThe bill on the left is what would've passed without Elon Musk and our voices on 𝕏.\nThe bill on the right is what did pass.",
+          "link": "https://x.com/elonmusk/status/1870256283980300507",
+          "publishedOn": "2024-12-20T23:53:40.000Z",
+          "wordCount": 6,
+          "title": "Your actions turned a bill that weighed pounds into a bill that weighed ounces! You are the media now. VOX POPULI VOX DEI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870254125297938725",
+          "author": "Elon Musk",
+          "description": "Re @teslaownersSV 😂",
+          "link": "https://x.com/elonmusk/status/1870254125297938725",
+          "publishedOn": "2024-12-20T23:45:05.000Z",
+          "wordCount": 6,
+          "title": "Re @teslaownersSV 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870253632098050543",
+          "author": "Elon Musk",
+          "description": "",
+          "link": "https://x.com/elonmusk/status/1870253632098050543",
+          "publishedOn": "2024-12-20T23:43:08.000Z",
+          "wordCount": 6,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870253442054127930",
+          "author": "Elon Musk",
+          "description": "Re @GadSaad 😂",
+          "link": "https://x.com/elonmusk/status/1870253442054127930",
+          "publishedOn": "2024-12-20T23:42:22.000Z",
+          "wordCount": 6,
+          "title": "Re @GadSaad 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870252548906529012",
+          "author": "Elon Musk",
+          "description": "Re @teslaownersSV 🥰",
+          "link": "https://x.com/elonmusk/status/1870252548906529012",
+          "publishedOn": "2024-12-20T23:38:49.000Z",
+          "wordCount": 6,
+          "title": "Re @teslaownersSV 🥰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870252341141655660",
+          "author": "Elon Musk",
+          "description": "Re @SeibtNaomi True",
+          "link": "https://x.com/elonmusk/status/1870252341141655660",
+          "publishedOn": "2024-12-20T23:38:00.000Z",
+          "wordCount": 6,
+          "title": "Re @SeibtNaomi True",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870252002522853555",
+          "author": "Elon Musk",
+          "description": "Re @nicksortor Progress",
+          "link": "https://x.com/elonmusk/status/1870252002522853555",
+          "publishedOn": "2024-12-20T23:36:39.000Z",
+          "wordCount": 6,
+          "title": "Re @nicksortor Progress",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870242954281152730",
+          "author": "Elon Musk",
+          "description": "True\n\nNick Sortor: 🚨 #BREAKING: The third spending bill has PASSED the House of Representatives, with Democrat support\nA government shutdown has been avoided.\nThis bill was 118 pages. Down from over 1,500 pages.\n𝕏 may have cut the pork out of this bill, but now we must get to work cutting the",
+          "link": "https://x.com/elonmusk/status/1870242954281152730",
+          "publishedOn": "2024-12-20T23:00:42.000Z",
+          "wordCount": 6,
+          "title": "True",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870241934511329359",
+          "author": "Elon Musk",
+          "description": "Re @EricLDaugh Congratulations on your “victory”, @RepJeffries lol",
+          "link": "https://x.com/elonmusk/status/1870241934511329359",
+          "publishedOn": "2024-12-20T22:56:39.000Z",
+          "wordCount": 6,
+          "title": "Re @EricLDaugh Congratulations on your “victory”, @RepJeffries lol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870240308124115166",
+          "author": "Elon Musk",
+          "description": "Re @teslaownersSV Tragic",
+          "link": "https://x.com/elonmusk/status/1870240308124115166",
+          "publishedOn": "2024-12-20T22:50:11.000Z",
+          "wordCount": 6,
+          "title": "Re @teslaownersSV Tragic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870240156369801248",
+          "author": "Elon Musk",
+          "description": "Re @DefiyantlyFree @megynkelly True",
+          "link": "https://x.com/elonmusk/status/1870240156369801248",
+          "publishedOn": "2024-12-20T22:49:35.000Z",
+          "wordCount": 6,
+          "title": "Re @DefiyantlyFree @megynkelly True",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870236798267298044",
+          "author": "Elon Musk",
+          "description": "The Speaker did a good job here, given the circumstances. \nIt went from a bill that weighed pounds to a bill that weighed ounces. \nBall should now be in the Dem court.\n\nMario Nawfal: 🇺🇸THIRD TIME’S THE CHARM? CONGRESS TRIES (AGAIN) TO AVOID A SHUTDOWN\nSpeaker Mike Johnson is rolling out his third plan to keep the government’s lights on, featuring:\n• A funding extension until March (a.k.a. kicking the can down the road).\n• $110 billion for disaster relief",
+          "link": "https://x.com/elonmusk/status/1870236798267298044",
+          "publishedOn": "2024-12-20T22:36:14.000Z",
+          "wordCount": 6,
+          "title": "The Speaker did a good job here, given the circumstances. It went from a bill that weighed pounds to a bill that weighed ounces. Ball should now be in...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870235500776243250",
+          "author": "Elon Musk",
+          "description": "This is a broken system\n\nEnd Wokeness: Germany in a nutshell:\n1. Marie-Thérèse Kaiser.\nCrime: A post about migrant r*pes.\nPunishment: €6,000 fine.\n2. Tayfun A.\nCrime: R*ping a femaIe colleague. \nPunishment: €8,000 fine, probation.",
+          "link": "https://x.com/elonmusk/status/1870235500776243250",
+          "publishedOn": "2024-12-20T22:31:05.000Z",
+          "wordCount": 6,
+          "title": "This is a broken system",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870234022195986774",
+          "author": "Elon Musk",
+          "description": "Re @CollinRugg She talks in “SCREECH” … the worst",
+          "link": "https://x.com/elonmusk/status/1870234022195986774",
+          "publishedOn": "2024-12-20T22:25:12.000Z",
+          "wordCount": 6,
+          "title": "Re @CollinRugg She talks in “SCREECH” … the worst",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870233561753633123",
+          "author": "Elon Musk",
+          "description": "Re @bennyjohnson This awful creature needs to be expelled from Congress! Ugh …",
+          "link": "https://x.com/elonmusk/status/1870233561753633123",
+          "publishedOn": "2024-12-20T22:23:23.000Z",
+          "wordCount": 6,
+          "title": "Re @bennyjohnson This awful creature needs to be expelled from Congress! Ugh …",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870232270595924401",
+          "author": "Elon Musk",
+          "description": "Re @visegrad24 !!",
+          "link": "https://x.com/elonmusk/status/1870232270595924401",
+          "publishedOn": "2024-12-20T22:18:15.000Z",
+          "wordCount": 6,
+          "title": "Re @visegrad24 !!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870231139798917179",
+          "author": "Elon Musk",
+          "description": "Re @alifarhat79 😂",
+          "link": "https://x.com/elonmusk/status/1870231139798917179",
+          "publishedOn": "2024-12-20T22:13:45.000Z",
+          "wordCount": 6,
+          "title": "Re @alifarhat79 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870230252821139756",
+          "author": "Elon Musk",
+          "description": "Re @HSajwanization Poppin’ 24/7 on 𝕏 🤣",
+          "link": "https://x.com/elonmusk/status/1870230252821139756",
+          "publishedOn": "2024-12-20T22:10:14.000Z",
+          "wordCount": 6,
+          "title": "Re @HSajwanization Poppin’ 24/7 on 𝕏 🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870229843251531896",
+          "author": "Elon Musk",
+          "description": "Re @JTLonsdale Yes!",
+          "link": "https://x.com/elonmusk/status/1870229843251531896",
+          "publishedOn": "2024-12-20T22:08:36.000Z",
+          "wordCount": 6,
+          "title": "Re @JTLonsdale Yes!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870228715176599779",
+          "author": "Elon Musk",
+          "description": "Make awesome original memes instantly with @Grok!\n\nAutism Capital 🧩: The Grok image generator is so awesome. The fact that you can quickly generate images to capture ideas and memes is liberating. It unlocks new routes for creativity. Can't wait to see it get even better. 🔥",
+          "link": "https://x.com/elonmusk/status/1870228715176599779",
+          "publishedOn": "2024-12-20T22:04:07.000Z",
+          "wordCount": 6,
+          "title": "Make awesome original memes instantly with @Grok!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870228440198119676",
+          "author": "Elon Musk",
+          "description": "Re @TheBabylonBee 😂💯",
+          "link": "https://x.com/elonmusk/status/1870228440198119676",
+          "publishedOn": "2024-12-20T22:03:01.000Z",
+          "wordCount": 6,
+          "title": "Re @TheBabylonBee 😂💯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870228135121133961",
+          "author": "Elon Musk",
+          "description": "Re @AutismCapital Seriously",
+          "link": "https://x.com/elonmusk/status/1870228135121133961",
+          "publishedOn": "2024-12-20T22:01:49.000Z",
+          "wordCount": 6,
+          "title": "Re @AutismCapital Seriously",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870227776512442817",
+          "author": "Elon Musk",
+          "description": "Re @EricLDaugh I’m concerned that a dangerous Skeksis somehow made it into the Capitol Building!",
+          "link": "https://x.com/elonmusk/status/1870227776512442817",
+          "publishedOn": "2024-12-20T22:00:23.000Z",
+          "wordCount": 6,
+          "title": "Re @EricLDaugh I’m concerned that a dangerous Skeksis somehow made it into the Capitol Building!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870225693126090830",
+          "author": "Elon Musk",
+          "description": "Re @dogeofficialceo Yes",
+          "link": "https://x.com/elonmusk/status/1870225693126090830",
+          "publishedOn": "2024-12-20T21:52:07.000Z",
+          "wordCount": 6,
+          "title": "Re @dogeofficialceo Yes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870225571768041963",
+          "author": "Elon Musk",
+          "description": "The New York Times is pure propaganda\n\nLibs of TikTok: Never forget that they tried to gaslight you into believing this wasn't happening\nWill @nytimes issue a correction?",
+          "link": "https://x.com/elonmusk/status/1870225571768041963",
+          "publishedOn": "2024-12-20T21:51:38.000Z",
+          "wordCount": 6,
+          "title": "The New York Times is pure propaganda",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870225343153381881",
+          "author": "Elon Musk",
+          "description": "Re @AutismCapital 🔥",
+          "link": "https://x.com/elonmusk/status/1870225343153381881",
+          "publishedOn": "2024-12-20T21:50:43.000Z",
+          "wordCount": 6,
+          "title": "Re @AutismCapital 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870225008573984984",
+          "author": "Elon Musk",
+          "description": "Wow, this is so crazy!\nThis is the government when it is NOT shut down!!\n\nJoni Ernst: My investigations exposed that just 8 out of 5,000 @ENERGY employees show up on the average day!\nThere are more reindeer on Santa’s sleigh than bureaucrats showing up @ENERGY. 🎅🏻🦌🦌",
+          "link": "https://x.com/elonmusk/status/1870225008573984984",
+          "publishedOn": "2024-12-20T21:49:23.000Z",
+          "wordCount": 6,
+          "title": "Wow, this is so crazy! This is the government when it is NOT shut down!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870224468259262660",
+          "author": "Elon Musk",
+          "description": "This is great\n\nMario Nawfal: 🇺🇸THIRD TIME’S THE CHARM? CONGRESS TRIES (AGAIN) TO AVOID A SHUTDOWN\nSpeaker Mike Johnson is rolling out his third plan to keep the government’s lights on, featuring:\n• A funding extension until March (a.k.a. kicking the can down the road).\n• $110 billion for disaster relief",
+          "link": "https://x.com/elonmusk/status/1870224468259262660",
+          "publishedOn": "2024-12-20T21:47:14.000Z",
+          "wordCount": 6,
+          "title": "This is great",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870224123089301766",
+          "author": "Elon Musk",
+          "description": "Re @libsoftiktok 💯",
+          "link": "https://x.com/elonmusk/status/1870224123089301766",
+          "publishedOn": "2024-12-20T21:45:52.000Z",
+          "wordCount": 6,
+          "title": "Re @libsoftiktok 💯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870223179840475300",
+          "author": "Elon Musk",
+          "description": "Re @mayemusk Voter fraud is super real",
+          "link": "https://x.com/elonmusk/status/1870223179840475300",
+          "publishedOn": "2024-12-20T21:42:07.000Z",
+          "wordCount": 6,
+          "title": "Re @mayemusk Voter fraud is super real",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870219638526619694",
+          "author": "Elon Musk",
+          "description": "Re @Not_the_Bee That’s too bad",
+          "link": "https://x.com/elonmusk/status/1870219638526619694",
+          "publishedOn": "2024-12-20T21:28:03.000Z",
+          "wordCount": 6,
+          "title": "Re @Not_the_Bee That’s too bad",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870219562613948595",
+          "author": "Elon Musk",
+          "description": "Re @nicksortor 💯",
+          "link": "https://x.com/elonmusk/status/1870219562613948595",
+          "publishedOn": "2024-12-20T21:27:45.000Z",
+          "wordCount": 6,
+          "title": "Re @nicksortor 💯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870219164868112687",
+          "author": "Elon Musk",
+          "description": "Re @Erdayastronaut Cool",
+          "link": "https://x.com/elonmusk/status/1870219164868112687",
+          "publishedOn": "2024-12-20T21:26:10.000Z",
+          "wordCount": 6,
+          "title": "Re @Erdayastronaut Cool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870218993379754424",
+          "author": "Elon Musk",
+          "description": "Re @DefiantLs What a retard",
+          "link": "https://x.com/elonmusk/status/1870218993379754424",
+          "publishedOn": "2024-12-20T21:25:29.000Z",
+          "wordCount": 6,
+          "title": "Re @DefiantLs What a retard",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870218020863258664",
+          "author": "Elon Musk",
+          "description": "Re @AutismCapital @JDVance Rhetorical question",
+          "link": "https://x.com/elonmusk/status/1870218020863258664",
+          "publishedOn": "2024-12-20T21:21:37.000Z",
+          "wordCount": 6,
+          "title": "Re @AutismCapital @JDVance Rhetorical question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870217549939429460",
+          "author": "Elon Musk",
+          "description": "Re @MikeBenzCyber By “we”, you mean you think it was done by Ukraine with US support?",
+          "link": "https://x.com/elonmusk/status/1870217549939429460",
+          "publishedOn": "2024-12-20T21:19:45.000Z",
+          "wordCount": 6,
+          "title": "Re @MikeBenzCyber By “we”, you mean you think it was done by Ukraine with US support?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870216356282675278",
+          "author": "Elon Musk",
+          "description": "Re @TheBabylonBee 😂",
+          "link": "https://x.com/elonmusk/status/1870216356282675278",
+          "publishedOn": "2024-12-20T21:15:00.000Z",
+          "wordCount": 6,
+          "title": "Re @TheBabylonBee 😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870210936616755632",
+          "author": "Elon Musk",
+          "description": "So is this a Republican bill or a Democrat bill? 🤔\n\nThomas Massie: @WallStreetMav This was in fact correct when you tweeted it, but speaker Johnson flipped his decision after the meeting when he spoke to Hakeem Jeffries and realized he could get Democrat votes to pass all the legislation as one bill.",
+          "link": "https://x.com/elonmusk/status/1870210936616755632",
+          "publishedOn": "2024-12-20T20:53:28.000Z",
+          "wordCount": 6,
+          "title": "So is this a Republican bill or a Democrat bill? 🤔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870210411531731041",
+          "author": "Elon Musk",
+          "description": "Absolutely\n\nAmerica: Americans deserve leaders who actually represent them.",
+          "link": "https://x.com/elonmusk/status/1870210411531731041",
+          "publishedOn": "2024-12-20T20:51:23.000Z",
+          "wordCount": 6,
+          "title": "Absolutely",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870209985805799511",
+          "author": "Elon Musk",
+          "description": "The goal of 𝕏 is to return power to the people\n\nMarc Andreessen 🇺🇸: This used to work, in the television era, when entrenched elites had total control of top-down narratives. It doesn't work anymore.",
+          "link": "https://x.com/elonmusk/status/1870209985805799511",
+          "publishedOn": "2024-12-20T20:49:42.000Z",
+          "wordCount": 6,
+          "title": "The goal of 𝕏 is to return power to the people",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870208681004122547",
+          "author": "Elon Musk",
+          "description": "Re @jglisson @stillgray Yes, it is a calculated lie by @RepJeffries",
+          "link": "https://x.com/elonmusk/status/1870208681004122547",
+          "publishedOn": "2024-12-20T20:44:31.000Z",
+          "wordCount": 6,
+          "title": "Re @jglisson @stillgray Yes, it is a calculated lie by @RepJeffries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870208294461092231",
+          "author": "Elon Musk",
+          "description": "Re @robbystarbuck Because he’s a liar",
+          "link": "https://x.com/elonmusk/status/1870208294461092231",
+          "publishedOn": "2024-12-20T20:42:58.000Z",
+          "wordCount": 6,
+          "title": "Re @robbystarbuck Because he’s a liar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870207542158033029",
+          "author": "Elon Musk",
+          "description": "Re @visegrad24 It will get MUCH worse",
+          "link": "https://x.com/elonmusk/status/1870207542158033029",
+          "publishedOn": "2024-12-20T20:39:59.000Z",
+          "wordCount": 6,
+          "title": "Re @visegrad24 It will get MUCH worse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870207304940826931",
+          "author": "Elon Musk",
+          "description": "Re @robbystarbuck Those who allowed this are traitors!",
+          "link": "https://x.com/elonmusk/status/1870207304940826931",
+          "publishedOn": "2024-12-20T20:39:02.000Z",
+          "wordCount": 6,
+          "title": "Re @robbystarbuck Those who allowed this are traitors!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1870206907509571905",
+          "author": "Elon Musk",
+          "description": "Re @stclairashley It could not be more obvious",
+          "link": "https://x.com/elonmusk/status/1870206907509571905",
+          "publishedOn": "2024-12-20T20:37:28.000Z",
+          "wordCount": 6,
+          "title": "Re @stclairashley It could not be more obvious",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
