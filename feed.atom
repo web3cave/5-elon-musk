@@ -1,292 +1,245 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-01T02:20:26.171Z</id>
+    <id>urn:2025-03-02T02:19:19.706Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-01T02:20:26.171Z</updated>
+    <updated>2025-03-02T02:19:19.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1895626133338800196</id>
-        <link href="https://x.com/elonmusk/status/1895626133338800196"/>
-        <updated>2025-03-01T00:04:23.000Z</updated>
+        <title type="html"><![CDATA[Re @Artemisfornow That’s … real?]]></title>
+        <id>https://twitter.com/elonmusk/status/1895997981322854652</id>
+        <link href="https://x.com/elonmusk/status/1895997981322854652"/>
+        <updated>2025-03-02T00:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @Artemisfornow That’s … real?]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DefiantLs Yikes 😬]]></title>
-        <id>https://twitter.com/elonmusk/status/1895625722858975403</id>
-        <link href="https://x.com/elonmusk/status/1895625722858975403"/>
-        <updated>2025-03-01T00:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @DefiantLs Yikes 😬]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interesting book]]></title>
-        <id>https://twitter.com/elonmusk/status/1895625463164440856</id>
-        <link href="https://x.com/elonmusk/status/1895625463164440856"/>
-        <updated>2025-03-01T00:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Interesting book
+        <title type="html"><![CDATA[It will require outstanding execution, but I think more like 1000% gain for Tesla in 5 years is possible]]></title>
+        <id>https://twitter.com/elonmusk/status/1895997740385255784</id>
+        <link href="https://x.com/elonmusk/status/1895997740385255784"/>
+        <updated>2025-03-02T00:41:01.000Z</updated>
+        <summary type="html"><![CDATA[It will require outstanding execution, but I think more like 1000% gain for Tesla in 5 years is possible
 
-Palantir: The insurgents have broken through the gates:
-The Technological Republic has just been named by the New York Times as the No. 1 bestseller in the country.
-A long overdue debate is unfolding.
-The Wall Street Journal described the book as “a cri de coeur,” and the Financial]]></summary>
+Jon Erlichman: Expected profit growth in next 5 years:
+Tesla:           258%
+Nvidia:         193%
+Amazon:     137%
+Netflix:        128%
+Microsoft: 107%
+Alphabet:    76%
+Apple:           45%
+(based on analyst estimates)]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Insurrection Barbie: Bill Clinton fired 377,000 federal employees. Did you hear a peep from the media no? Because this is your daily reminder that ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1895626446917468616</id>
-        <link href="https://x.com/elonmusk/status/1895626446917468616"/>
-        <updated>2025-02-28T23:51:18.000Z</updated>
+        <title type="html"><![CDATA[Re @nikitabier Yeah]]></title>
+        <id>https://twitter.com/elonmusk/status/1895996706208297257</id>
+        <link href="https://x.com/elonmusk/status/1895996706208297257"/>
+        <updated>2025-03-02T00:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @nikitabier Yeah]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JMilei 🚀]]></title>
+        <id>https://twitter.com/elonmusk/status/1895994880163480017</id>
+        <link href="https://x.com/elonmusk/status/1895994880163480017"/>
+        <updated>2025-03-02T00:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @JMilei 🚀]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @waitbutwhy That’s a good one]]></title>
+        <id>https://twitter.com/elonmusk/status/1895994052094644503</id>
+        <link href="https://x.com/elonmusk/status/1895994052094644503"/>
+        <updated>2025-03-02T00:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @waitbutwhy That’s a good one]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @LauraPowellEsq Seriously 🤦‍♂️]]></title>
+        <id>https://twitter.com/elonmusk/status/1895991464959905927</id>
+        <link href="https://x.com/elonmusk/status/1895991464959905927"/>
+        <updated>2025-03-02T00:16:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @LauraPowellEsq Seriously 🤦‍♂️]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Insurrection Barbie: Elon Musk is right NGOs are the biggest scam. They are how the left transformed the world into the Truman show in just 20 shor...]]></title>
+        <id>https://twitter.com/elonmusk/status/1895999399710581100</id>
+        <link href="https://x.com/elonmusk/status/1895999399710581100"/>
+        <updated>2025-03-01T23:56:41.000Z</updated>
         <summary type="html"><![CDATA[RT Insurrection Barbie
-Bill Clinton fired 377,000 federal employees. Did you hear a peep from the media no? Because this is your daily reminder that they are hypocrites who hate America.]]></summary>
+Elon Musk is right NGOs are the biggest scam. They are how the left transformed the world into the Truman show in just 20 short years.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Rothmus 🏴: More.]]></title>
+        <id>https://twitter.com/elonmusk/status/1896003973985026171</id>
+        <link href="https://x.com/elonmusk/status/1896003973985026171"/>
+        <updated>2025-03-01T23:38:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Rothmus 🏴
+More.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Secretary Marco Rubio: We should be very proud that we have a President whose prime objective is not to get into wars but to prevent wars and to ge...]]></title>
+        <id>https://twitter.com/elonmusk/status/1896004862313431386</id>
+        <link href="https://x.com/elonmusk/status/1896004862313431386"/>
+        <updated>2025-03-01T23:38:19.000Z</updated>
+        <summary type="html"><![CDATA[RT Secretary Marco Rubio
+We should be very proud that we have a President whose prime objective is not to get into wars but to prevent wars and to get out of wars. @POTUS wants to bring about an enduring and lasting peace in Ukraine. As Secretary of State, my goal is to support peace through strength.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[True]]></title>
+        <id>https://twitter.com/elonmusk/status/1895977368306716837</id>
+        <link href="https://x.com/elonmusk/status/1895977368306716837"/>
+        <updated>2025-03-01T23:20:04.000Z</updated>
+        <summary type="html"><![CDATA[True
+
+DataRepublican (small r): My main takeaway from the past two days is that eliminating NGOs isn’t just about tackling corruption—it’s a matter of survival. The current trajectory carries a real risk of leading us toward nuclear catastrophe.
+The so-called foreign policy “experts” are nothing more than]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DataRepublican Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1895977156821577737</id>
+        <link href="https://x.com/elonmusk/status/1895977156821577737"/>
+        <updated>2025-03-01T23:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @DataRepublican Yes]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤨]]></title>
+        <id>https://twitter.com/elonmusk/status/1895977051582317028</id>
+        <link href="https://x.com/elonmusk/status/1895977051582317028"/>
+        <updated>2025-03-01T23:18:49.000Z</updated>
+        <summary type="html"><![CDATA[🤨
+
+Mike Benz: Following this lead from @nataliegwinters, if the USAToday hit piece author Cate Klepacki attacking Trump and Musk on USAID today is the same Cate Klepacki in the USASpending database, she got $169K from USAID for a business in DC and $34K from State for a Swiss luxury apartment]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exactly]]></title>
+        <id>https://twitter.com/elonmusk/status/1895972940950487425</id>
+        <link href="https://x.com/elonmusk/status/1895972940950487425"/>
+        <updated>2025-03-01T23:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Exactly
+
+KanekoaTheGreat: NEW: Sen. Pete Ricketts says Elon Musk and DOGE found "stunning" waste like 37,000 software licenses for a government agency with 13,000 employees.
+"Many of the licenses had never been used."
+"We got 2.4 million federal employees. We have 4.6 million credit cards out there.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @joe_colosimo @Rothmus 😂]]></title>
+        <id>https://twitter.com/elonmusk/status/1895968851604746268</id>
+        <link href="https://x.com/elonmusk/status/1895968851604746268"/>
+        <updated>2025-03-01T22:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @joe_colosimo @Rothmus 😂]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @nicksortor DOGE has very high approval from the people as a whole, but the grifters super hate it]]></title>
+        <id>https://twitter.com/elonmusk/status/1895942156197703763</id>
+        <link href="https://x.com/elonmusk/status/1895942156197703763"/>
+        <updated>2025-03-01T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Re @nicksortor DOGE has very high approval from the people as a whole, but the grifters super hate it]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1895621966712991847</id>
-        <link href="https://x.com/elonmusk/status/1895621966712991847"/>
-        <updated>2025-02-28T23:47:50.000Z</updated>
+        <id>https://twitter.com/elonmusk/status/1895941849241780351</id>
+        <link href="https://x.com/elonmusk/status/1895941849241780351"/>
+        <updated>2025-03-01T20:58:56.000Z</updated>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The @Grok doc]]></title>
-        <id>https://twitter.com/elonmusk/status/1895621207615291802</id>
-        <link href="https://x.com/elonmusk/status/1895621207615291802"/>
-        <updated>2025-02-28T23:44:49.000Z</updated>
-        <summary type="html"><![CDATA[The @Grok doc
-
-DogeDesigner: ELON MUSK: "I think A.I. will be very helpful with the medical stuff. Right now you can upload your xrays or MRI images to Grok and it will give you a medical diagnosis. I have seen cases where it's actually better than what doctors tell you."]]></summary>
+        <title type="html"><![CDATA[Re @DefiantLs Yes.]]></title>
+        <id>https://twitter.com/elonmusk/status/1895937456350048425</id>
+        <link href="https://x.com/elonmusk/status/1895937456350048425"/>
+        <updated>2025-03-01T20:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @DefiantLs Yes.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Kaizen D. Asiedu: Think Trump was aggressive to Zelenskyy for no reason? Watch the whole talk. Timestamps below. Zelenskyy was emotional. Interrupt...]]></title>
-        <id>https://twitter.com/elonmusk/status/1895620597188870341</id>
-        <link href="https://x.com/elonmusk/status/1895620597188870341"/>
-        <updated>2025-02-28T23:36:05.000Z</updated>
-        <summary type="html"><![CDATA[RT Kaizen D. Asiedu
-Think Trump was aggressive to Zelenskyy for no reason?
-Watch the whole talk.
-Timestamps below.
-Zelenskyy was emotional.
-Interrupted Trump.
-Called Putin names.
-Raised his eyebrows.
-All before Trump checked him.
-And he called Vance a bitch.
-He wasn’t ready for peace.
-2:00 Trump compliments Zelenskyy
-4:00 Zelenskyy calls Putin a terrorist
-12:00 Trump cracks joke with Zelensky
-13:56 Zelenskyy interrupts Trump
-17:20 Zelenskyy throws his hands up in seeming frustration
-19:00 reporter asks Zelenskyy why he’s not wearing a suit
-19:22 Trump commits to sending arms to Ukraine
-19:41 Zelensky raises eyebrows and rolls eyes at Trump’s statement
-22:55 Trump takes the edge off of the suit question by joking with Zelensky that he likes his outfit
-23:49 Zelensky contradicts Trump and keeps painting Putin in a negative light 
-24:19 Zelensky says Putin will never accept ceasefire and pushes for American security guarantee
-25:55 Zelensky says Putin hates Ukrainians
-27:00 Zelensky says Putin should pay all reconstruction costs 
-29:19 Zelensky shakes head as Trump speaks
-32:22 Zelensky says Putin wants to annex Poland
-32:30 Zelensky says Putin will attack America 
-33:00 Zelensky interrupts Trump
-39:19 This is when Trump went on the offensive by calling out Zelenskyy hatred for Putin and started to escalate
-39:14 Vance says Zelensky has been disrespectful, and conversation continues to escalate 
-42:40 Apparently calls Vance “suka”, meaning bitch, under his breath.
-You don't have to like how Trump handled this, but don’t buy into the story that he ambushed Zelensky.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @tedcruz Wow]]></title>
-        <id>https://twitter.com/elonmusk/status/1895614362066587814</id>
-        <link href="https://x.com/elonmusk/status/1895614362066587814"/>
-        <updated>2025-02-28T23:17:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @tedcruz Wow]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That’s how it works]]></title>
-        <id>https://twitter.com/elonmusk/status/1895612899772842114</id>
-        <link href="https://x.com/elonmusk/status/1895612899772842114"/>
-        <updated>2025-02-28T23:11:48.000Z</updated>
-        <summary type="html"><![CDATA[That’s how it works
-
-Dinesh D'Souza: Elon Musk has figured out the Soros racket.
-It doesn’t involve Soros spending his own money. 
-It involves Soros making a seed investment so he can get his hands on your money.
-He then makes you pay, through the government, to fund your own destruction]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ~~datahazard~~: I am quite happy I dedicated 15 months of my life to non-stop posting hard data & original analysis about illegal immigration.]]></title>
-        <id>https://twitter.com/elonmusk/status/1895614889500266588</id>
-        <link href="https://x.com/elonmusk/status/1895614889500266588"/>
-        <updated>2025-02-28T22:52:08.000Z</updated>
-        <summary type="html"><![CDATA[RT ~~datahazard~~
-I am quite happy I dedicated 15 months of my life to non-stop posting hard data & original analysis about illegal immigration.
-
-Mario Nawfal: 🚨🇺🇸ELON: USING ILLEGAL IMMIGRANTS TO MAKE THE U.S. PERMANENTLY BLUE IS WHY I WENT HARDCORE FOR TRUMP
-"You put 200,000 illegals in there, and they have like an 80% likelihood of voting Democrat - it's only a matter of time before they become citizens.
-Then those swing states]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mario Nawfal: 🚨🇺🇸ELON: LEGACY MEDIA CREATE AN ALTERNATE REALITY “The media is incredibly partisan. Almost all the media is left-shifted. ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1895620682115137629</id>
-        <link href="https://x.com/elonmusk/status/1895620682115137629"/>
-        <updated>2025-02-28T22:34:10.000Z</updated>
+        <title type="html"><![CDATA[RT Mario Nawfal: 🇺🇦🇷🇴BREAKING: USAID FUNDED NGO ACCUSED OF MEDDLING IN ROMANIA’S ELECTIONS A Ukrainian state-funded group called TEXTY, w...]]></title>
+        <id>https://twitter.com/elonmusk/status/1895941405551575236</id>
+        <link href="https://x.com/elonmusk/status/1895941405551575236"/>
+        <updated>2025-03-01T20:25:41.000Z</updated>
         <summary type="html"><![CDATA[RT Mario Nawfal
-🚨🇺🇸ELON: LEGACY MEDIA CREATE AN ALTERNATE REALITY
-“The media is incredibly partisan. 
-Almost all the media is left-shifted. 
-It's kind of weird. 
-If you talk to somebody who gets all their information from what I call legacy media, they're living in a different world. 
-If they are listening to your podcast or getting news from X it's kind of wild. 
-It's like they're living in an alternate reality.”
-Source: The Joe Rogan Experience, February 28, 2025
+🇺🇦🇷🇴BREAKING: USAID FUNDED NGO ACCUSED OF MEDDLING IN ROMANIA’S ELECTIONS
+A Ukrainian state-funded group called TEXTY, which also gets money from USAID, allegedly published multiple articles pushing to cancel Romania’s elections.
+The NGO has also labeled Trump’s administration as “Russian propagandists” and created a list of U.S. conservative politicians and journalists, calling them “Kremlin agents."
+With foreign-funded groups influencing elections and politics, many are asking:
+Will May's elections in Romania even be fair?
+Source: @iosefinaoficial
 
 
-Mario Nawfal: 🚨🇺🇸ELON: WHEN I JOINED TESLA, THERE WAS NOTHING
-“Tesla did not exist in any meaningful form. 
-There were no employees. 
-JB Straubel and I joined 3 other people, but there was no car. 
-There was nothing.”
-Source: The Joe Rogan Experience, February 28, 2025]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Anc_Aesthetics Funny thing is that it’s just a normal chair 😂]]></title>
-        <id>https://twitter.com/elonmusk/status/1895599705373229410</id>
-        <link href="https://x.com/elonmusk/status/1895599705373229410"/>
-        <updated>2025-02-28T22:19:22.000Z</updated>
-        <summary type="html"><![CDATA[Re @Anc_Aesthetics Funny thing is that it’s just a normal chair 😂]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @LauraLoomer Wow]]></title>
-        <id>https://twitter.com/elonmusk/status/1895598603886104694</id>
-        <link href="https://x.com/elonmusk/status/1895598603886104694"/>
-        <updated>2025-02-28T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @LauraLoomer Wow]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There is a good chance of achieving full reusability of Starship this year. Full and immediate reflight of Starship, along with orbital refilling, pro...]]></title>
-        <id>https://twitter.com/elonmusk/status/1895598258225106984</id>
-        <link href="https://x.com/elonmusk/status/1895598258225106984"/>
-        <updated>2025-02-28T22:13:37.000Z</updated>
-        <summary type="html"><![CDATA[There is a good chance of achieving full reusability of Starship this year. 
-Full and immediate reflight of Starship, along with orbital refilling, probably happens next year. 
-This is the fundamental breakthrough needed to make life multiplanetary.
 
-DogeDesigner: BREAKING: Elon Musk says he believes the ship will achieve reusability this year and that the entire stack—ship and booster—will achieve rapid reusability next year.
-This is the fundamental breakthrough required for life to become multiplanetary.]]></summary>
+iosefinapascal: 🇺🇦🇷🇴 Ukrainian state funded NGO (TEXTY), also funded by USAID, published at least FOUR articles supporting the annulment of the elections in Romania .
+As well as smear pieces against Calin Georgescu and his supporters.
+Interestingly, they're also calling the Trump]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So natural and organic 🙄]]></title>
-        <id>https://twitter.com/elonmusk/status/1895596842613919994</id>
-        <link href="https://x.com/elonmusk/status/1895596842613919994"/>
-        <updated>2025-02-28T22:08:00.000Z</updated>
-        <summary type="html"><![CDATA[So natural and organic 🙄
-
-DataRepublican (small r): "Be strong, be brave, be fearless" simul-tweets from European Union affliated institutions. 
-👉Ursula von der Leyen, President of EU Commission. 
-👉Roberta Metsola, President of EU Parliament. 
-👉Antonio Costa, President of European Council. 
-👉Valdis Dombrovskis, EU Commission,]]></summary>
+        <title type="html"><![CDATA[RT Nic Cruz Patane: The Tesla Model Y Is The Best-Selling Vehicle Worldwide In 2024]]></title>
+        <id>https://twitter.com/elonmusk/status/1896004088145600941</id>
+        <link href="https://x.com/elonmusk/status/1896004088145600941"/>
+        <updated>2025-03-01T19:31:50.000Z</updated>
+        <summary type="html"><![CDATA[RT Nic Cruz Patane
+The Tesla Model Y Is The Best-Selling Vehicle Worldwide In 2024]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DataRepublican @Noah_Fencebutt They do]]></title>
-        <id>https://twitter.com/elonmusk/status/1895596742269382978</id>
-        <link href="https://x.com/elonmusk/status/1895596742269382978"/>
-        <updated>2025-02-28T22:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @DataRepublican @Noah_Fencebutt They do]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MikeWaltz47 🇺🇸🇺🇸]]></title>
-        <id>https://twitter.com/elonmusk/status/1895592331241537587</id>
-        <link href="https://x.com/elonmusk/status/1895592331241537587"/>
-        <updated>2025-02-28T21:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @MikeWaltz47 🇺🇸🇺🇸]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @laralogan Yes]]></title>
-        <id>https://twitter.com/elonmusk/status/1895592047400403330</id>
-        <link href="https://x.com/elonmusk/status/1895592047400403330"/>
-        <updated>2025-02-28T21:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @laralogan Yes]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time to find out what really happened to the hundreds of billions of dollars sent to Ukraine …]]></title>
-        <id>https://twitter.com/elonmusk/status/1895591926667358635</id>
-        <link href="https://x.com/elonmusk/status/1895591926667358635"/>
-        <updated>2025-02-28T21:48:28.000Z</updated>
-        <summary type="html"><![CDATA[Time to find out what really happened to the hundreds of billions of dollars sent to Ukraine …]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT America: Elon Musk: “Our elected officials have very little power relative to the bureaucracy until DOGE… DOGE is the first threat to the bureauc...]]></title>
-        <id>https://twitter.com/elonmusk/status/1895614528836288736</id>
-        <link href="https://x.com/elonmusk/status/1895614528836288736"/>
-        <updated>2025-02-28T20:40:45.000Z</updated>
-        <summary type="html"><![CDATA[RT America
-Elon Musk: “Our elected officials have very little power relative to the bureaucracy until DOGE… DOGE is the first threat to the bureaucracy. This is the first time that the revolution might actually succeed. That we can restore power to the people.”]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Aaron Levie: After well over a hundred years of incremental progress, all of a sudden transportation is going to change very quickly]]></title>
-        <id>https://twitter.com/elonmusk/status/1895625768547598430</id>
-        <link href="https://x.com/elonmusk/status/1895625768547598430"/>
-        <updated>2025-02-28T03:39:55.000Z</updated>
-        <summary type="html"><![CDATA[RT Aaron Levie
-After well over a hundred years of incremental progress, all of a sudden transportation is going to change very quickly]]></summary>
+        <title type="html"><![CDATA[RT AshutoshShrivastava: Grok-3 image editing feature is really underrated. It's incredibly good, you guys should try it out! It's free for everyone. i...]]></title>
+        <id>https://twitter.com/elonmusk/status/1895996422576881705</id>
+        <link href="https://x.com/elonmusk/status/1895996422576881705"/>
+        <updated>2025-03-01T13:47:43.000Z</updated>
+        <summary type="html"><![CDATA[RT AshutoshShrivastava
+Grok-3 image editing feature is really underrated. It's incredibly good, you guys should try it out! It's free for everyone. 
+if you combine it with Pika new feature, Pikaframes, it awesome.
+I created this video in less than 3 minutes.
+1/2
+Here’s how 👇]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
