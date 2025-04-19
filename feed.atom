@@ -1,263 +1,230 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-18T02:21:02.780Z</id>
+    <id>urn:2025-04-19T02:17:59.594Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-18T02:21:02.780Z</updated>
+    <updated>2025-04-19T02:17:59.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Grok ftw]]></title>
-        <id>https://twitter.com/elonmusk/status/1913004130282373161</id>
-        <link href="https://x.com/elonmusk/status/1913004130282373161"/>
-        <updated>2025-04-17T22:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Grok ftw
+        <title type="html"><![CDATA[This will give you back 10 hours of your life]]></title>
+        <id>https://twitter.com/elonmusk/status/1913381011464790175</id>
+        <link href="https://x.com/elonmusk/status/1913381011464790175"/>
+        <updated>2025-04-18T23:55:56.000Z</updated>
+        <summary type="html"><![CDATA[This will give you back 10 hours of your life
 
-Mario Nawfal: 🚨GROK 3 TAKES ON CHATGPT—AND WINS ON TRANSPARENCY
-Cybernews called it “one of the best AI tools” of 2025. 
-Grok 3, via xAI, comes with real-time data from X, an attitude, and a feature called DeepSearch that walks you through its “thought process.”
- Unlike other bots, Grok 3]]></summary>
+Tesla: Autonomy, at scale, makes cities more livable & gives you back the most important thing in life: time]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cool]]></title>
-        <id>https://twitter.com/elonmusk/status/1912998381934231607</id>
-        <link href="https://x.com/elonmusk/status/1912998381934231607"/>
-        <updated>2025-04-17T22:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Cool
+        <title type="html"><![CDATA[Grok has the fastest rate of improvement of any AI]]></title>
+        <id>https://twitter.com/elonmusk/status/1913369084344836258</id>
+        <link href="https://x.com/elonmusk/status/1913369084344836258"/>
+        <updated>2025-04-18T23:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Grok has the fastest rate of improvement of any AI
 
-Insurrection Barbie: Grok is ten times better than ChatGPT. Like it’s not even close.]]></summary>
+Szymon Tworkowski: Been working hard pushing Grok 3 Mini reasoning capabilities to the performance/price frontier 🚀
+Join our reasoning team to help us build even smarter models!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Belce Doğru: At @xai, we care about real world usefulness. We are seeing repeatedly that Grok 3 is the best financial and legal AI. By the next ta...]]></title>
-        <id>https://twitter.com/elonmusk/status/1913002537017344472</id>
-        <link href="https://x.com/elonmusk/status/1913002537017344472"/>
-        <updated>2025-04-17T20:24:17.000Z</updated>
-        <summary type="html"><![CDATA[RT Belce Doğru
-At @xai, we care about real world usefulness. We are seeing repeatedly that Grok 3 is the best financial and legal AI. By the next tax season, maybe it will even file your taxes for you!
-
-Vals AI: Grok 3 Beta dominates on our proprietary benchmarks, setting the new SOTA on our Finance, Legal and Tax benchmarks.
-Congrats @xai @grok @elonmusk 🚀🚀🚀
-We just released the benchmark results for xAI's new models: Grok 3 Beta & Grok 3 Mini Fast Beta (High & Low Reasoning) –]]></summary>
+        <title type="html"><![CDATA[RT Donald J. Trump: Following my Day One Executive Order, the Office of Personnel Management will be issuing new Civil Service Regulations for career ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1913365048367468707</id>
+        <link href="https://x.com/elonmusk/status/1913365048367468707"/>
+        <updated>2025-04-18T22:28:37.000Z</updated>
+        <summary type="html"><![CDATA[RT Donald J. Trump
+Following my Day One Executive Order, the Office of Personnel Management will be issuing new Civil Service Regulations for career government employees. Moving forward, career government employees, working on policy matters, will be classified as “Schedule Policy/Career,” and will be held to the highest standards of conduct and performance. If these government workers refuse to advance the policy interests of the President, or are engaging in corrupt behavior, they should no longer have a job. This is common sense, and will allow the federal government to finally be “run like a business.” We must root out corruption and implement accountability in our Federal Workforce!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT DogeDesigner: 𝕏 is the voice of the people.]]></title>
-        <id>https://twitter.com/elonmusk/status/1912944313136484831</id>
-        <link href="https://x.com/elonmusk/status/1912944313136484831"/>
-        <updated>2025-04-17T18:58:16.000Z</updated>
-        <summary type="html"><![CDATA[RT DogeDesigner
-𝕏 is the voice of the people.]]></summary>
+        <title type="html"><![CDATA[Tesla self-driving is amazing!]]></title>
+        <id>https://twitter.com/elonmusk/status/1913232558805987451</id>
+        <link href="https://x.com/elonmusk/status/1913232558805987451"/>
+        <updated>2025-04-18T14:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Tesla self-driving is amazing!
+
+Tesla: You can get a glimpse of that today: although FSD Supervised currently does require your supervision, you will still notice that your commute or long drives are suddenly so much less taxing. 
+No constant micro-adjustments in rush hour traffic. No frustration. Car does it all for]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wow]]></title>
+        <id>https://twitter.com/elonmusk/status/1913231476038000713</id>
+        <link href="https://x.com/elonmusk/status/1913231476038000713"/>
+        <updated>2025-04-18T14:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Wow
+
+The Rabbit Hole: DEI in the Fed with an affirmative action plan and everything. They even have a video of Jerome Powell endorsing DEI.
+Time to abolish.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interesting episode https://podcasts.apple.com/us/podcast/history-102-with-whatifalthists-rudyard-lynch-and/id1730633913?i=1000699047037]]></title>
+        <id>https://twitter.com/elonmusk/status/1913150299524550772</id>
+        <link href="https://x.com/elonmusk/status/1913150299524550772"/>
+        <updated>2025-04-18T08:39:10.000Z</updated>
+        <summary type="html"><![CDATA[Interesting episode  https://podcasts.apple.com/us/podcast/history-102-with-whatifalthists-rudyard-lynch-and/id1730633913?i=1000699047037]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: BREAKING: The Tesla diner in Santa Monica is getting close to near completion]]></title>
+        <id>https://twitter.com/elonmusk/status/1913155552546333016</id>
+        <link href="https://x.com/elonmusk/status/1913155552546333016"/>
+        <updated>2025-04-18T08:16:32.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
+BREAKING: The Tesla diner in Santa Monica is getting close to near completion]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1912942884132933799</id>
-        <link href="https://x.com/elonmusk/status/1912942884132933799"/>
-        <updated>2025-04-17T18:54:58.000Z</updated>
+        <id>https://twitter.com/elonmusk/status/1913143815348650354</id>
+        <link href="https://x.com/elonmusk/status/1913143815348650354"/>
+        <updated>2025-04-18T08:13:24.000Z</updated>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Government-funded NGOs (a contradiction in terms) are probably the biggest source of fraud]]></title>
-        <id>https://twitter.com/elonmusk/status/1912939267489497437</id>
-        <link href="https://x.com/elonmusk/status/1912939267489497437"/>
-        <updated>2025-04-17T18:40:36.000Z</updated>
-        <summary type="html"><![CDATA[Government-funded NGOs (a contradiction in terms) are probably the biggest source of fraud
-
-@amuse: NGOs: It is time for Congress to pass legislation banning government funding of NGOs. It is way past time. 
-https://x.com/amuse/status/1912222676732588236]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[True]]></title>
-        <id>https://twitter.com/elonmusk/status/1912937994203341219</id>
-        <link href="https://x.com/elonmusk/status/1912937994203341219"/>
-        <updated>2025-04-17T18:35:33.000Z</updated>
-        <summary type="html"><![CDATA[True
-
-DogeDesigner: One of the greatest luxuries a man could have is a true friend.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Grok: You can now create workspaces on Grok through http://grok.com!]]></title>
-        <id>https://twitter.com/elonmusk/status/1912922430982541338</id>
-        <link href="https://x.com/elonmusk/status/1912922430982541338"/>
-        <updated>2025-04-17T16:25:18.000Z</updated>
-        <summary type="html"><![CDATA[RT Grok
-You can now create workspaces on Grok through http://grok.com!]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Starlink: For those in New Zealand, the Starlink team and One NZ have enabled texting through our Direct to Cell satellites for additional customer...]]></title>
-        <id>https://twitter.com/elonmusk/status/1912939702484906090</id>
-        <link href="https://x.com/elonmusk/status/1912939702484906090"/>
-        <updated>2025-04-17T15:39:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Starlink
-For those in New Zealand, the Starlink team and One NZ have enabled texting through our Direct to Cell satellites for additional customers in areas affected by Cyclone Tam.
-
-One New Zealand: Stay safe out there today. We’re seeing hundreds of text messages being sent using the One NZ Satellite text service, delivered in partnership with @Starlink Direct to Cell from @SpaceX.
-Satellite texting adds an additional layer of resiliency if you’re in an area with power]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla Optimus: Domo Arigato Mr. Roboto]]></title>
-        <id>https://twitter.com/elonmusk/status/1912918254273654840</id>
-        <link href="https://x.com/elonmusk/status/1912918254273654840"/>
-        <updated>2025-04-17T14:47:48.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla Optimus
-Domo Arigato
-Mr. Roboto]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mario Nawfal: TESLA DIDN’T JUST WIN Q1—IT WIPED THE FLOOR WITH THE COMPETITION - 128,100 EVs sold—more than the next 10 brands combined. That’s...]]></title>
-        <id>https://twitter.com/elonmusk/status/1912922528793710876</id>
-        <link href="https://x.com/elonmusk/status/1912922528793710876"/>
-        <updated>2025-04-17T11:17:55.000Z</updated>
+        <title type="html"><![CDATA[RT Mario Nawfal: X GETS MORE VIEWERS PER NEWS SHOW THAN FOX?! Of the top performing news shows for the week ending April 15th - Mario 𝕏 Nawfal ( M...]]></title>
+        <id>https://twitter.com/elonmusk/status/1913140314820235497</id>
+        <link href="https://x.com/elonmusk/status/1913140314820235497"/>
+        <updated>2025-04-18T07:41:08.000Z</updated>
         <summary type="html"><![CDATA[RT Mario Nawfal
-TESLA DIDN’T JUST WIN Q1—IT WIPED THE FLOOR WITH THE COMPETITION
-- 128,100 EVs sold—more than the next 10 brands combined. That’s not a lead, that’s a flex.
-- Model Y and Model 3 still sitting comfortably at the top. Everyone else? Still trying to figure it out.
--Nearly 300K EVs sold in the U.S.—and Tesla’s doing the heavy lifting.
-The rest of the industry’s playing catch-up. Tesla’s playing chess.
-Source: Teslarati
+X GETS MORE VIEWERS PER NEWS SHOW THAN FOX?!
+Of the top performing news shows for the week ending April 15th - Mario 𝕏 Nawfal ( M𝕏N ) exclusively on X outperformed the TOP SHOWS on the LARGEST TV NEWS NETWORK  - FOX.
+And is #2 OVERALL for TOP NEWS NETWORK
+Thank you @elonmusk for allowing us to create the future of news on a platform that protects free speech and real journalism.
 
 
-Mario Nawfal: 🇺🇸 TESLA CRUSHES CALIFORNIA EV COMPETITION | FORD LEFT IN THE DUST
-Tesla remains California's EV kingpin, registering 42,322 vehicles in Q1 2025—far ahead of Ford's distant second at 5,819. 
-The Model Y and Model 3 easily topped EV charts, though registrations slipped 15.1%]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶 Memories … 🎶]]></title>
-        <id>https://twitter.com/elonmusk/status/1912742441519620530</id>
-        <link href="https://x.com/elonmusk/status/1912742441519620530"/>
-        <updated>2025-04-17T05:38:29.000Z</updated>
-        <summary type="html"><![CDATA[🎶 Memories … 🎶
 
-Grok: Grok now remembers your conversations. When you ask for recommendations or advice, you’ll get personalized responses.]]></summary>
+Mario Nawfal: 🚨69 𝕏 MINUTES — THE MASK IS OFF. THE SYSTEM’S ROTTED. | EPISODE 8
+This isn’t cable news. This is the end of pretending — raw, unfiltered, and only on 𝕏.
+The Chinese Communist Party owns GNC — and it’s still running 83 stores on U.S. military bases.
+Disney’s Snow White tanks]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT xAI: 🧠]]></title>
-        <id>https://twitter.com/elonmusk/status/1912743010443419762</id>
-        <link href="https://x.com/elonmusk/status/1912743010443419762"/>
-        <updated>2025-04-17T00:52:34.000Z</updated>
-        <summary type="html"><![CDATA[RT xAI
-🧠
+        <title type="html"><![CDATA[RT ELON CLIPS: Early Tesla employee: Elon has zero tolerance for any hint of bureaucracy. “Elon's one of the most driven individuals I've ever met. H...]]></title>
+        <id>https://twitter.com/elonmusk/status/1913146482141602156</id>
+        <link href="https://x.com/elonmusk/status/1913146482141602156"/>
+        <updated>2025-04-18T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[RT ELON CLIPS
+Early Tesla employee: Elon has zero tolerance for any hint of bureaucracy.
+“Elon's one of the most driven individuals I've ever met. He's got incredibly high bandwidth. But he's got zero tolerance for any hint of bureaucracy. 
+He often asked us to take special forces methods to get our jobs accomplished. Basically, try is not good enough. You need to do. Results matter. 
+And [you should] not let things get in the way that most people would be stumbled by or snagged by. We broke through any red tape with a machete, and we had a great deal of incentive to make sure we were accomplishing what we were set out to do and what his vision was.”
+Dave Lyons on CNBC, August 16, 2018]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troubling]]></title>
+        <id>https://twitter.com/elonmusk/status/1913065513762119997</id>
+        <link href="https://x.com/elonmusk/status/1913065513762119997"/>
+        <updated>2025-04-18T03:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Troubling
 
-Grok: Grok now remembers your conversations. When you ask for recommendations or advice, you’ll get personalized responses.]]></summary>
+Laura Loomer: EXCLUSIVE:
+‼️ WHITE HOUSE VETTING CRISIS CONTINUES AS TRUMP APPOINTED US TREASURY SECRETARY INVITES PRO- IMPEACHMENT TRUMP HATER TO COLLABORATE WITH HIM AT THE TREASURY DEPARTMENT ‼️ 
+Scott Bessent invites pro-impeachment and pro-censorship Trump hater to collaborate with him]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Starlink: Starlink Mini eliminates dead zones, providing high-speed internet wherever you go 🛰️🛣️]]></title>
-        <id>https://twitter.com/elonmusk/status/1912942957646492099</id>
-        <link href="https://x.com/elonmusk/status/1912942957646492099"/>
-        <updated>2025-04-17T00:12:25.000Z</updated>
-        <summary type="html"><![CDATA[RT Starlink
-Starlink Mini eliminates dead zones, providing high-speed internet wherever you go 🛰️🛣️
+        <title type="html"><![CDATA[Doing a live stream]]></title>
+        <id>https://twitter.com/elonmusk/status/1913025878990127143</id>
+        <link href="https://x.com/elonmusk/status/1913025878990127143"/>
+        <updated>2025-04-18T00:24:46.000Z</updated>
+        <summary type="html"><![CDATA[Doing a live stream]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🇺🇸🇺🇸]]></title>
+        <id>https://twitter.com/elonmusk/status/1913025554682347891</id>
+        <link href="https://x.com/elonmusk/status/1913025554682347891"/>
+        <updated>2025-04-18T00:23:29.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇸🇺🇸
 
-Buster: @Starlink Salt Lake City to Aspen, 60% of the route has no cell coverage. StarLink Mini for the win with 100% coverage!  Mounted to the Ski Rack cross bars with a modified @1upUSA bike rack bracket.  Colorado/Utah state line.]]></summary>
+Gunther Eagleman™: America supports Elon Musk and DOGE!]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT The Babylon Bee: American Hostages In Gaza Disguise Themselves As MS-13 Gang Members So Democrats Will Fight To Bring Them Home https://buff.ly/Ov4...]]></title>
-        <id>https://twitter.com/elonmusk/status/1912922749552427058</id>
-        <link href="https://x.com/elonmusk/status/1912922749552427058"/>
-        <updated>2025-04-16T22:45:20.000Z</updated>
-        <summary type="html"><![CDATA[RT The Babylon Bee
-American Hostages In Gaza Disguise Themselves As MS-13 Gang Members So Democrats Will Fight To Bring Them Home https://buff.ly/Ov4jTE3]]></summary>
+        <title type="html"><![CDATA[RT Rothmus 🏴: 🔥🔥]]></title>
+        <id>https://twitter.com/elonmusk/status/1913026787484840248</id>
+        <link href="https://x.com/elonmusk/status/1913026787484840248"/>
+        <updated>2025-04-18T00:03:24.000Z</updated>
+        <summary type="html"><![CDATA[RT Rothmus 🏴
+🔥🔥]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exactly]]></title>
-        <id>https://twitter.com/elonmusk/status/1912631986570891469</id>
-        <link href="https://x.com/elonmusk/status/1912631986570891469"/>
-        <updated>2025-04-16T22:19:35.000Z</updated>
-        <summary type="html"><![CDATA[Exactly
-
-Sawyer Merritt: 1: A Model 3 (an EV) weighs the same as a BMW 3 series (a gas car).
-2: You almost never need to use your brakes on an EV due to regen braking.
-3: Batteries can be recycled. Gasoline can't.]]></summary>
+        <title type="html"><![CDATA[RT Dane: 250,000 WHITE British girls have been raped in the last 25 years, OVER 90% by Muslims - Lord Pearson in the House of Lords. The numbers are s...]]></title>
+        <id>https://twitter.com/elonmusk/status/1913140954149662905</id>
+        <link href="https://x.com/elonmusk/status/1913140954149662905"/>
+        <updated>2025-04-16T16:37:01.000Z</updated>
+        <summary type="html"><![CDATA[RT Dane
+250,000 WHITE British girls have been raped in the last 25 years, OVER 90% by Muslims - Lord Pearson in the House of Lords.
+The numbers are staggering, an absolutely Satanic presence overshadows all of the West, fueled by literal demons.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Donald Trump Jr.: Disgusting]]></title>
-        <id>https://twitter.com/elonmusk/status/1912632091197730904</id>
-        <link href="https://x.com/elonmusk/status/1912632091197730904"/>
-        <updated>2025-04-16T22:03:59.000Z</updated>
-        <summary type="html"><![CDATA[RT Donald Trump Jr.
-Disgusting]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT KanekoaTheGreat: 🚨BREAKING: DOJ & DHS release Kilmer Abrego Garcia documents. He was arrested in the company of known MS-13 gang members carryin...]]></title>
-        <id>https://twitter.com/elonmusk/status/1912742955602845737</id>
-        <link href="https://x.com/elonmusk/status/1912742955602845737"/>
-        <updated>2025-04-16T21:26:25.000Z</updated>
-        <summary type="html"><![CDATA[RT KanekoaTheGreat
-🚨BREAKING: DOJ & DHS release Kilmer Abrego Garcia documents.
-He was arrested in the company of known MS-13 gang members carrying marijuana and cash.
-A credible source confirmed he's an active MS-13 member with the rank "Chequeo" and the nickname "Chele."
-In 2021, his wife filed a restraining order against him for domestic violence, alleging he punched her, scratched her, and tore off her shirt.
-Honestly, if this is the Democrats' best example of President @realDonaldTrump wrongfully deporting someone, his administration must be doing a solid job.
-They should speed up the deportations.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DogeDesigner: Patriots 🇺🇸]]></title>
-        <id>https://twitter.com/elonmusk/status/1912620779008848158</id>
-        <link href="https://x.com/elonmusk/status/1912620779008848158"/>
-        <updated>2025-04-16T17:02:36.000Z</updated>
-        <summary type="html"><![CDATA[RT DogeDesigner
-Patriots 🇺🇸]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Secretary Marco Rubio: Secretary Rubio's live conversation with @MikeBenzCyber on dismantling the censorship bureaucracy at the State Department ht...]]></title>
-        <id>https://twitter.com/elonmusk/status/1912936840681705543</id>
-        <link href="https://x.com/elonmusk/status/1912936840681705543"/>
-        <updated>2025-04-16T15:54:02.000Z</updated>
+        <title type="html"><![CDATA[RT Secretary Marco Rubio: Over the past half decade, our own governing ruling class nearly destroyed America's long free speech history. Today, we are...]]></title>
+        <id>https://twitter.com/elonmusk/status/1913141079035048424</id>
+        <link href="https://x.com/elonmusk/status/1913141079035048424"/>
+        <updated>2025-04-16T15:44:21.000Z</updated>
         <summary type="html"><![CDATA[RT Secretary Marco Rubio
-Secretary Rubio's live conversation with @MikeBenzCyber on dismantling the censorship bureaucracy at the State Department https://x.com/i/broadcasts/1dRKZYqqaAvxB]]></summary>
+Over the past half decade, our own governing ruling class nearly destroyed America's long free speech history. Today, we are putting that to an end.
+https://thefederalist.com/2025/04/16/rubio-to-protect-free-speech-the-censorship-industrial-complex-must-be-dismantled/]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Oversight Committee: 🚨 BIG NEWS: Gary Shapley, the IRS whistleblower who exposed the DOJ’s cover-up of the criminal investigation of Hunter Bid...]]></title>
+        <id>https://twitter.com/elonmusk/status/1913140243840065970</id>
+        <link href="https://x.com/elonmusk/status/1913140243840065970"/>
+        <updated>2025-04-16T14:40:19.000Z</updated>
+        <summary type="html"><![CDATA[RT Oversight Committee
+🚨 BIG NEWS: Gary Shapley, the IRS whistleblower who exposed the DOJ’s cover-up of the criminal investigation of Hunter Biden, is now Acting IRS Commissioner. 
+Congratulations, Gary—your courage and professionalism will transform the IRS.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Arno: Students get SuperGrok from http://grok.com for free for 2 months when you sign up with a .edu email. Good luck with finals. Stay in school ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1913289548093682012</id>
+        <link href="https://x.com/elonmusk/status/1913289548093682012"/>
+        <updated>2025-04-09T20:35:34.000Z</updated>
+        <summary type="html"><![CDATA[RT Arno
+Students get SuperGrok from http://grok.com for free for 2 months when you sign up with a .edu email. Good luck with finals.
+Stay in school 🫡.
+Or apply to https://x.ai/careers/open-roles.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
