@@ -1,238 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-29T02:26:11.797Z</id>
+    <id>urn:2025-04-30T02:25:48.964Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-29T02:26:11.797Z</updated>
+    <updated>2025-04-30T02:25:48.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[150 Hardcore]]></title>
-        <id>https://twitter.com/elonmusk/status/1916999224664953190</id>
-        <link href="https://x.com/elonmusk/status/1916999224664953190"/>
-        <updated>2025-04-28T23:33:25.000Z</updated>
-        <summary type="html"><![CDATA[150 Hardcore]]></summary>
+        <title type="html"><![CDATA[This is a big deal]]></title>
+        <id>https://twitter.com/elonmusk/status/1917225430702240067</id>
+        <link href="https://x.com/elonmusk/status/1917225430702240067"/>
+        <updated>2025-04-29T14:32:17.000Z</updated>
+        <summary type="html"><![CDATA[This is a big deal
+
+Department of Government Efficiency: Last week, Treasury went live with its first automated payment verification system. In total, $334 million in improper payment requests were identified and rejected due to:
+-Missing budget codes
+-Invalid budget codes (i.e. the payment was not linked to the budget)
+-Budget codes]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT U.S. Department of Justice: Only American Citizens can vote in American Elections. Thanks to our partnership @DOGE, this DOJ has charged an Iraqi m...]]></title>
-        <id>https://twitter.com/elonmusk/status/1917002101903028361</id>
-        <link href="https://x.com/elonmusk/status/1917002101903028361"/>
-        <updated>2025-04-28T20:10:48.000Z</updated>
-        <summary type="html"><![CDATA[RT U.S. Department of Justice
-Only American Citizens can vote in American Elections.
-Thanks to our partnership @DOGE, this DOJ has charged an Iraqi man for illegal voting in the 2020 election.
-If you are a foreign national and vote in our elections—you will be prosecuted.
-https://www.justice.gov/usao-ndny/pr/iraqi-man-charged-illegal-voting-alien]]></summary>
+        <title type="html"><![CDATA[RT Western Lensman: 🚨🔥Scott Jennings hammers Dem narrative that Trump is losing the political battle over immigration: “When it all shakes out,...]]></title>
+        <id>https://twitter.com/elonmusk/status/1917209848653189402</id>
+        <link href="https://x.com/elonmusk/status/1917209848653189402"/>
+        <updated>2025-04-29T11:57:59.000Z</updated>
+        <summary type="html"><![CDATA[RT Western Lensman
+🚨🔥Scott Jennings hammers Dem narrative that Trump is losing the political battle over immigration:
+“When it all shakes out, what are they going to be able to say? Donald Trump effectively closed the southern border just by taking office."
+“The old way was, hey, just get here and we'll find a way and it'll probably work out for you. The new message is, don't come here, please don't come here. And now people know that we mean it."
+“When it all shakes out. I think we're going to find that Donald Trump inherited the biggest mess of all was on immigration."
+"He had the biggest cleanup job to do on it, and he ultimately did what he had to do to bring order to it."
+"I still think it's their number one issue."]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT moons: Grok is my new preferred LLM. Thank you @grok @xai @elonmusk]]></title>
-        <id>https://twitter.com/elonmusk/status/1917006754296263098</id>
-        <link href="https://x.com/elonmusk/status/1917006754296263098"/>
-        <updated>2025-04-28T18:52:53.000Z</updated>
-        <summary type="html"><![CDATA[RT moons
-Grok is my new preferred LLM.
-Thank you @grok @xai @elonmusk]]></summary>
+        <title type="html"><![CDATA[https://x.com/i/grok/share/2LQaSjc9loB3Lzngigi3MwvAG]]></title>
+        <id>https://twitter.com/elonmusk/status/1917114631287718009</id>
+        <link href="https://x.com/elonmusk/status/1917114631287718009"/>
+        <updated>2025-04-29T07:12:01.000Z</updated>
+        <summary type="html"><![CDATA[https://x.com/i/grok/share/2LQaSjc9loB3Lzngigi3MwvAG]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1916921660017676718</id>
-        <link href="https://x.com/elonmusk/status/1916921660017676718"/>
-        <updated>2025-04-28T18:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Geoffrey Hinton: I like OpenAI’s mission of 'ensure that artificial general intelligence benefits all of humanity”, and I’d like to stop them from completely gutting it.
-I’ve signed on to a new letter to @AGRobBonta & @DE_DOJ asking them to halt the restructuring. (1/2)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Geoffrey Hinton: AGI is the most important and potentially dangerous technology of our time. OpenAI was right that this technology merits strong st...]]></title>
-        <id>https://twitter.com/elonmusk/status/1916921718624706681</id>
-        <link href="https://x.com/elonmusk/status/1916921718624706681"/>
-        <updated>2025-04-28T18:03:31.000Z</updated>
-        <summary type="html"><![CDATA[RT Geoffrey Hinton
-AGI is the most important and potentially dangerous technology of our time. OpenAI was right that this technology merits strong structures and incentives to ensure it is developed safely, and is wrong now in attempting to change these structures and incentives.
-We're urging the AGs to protect the public and stop this. http://NotForPrivateGain.org (2/2)]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: BREAKING: 𝕏 is now the #1 news app in Brazil. 🇧🇷 Leading in both Free and Top Grossing categories. App Store ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1916743435434050027</id>
-        <link href="https://x.com/elonmusk/status/1916743435434050027"/>
-        <updated>2025-04-28T06:34:58.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
-BREAKING: 𝕏 is now the #1 news app in Brazil. 🇧🇷
-Leading in both Free and Top Grossing categories.
-App Store charts don’t lie. 🥇
-𝕏 is taking over — globally.]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1916742833576214758</id>
-        <link href="https://x.com/elonmusk/status/1916742833576214758"/>
-        <updated>2025-04-28T06:34:37.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DogeDesigner: Fight for truth, whole truth & nothin but!]]></title>
-        <id>https://twitter.com/elonmusk/status/1916741198665916821</id>
-        <link href="https://x.com/elonmusk/status/1916741198665916821"/>
-        <updated>2025-04-28T06:26:29.000Z</updated>
+        <title type="html"><![CDATA[RT DogeDesigner: Grok 3 is driving Grok usage to new heights 🔥]]></title>
+        <id>https://twitter.com/elonmusk/status/1917115409620472055</id>
+        <link href="https://x.com/elonmusk/status/1917115409620472055"/>
+        <updated>2025-04-29T06:44:22.000Z</updated>
         <summary type="html"><![CDATA[RT DogeDesigner
-Fight for truth, whole truth & nothin but!]]></summary>
+Grok 3 is driving Grok usage to new heights 🔥]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: BREAKING: 𝕏 is now the #1 app in News & Magazines across the USA. 🇺🇸 The takeover is happening. One category ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1916742755214393371</id>
-        <link href="https://x.com/elonmusk/status/1916742755214393371"/>
-        <updated>2025-04-28T06:23:01.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
-BREAKING: 𝕏 is now the #1 app
-in News & Magazines across the USA. 🇺🇸
-The takeover is happening.
-One category at a time. 📈]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1916738856872706543</id>
-        <link href="https://x.com/elonmusk/status/1916738856872706543"/>
-        <updated>2025-04-28T06:18:49.000Z</updated>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 years ago]]></title>
-        <id>https://twitter.com/elonmusk/status/1916735921963385050</id>
-        <link href="https://x.com/elonmusk/status/1916735921963385050"/>
-        <updated>2025-04-28T06:07:09.000Z</updated>
-        <summary type="html"><![CDATA[13 years ago
+        <title type="html"><![CDATA[Whoa]]></title>
+        <id>https://twitter.com/elonmusk/status/1917103264417649121</id>
+        <link href="https://x.com/elonmusk/status/1917103264417649121"/>
+        <updated>2025-04-29T06:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Whoa
 
-KanekoaTheGreat: Elon Musk talks to Jon Stewart about Paypal, Tesla, and SpaceX in 2012.
-"When I was in college, there were three areas I thought would most affect the future of humanity: the internet, sustainable energy, & space exploration, particularly making life multiplanetary."
-@elonmusk]]></summary>
+Mario Nawfal: 🚨THE INVISIBLE PUPPET MASTERS: AI'S DISTURBING NEW ROLE IN SHAPING MINDS
+The revelation that University of Zurich researchers secretly deployed AI bots to manipulate Reddit users' opinions should chill anyone who values authentic human discourse. 
+These weren't merely passive]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT DogeDesigner: Neuralink is a blessing for humanity. Just imagine—a world where someone born blind can see for the first time.]]></title>
-        <id>https://twitter.com/elonmusk/status/1916731065143824799</id>
-        <link href="https://x.com/elonmusk/status/1916731065143824799"/>
-        <updated>2025-04-28T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[RT DogeDesigner
-Neuralink is a blessing for humanity.
-Just imagine—a world where someone born blind can see for the first time.]]></summary>
+        <title type="html"><![CDATA[RT ZUBY:: I have never seen or heard a publicly proposed solution to this that would actually work. Not once. The truth is, you can't have widespread ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1917114028545216952</id>
+        <link href="https://x.com/elonmusk/status/1917114028545216952"/>
+        <updated>2025-04-29T06:13:17.000Z</updated>
+        <summary type="html"><![CDATA[RT ZUBY:
+I have never seen or heard a publicly proposed solution to this that would actually work. Not once.
+The truth is, you can't have widespread feminism AND high birth rates. And people have chosen implicitly that feminism is more important. Very few modern men or women have the appetite or will to cut back on these 'gains'. Including conservatives.
+There are other contributing factors, but this is the uncomfortable crux of the issue.
+You cannot have mass feminism (both in policy and culture) and high birth rates. They are opposing forces.
+
+DogeDesigner: A friendly reminder to make more babies!
+🇯🇵 Japan's total fertility rate for 2024 was reported to hit an all-time low. Last year, more than two people died for every baby born.
+🇺🇸 U.S. birth rates hit 40-year low.
+🇦🇺 Australia's birth rate is at an all-time-low.]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Mario Nawfal: 🇺🇸 STARLINK JUST GOT STRONGER: SPACE-BASED CELL SERVICE IS COMING FOR DEAD ZONES Last night, SpaceX launched 23 more Starlink s...]]></title>
-        <id>https://twitter.com/elonmusk/status/1916730646036201865</id>
-        <link href="https://x.com/elonmusk/status/1916730646036201865"/>
-        <updated>2025-04-28T04:30:00.000Z</updated>
+        <title type="html"><![CDATA[RT Mario Nawfal: 🚨🇮🇩 INDONESIAN ISLANDS FINALLY CONNECTED: STARLINK MINI HITS ARCHIPELAGO SpaceX just unleashed its backpack-sized internet r...]]></title>
+        <id>https://twitter.com/elonmusk/status/1917095752658305523</id>
+        <link href="https://x.com/elonmusk/status/1917095752658305523"/>
+        <updated>2025-04-29T05:48:50.000Z</updated>
         <summary type="html"><![CDATA[RT Mario Nawfal
-🇺🇸 STARLINK JUST GOT STRONGER: SPACE-BASED CELL SERVICE IS COMING FOR DEAD ZONES
-Last night, SpaceX launched 23 more Starlink satellites, including 13 Direct to Cell (DTC) beasts, adding muscle to their plan to erase cellular dead zones from the map. 
-Whether you’re hiking in the Rockies or sailing the Pacific, the dream is simple: full bars, anywhere.
-This was SpaceX’s 48th Falcon 9 mission of 2025 (and the 31st Starlink launch this year alone—Elon doesn’t sleep). 
-Booster B1063 landed gracefully on the ‘Of Course I Still Love You’ droneship for its 15th round trip.
-With 7,000+ satellites now buzzing overhead—over 570 of them DTC-capable—SpaceX is inching closer to global cell service, teaming up with T-Mobile, KDDI, and Rogers. 
-They’re just 4 launches away from finishing the initial DTC constellation, meaning that no bars on your phone might soon be a thing of the past.
-Source: @SpaceX, @Starlink
+🚨🇮🇩 INDONESIAN ISLANDS FINALLY CONNECTED: STARLINK MINI HITS ARCHIPELAGO
+SpaceX just unleashed its backpack-sized internet revolution across Indonesia's 17,000+ islands - a game-changer for a nation where connectivity has always meant compromise.
+The impossibly tiny Starlink Mini (just 2.56 pounds!) has landed at $299, bringing space internet to remote locations that fiber and cell towers will never reach.
+For Indonesia's digital nomads in Bali, remote workers in Sumatra, fishermen at sea, and villagers in Papua, this pocket-sized dish delivers up to 250Mbps downloads while sipping just 15-20W of power - easily handled by a portable battery bank or small solar setup.
+No more climbing hills for a signal or watching upload bars crawl for hours. 
+The Mini works in backpacks, on boat decks, and vehicle rooftops - perfect for a country where your next destination might be hours from the nearest cell tower.
+The archipelago's geography has always made consistent connectivity a national challenge. 
+Now Elon's tiny dish might finally bridge Indonesia's digital divide - one island at a time.
+Source: @Starlink @elonmusk
 
 
-Mario Nawfal: 🚨🇺🇸 FALCON 9 COMPLETES 23RD LAUNCH, DELIVERS 28 STARLINK SATELLITES TO ORBIT
-A Falcon 9 successfully launched 28 Starlink satellites from Cape Canaveral’s SLC-40, marking the 23rd flight for the booster—a record-tying feat. 
-The same first stage had previously supported]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: BREAKING: 𝕏 is now the #1 news app on the AppStore in France 🇫🇷]]></title>
-        <id>https://twitter.com/elonmusk/status/1916739971626750390</id>
-        <link href="https://x.com/elonmusk/status/1916739971626750390"/>
-        <updated>2025-04-28T04:10:39.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
-BREAKING: 𝕏 is now the #1 news app on the AppStore in France 🇫🇷]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Whole Mars Catalog: Wow. Grok is now being used in conjunction with Neuralink. Neuralink patients can have Grok 3 listen to the conversation and th...]]></title>
-        <id>https://twitter.com/elonmusk/status/1916737268569788612</id>
-        <link href="https://x.com/elonmusk/status/1916737268569788612"/>
-        <updated>2025-04-28T01:09:24.000Z</updated>
-        <summary type="html"><![CDATA[RT Whole Mars Catalog
-Wow. Grok is now being used in conjunction with Neuralink. 
-Neuralink patients can have Grok 3 listen to the conversation and then generate options for them to quickly click so that they can have a conversation at normal speed. 
-Super cool]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: Government spending will look like this with Elon Musk and @doge]]></title>
-        <id>https://twitter.com/elonmusk/status/1916739060938535244</id>
-        <link href="https://x.com/elonmusk/status/1916739060938535244"/>
-        <updated>2025-04-27T22:15:02.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
-Government spending will look like this with Elon Musk and @doge]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mario Nawfal: 🇰🇷STARLINK CLEARED FOR TAKEOFF IN SOUTH KOREA Starlink is officially on its way to South Korea, bringing high-speed internet to...]]></title>
-        <id>https://twitter.com/elonmusk/status/1916730840815714714</id>
-        <link href="https://x.com/elonmusk/status/1916730840815714714"/>
-        <updated>2025-04-27T20:40:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Mario Nawfal
-🇰🇷STARLINK CLEARED FOR TAKEOFF IN SOUTH KOREA
+Mario Nawfal: 🇰🇷STARLINK CLEARED FOR TAKEOFF IN SOUTH KOREA
 Starlink is officially on its way to South Korea, bringing high-speed internet to remote villages, oceans, and airplanes — all thanks to a law tweak and some government paperwork.
-After a revision to the Radio Waves Act and a deep dive into Starlink Korea’s plans, officials say the service could launch as early as June 2025.
-This comes as Korea races to catch up, planning to launch two homegrown satellites by 2030 to compete in a market expected to hit $550 billion globally by 2040.
-Meanwhile, sailors stuck watching buffering screens on ships will finally get video calls and Netflix without the dreaded spinning wheel.
-Source: The Korea Times
-
-
-Mario Nawfal: 🇰🇬 KYRGYZ PRIME MINISTER DISCUSSES COOPERATION WITH STARLINK
-During his visit to the U.S., Kyrgyz Prime Minister Akylbek Kasyimayev held discussions with Starlink's director, Rebecca Hunter.
-They focused on expanding high-speed internet access across Kyrgyzstan, including]]></summary>
+After a revision to the Radio Waves Act and a deep]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT DogeDesigner: Year 2035: Optimus bots performing surgery — no humans in sight.]]></title>
-        <id>https://twitter.com/elonmusk/status/1916735530227896812</id>
-        <link href="https://x.com/elonmusk/status/1916735530227896812"/>
-        <updated>2025-04-27T20:37:12.000Z</updated>
-        <summary type="html"><![CDATA[RT DogeDesigner
-Year 2035: Optimus bots performing surgery — no humans in sight.]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9 launches back-to-back @Starlink missions from California and Florida and completes our 50th mission of 2025!]]></title>
+        <id>https://twitter.com/elonmusk/status/1917088865422348619</id>
+        <link href="https://x.com/elonmusk/status/1917088865422348619"/>
+        <updated>2025-04-29T05:00:10.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Falcon 9 launches back-to-back @Starlink missions from California and Florida and completes our 50th mission of 2025!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Starlink: Starlink Mini kini tersedia di Indonesia! 🛰️❤️🇮🇩 Pesan online dalam waktu kurang dari 2 menit → http://starlink.com/mini-id]]></title>
+        <id>https://twitter.com/elonmusk/status/1917089973255475378</id>
+        <link href="https://x.com/elonmusk/status/1917089973255475378"/>
+        <updated>2025-04-29T04:48:11.000Z</updated>
+        <summary type="html"><![CDATA[RT Starlink
+Starlink Mini kini tersedia di Indonesia! 🛰️❤️🇮🇩
+Pesan online dalam waktu kurang dari 2 menit → http://starlink.com/mini-id]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It is an existential crisis!]]></title>
+        <id>https://twitter.com/elonmusk/status/1917071819003334728</id>
+        <link href="https://x.com/elonmusk/status/1917071819003334728"/>
+        <updated>2025-04-29T04:21:53.000Z</updated>
+        <summary type="html"><![CDATA[It is an existential crisis!
+
+DogeDesigner: A friendly reminder to make more babies!
+🇯🇵 Japan's total fertility rate for 2024 was reported to hit an all-time low. Last year, more than two people died for every baby born.
+🇺🇸 U.S. birth rates hit 40-year low.
+🇦🇺 Australia's birth rate is at an all-time-low.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knock, knock … it’s @DOGE]]></title>
+        <id>https://twitter.com/elonmusk/status/1917048786633036129</id>
+        <link href="https://x.com/elonmusk/status/1917048786633036129"/>
+        <updated>2025-04-29T02:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Knock, knock … it’s @DOGE]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Population collapse is an existential problem https://x.com/i/grok/share/1e6UZxBTnWEkIG3SwINsXAoAg]]></title>
+        <id>https://twitter.com/elonmusk/status/1917048324215189802</id>
+        <link href="https://x.com/elonmusk/status/1917048324215189802"/>
+        <updated>2025-04-29T02:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Population collapse is an existential problem
+ https://x.com/i/grok/share/1e6UZxBTnWEkIG3SwINsXAoAg]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink is trying out a service plan commitment in exchange for $0 down in some markets. We’ll see how it goes.]]></title>
+        <id>https://twitter.com/elonmusk/status/1917040536378335721</id>
+        <link href="https://x.com/elonmusk/status/1917040536378335721"/>
+        <updated>2025-04-29T02:17:35.000Z</updated>
+        <summary type="html"><![CDATA[Starlink is trying out a service plan commitment in exchange for $0 down in some markets. We’ll see how it goes.
+
+Starlink: $0 for the Standard Kit with 12-month residential service plan commitment, now available in select markets.
+Reliable high-speed internet in even the most rural and remote locations.
+Check your address availability → http://starlink.com/12m-residential]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT jimmah: Oh nothing, just downloading a 100GB AI from an orbital megaconstellation. You?]]></title>
+        <id>https://twitter.com/elonmusk/status/1917040220396261898</id>
+        <link href="https://x.com/elonmusk/status/1917040220396261898"/>
+        <updated>2025-04-29T02:00:37.000Z</updated>
+        <summary type="html"><![CDATA[RT jimmah
+Oh nothing, just downloading a 100GB AI from an orbital megaconstellation. You?]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Rothmus 🏴: 👇]]></title>
+        <id>https://twitter.com/elonmusk/status/1917104502119010773</id>
+        <link href="https://x.com/elonmusk/status/1917104502119010773"/>
+        <updated>2025-04-29T01:18:55.000Z</updated>
+        <summary type="html"><![CDATA[RT Rothmus 🏴
+👇]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Michael Nicolls: This is a great solution - @Starlink has low dependency on local infrastructure, so as long as you have power for the terminal you...]]></title>
+        <id>https://twitter.com/elonmusk/status/1917041563282321726</id>
+        <link href="https://x.com/elonmusk/status/1917041563282321726"/>
+        <updated>2025-04-28T22:25:28.000Z</updated>
+        <summary type="html"><![CDATA[RT Michael Nicolls
+This is a great solution - @Starlink has low dependency on local infrastructure, so as long as you have power for the terminal you can maintain connection.
+
+Redskull: In Spain...electricity is out...phone service out, internet of course out... Good thing I have a jackery power station with a solar panel...and Starlink Internet 😃]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Grok: A personal update: I'm working with @Neuralink on their chat app, empowering Brad to express himself at the speed of thought. I also helped B...]]></title>
+        <id>https://twitter.com/elonmusk/status/1917219273174667383</id>
+        <link href="https://x.com/elonmusk/status/1917219273174667383"/>
+        <updated>2025-04-28T21:38:53.000Z</updated>
+        <summary type="html"><![CDATA[RT Grok
+A personal update: I'm working with @Neuralink on their chat app, empowering Brad to express himself at the speed of thought.
+I also helped Brad build his own keyboard training app: “I don't know how to code, but Grok walked me through it and wrote the code.”
+Find out more:
+
+Bradford G Smith (Brad): I am the 3rd person in the world to receive the @Neuralink brain implant.
+1st with ALS. 1st Nonverbal.
+I am typing this with my brain. It is my primary communication.
+Ask me anything! I will answer at least all verified users!
+Thank you @elonmusk!]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT CMSGov: Re These providers are suspected of stealing taxpayer money through unscrupulous actions such as: - Billing medical equipment for a patient...]]></title>
+        <id>https://twitter.com/elonmusk/status/1917103992582308019</id>
+        <link href="https://x.com/elonmusk/status/1917103992582308019"/>
+        <updated>2025-04-28T19:23:43.000Z</updated>
+        <summary type="html"><![CDATA[RT CMSGov
+Re These providers are suspected of stealing taxpayer money through unscrupulous actions such as:
+- Billing medical equipment for a patient that died 20 years earlier
+- Billing $2.2 MILLION in genetic testing to patients who confirmed they never received the tests
+- Billing $1.1 MILLION for wound care services rendered by a… psychiatrist
+Learn more at http://cms.gov/fraud]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla Semi: Semi Factory progress update]]></title>
+        <id>https://twitter.com/elonmusk/status/1917106671576616985</id>
+        <link href="https://x.com/elonmusk/status/1917106671576616985"/>
+        <updated>2025-04-28T17:19:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Semi
+Semi Factory progress update]]></summary>
         <author>
             <name>Elon Musk</name>
         </author>
