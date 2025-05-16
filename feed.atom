@@ -1,242 +1,283 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-15T02:27:46.108Z</id>
+    <id>urn:2025-05-16T02:37:38.101Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-15T02:27:46.108Z</updated>
+    <updated>2025-05-16T02:37:38.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Cybertrucks escorting @POTUS!]]></title>
-        <id>https://twitter.com/elonmusk/status/1922630423667937482</id>
-        <link href="https://x.com/elonmusk/status/1922630423667937482"/>
-        <updated>2025-05-14T12:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Cybertrucks escorting @POTUS!
+        <title type="html"><![CDATA[Improvements to @CommunityNotes]]></title>
+        <id>https://twitter.com/elonmusk/status/1923146165035397369</id>
+        <link href="https://x.com/elonmusk/status/1923146165035397369"/>
+        <updated>2025-05-15T22:39:10.000Z</updated>
+        <summary type="html"><![CDATA[Improvements to @CommunityNotes
 
-Rapid Response 47: .@POTUS's motorcade is escorted to the Amiri Diwan in Doha, Qatar]]></summary>
+Community Notes: Robustness update: We’ve extended Community Notes ability to detect coordinating contributors with additional features targeting coordination between note writers and raters. When the scoring algo detects anomalous correlations in ratings, it automatically prevents those ratings]]></summary>
         <author>
             <name>gorklon rust</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soon it will fly]]></title>
-        <id>https://twitter.com/elonmusk/status/1922621454203392172</id>
-        <link href="https://x.com/elonmusk/status/1922621454203392172"/>
-        <updated>2025-05-14T11:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Soon it will fly]]></summary>
+        <title type="html"><![CDATA[RT DogeDesigner: 🚨 BREAKING: Starlink is officially live on United Airlines flights.]]></title>
+        <id>https://twitter.com/elonmusk/status/1923146736500912253</id>
+        <link href="https://x.com/elonmusk/status/1923146736500912253"/>
+        <updated>2025-05-15T21:30:09.000Z</updated>
+        <summary type="html"><![CDATA[RT DogeDesigner
+🚨 BREAKING: Starlink is officially live on United Airlines flights.]]></summary>
         <author>
             <name>gorklon rust</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is still very far from our final form]]></title>
-        <id>https://twitter.com/elonmusk/status/1922618650210476165</id>
-        <link href="https://x.com/elonmusk/status/1922618650210476165"/>
-        <updated>2025-05-14T11:43:01.000Z</updated>
-        <summary type="html"><![CDATA[This is still very far from our final form
+        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: EXCLUSIVE 🚨 Tesla’s RoboTaxi Math Just Broke the Internet]]></title>
+        <id>https://twitter.com/elonmusk/status/1923146879749034212</id>
+        <link href="https://x.com/elonmusk/status/1923146879749034212"/>
+        <updated>2025-05-15T18:07:15.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
+EXCLUSIVE 🚨 Tesla’s RoboTaxi Math Just Broke the Internet]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Starlink: Starlink provides high-speed connectivity in the most rural and remote locations, enabling farmers to stay connected, engage in precision...]]></title>
+        <id>https://twitter.com/elonmusk/status/1923147393395982370</id>
+        <link href="https://x.com/elonmusk/status/1923147393395982370"/>
+        <updated>2025-05-15T17:53:11.000Z</updated>
+        <summary type="html"><![CDATA[RT Starlink
+Starlink provides high-speed connectivity in the most rural and remote locations, enabling farmers to stay connected, engage in precision farming and more 🛰️🚜
 
-Tesla Optimus: Was just getting warmed up]]></summary>
+CNH: Our precision farming keeps leveling up. We’ve inked a new agreement with @Starlink to bring reliable high-speed internet to our @Case_IH, #NewHollandAgriculture & #STEYR brands — unlocking seamless digital farming in the most rural areas around the world 🌐🌾
+ #AgTech #Starlink]]></summary>
         <author>
             <name>gorklon rust</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kek]]></title>
-        <id>https://twitter.com/elonmusk/status/1922618260253561293</id>
-        <link href="https://x.com/elonmusk/status/1922618260253561293"/>
-        <updated>2025-05-14T11:41:28.000Z</updated>
-        <summary type="html"><![CDATA[kek
+        <title type="html"><![CDATA[Exactly 🎯]]></title>
+        <id>https://twitter.com/elonmusk/status/1923016066659189034</id>
+        <link href="https://x.com/elonmusk/status/1923016066659189034"/>
+        <updated>2025-05-15T14:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Exactly 🎯
 
-kache: the verge 4 years ago]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A terawatt of compute or you’re not really trying!]]></title>
-        <id>https://twitter.com/elonmusk/status/1922617282863223275</id>
-        <link href="https://x.com/elonmusk/status/1922617282863223275"/>
-        <updated>2025-05-14T11:37:35.000Z</updated>
-        <summary type="html"><![CDATA[A terawatt of compute or you’re not really trying!
-
-Ross: If you’re interested in building terawatt scale compute join xAI]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT gorklon rust: Re @JessePeltan Making life sustainably multiplanetary and getting to a high percentage of K1-level compute are separate goals, but o...]]></title>
-        <id>https://twitter.com/elonmusk/status/1922619463880302598</id>
-        <link href="https://x.com/elonmusk/status/1922619463880302598"/>
-        <updated>2025-05-14T11:29:16.000Z</updated>
-        <summary type="html"><![CDATA[RT gorklon rust
-Re @JessePeltan Making life sustainably multiplanetary and getting to a high percentage of K1-level compute are separate goals, but obviously advanced AI will help achieve the first goal]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimus will perform ballet perfectly]]></title>
-        <id>https://twitter.com/elonmusk/status/1922581288004763981</id>
-        <link href="https://x.com/elonmusk/status/1922581288004763981"/>
-        <updated>2025-05-14T09:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Optimus will perform ballet perfectly]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla: We're a car company right]]></title>
-        <id>https://twitter.com/elonmusk/status/1922580277387227331</id>
-        <link href="https://x.com/elonmusk/status/1922580277387227331"/>
-        <updated>2025-05-14T08:52:33.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-We're a car company right
-
-Tesla Optimus: Was just getting warmed up]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎯]]></title>
-        <id>https://twitter.com/elonmusk/status/1922566044608073737</id>
-        <link href="https://x.com/elonmusk/status/1922566044608073737"/>
-        <updated>2025-05-14T08:13:59.000Z</updated>
-        <summary type="html"><![CDATA[🎯
-
-Teslaconomics: It's hard to imagine a person NOT wanting his/her own personal humanoid robot and there are over 8B people on Earth today.
-It's also hard to imagine a business NOT wanting its own humanoid robot doing useful things and there are over 360M business on Earth today. 
-This is what]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ELON FACTS: “If you care about the reality of goodness instead of the perception of it, philanthropy is extremely difficult.” – Elon Musk]]></title>
-        <id>https://twitter.com/elonmusk/status/1922581459480527057</id>
-        <link href="https://x.com/elonmusk/status/1922581459480527057"/>
-        <updated>2025-05-14T07:54:02.000Z</updated>
-        <summary type="html"><![CDATA[RT ELON FACTS
-“If you care about the reality of goodness instead of the perception of it, philanthropy is extremely difficult.”
-– Elon Musk]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://x.com/i/grok/share/GiT5wIUy9qf0SQUIp7skxKLcH]]></title>
-        <id>https://twitter.com/elonmusk/status/1922553548153184294</id>
-        <link href="https://x.com/elonmusk/status/1922553548153184294"/>
-        <updated>2025-05-14T07:24:19.000Z</updated>
-        <summary type="html"><![CDATA[https://x.com/i/grok/share/GiT5wIUy9qf0SQUIp7skxKLcH]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT AJ: I slowed the new Optimus video to 20% speed. I think you need to watch it slower to appreciate just how good Optimus has become while keeping i...]]></title>
-        <id>https://twitter.com/elonmusk/status/1922560116177395910</id>
-        <link href="https://x.com/elonmusk/status/1922560116177395910"/>
-        <updated>2025-05-14T06:55:26.000Z</updated>
-        <summary type="html"><![CDATA[RT AJ
-I slowed the new Optimus video to 20% speed. I think you need to watch it slower to appreciate just how good Optimus has become while keeping in mind how quickly it can execute / control these movements.]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1922519347806847433</id>
-        <link href="https://x.com/elonmusk/status/1922519347806847433"/>
-        <updated>2025-05-14T05:08:25.000Z</updated>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Sawyer Merritt: Tesla's VP of AI Software Ashok Elluswamy on what it's like to work with Elon Musk: "I meet with him every week. He is really smart...]]></title>
-        <id>https://twitter.com/elonmusk/status/1922547513329881383</id>
-        <link href="https://x.com/elonmusk/status/1922547513329881383"/>
-        <updated>2025-05-14T02:07:17.000Z</updated>
-        <summary type="html"><![CDATA[RT Sawyer Merritt
-Tesla's VP of AI Software Ashok Elluswamy on what it's like to work with Elon Musk: "I meet with him every week. He is really smart in the sense that he can predict the future very early; He works really hard. Easily 80-90 hours per week. I feel fortunate to work for him. He is not afraid of taking risks. He is very funny. You can see it in person."
-
-
-Sawyer Merritt: Here is a new 50 minute interview with Tesla's VP of AI Software, @aelluswamy.
-This episode dives into:
- • The future of AI in education, mobility, and robotics
- • The integration of AI + EV in Tesla cars
- • Exclusive insights into Tesla’s humanoid robot program
- •]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Milan Kovac: Here's a little more, and no cables this time ;) It's all real-time speed, zero CGI, fully learned in Simulation & zero-shot transferr...]]></title>
-        <id>https://twitter.com/elonmusk/status/1922520280578031658</id>
-        <link href="https://x.com/elonmusk/status/1922520280578031658"/>
-        <updated>2025-05-14T01:28:58.000Z</updated>
-        <summary type="html"><![CDATA[RT Milan Kovac
-Here's a little more, and no cables this time ;)
-It's all real-time speed, zero CGI, fully learned in Simulation & zero-shot transferred to real.
-Besides the fact that it's fun, we had to make significant improvements to our robot model in Sim, domain randomization and other techniques which will directly transfer to more practical situations as well (robust walking, and agile full-body control in general).
-We also learned quite a few things on our hardware and tuned our power profile.
-I hope it is getting pretty clear that Tesla is much more than an amazing car (!) company: it's the place to be for transformational real-world AI.
-
-Tesla Optimus: Was just getting warmed up]]></summary>
-        <author>
-            <name>gorklon rust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla Optimus: Was just getting warmed up]]></title>
-        <id>https://twitter.com/elonmusk/status/1922560714582921699</id>
-        <link href="https://x.com/elonmusk/status/1922560714582921699"/>
-        <updated>2025-05-14T00:59:51.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla Optimus
-Was just getting warmed up
-
-
-gorklon rust: 🕺]]></summary>
+Jesse Peltan: I see this misinterpreted all the time.
+Elon is not literally proposing that we build a single giant solar farm to power the whole country.
+It’s an illustration.
+“what about all the transmission you’d need!??”
+You’re missing the point entirely. Solar PV has a higher power]]></summary>
         <author>
             <name>gorklon rust</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[💯]]></title>
-        <id>https://twitter.com/elonmusk/status/1922443857138012400</id>
-        <link href="https://x.com/elonmusk/status/1922443857138012400"/>
-        <updated>2025-05-14T00:08:27.000Z</updated>
+        <id>https://twitter.com/elonmusk/status/1923010042086727777</id>
+        <link href="https://x.com/elonmusk/status/1923010042086727777"/>
+        <updated>2025-05-15T13:38:16.000Z</updated>
         <summary type="html"><![CDATA[💯
 
-SMX 🇺🇸: "Being a Mom is just as important as any career."
--Elon Musk]]></summary>
+Jesse Peltan: China didn’t build all this solar for the purpose of lowering emissions.
+They’re tapping the largest energy resource on Earth.
+Emissions reductions are a side effect.]]></summary>
         <author>
             <name>gorklon rust</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT vitrupo: Elon Musk says AI won't just lead to universal basic income -- but universal high income. Tens of billions of humanoid robots could 10× t...]]></title>
-        <id>https://twitter.com/elonmusk/status/1922553077724303603</id>
-        <link href="https://x.com/elonmusk/status/1922553077724303603"/>
-        <updated>2025-05-13T16:24:35.000Z</updated>
-        <summary type="html"><![CDATA[RT vitrupo
-Elon Musk says AI won't just lead to universal basic income -- but universal high income.
-Tens of billions of humanoid robots could 10× the global economy. They won't just help. They’ll unlock abundance.
-Everyone gets what they want, if we get it right.]]></summary>
+        <title type="html"><![CDATA[RT DogeDesigner: 🚨BREAKING: Emirates in talks with SpaceX to get Starlink on flights.]]></title>
+        <id>https://twitter.com/elonmusk/status/1923014823844999219</id>
+        <link href="https://x.com/elonmusk/status/1923014823844999219"/>
+        <updated>2025-05-15T12:43:30.000Z</updated>
+        <summary type="html"><![CDATA[RT DogeDesigner
+🚨BREAKING: Emirates in talks with SpaceX to get Starlink on flights.]]></summary>
         <author>
             <name>gorklon rust</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Glenn Beck: OMB Director @russvought predicts “we will have a MUCH SMALLER bureaucracy” soon: “You pushed us on this and I think the President &...]]></title>
-        <id>https://twitter.com/elonmusk/status/1922596670333706250</id>
-        <link href="https://x.com/elonmusk/status/1922596670333706250"/>
-        <updated>2025-05-09T18:19:19.000Z</updated>
-        <summary type="html"><![CDATA[RT Glenn Beck
-OMB Director @russvought predicts “we will have a MUCH SMALLER bureaucracy” soon:
-“You pushed us on this and I think the President & Elon have spent a TON of time thinking about this. I think that will be one of the biggest stories, the extent to which the fork in the road has fundamentally changed the reality on the ground.”]]></summary>
+        <title type="html"><![CDATA[South Africa has now passed 142 laws forcing discrimination against anyone who is not black! Even though I was born in South Africa, the government wi...]]></title>
+        <id>https://twitter.com/elonmusk/status/1922990397136990647</id>
+        <link href="https://x.com/elonmusk/status/1922990397136990647"/>
+        <updated>2025-05-15T12:20:12.000Z</updated>
+        <summary type="html"><![CDATA[South Africa has now passed 142 laws forcing discrimination against anyone who is not black!
+Even though I was born in South Africa, the government will not grant @Starlink a license to operate simply because I am not black.
+This is a shameful disgrace to the legacy of the great Nelson Mandela who sought to have all races treated equally in South Africa.
+
+Conscious Caracal 🇿🇦: FULL DOCUMENTARY:
+Is Donald Trump right about South Africa?
+Topics: 142+ Race laws, the Expropriation Act, "Kill the Boer", farm murders, and more.
+Support @AfriForum in our fight to get the truth about the South African government out: https://sluit-aan.afriforum.co.za/en?campaign=RoepToepCMO&leadSource=600060509]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Ale𝕏andra Merz 🇺🇲: 🚨🦆🦆🦆 Here some supplementary information on the institutional ownership of Tesla, important for the upcomin...]]></title>
+        <id>https://twitter.com/elonmusk/status/1923015775318671605</id>
+        <link href="https://x.com/elonmusk/status/1923015775318671605"/>
+        <updated>2025-05-15T12:14:39.000Z</updated>
+        <summary type="html"><![CDATA[RT Ale𝕏andra Merz 🇺🇲
+🚨🦆🦆🦆
+Here some supplementary information on the institutional ownership of Tesla, important for the upcoming shareholder vote:
+Q3 and Q4 in 2024 saw significant increase in number of shares held by institutions. It' a bit lower at end of Q1 2025, BUT considerably higher than end of Q1 2024 (number important for last year's shareholder vote).
+Now institutions hold 1,756,185,461 shares of the total of 3,221 bn, so 54.5% of all outstanding shares.  For some votes, Elon and Kimbal will need to recuse themselves, so that percentage will be even higher.
+=> It is extremely important that retail gets their ducks in a row, I count o you.
+
+
+Ale𝕏andra Merz 🇺🇲: 🚨
+With increased institutional investors and the topic of new Elon compensation on the agenda,  PLEASE ensure you have voting rights on your shares. The date of record could very well be now.
+Contact your broker to ensure your margin account shares are not lended out.
+☎️]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🇺🇸 Absolutely 🇺🇸]]></title>
+        <id>https://twitter.com/elonmusk/status/1922987562295038291</id>
+        <link href="https://x.com/elonmusk/status/1922987562295038291"/>
+        <updated>2025-05-15T12:08:56.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇸 Absolutely 🇺🇸
+
+SMX 🇺🇸: When Elon Musk visited the United States Air Force Academy, he expressed deep respect, admiration, and gratitude for the service and sacrifice of the U.S. military.]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The South African government just said whites are "cowards" who are fleeing “racial justice”. But what exactly do they mean by "racial justice"?]]></title>
+        <id>https://twitter.com/elonmusk/status/1922986867974095158</id>
+        <link href="https://x.com/elonmusk/status/1922986867974095158"/>
+        <updated>2025-05-15T12:06:11.000Z</updated>
+        <summary type="html"><![CDATA[The South African government just said whites are "cowards" who are fleeing “racial justice”.
+But what exactly do they mean by "racial justice"?
+
+Danie Barnard: The South African gov just told the world that white Afrikaner refugees aren’t fleeing persecution they’re fleeing “racial justice.” Their president then called them cowards for escaping. Within hours, the U.S. National Security Council suspended all agency cooperation with South]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Secretary of Defense Pete Hegseth: Mr. President, it is an honor to fight with you.]]></title>
+        <id>https://twitter.com/elonmusk/status/1922987922308952120</id>
+        <link href="https://x.com/elonmusk/status/1922987922308952120"/>
+        <updated>2025-05-15T11:35:13.000Z</updated>
+        <summary type="html"><![CDATA[RT Secretary of Defense Pete Hegseth
+Mr. President, it is an honor to fight with you.
+
+DOD Rapid Response: . @POTUS “I want to recognize a true warrior, our Secretary of Defense. 
+They have put him through hell.”]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuralink is partnering with UAE and Cleveland Clinic!]]></title>
+        <id>https://twitter.com/elonmusk/status/1922939918919057651</id>
+        <link href="https://x.com/elonmusk/status/1922939918919057651"/>
+        <updated>2025-05-15T08:59:37.000Z</updated>
+        <summary type="html"><![CDATA[Neuralink is partnering with UAE and Cleveland Clinic!
+
+Neuralink: 🇦🇪 We’re launching our first clinical trial in the Middle East at Cleveland Clinic Abu Dhabi in partnership with the Department of Health Abu Dhabi!
+The UAE-PRIME trial explores how individuals with motor and speech impairment can use thought to control devices & communicate.]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teslas have automatic overheat protection to cool the car, ensuring the safety of babies and pets]]></title>
+        <id>https://twitter.com/elonmusk/status/1922938397422698912</id>
+        <link href="https://x.com/elonmusk/status/1922938397422698912"/>
+        <updated>2025-05-15T08:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Teslas have automatic overheat protection to cool the car, ensuring the safety of babies and pets
+
+Ian Miles Cheong: If you leave your pet in a hot vehicle you deserve to have this happen to your car.]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post examples below of how you’ve used @Grok vision in cool ways!]]></title>
+        <id>https://twitter.com/elonmusk/status/1922931274374648227</id>
+        <link href="https://x.com/elonmusk/status/1922931274374648227"/>
+        <updated>2025-05-15T08:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Post examples below of how you’ve used @Grok vision in cool ways!
+
+Eva Fo𝕏 🦊 Claudius Nero's Legion: Just checked this out. It's awesome! It's great to always have a tool at hand that can tell me everything I'm interested in. Wow! Bravo team 👏🏼👏🏼👏🏼]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Fred Lohner: Rolling out: The algorithm should have a better understanding of what you are interested in Expanded tap areas: entire cursor cells an...]]></title>
+        <id>https://twitter.com/elonmusk/status/1923009831008399367</id>
+        <link href="https://x.com/elonmusk/status/1923009831008399367"/>
+        <updated>2025-05-15T04:53:22.000Z</updated>
+        <summary type="html"><![CDATA[RT Fred Lohner
+Rolling out:
+The algorithm should have a better understanding of what you are interested in
+Expanded tap areas: entire cursor cells and “unpin post” prompts are now fully clickable
+Unified ListDetails and UserProfile screens with edge-to-edge support and toolbar blurring
+Kept playback speed and video quality when entering Picture-in-Picture mode
+Remembered video positions in timelines so scrolling away and back doesn’t restart playback
+Compressed outgoing requests to slash payload sizes
+Used asynchronous layout inflation to pre-warm video views for faster startup
+Fixed crashes on grok cards + recent search history
+Please keep trying the composer. We’re tracking down some subtle bugs with it but it should be mostly working.]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Mario Nawfal: 🇺🇸 FEDERAL NON-DEFENSE OBLIGATIONS DROP 20.5% UNDER DOGE ORDER Non-defense federal obligations for 2025 are down 20.5% from las...]]></title>
+        <id>https://twitter.com/elonmusk/status/1923015955594035234</id>
+        <link href="https://x.com/elonmusk/status/1923015955594035234"/>
+        <updated>2025-05-14T23:43:43.000Z</updated>
+        <summary type="html"><![CDATA[RT Mario Nawfal
+🇺🇸 FEDERAL NON-DEFENSE OBLIGATIONS DROP 20.5% UNDER DOGE ORDER
+Non-defense federal obligations for 2025 are down 20.5% from last year—and the cash outlay curve is about to follow. 
+The driver: 
+Persistent government-wide contract reviews targeting wasteful spending under the DOGE Cost Efficiency Executive Order. 
+Trump’s directive to streamline the federal sprawl is hitting real numbers now, not just headlines.
+With obligations shrinking before payouts, it’s a sign that cutting through bureaucracy might finally be cheaper than fueling it. 
+Accountability isn’t just a buzzword—it’s starting to dent the federal checkbook.
+Source: @DOGE
+
+
+Mario Nawfal: 🇺🇸 $646M IN DEAD WEIGHT GONE AS DOGE SLASHES 242 FEDERAL CONTRACTS
+Since Friday, DOGE axed 242 federal contracts worth a potential $646 million, delivering $200 million in immediate savings. 
+Gone are projects like a $118K “youth climate corps coordinator” in the Congo and]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Mario Nawfal: 🇿🇦 EFF LEADER: "WE AREN'T KILLING WHITE PEOPLE... YET" Leader of the Economic Freedom Fighters (EFF), Julius Malema: "We've not...]]></title>
+        <id>https://twitter.com/elonmusk/status/1922987890839109765</id>
+        <link href="https://x.com/elonmusk/status/1922987890839109765"/>
+        <updated>2025-05-14T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Mario Nawfal
+🇿🇦 EFF LEADER: "WE AREN'T KILLING WHITE PEOPLE... YET"
+Leader of the Economic Freedom Fighters (EFF), Julius Malema:
+ "We've not called for the killing of white people, at least for now. 
+I can't guarantee the future."
+Source: @iamyesyouareno
+
+
+Mario Nawfal: 🚨 🇿🇦 "KILL THE BOER": SOUTH AFRICA'S DANGEROUS RHETORIC DEMANDS U.S. ACTION
+Secretary Rubio's bold stance on South Africa confronts what many refuse to acknowledge: "Kill the Boer" isn't just a harmless chant—it's fueling real violence against white farmers.
+While South]]></summary>
+        <author>
+            <name>gorklon rust</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Ian Miles Cheong: South African EFF leader Julius Malema was asked under oath whether he would pledge to never call for the extermination of Afrika...]]></title>
+        <id>https://twitter.com/elonmusk/status/1923018043153592638</id>
+        <link href="https://x.com/elonmusk/status/1923018043153592638"/>
+        <updated>2025-05-14T20:15:41.000Z</updated>
+        <summary type="html"><![CDATA[RT Ian Miles Cheong
+South African EFF leader Julius Malema was asked under oath whether he would pledge to never call for the extermination of Afrikaners. He refused, and said he can’t make any promises.]]></summary>
         <author>
             <name>gorklon rust</name>
         </author>
