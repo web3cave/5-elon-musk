@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-17T02:26:13.598Z</id>
+    <id>urn:2025-05-18T02:43:28.992Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-17T02:26:13.598Z</updated>
+    <updated>2025-05-18T02:43:28.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Starlink: High-speed internet on the go 🛰️🐟]]></title>
+        <id>https://twitter.com/elonmusk/status/1923817124520169479</id>
+        <link href="https://x.com/elonmusk/status/1923817124520169479"/>
+        <updated>2025-05-17T19:00:41.000Z</updated>
+        <summary type="html"><![CDATA[RT Starlink
+High-speed internet on the go 🛰️🐟
+
+Cristiana Ribeiro de Matos: @Starlink @elonmusk 🎣 🛜 very good]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jesse Peltan: People keep saying that "batteries are bad" because: "batteries don't create energy. batteries consume energy." Nothing. Creates. Ene...]]></title>
+        <id>https://twitter.com/elonmusk/status/1923820571604701190</id>
+        <link href="https://x.com/elonmusk/status/1923820571604701190"/>
+        <updated>2025-05-17T18:29:47.000Z</updated>
+        <summary type="html"><![CDATA[RT Jesse Peltan
+People keep saying that "batteries are bad" because: 
+"batteries don't create energy. batteries consume energy."
+Nothing. Creates. Energy.
+Energy is neither created nor destroyed.
+"Energy production" and "energy consumption" are economic terms — not physics terms.
+We don't actually produce or consume energy.
+We direct energy.
+The function of a battery is not upstream energy harvesting, but that's also not the function of a thermal generator.
+The energy doesn't come from the generator.
+The energy comes from the fuel.
+We have to extract, refine, and transport that fuel. The generator is there to dispatch that chemical potential energy as electricity when it's needed.
+That's what batteries do too, because:
+Batteries ARE generators.
+Batteries aren't electromechanical generators, but neither are photovoltaics or fuel cells.
+Like chemical-fueled thermal generators, batteries convert chemical potential energy into electrical energy. The difference with batteries is that the process has fewer steps and is easily reversible.
+Batteries provide a buffer, matching up supply and demand in time. They act as a cache, providing higher peak power at lower latency than a thermal generator of comparable mass or cost.
+Batteries are an extremely useful tool for directing the flow of energy.
+Batteries don't "create energy"  — that's true.
+Nothing. Creates. Energy.
+
+Jesse Peltan: I keep seeing "sure, maybe solar works, but what about all the materials you need for the batteries?"
+A battery that can store 100% of the daily production of a solar panel - *weighs less than the solar panel.*
+Batteries are the most mass efficient way to provide peak power.]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Adrian Dittmann:]]></title>
+        <id>https://twitter.com/elonmusk/status/1923823614740009426</id>
+        <link href="https://x.com/elonmusk/status/1923823614740009426"/>
+        <updated>2025-05-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Adrian Dittmann]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Rabbit Hole: All Lives Matter]]></title>
+        <id>https://twitter.com/elonmusk/status/1923780574809915623</id>
+        <link href="https://x.com/elonmusk/status/1923780574809915623"/>
+        <updated>2025-05-17T16:37:18.000Z</updated>
+        <summary type="html"><![CDATA[RT The Rabbit Hole
+All Lives Matter]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jesse Peltan: China's electricity per capita is up 569% Ours is down 7% Yeah we've had some energy efficiency gains and that's great, but we need m...]]></title>
+        <id>https://twitter.com/elonmusk/status/1923788515612971061</id>
+        <link href="https://x.com/elonmusk/status/1923788515612971061"/>
+        <updated>2025-05-17T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Jesse Peltan
+China's electricity per capita is up 569%
+Ours is down 7%
+Yeah we've had some energy efficiency gains and that's great, but we need more electricity.
+We should be building industrial capacity and electrifying our economy.
+
+
+Jesse Peltan: If "too much solar" is what's keeping us from growing,
+how was China able to grow 7.5x since 2000?]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just received this from a friend visiting South Africa]]></title>
         <id>https://twitter.com/elonmusk/status/1923491062565437648</id>
@@ -117,54 +202,6 @@ Arlington Chair: "NO!!"]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Jon Edwards: SpaceX has assembled the most talented team of space vehicle innovators, builders, and operators the world has ever seen. I may be bia...]]></title>
-        <id>https://twitter.com/elonmusk/status/1923440353199239563</id>
-        <link href="https://x.com/elonmusk/status/1923440353199239563"/>
-        <updated>2025-05-16T17:15:49.000Z</updated>
-        <summary type="html"><![CDATA[RT Jon Edwards
-SpaceX has assembled the most talented team of space vehicle innovators, builders, and operators the world has ever seen. I may be biased, but I truly believe this. And we are just getting started. Our future in space has never been brighter!
-If you have a passion for space, thrive on hard work, and want to see your efforts contribute to monumental human achievements, come join us at SpaceX. The journey is just beginning.
-
-Kekius Maximus: Great work by the @SpaceX team!]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The power growth is incredible]]></title>
-        <id>https://twitter.com/elonmusk/status/1923418673152250369</id>
-        <link href="https://x.com/elonmusk/status/1923418673152250369"/>
-        <updated>2025-05-16T16:42:01.000Z</updated>
-        <summary type="html"><![CDATA[The power growth is incredible
-
-Jesse Peltan: Last year, China’s electricity demand grew by more than one Germany
-…or every data center on Earth combined.]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://grok.com/share/bGVnYWN5_c54e4d7c-8dc5-4eb4-93e8-f3c8bb9e93ff]]></title>
-        <id>https://twitter.com/elonmusk/status/1923406447192297690</id>
-        <link href="https://x.com/elonmusk/status/1923406447192297690"/>
-        <updated>2025-05-16T15:53:26.000Z</updated>
-        <summary type="html"><![CDATA[https://grok.com/share/bGVnYWN5_c54e4d7c-8dc5-4eb4-93e8-f3c8bb9e93ff]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DogeDesigner: "𝕏 played a pivotal role not just in this election but in keeping the country alive. 𝕏 is the only place where you can find out...]]></title>
-        <id>https://twitter.com/elonmusk/status/1923440816418144595</id>
-        <link href="https://x.com/elonmusk/status/1923440816418144595"/>
-        <updated>2025-05-16T12:11:10.000Z</updated>
-        <summary type="html"><![CDATA[RT DogeDesigner
-"𝕏 played a pivotal role not just in this election but in keeping the country alive. 𝕏 is the only place where you can find out the truth."]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Tesla: We are pleased to welcome Jack Hartung to Tesla’s Board of Directors, effective June 1, 2025. ​Jack joined Chipotle Mexican Grill, Inc. in...]]></title>
         <id>https://twitter.com/elonmusk/status/1923463521259454699</id>
         <link href="https://x.com/elonmusk/status/1923463521259454699"/>
@@ -192,17 +229,6 @@ I don’t know how they’ve done this. I don’t know how they’ve made it imp
 I’ve been driving Teslas for two years, and still every single day, the thought of jumping in for my commute gives me a jolt of excitement. It hasn’t proven to be a novelty or something I’ve taken for granted. The vehicle just continues to get better and give you more to be excited about through time. Truly the best product I’ve ever owned of any kind. 
 FSD is solved. It isn’t perfect everywhere yet, but it can be measured by the best experiences in the most well trained areas. It’s over.
 I can’t wait for the rest of the world to start finding out]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: Tesla HQ with SpaceX launch pad on Mars 🔥]]></title>
-        <id>https://twitter.com/elonmusk/status/1923440961629163603</id>
-        <link href="https://x.com/elonmusk/status/1923440961629163603"/>
-        <updated>2025-05-15T19:52:27.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
-Tesla HQ with SpaceX launch pad on Mars 🔥]]></summary>
         <author>
             <name>Kekius Maximus</name>
         </author>
