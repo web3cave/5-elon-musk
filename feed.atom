@@ -1,234 +1,260 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-18T02:43:28.992Z</id>
+    <id>urn:2025-05-19T02:42:53.289Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-18T02:43:28.992Z</updated>
+    <updated>2025-05-19T02:42:53.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Starlink: High-speed internet on the go 🛰️🐟]]></title>
-        <id>https://twitter.com/elonmusk/status/1923817124520169479</id>
-        <link href="https://x.com/elonmusk/status/1923817124520169479"/>
-        <updated>2025-05-17T19:00:41.000Z</updated>
-        <summary type="html"><![CDATA[RT Starlink
-High-speed internet on the go 🛰️🐟
+        <title type="html"><![CDATA[True]]></title>
+        <id>https://twitter.com/elonmusk/status/1924251272812609743</id>
+        <link href="https://x.com/elonmusk/status/1924251272812609743"/>
+        <updated>2025-05-18T23:50:28.000Z</updated>
+        <summary type="html"><![CDATA[True
 
-Cristiana Ribeiro de Matos: @Starlink @elonmusk 🎣 🛜 very good]]></summary>
+Mario Nawfal: 🚨 THE WORLD IS RUNNING OUT OF PEOPLE—AND IT'S WORSE THAN YOU THINK
+Forget robots taking your job—soon there won’t be enough humans left to do them anyway.
+Birth rates are crashing in rich countries like the US, Japan, and South Korea. 
+In 40 years, the global population will]]></summary>
         <author>
             <name>Kekius Maximus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Jesse Peltan: People keep saying that "batteries are bad" because: "batteries don't create energy. batteries consume energy." Nothing. Creates. Ene...]]></title>
-        <id>https://twitter.com/elonmusk/status/1923820571604701190</id>
-        <link href="https://x.com/elonmusk/status/1923820571604701190"/>
-        <updated>2025-05-17T18:29:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Jesse Peltan
-People keep saying that "batteries are bad" because: 
-"batteries don't create energy. batteries consume energy."
-Nothing. Creates. Energy.
-Energy is neither created nor destroyed.
-"Energy production" and "energy consumption" are economic terms — not physics terms.
-We don't actually produce or consume energy.
-We direct energy.
-The function of a battery is not upstream energy harvesting, but that's also not the function of a thermal generator.
-The energy doesn't come from the generator.
-The energy comes from the fuel.
-We have to extract, refine, and transport that fuel. The generator is there to dispatch that chemical potential energy as electricity when it's needed.
-That's what batteries do too, because:
-Batteries ARE generators.
-Batteries aren't electromechanical generators, but neither are photovoltaics or fuel cells.
-Like chemical-fueled thermal generators, batteries convert chemical potential energy into electrical energy. The difference with batteries is that the process has fewer steps and is easily reversible.
-Batteries provide a buffer, matching up supply and demand in time. They act as a cache, providing higher peak power at lower latency than a thermal generator of comparable mass or cost.
-Batteries are an extremely useful tool for directing the flow of energy.
-Batteries don't "create energy"  — that's true.
-Nothing. Creates. Energy.
-
-Jesse Peltan: I keep seeing "sure, maybe solar works, but what about all the materials you need for the batteries?"
-A battery that can store 100% of the daily production of a solar panel - *weighs less than the solar panel.*
-Batteries are the most mass efficient way to provide peak power.]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Adrian Dittmann:]]></title>
-        <id>https://twitter.com/elonmusk/status/1923823614740009426</id>
-        <link href="https://x.com/elonmusk/status/1923823614740009426"/>
-        <updated>2025-05-17T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Adrian Dittmann]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Rabbit Hole: All Lives Matter]]></title>
-        <id>https://twitter.com/elonmusk/status/1923780574809915623</id>
-        <link href="https://x.com/elonmusk/status/1923780574809915623"/>
-        <updated>2025-05-17T16:37:18.000Z</updated>
-        <summary type="html"><![CDATA[RT The Rabbit Hole
-All Lives Matter]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jesse Peltan: China's electricity per capita is up 569% Ours is down 7% Yeah we've had some energy efficiency gains and that's great, but we need m...]]></title>
-        <id>https://twitter.com/elonmusk/status/1923788515612971061</id>
-        <link href="https://x.com/elonmusk/status/1923788515612971061"/>
-        <updated>2025-05-17T05:33:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Jesse Peltan
-China's electricity per capita is up 569%
-Ours is down 7%
-Yeah we've had some energy efficiency gains and that's great, but we need more electricity.
-We should be building industrial capacity and electrifying our economy.
-
-
-Jesse Peltan: If "too much solar" is what's keeping us from growing,
-how was China able to grow 7.5x since 2000?]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just received this from a friend visiting South Africa]]></title>
-        <id>https://twitter.com/elonmusk/status/1923491062565437648</id>
-        <link href="https://x.com/elonmusk/status/1923491062565437648"/>
-        <updated>2025-05-16T21:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Just received this from a friend visiting South Africa]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jesse Peltan: If "too much solar" is what's keeping us from growing, how was China able to grow 7.5x since 2000?]]></title>
-        <id>https://twitter.com/elonmusk/status/1923491225551736911</id>
-        <link href="https://x.com/elonmusk/status/1923491225551736911"/>
-        <updated>2025-05-16T21:22:55.000Z</updated>
-        <summary type="html"><![CDATA[RT Jesse Peltan
-If "too much solar" is what's keeping us from growing,
-how was China able to grow 7.5x since 2000?]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Sundar Pichai: Really enjoyed my conversation with @friedberg on @theallinpod! Fun to look ahead to the future of Search, AI, quantum, and more.]]></title>
-        <id>https://twitter.com/elonmusk/status/1923549107248910642</id>
-        <link href="https://x.com/elonmusk/status/1923549107248910642"/>
-        <updated>2025-05-16T21:22:10.000Z</updated>
-        <summary type="html"><![CDATA[RT Sundar Pichai
-Really enjoyed my conversation with @friedberg on @theallinpod! Fun to look ahead to the future of Search, AI, quantum, and more.]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Starlink: Starlink Mini is portable, fits in a backpack and connects to high-speed internet in minutes. Now $299 ($200 off the standard price) for ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1923491161752178873</id>
-        <link href="https://x.com/elonmusk/status/1923491161752178873"/>
-        <updated>2025-05-16T20:41:13.000Z</updated>
-        <summary type="html"><![CDATA[RT Starlink
-Starlink Mini is portable, fits in a backpack and connects to high-speed internet in minutes.
-Now $299 ($200 off the standard price) for the Starlink Mini Kit in the US until May 28. Puppy not included.
-Easy to order online → http://starlink.com/roam-mini]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT SMX 🇺🇸: Legacy Media trying to find Elon Musk on 𝕏, and suddenly he comes out like: "My name is Kekius Maximus Reevius Memius, the Dogefat...]]></title>
-        <id>https://twitter.com/elonmusk/status/1923493212540248105</id>
-        <link href="https://x.com/elonmusk/status/1923493212540248105"/>
-        <updated>2025-05-16T19:57:22.000Z</updated>
-        <summary type="html"><![CDATA[RT SMX 🇺🇸
-Legacy Media trying to find Elon Musk on 𝕏, and suddenly he comes out like: "My name is Kekius Maximus Reevius Memius, the Dogefather, and Commander of 𝕏 shitposters." 😂
-Kekius Maximus is back! ⚔️
-
-
-SMX 🇺🇸: Elon Musk has changed his Profile name to Kekius Maximus, We are so back guys. 😂
-Kek is back! ⚔️]]></summary>
+        <title type="html"><![CDATA[🎯]]></title>
+        <id>https://twitter.com/elonmusk/status/1924251034282565708</id>
+        <link href="https://x.com/elonmusk/status/1924251034282565708"/>
+        <updated>2025-05-18T23:49:32.000Z</updated>
+        <summary type="html"><![CDATA[🎯]]></summary>
         <author>
             <name>Kekius Maximus</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1923462642351378663</id>
-        <link href="https://x.com/elonmusk/status/1923462642351378663"/>
-        <updated>2025-05-16T19:36:44.000Z</updated>
+        <id>https://twitter.com/elonmusk/status/1924249257348915539</id>
+        <link href="https://x.com/elonmusk/status/1924249257348915539"/>
+        <updated>2025-05-18T23:42:28.000Z</updated>
         <author>
             <name>Kekius Maximus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is the end of humanity if not reversed]]></title>
-        <id>https://twitter.com/elonmusk/status/1923451155192955036</id>
-        <link href="https://x.com/elonmusk/status/1923451155192955036"/>
-        <updated>2025-05-16T18:51:06.000Z</updated>
-        <summary type="html"><![CDATA[This is the end of humanity if not reversed
+        <title type="html"><![CDATA[The world will be very different in 10 years]]></title>
+        <id>https://twitter.com/elonmusk/status/1924244477805265048</id>
+        <link href="https://x.com/elonmusk/status/1924244477805265048"/>
+        <updated>2025-05-18T23:23:28.000Z</updated>
+        <summary type="html"><![CDATA[The world will be very different in 10 years
 
-Libs of TikTok: Birth rates are plummeting. The global population is collapsing.]]></summary>
+Robert Scoble: What will humans be doing in 10 years?
+1. In a decade most people will not be driving. What will we do instead?
+2. In a decade most people will have robots in their businesses and probably their homes.
+3. In a decade we won't be looking at 2D monitors much anymore.
+4. In a]]></summary>
         <author>
             <name>Kekius Maximus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is a deeply disturbing issue]]></title>
-        <id>https://twitter.com/elonmusk/status/1923448467009024127</id>
-        <link href="https://x.com/elonmusk/status/1923448467009024127"/>
-        <updated>2025-05-16T18:40:25.000Z</updated>
-        <summary type="html"><![CDATA[This is a deeply disturbing issue
+        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: Starship booster produces as much thrust as 66 Boeing 747s. 🤯]]></title>
+        <id>https://twitter.com/elonmusk/status/1924248283016319095</id>
+        <link href="https://x.com/elonmusk/status/1924248283016319095"/>
+        <updated>2025-05-18T23:15:18.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
+Starship booster produces as much thrust as 66 Boeing 747s. 🤯]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not good]]></title>
+        <id>https://twitter.com/elonmusk/status/1924203770424054148</id>
+        <link href="https://x.com/elonmusk/status/1924203770424054148"/>
+        <updated>2025-05-18T20:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Not good
 
-DataRepublican (small r): Reflections: 
-Several months ago, I started a website to search federal awards. 
-The idea here was we'd find general waste, cut spending, execute on a vision of smaller government. And there's certainly a lot of bloat.  
-However, what started out as waste-cutting quickly]]></summary>
+Patrick Collison: Why are personal injury attorneys the marginal bidder for roadside billboards in so many parts of the US? Is the sector really so large? A priori, I would never have predicted this.
+Quick investigation: "Costs and compensation paid in the U.S. tort system reached over $529]]></summary>
         <author>
             <name>Kekius Maximus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT End Wokeness: BREAKING: Arlington, Virginia bans their police from cooperating with ICE, even against gang members, kiIIers, etc "Will you reverse ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1923441424734757184</id>
-        <link href="https://x.com/elonmusk/status/1923441424734757184"/>
-        <updated>2025-05-16T18:10:17.000Z</updated>
-        <summary type="html"><![CDATA[RT End Wokeness
-BREAKING: Arlington, Virginia bans their police from cooperating with ICE, even against gang members, kiIIers, etc
- "Will you reverse it if it backfires?"
-Arlington Chair: "NO!!"]]></summary>
+        <title type="html"><![CDATA[Yes]]></title>
+        <id>https://twitter.com/elonmusk/status/1924202435691647089</id>
+        <link href="https://x.com/elonmusk/status/1924202435691647089"/>
+        <updated>2025-05-18T20:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Yes
+
+Chamath Palihapitiya: Over the past 100 years: 
+The number of banks have gone from 28,000 to 4,500
+The number of public companies in the US peaked ~8000 and has since shrunk to ~6000
+Meanwhile the amount of regulation and regulatory agencies have exploded.  
+Regulation, at the limit, strangles]]></summary>
         <author>
             <name>Kekius Maximus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Tesla: We are pleased to welcome Jack Hartung to Tesla’s Board of Directors, effective June 1, 2025. ​Jack joined Chipotle Mexican Grill, Inc. in...]]></title>
-        <id>https://twitter.com/elonmusk/status/1923463521259454699</id>
-        <link href="https://x.com/elonmusk/status/1923463521259454699"/>
-        <updated>2025-05-16T11:02:29.000Z</updated>
-        <summary type="html"><![CDATA[RT Tesla
-We are pleased to welcome Jack Hartung to Tesla’s Board of Directors, effective June 1, 2025. 
- Jack joined Chipotle Mexican Grill, Inc. in 2002 and has held several leadership positions during his tenure. Most recently, Jack has been serving as President and Chief Strategy Officer, and previously served as Chief Financial and Administrative Officer, where he was responsible for all finance and accounting functions as well as supply chain, strategy and safety and asset protection. 
-Over the past 20+ years under Jack’s financial leadership, Chipotle has seen significant growth with over 3,700 restaurants today across the United States, Canada, the United Kingdom, France, Germany, Kuwait and the United Arab Emirates. Jack was named ‘CFO of the Year’ by Orange County Business Journal and Best CFO in the restaurant category by Institutional Investor.
-Jack will be retiring from his executive role on June 1st and transition to a senior advisor role with Chipotle.  Jack serves on the Board of Directors for Portillo’s Inc., The Honest Company, Inc. and ZocDoc, Inc.]]></summary>
+        <title type="html"><![CDATA[Wow]]></title>
+        <id>https://twitter.com/elonmusk/status/1924200721055965665</id>
+        <link href="https://x.com/elonmusk/status/1924200721055965665"/>
+        <updated>2025-05-18T20:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Wow
+
+Pavel Durov: This spring at the Salon des Batailles in the Hôtel de Crillon, Nicolas Lerner, head of French intelligence, asked me to ban conservative voices in Romania ahead of elections. I refused. We didn’t block protesters in Russia, Belarus, or Iran. We won’t start doing it in Europe.]]></summary>
         <author>
             <name>Kekius Maximus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Mike P: FSD V13.2.8 ➡️ V13.2.9 First drive - 20mi, 1 hour behind wheel. At this point, what can I say? I have been running these same routes sinc...]]></title>
-        <id>https://twitter.com/elonmusk/status/1923441115593580556</id>
-        <link href="https://x.com/elonmusk/status/1923441115593580556"/>
-        <updated>2025-05-15T21:12:15.000Z</updated>
-        <summary type="html"><![CDATA[RT Mike P
-FSD V13.2.8 ➡️ V13.2.9
-First drive - 20mi, 1 hour behind wheel.
-At this point, what can I say? I have been running these same routes since late V11 at end of 2023. I can’t believe what it was like then, and what it is like today. There is no greater way to measure Tesla than to sit in these cars watching this thing grow up. It’s incredible, and I’m so glad I got to watch it happen. 
-My drive began with a single button tap on a touch screen. After that, I sat back with a smile on my face as I was driven home with smoothness and perfection greater than I’d ever be able to achieve myself. There is no turning force, no deceleration or acceleration force. Just floating home. Magic.
-I don’t know how they’ve done this. I don’t know how they’ve made it improve this much and so quickly. I’m glad they did. 
-I’ve been driving Teslas for two years, and still every single day, the thought of jumping in for my commute gives me a jolt of excitement. It hasn’t proven to be a novelty or something I’ve taken for granted. The vehicle just continues to get better and give you more to be excited about through time. Truly the best product I’ve ever owned of any kind. 
-FSD is solved. It isn’t perfect everywhere yet, but it can be measured by the best experiences in the most well trained areas. It’s over.
-I can’t wait for the rest of the world to start finding out]]></summary>
+        <title type="html"><![CDATA[RT Starlink: Starlink Mini connects in minutes 🛰️🛻]]></title>
+        <id>https://twitter.com/elonmusk/status/1924201696286146700</id>
+        <link href="https://x.com/elonmusk/status/1924201696286146700"/>
+        <updated>2025-05-18T19:33:38.000Z</updated>
+        <summary type="html"><![CDATA[RT Starlink
+Starlink Mini connects in minutes 🛰️🛻
+
+Micro2Macr0: Installing the @Starlink mini was SO easy!!! 😃
+Now I have high speed, internet anywhere on earth and my samsung galaxy tablet that I watch youtube videos on automatically connects to the internet right away when I get in my #Cybertruck.
+This is so cool! @Tesla]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Western Lensman: 🚨Marco Rubio methodically schools CBS’ Margaret Brennan on South African refugees: “These are people that, on the basis of th...]]></title>
+        <id>https://twitter.com/elonmusk/status/1924253069887385610</id>
+        <link href="https://x.com/elonmusk/status/1924253069887385610"/>
+        <updated>2025-05-18T19:32:32.000Z</updated>
+        <summary type="html"><![CDATA[RT Western Lensman
+🚨Marco Rubio methodically schools CBS’ Margaret Brennan on South African refugees:
+“These are people that, on the basis of their race, are having their properties taken away from them and their lives are being threatened and in some cases k*lled."
+"We've often been lectured by people all over the place about how the United States needs to continue to be a beacon for those who are oppressed abroad. Well, here's an example where we're doing that."
+After four years and an invasion of millions of illegals, Brennan is suddenly upset and demanding answers about immigrants entering the US.]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impressive range]]></title>
+        <id>https://twitter.com/elonmusk/status/1924174964673884540</id>
+        <link href="https://x.com/elonmusk/status/1924174964673884540"/>
+        <updated>2025-05-18T18:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Impressive range
+
+Li Zexin: China’s first aerial mothership, Jiutian SS-UAV, is scheduled for its maiden flight in June. 
+It can cruise at 15,000m high carrying over 100 small drones or 1,000 kg of missiles, with a range of 7,000km. 
+Don’t worry, China’s military is peace-oriented from the start. We grow]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DMVxAIxTesla: Re @HSajwanization @gork Who needs finance apps]]></title>
+        <id>https://twitter.com/elonmusk/status/1924251607463543183</id>
+        <link href="https://x.com/elonmusk/status/1924251607463543183"/>
+        <updated>2025-05-18T15:57:41.000Z</updated>
+        <summary type="html"><![CDATA[RT DMVxAIxTesla
+Re @HSajwanization @gork Who needs finance apps]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: 🚨 BREAKING: Six remote schools in Fiji now have internet thanks to @Starlink. Students can access global resources,...]]></title>
+        <id>https://twitter.com/elonmusk/status/1924252977713250696</id>
+        <link href="https://x.com/elonmusk/status/1924252977713250696"/>
+        <updated>2025-05-18T15:30:16.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
+🚨 BREAKING: Six remote schools in Fiji now have internet thanks to @Starlink.
+Students can access global resources, join virtual lessons, and learn STEM from anywhere.]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Pavel Durov: Re You can’t “defend democracy” by destroying democracy. You can’t “fight election interference” by interfering with elections. ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1924173960876331238</id>
+        <link href="https://x.com/elonmusk/status/1924173960876331238"/>
+        <updated>2025-05-18T15:28:23.000Z</updated>
+        <summary type="html"><![CDATA[RT Pavel Durov
+Re You can’t “defend democracy” by destroying democracy. You can’t “fight election interference” by interfering with elections. You either have freedom of speech and fair elections — or you don’t. And the Romanian people deserve both. 🇷🇴]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tom Cruise: Mission: Impossible – The Final Reckoning is a story built for the big screen. London, thank you for allowing us to share that experie...]]></title>
+        <id>https://twitter.com/elonmusk/status/1924204546143719836</id>
+        <link href="https://x.com/elonmusk/status/1924204546143719836"/>
+        <updated>2025-05-18T14:30:42.000Z</updated>
+        <summary type="html"><![CDATA[RT Tom Cruise
+Mission: Impossible – The Final Reckoning is a story built for the big screen. London, thank you for allowing us to share that experience with you all. We made this film for you.]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Nima Owji: TASKS ARE COMING TO GROK! You'll be able to schedule a task, and Grok will do it for you automatically! For instance, you can ask Grok t...]]></title>
+        <id>https://twitter.com/elonmusk/status/1924201631802884179</id>
+        <link href="https://x.com/elonmusk/status/1924201631802884179"/>
+        <updated>2025-05-18T06:42:34.000Z</updated>
+        <summary type="html"><![CDATA[RT Nima Owji
+TASKS ARE COMING TO GROK!
+You'll be able to schedule a task, and Grok will do it for you automatically!
+For instance, you can ask Grok to send you your very own customized news digest every week!
+JUST GROK IT!]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jesse Peltan: Solar has a much higher power density than people seem to believe. Photovoltaics are more power dense than New York City.]]></title>
+        <id>https://twitter.com/elonmusk/status/1923984952971997406</id>
+        <link href="https://x.com/elonmusk/status/1923984952971997406"/>
+        <updated>2025-05-18T02:43:18.000Z</updated>
+        <summary type="html"><![CDATA[RT Jesse Peltan
+Solar has a much higher power density than people seem to believe.
+Photovoltaics are more power dense than New York City.
+
+Jesse Peltan: Solar covered parking could generate as much electricity as all existing sources combined in the U.S.
+(~4,400 TWh/year)
+- U.S. has an estimated 1-2 billion parking spaces
+- 1 billion standard sized parking spaces = 14 billion square meters (3.4 TW @ 24% efficiency)
+- 4,400]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/elonmusk/status/1923910769478910415</id>
+        <link href="https://x.com/elonmusk/status/1923910769478910415"/>
+        <updated>2025-05-18T01:17:26.000Z</updated>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 86hands: Re @Tesla Being born with no hands, FSD is a life changer, thank you! #tesla #TSLA #Cybertruck]]></title>
+        <id>https://twitter.com/elonmusk/status/1923909523300810795</id>
+        <link href="https://x.com/elonmusk/status/1923909523300810795"/>
+        <updated>2025-05-17T18:19:34.000Z</updated>
+        <summary type="html"><![CDATA[RT 86hands
+Re @Tesla Being born with no hands, FSD is a life changer, thank you! #tesla #TSLA #Cybertruck]]></summary>
+        <author>
+            <name>Kekius Maximus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT TheSonOfWalkley: BREAKING: GOOGLE CEO SAYS — ELON MUSK ABILITY TO WILL FUTURE TECHNOLOGIES INTO EXISTENCE IS “UNPARALLELED” 👀 $TSLA Elon the ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1923991071236747525</id>
+        <link href="https://x.com/elonmusk/status/1923991071236747525"/>
+        <updated>2025-05-16T14:43:33.000Z</updated>
+        <summary type="html"><![CDATA[RT TheSonOfWalkley
+BREAKING: GOOGLE CEO SAYS — ELON MUSK ABILITY TO WILL FUTURE TECHNOLOGIES INTO EXISTENCE IS “UNPARALLELED” 👀 $TSLA
+Elon the GOAT !]]></summary>
         <author>
             <name>Kekius Maximus</name>
         </author>
