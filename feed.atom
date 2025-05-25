@@ -1,258 +1,225 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-24T02:25:06.493Z</id>
+    <id>urn:2025-05-25T02:45:15.095Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-24T02:25:06.493Z</updated>
+    <updated>2025-05-25T02:45:15.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT DogeDesigner: "Once you understand Kardashev Scale, it becomes utterly obvious that essentially all energy generation will be solar. A relatively s...]]></title>
-        <id>https://twitter.com/elonmusk/status/1925883158861402313</id>
-        <link href="https://x.com/elonmusk/status/1925883158861402313"/>
-        <updated>2025-05-23T11:53:38.000Z</updated>
-        <summary type="html"><![CDATA[RT DogeDesigner
-"Once you understand Kardashev Scale, it becomes utterly obvious that essentially all energy generation will be solar. A relatively small corner of Texas or New Mexico can easily serve all US electricity."
-一 Elon Musk]]></summary>
+        <title type="html"><![CDATA[RT Sawyer Merritt: Elon Musk will be providing a @SpaceX company update live-streamed on X on Tuesday May 27th at 1 PM ET. He'll be talking about the ...]]></title>
+        <id>https://twitter.com/elonmusk/status/1926446571761094663</id>
+        <link href="https://x.com/elonmusk/status/1926446571761094663"/>
+        <updated>2025-05-25T00:57:35.000Z</updated>
+        <summary type="html"><![CDATA[RT Sawyer Merritt
+Elon Musk will be providing a @SpaceX company update live-streamed on X on Tuesday May 27th at 1 PM ET. He'll be talking about the company's plan to make life multiplanetary. https://x.com/i/broadcasts/1rmxPyOEBWXKN]]></summary>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn to math lol]]></title>
-        <id>https://twitter.com/elonmusk/status/1925881808626897201</id>
-        <link href="https://x.com/elonmusk/status/1925881808626897201"/>
-        <updated>2025-05-23T11:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Learn to math lol
+        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: Just Grok it]]></title>
+        <id>https://twitter.com/elonmusk/status/1926448939856810127</id>
+        <link href="https://x.com/elonmusk/status/1926448939856810127"/>
+        <updated>2025-05-25T00:27:11.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
+Just Grok it]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is the way]]></title>
+        <id>https://twitter.com/elonmusk/status/1926425330576699548</id>
+        <link href="https://x.com/elonmusk/status/1926425330576699548"/>
+        <updated>2025-05-24T23:49:24.000Z</updated>
+        <summary type="html"><![CDATA[This is the way
 
-Jesse Peltan: idk why everybody keeps pestering Elon about his views when you can just derive them at home]]></summary>
+Starlink: High-speed internet on the go 🛰️🛻]]></summary>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Jesse Peltan: Re Why is solar growing so quickly in Texas? Because of their “green agenda?” Solar is thriving in the best electricity market on t...]]></title>
-        <id>https://twitter.com/elonmusk/status/1925882758716330252</id>
-        <link href="https://x.com/elonmusk/status/1925882758716330252"/>
-        <updated>2025-05-23T11:46:56.000Z</updated>
+        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: BREAKING: 𝕏 is now the #1 news app on the AppStore in France 🇫🇷]]></title>
+        <id>https://twitter.com/elonmusk/status/1926422042519204006</id>
+        <link href="https://x.com/elonmusk/status/1926422042519204006"/>
+        <updated>2025-05-24T22:38:07.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
+BREAKING: 𝕏 is now the #1 news app on the AppStore in France 🇫🇷]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Population collapse is a massive crisis]]></title>
+        <id>https://twitter.com/elonmusk/status/1926407086704886157</id>
+        <link href="https://x.com/elonmusk/status/1926407086704886157"/>
+        <updated>2025-05-24T22:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Population collapse is a massive crisis
+
+Tesla Owners Silicon Valley: Birth rates are plummeting in a lot of countries. Population collapse is the greatest threat to civilization. 
+Change needs to happen to save humanity.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jesse Peltan: "solar uses too much land" Does New York City use "too much" land? Solar doesn't work because your favorite energy source uses less l...]]></title>
+        <id>https://twitter.com/elonmusk/status/1926423946854809622</id>
+        <link href="https://x.com/elonmusk/status/1926423946854809622"/>
+        <updated>2025-05-24T19:21:17.000Z</updated>
         <summary type="html"><![CDATA[RT Jesse Peltan
-Re Why is solar growing so quickly in Texas?
-Because of their “green agenda?”
-Solar is thriving in the best electricity market on the planet.
-If you blame technology rather than mandates and distortions — you don’t understand markets.]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solar power is very obviously the future if you can do elementary math. Compared to the Sun, all other energy combined is like caveman burning some tw...]]></title>
-        <id>https://twitter.com/elonmusk/status/1925872357781983522</id>
-        <link href="https://x.com/elonmusk/status/1925872357781983522"/>
-        <updated>2025-05-23T11:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Solar power is very obviously the future if you can do elementary math. 
-Compared to the Sun, all other energy combined is like caveman burning some twigs.
+"solar uses too much land"
+Does New York City use "too much" land?
+Solar doesn't work because your favorite energy source uses less land than... a rooftop?
 
-Jesse Peltan: …10%]]></summary>
+Jesse Peltan: How much of NYC would you need to cover in solar panels to turn it into a net exporter of electricity?
+NYC uses about 50 TWh of electricity per year.
+NYC has ~780 square kilometers of land area, and a GHI of 4 kWh/m^2/day, giving a primary solar resource of ~1,100 TWh/year -]]></summary>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Wall Street Mav: Very much yes]]></title>
-        <id>https://twitter.com/elonmusk/status/1925877605900693526</id>
-        <link href="https://x.com/elonmusk/status/1925877605900693526"/>
-        <updated>2025-05-23T03:19:07.000Z</updated>
-        <summary type="html"><![CDATA[RT Wall Street Mav
-Very much yes]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Falcon 9 delivers 23 @Starlink satellites to orbit from Florida]]></title>
+        <id>https://twitter.com/elonmusk/status/1926421185090175339</id>
+        <link href="https://x.com/elonmusk/status/1926421185090175339"/>
+        <updated>2025-05-24T18:58:25.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Falcon 9 delivers 23 @Starlink satellites to orbit from Florida]]></summary>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT @jason: I just bought my 6th and 7th Teslas... the new Y refresh and new Model X for family car. The first five are Roadster #00016 (which I still ...]]></title>
-        <id>https://twitter.com/elonmusk/status/1925647967983161723</id>
-        <link href="https://x.com/elonmusk/status/1925647967983161723"/>
-        <updated>2025-05-22T16:35:20.000Z</updated>
-        <summary type="html"><![CDATA[RT @jason
-I just bought my 6th and 7th Teslas... the new Y refresh and new Model X for family car. 
-The first five are Roadster #00016 (which I still own), Model S #0000001 (which I also still own), Model X (which I sold), Model 3 (which I sold) and OG Model Y (which I will keep forever as a ski house beater).]]></summary>
+        <title type="html"><![CDATA[RT SpaceX: Watch Falcon 9 launch 23 @Starlink satellites to orbit from Florida, including 13 with Direct to Cell capabilities https://x.com/i/broadcas...]]></title>
+        <id>https://twitter.com/elonmusk/status/1926405696976810403</id>
+        <link href="https://x.com/elonmusk/status/1926405696976810403"/>
+        <updated>2025-05-24T17:12:26.000Z</updated>
+        <summary type="html"><![CDATA[RT SpaceX
+Watch Falcon 9 launch 23 @Starlink satellites to orbit from Florida, including 13 with Direct to Cell capabilities https://x.com/i/broadcasts/1dRJZYboBdDGB]]></summary>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The legacy media puppet parade]]></title>
-        <id>https://twitter.com/elonmusk/status/1925407991697678635</id>
-        <link href="https://x.com/elonmusk/status/1925407991697678635"/>
-        <updated>2025-05-22T04:26:52.000Z</updated>
-        <summary type="html"><![CDATA[The legacy media puppet parade
+        <title type="html"><![CDATA[RT Maye Musk: Yes! 😍😍]]></title>
+        <id>https://twitter.com/elonmusk/status/1926447171563299211</id>
+        <link href="https://x.com/elonmusk/status/1926447171563299211"/>
+        <updated>2025-05-24T16:30:12.000Z</updated>
+        <summary type="html"><![CDATA[RT Maye Musk
+Yes! 😍😍
 
-Western Lensman: Fake News Word of the Day: “Ambush!"]]></summary>
+Tesla: Imagine you need to drop off something on the other side of town
+Instead of driving there yourself & wasting time in traffic, your car will be able to run that errand on its own, while you work or do other things.
+On the way back, it could bring you your coffee order, without]]></summary>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Massimo: Fun fact Bangladesh is more populated than Russia]]></title>
+        <id>https://twitter.com/elonmusk/status/1926296823410401645</id>
+        <link href="https://x.com/elonmusk/status/1926296823410401645"/>
+        <updated>2025-05-24T14:50:30.000Z</updated>
+        <summary type="html"><![CDATA[RT Massimo
+Fun fact
+Bangladesh is more populated than Russia]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Elon Musk: Re Back to spending 24/7 at work and sleeping in conference/server/factory rooms. I must be super focused on 𝕏/xAI and Tesla (plus St...]]></title>
+        <id>https://twitter.com/elonmusk/status/1926290043557081371</id>
+        <link href="https://x.com/elonmusk/status/1926290043557081371"/>
+        <updated>2025-05-24T14:49:59.000Z</updated>
+        <summary type="html"><![CDATA[RT Elon Musk
+Re Back to spending 24/7 at work and sleeping in conference/server/factory rooms. 
+I must be super focused on 𝕏/xAI and Tesla (plus Starship launch next week), as we have critical technologies rolling out. 
+As evidenced by the 𝕏 uptime issues this week, major operational improvements need to be made. The failover redundancy should have worked, but did not.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The great dying]]></title>
+        <id>https://twitter.com/elonmusk/status/1926185692503138527</id>
+        <link href="https://x.com/elonmusk/status/1926185692503138527"/>
+        <updated>2025-05-24T07:57:10.000Z</updated>
+        <summary type="html"><![CDATA[The great dying
+
+Rothmus 🏴: It’s so over.]]></summary>
+        <author>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/elonmusk/status/1925407588931240052</id>
-        <link href="https://x.com/elonmusk/status/1925407588931240052"/>
-        <updated>2025-05-22T04:25:16.000Z</updated>
+        <id>https://twitter.com/elonmusk/status/1926180592225296624</id>
+        <link href="https://x.com/elonmusk/status/1926180592225296624"/>
+        <updated>2025-05-24T07:36:54.000Z</updated>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So many]]></title>
-        <id>https://twitter.com/elonmusk/status/1925406527411625995</id>
-        <link href="https://x.com/elonmusk/status/1925406527411625995"/>
-        <updated>2025-05-22T04:21:03.000Z</updated>
-        <summary type="html"><![CDATA[So many
+        <title type="html"><![CDATA[RT Mario Nawfal: 🇫🇯 STARLINK LINKS SIX FAR-OFF FIJI SCHOOLS Deep in the South Pacific—basically the middle of nowhere—six super-remote schools...]]></title>
+        <id>https://twitter.com/elonmusk/status/1926290828084842821</id>
+        <link href="https://x.com/elonmusk/status/1926290828084842821"/>
+        <updated>2025-05-24T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Mario Nawfal
+🇫🇯 STARLINK LINKS SIX FAR-OFF FIJI SCHOOLS
+Deep in the South Pacific—basically the middle of nowhere—six super-remote schools in Fiji got Starlink’s high-speed internet!
+Here’s the quick scoop:
+• Starlink hooked up kids in nowhere-land with speedy Wi-Fi.
+• STEM Surge Science and tech lessons got a major boost, no excuses.
+• Virtual Vibes Online learning connects these remote classrooms—boom.
+Nailing the global goal to connect all schools by 2030 puts Fiji’s on the map, literally!
+Source: fijivillageCom
 
-Shaun Maguire: There have been so many examples showing how the Mainstream Media lies:
-- Biden “fit as a tack”
-- Elon as a Nazi
-- Trump’s “very fine people” hoax
-You can verify each of these yourself, but most still don’t get it]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink now available in the Faroe Islands!]]></title>
-        <id>https://twitter.com/elonmusk/status/1925405997461311650</id>
-        <link href="https://x.com/elonmusk/status/1925405997461311650"/>
-        <updated>2025-05-22T04:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Starlink now available in the Faroe Islands!
 
-Starlink: Starlink is now available in the Faroe Islands, bringing reliable high-speed internet to the remote archipelago!  🛰️🇫🇴❤️ → http://starlink.com/faroeislands]]></summary>
+Mario Nawfal: STARLINK'S SKY DOMINANCE: ELON'S SATELLITES ARE EATING THE COMPETITION
+Starlink has 7,300 satellites live, 5 million users, $12 billion revenue, and a full tank of rocket fuel. Elon owns the sky—literally.
+Amazon’s Kuiper just launched its first 27 sats and will need up to $20]]></summary>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Department of Government Efficiency: Great work by @DrOzCMS and @CMSGov to begin cracking down on overbilling by Medicare Advantage plans. The gove...]]></title>
-        <id>https://twitter.com/elonmusk/status/1925405418622202132</id>
-        <link href="https://x.com/elonmusk/status/1925405418622202132"/>
-        <updated>2025-05-22T02:27:54.000Z</updated>
-        <summary type="html"><![CDATA[RT Department of Government Efficiency
-Great work by @DrOzCMS and @CMSGov to begin cracking down on overbilling by Medicare Advantage plans.  
-The government is 7 years behind on its required audits of these plans, but will now catch up on all audits by the end of this year.  These audits should result in billions of taxpayer dollars returned to the Treasury, as various reports estimate MA overbilling at between $17B and $43B per year.
-
-DrOzCMS: CMS is rolling out an enhanced and accelerated Medicare Advantage contract auditing strategy to catch any cases of fraud, waste or abuse that have been hiding in the program for far too long. We are actively reviewing claims to ensure the government is being accurately billed for]]></summary>
+        <title type="html"><![CDATA[RT stevenmarkryan: Gigafactory Tour: Inside Tesla’s Machine That Builds The Machine $TSLA]]></title>
+        <id>https://twitter.com/elonmusk/status/1926422815630135342</id>
+        <link href="https://x.com/elonmusk/status/1926422815630135342"/>
+        <updated>2025-05-24T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[RT stevenmarkryan
+Gigafactory Tour: Inside Tesla’s Machine That Builds The Machine
+$TSLA]]></summary>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Legacy media lies licentiously]]></title>
-        <id>https://twitter.com/elonmusk/status/1925368655925084542</id>
-        <link href="https://x.com/elonmusk/status/1925368655925084542"/>
-        <updated>2025-05-22T01:50:33.000Z</updated>
-        <summary type="html"><![CDATA[Legacy media lies licentiously
-
-KanekoaTheGreat: NEW: Joe Rogan and Aaron Rodgers cite a study showing 96% of legacy media coverage of @elonmusk is negative.
-ROGAN: "Meanwhile, he saved those astronauts trapped in space. You didn't hear a peep."
-RODGERS: "And what he does when there are natural disasters with Starlink."]]></summary>
+        <title type="html"><![CDATA[RT Tesla Owners Silicon Valley: How does Optimus and AI fit into Tesla’s mission? It’s all about sustainable abundance. Elon Musk]]></title>
+        <id>https://twitter.com/elonmusk/status/1926179954313540038</id>
+        <link href="https://x.com/elonmusk/status/1926179954313540038"/>
+        <updated>2025-05-24T02:52:07.000Z</updated>
+        <summary type="html"><![CDATA[RT Tesla Owners Silicon Valley
+How does Optimus and AI fit into Tesla’s mission?
+It’s all about sustainable abundance. 
+Elon Musk]]></summary>
         <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT stepfanie tyler: MSM: Elon is in decline the decline:]]></title>
-        <id>https://twitter.com/elonmusk/status/1925368716738343250</id>
-        <link href="https://x.com/elonmusk/status/1925368716738343250"/>
-        <updated>2025-05-21T23:16:52.000Z</updated>
-        <summary type="html"><![CDATA[RT stepfanie tyler
-MSM: Elon is in decline 
-the decline:]]></summary>
+        <title type="html"><![CDATA[RT Sahil Bloom: Call me old fashioned, but this seems…not good.]]></title>
+        <id>https://twitter.com/elonmusk/status/1926181097706074274</id>
+        <link href="https://x.com/elonmusk/status/1926181097706074274"/>
+        <updated>2025-05-23T13:47:35.000Z</updated>
+        <summary type="html"><![CDATA[RT Sahil Bloom
+Call me old fashioned, but this seems…not good.]]></summary>
         <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT jay plemons: I voted for this!]]></title>
-        <id>https://twitter.com/elonmusk/status/1925369086411776070</id>
-        <link href="https://x.com/elonmusk/status/1925369086411776070"/>
-        <updated>2025-05-21T21:39:20.000Z</updated>
-        <summary type="html"><![CDATA[RT jay plemons
-I voted for this!]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Department of State: “The only people who benefit from mass migration are the traffickers." — @SecRubio]]></title>
-        <id>https://twitter.com/elonmusk/status/1925408063214731680</id>
-        <link href="https://x.com/elonmusk/status/1925408063214731680"/>
-        <updated>2025-05-21T19:57:32.000Z</updated>
-        <summary type="html"><![CDATA[RT Department of State
-“The only people who benefit from mass migration are the traffickers." — @SecRubio]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Margo Martin: President @realDonaldTrump brought a TV into the Oval Office to show the President of South Africa a video of his own government call...]]></title>
-        <id>https://twitter.com/elonmusk/status/1925370943850827807</id>
-        <link href="https://x.com/elonmusk/status/1925370943850827807"/>
-        <updated>2025-05-21T17:42:33.000Z</updated>
-        <summary type="html"><![CDATA[RT Margo Martin
-President @realDonaldTrump brought a TV into the Oval Office to show the President of South Africa a video of his own government calling for the killing of white farmers]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Dima Zeniuk: Elon Musk in the United States: • Tesla’s HQ and factories • SpaceX’s facilities and launch sites • Starlink’s operations • Spa...]]></title>
-        <id>https://twitter.com/elonmusk/status/1925420352596770925</id>
-        <link href="https://x.com/elonmusk/status/1925420352596770925"/>
-        <updated>2025-05-21T17:31:07.000Z</updated>
-        <summary type="html"><![CDATA[RT Dima Zeniuk
-Elon Musk in the United States:
-• Tesla’s HQ and factories
-• SpaceX’s facilities and launch sites
-• Starlink’s operations
-• SpaceX Starbase city
-• The Boring Company’s tunnels
-• Neuralink’s research centers
-• xAI’s AI initiatives
-• X Corp’s digital influence]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Ryan Petersen: Every airline will install Starlink in the next 2-3 years. I will only fly with Starlink when given the choice and most business tra...]]></title>
-        <id>https://twitter.com/elonmusk/status/1925419953714246030</id>
-        <link href="https://x.com/elonmusk/status/1925419953714246030"/>
-        <updated>2025-05-21T15:44:24.000Z</updated>
-        <summary type="html"><![CDATA[RT Ryan Petersen
-Every airline will install Starlink in the next 2-3 years. I will only fly with Starlink when given the choice and most business travelers are like me.]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Everyday Astronaut: It is still insane they've got the booster to work out so well. 33 engines. That just seems so absurd, yet that's been the thin...]]></title>
-        <id>https://twitter.com/elonmusk/status/1925407137414492318</id>
-        <link href="https://x.com/elonmusk/status/1925407137414492318"/>
-        <updated>2025-05-21T15:29:58.000Z</updated>
-        <summary type="html"><![CDATA[RT Everyday Astronaut
-It is still insane they've got the booster to work out so well. 33 engines. That just seems so absurd, yet that's been the thing that's been knocking it out of the park (and landing back in it haha). Just the heavy lift capability alone is wild.
-
-Kekius Maximus:]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DogeDesigner: ELON MUSK: "I'm a technologist. I build rockets and cars. I derive joy from seeing people enjoy the products that my companies make."]]></title>
-        <id>https://twitter.com/elonmusk/status/1925371140706365850</id>
-        <link href="https://x.com/elonmusk/status/1925371140706365850"/>
-        <updated>2025-05-21T09:50:07.000Z</updated>
-        <summary type="html"><![CDATA[RT DogeDesigner
-ELON MUSK: "I'm a technologist. I build rockets and cars. I derive joy from seeing people enjoy the products that my companies make."]]></summary>
-        <author>
-            <name>Kekius Maximus</name>
+            <name>Elon Musk</name>
         </author>
     </entry>
 </feed>
